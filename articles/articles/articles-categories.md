@@ -1,4 +1,5 @@
 <!-- Filename: Help4.x:Articles:_Categories / Display title: Articles: Categories -->
+
 ## Description
 
 The Articles Categories list is used to find, add, and edit articles
