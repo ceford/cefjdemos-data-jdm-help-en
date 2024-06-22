@@ -336,4 +336,3 @@ Article: Options.
   Front Page until the User selects the Read more link. At that time,
   the Article's table of contents would display showing links to every
   page.
-
