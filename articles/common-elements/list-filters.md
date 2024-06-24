@@ -1,9 +1,3 @@
-<!-- Display title: List Filters -->
+<!-- Filename: Help6.x:List_Filters / Display title: List Filters -->
 
-## Purpose
-
-Most components have list views ...
-
-## Articles List Filters
-
-Image goes here
+## Screenshot
