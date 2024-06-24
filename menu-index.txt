@@ -27,7 +27,10 @@ help=banners=banners-tracks.md
 heading=common-elements=Common Elements
 help=common-elements=permissions.md
 help=common-elements=toolbars.md
-help=common-elements=batch-operations.md
+help=common-elements=batch-process.md
+help=common-elements=list-filters.md
+help=common-elements=pagination.md
+help=common-elements=item-ordering.md
 
 heading=components=Components
 help=components=components-patch-tester-options.md

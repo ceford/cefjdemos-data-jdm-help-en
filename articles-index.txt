@@ -14,9 +14,12 @@ banners=banners-options.md=https://docs.joomla.org/Help5.x:Banners:_Options
 banners=banners-tracks.md=https://docs.joomla.org/Help5.x:Banners:_Tracks
 banners=banners.md=https://docs.joomla.org/Help5.x:Banners
 
-common-elements=batch-operations.md=Help6.x:Batch_Operations
+common-elements=batch-process.md=Help6.x:Batch_Process
 common-elements=permissions.md=Help6.x:Permissions
 common-elements=toolbars.md=Help6.x:Toolbars
+common-elements=list-filters.md=Help6.x:List_Filters
+common-elements=pagination.md=Help6.x:Pagination
+common-elements=item-ordering.md=Help6.x:Item_Ordering
 
 components=components-patch-tester-options.md=https://docs.joomla.org/Help5.x:Components_Patch_Tester_Options
 

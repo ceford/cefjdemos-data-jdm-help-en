@@ -1,4 +1,4 @@
-<!-- Filename: Help6.x:Batch_Operations / Display title: Batch Operations -->
+<!-- Filename: Help6.x:Batch_Process / Display title: Batch Process -->
 
 ## List Pages
 
