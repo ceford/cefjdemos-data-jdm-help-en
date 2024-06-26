@@ -7,16 +7,18 @@ using a Wysiwyg editor. The default editor is TinyMCE but if other
 editors are installed the default editor may be set to something else
 for the site as a whole or for individual users.
 
-Most parameters in the *Article: Edit* page have suitable defaults but you 
+Most parameters in the *Article: Edit* page have suitable defaults but you
 might wish to set a specific Category or provide article-specific Metadata.
 
 ### Additional Information
 
-Some aspects of the *Articles: Edit* page are covered in separate Help 
+Some aspects of the *Articles: Edit* page are covered in separate Help
 articles:
 
-* [The Permissions Tab](jdocmanual?article=help/common-elements/permissions "").
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
+* [The Associations Tab](jdocmanual?article=help/common-elements/edit-associations "").
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
 
 Or in User articles:
 
@@ -39,21 +41,25 @@ Home Dashboard.
 
 - **Title**. The Title for this article.
 - **Alias**. The internal name of this article. Normally, you can leave
-  this blank and Joomla will fill in a default value Title in lower case
-  and with dashes instead of spaces.
+  this blank and Joomla will fill in a default value based on the Title but
+  in lower case and with dashes instead of spaces.
 
 ### Content tab
 
 #### Left Panel
 
 - **Article Text**. This is where you enter the contents of the article.
-  Joomla includes 3 editors, the default Editor - TinyMCE
-  is shown above.
+    Joomla includes 3 editors, the default Editor - TinyMCE
+    is shown above.
 
-  The CMS Content dropdown list provides for access to link to an Article,
-  Contact, Field, Media, Menu, Module, Page Break or Read More break.
-- **Toggle Editor**. A Toggle Editor button show below the edit window.
-  This button allows you to toggle between TinyMCE and Editor - None.
+    The CMS Content dropdown list provides for access to link to an Article,
+    Contact, Field, Media image, Menu, Module, Page Break or Read More break.
+
+    The ellipsis symbol (<span class="icon-ellipsis-h"></span>) toggles visibility
+    of extra tools.
+- **Toggle Editor**. The button below the edit window allows you to toggle
+    between the TinyMCE editor and no editor. This allows you to see and
+    sometimes fix the HTML code.
 
 #### Right Panel
 
@@ -186,7 +192,7 @@ article will show in the Frontend.
 
 - **Author**. Show the author of the Article.
 - **Link to Author's Contact Page**. Show it as a link to a Contact
-  layout for that author.Note: The author must be set up as a Contact.
+  layout for that author. Note: The author must be set up as a Contact.
 
 #### Date
 
@@ -241,63 +247,6 @@ choosing from the following schema types:
 Each is a plugin which can disable or enable as required. More schmema types
 my be added later or available from third party sources.
 
-### Publishing tab
-
-This section allows you to enter parameters and Metadata for this Article.
-
-**Note**: This tab can be hidden by a user with Admin permissions in the
-Article: Options. 
-
-![Publishing tab](../../../en/images/articles/articles-edit-publishing-tab.png "Publishing Tab")
-
-#### Publishing panel
-
-- **Start Publishing**. Date and time to start publishing. Enter article
-  ahead of time and then have it published automatically at a future
-  time.
-- **Finish Publishing**. Date and time to finish publishing. The article
-  is automatically changed to Unpublished state at a future time.
-- **Start Featured**. Date and time to start featured state. Enter
-  article ahead of time and then have it featured automatically at a
-  future time.
-- **Finish Featured**. Date and time to finish featured state. The
-  article is automatically changed to Unfeatured state at a future time.
-- **Created Date**. The current time when the Article was created. Enter
-  in a different date and time or click on the calendar icon to find the
-  desired date.
-- **Created By**. Name of the User who created this Article. This will
-  default to the currently logged-in user. If you want to change this to
-  a different user, click the Select User button.
-- **Created by Alias**. Enter in an alias for the Author of this
-  Article. This allows you to display a different Author name.
-- **Modified Date**. Date of last modification.
-- **Modified By**. Username who performed the last modification.
-- **Revision**. Number of revisions to this Article.
-- **Hits**. The number of times this Article has been viewed.
-- **ID**. A unique identification number for this Article, you cannot
-  change this number. When creating a new Article, this field displays
-  "0" until you save the new entry.
-
-#### Metadata panel
-
-- **Meta Description**. An paragraph to be used as the description of
-  the page.
-- **Keywords**. Entry for keywords.
-- **Robots**. The instructions for web 'robots' that browse to this
-  page. Set 'Use Global' in Global Configuration.
-- **Author**. Entry for an Author name within the metadata.
-- **Content Rights**. Describe what rights others have to use this
-  content.
-
-### Associations tab
-
-The tab is shown on Multilingual Sites only.
-
-**Note**: This tab can be hidden by a user with Admin permissions in the
-Article: Options.
-
-![Associations tab](../../../en/images/articles/articles-edit-associations-tab.png "Associations Tab")
-
 ### Configure Edit Screen tab
 
 **Note**: This can be hidden by a user with Admin permissions in the
@@ -327,7 +276,7 @@ Article: Options.
       that lets you browse image files and upload images.
   2.  The 'Insert' dropdown list is a simple form for which you need to
       know the image url. It is used for external images.
-- **Read more**  breaks allow you to save space on the Front Page or on any 
+- **Read more**  breaks allow you to save space on the Front Page or on any
   blog layout page by showing just the first portion of an Article. Page break
   allow you to provide multi-page navigation for long Articles. You can
   use both on one Article, if desired.For example, you could put a Read

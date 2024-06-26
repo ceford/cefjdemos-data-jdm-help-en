@@ -2,16 +2,16 @@
 
 ## Description
 
-In Joomla!, an Article is a self-contained unit of written information for 
-display on the website. It normally contains text and may contain pictures 
-and other types of content. For many Joomla! sites, articles form the majority 
+In Joomla!, an Article is a self-contained unit of written information for
+display on the website. It normally contains text and may contain pictures
+and other types of content. For many Joomla! sites, articles form the majority
 of the information presented.
 
-It is important to understand that the content of the site is totally separate 
-from the formatting of the site, the way it looks on the page. So it is best 
-to think of Articles as pure content independent of presentation. The same 
-Article might be shown with different fonts, colours, headings, and background, 
-and might be shown in different locations on the page, all depending on other 
+It is important to understand that the content of the site is totally separate
+from the formatting of the site, the way it looks on the page. So it is best
+to think of Articles as pure content independent of presentation. The same
+Article might be shown with different fonts, colours, headings, and background,
+and might be shown in different locations on the page, all depending on other
 settings in the Joomla! CMS.
 
 The **Articles** list page is used to manage articles. That includes creation
@@ -25,9 +25,10 @@ Some elements of the Articles list page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
 * [List Filters](jdocmanual?article=help/common-elements/list-filters "").
-* [Pagination](jdocmanual?article=help/common-elements/pagination "").
-* [Batch Process](jdocmanual?article=help/common-elements/batch-process "").
-* [Item Ordering](jdocmanual?article=help/common-elements/item-ordering "").
+* [List Column Headers](jdocmanual?article=help/common-elements/list-column-headers "").
+* [List Item Ordering](jdocmanual?article=help/common-elements/list-ordering "").
+* [list Pagination](jdocmanual?article=help/common-elements/list-pagination "").
+* [List Batch Process](jdocmanual?article=help/common-elements/list-batch-process "").
 
 ## How to Access
 
@@ -37,7 +38,7 @@ There are two routes to the Articles list page:
 
 ## Screenshot
 
-![Articles list](../../../en/images/articles/articles-list.png "Article list")
+![Articles list](../../../en/images/articles/articles-list.png "Articles list")
 
 ## Column Headers
 
@@ -54,13 +55,13 @@ There are two routes to the Articles list page:
     assigned for example to a Language.
 - **Featured**. Click the icon to toggle. The article will show on the
   Featured Articles page.
-- **Status**. Status of article. Hover over the icon or tab to it to see 
+- **Status**. Status of article. Hover over the icon or tab to it to see
   Status information or hear an audio equivalent.
-- **Title**. The title of the article, which may be selected to go to the 
+- **Title**. The title of the article, which may be selected to go to the
   *Article Edit* page.
 - **Access**. The viewing Access level for this article.
 - **Author**. The name of the User who created this article.
-- **Associations**. This shows associated articles in a multilingual site. 
+- **Associations**. This shows associated articles in a multilingual site.
   Select the *Language Code* to open the article in that language.
 - **Language**. Articles language, default is 'All'.
 - **Date Created**. The date this article was created.
@@ -72,5 +73,4 @@ There are two routes to the Articles list page:
 - One article category named 'Uncategorised' is created on Installation.
 - To see trashed and archived articles, set the Status filter to 'All'.
 - To change the ordering of articles within a category: filter on the
-  category and then select the Ordering column heading to sort by this column. 
-  
+  category and then select the Ordering column heading to sort by this column.

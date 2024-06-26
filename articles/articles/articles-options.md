@@ -2,15 +2,23 @@
 
 ## Description
 
-Used to set global defaults for menu items that display articles. These default values will be used when 'Use Global'
-is selected for an option in an Articles menu item.
+This page is used to set global default values for menu items that display
+articles. They are used when 'Use Global' is selected for an option in an
+Articles menu item.
 
-For example, to show the 'Create Date' for an article in your Articles
-menu items, then set that option to 'Show' here and it will be the
-default value.
+For example, to show the 'Create Date' for an article in your Articles menu
+items, set that option to 'Show' here and it will be the default value.
 
 You do not need to set any of these options. Your Joomla site will work
 with the default settings.
+
+### Additional Information
+
+Some aspects of the *Articles: Options* page are covered in separate Help
+articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
 
 ## How To Access
 
@@ -24,24 +32,23 @@ Select the **Options** button in the Toolbar of any *Articles* list page.
 
 ### Articles tab
 
-Options used in articles and the menu items Blog, List, Featured Articles,
-List All Categories and Single Article.
+These settings apply for article layouts unless they are changed for a specific
+menu item or article.
 
 - **Choose a Layout**. Select the default value for Single Article menu
   items.
 - **Title**. Show the Article's Title.
 - **Linked Titles**. Show the title as a link to the article.
 - **Intro Text**.
-  - Show: The Intro Text of the article will show when you drill down to
-    the article.
-  - Hide: Only the part of the article after the Read More break will
-    show.
+  - **Show:** The Intro Text of the article will show in the full article.
+  - **Hide:** Only the part of the article after the Read More break will
+    show in the full article.
 - **Position of Article Info**.
   - Above: Puts the article information block above the text.
   - Below: Puts the article information block below the text.
   - Split: Splits the article information block into 2 separate blocks.
     One block is above and the other is below the text.
-- **Article Info Title**. Displays 'Details' on top of the article
+- **Article Info Title**. Displays the word *Details* on top of the article
   information block.
 - **Category**. Show the Article's Category Title.
   - **Link Category**. Show the title as a link to that Category.Note:
@@ -91,7 +98,7 @@ List All Categories and Single Article.
 
 ### Editing Layout tab
 
-Options of the article editing page.
+These options control the layout of the article editing page.
 
 ![Articles options editing layout tab](../../../en/images/articles/articles-options-editing-layout-tab.png "Articles options editing layout")
 
@@ -141,8 +148,8 @@ Options of the article editing page.
 
 ### Category tab
 
-Options control how a Category and its articles will show. They are used
-in categories and the menu items Blog, List and List All Categories.
+These settings apply for Articles Category Options unless they are changed
+by the individual category or menu settings.
 
 ![Articles options category tab](../../../en/images/articles/articles-options-category-tab.png "Articles options category")
 
@@ -167,7 +174,8 @@ in categories and the menu items Blog, List and List All Categories.
 
 ### Categories tab
 
-Options control the display of the menu item List All Categories.
+These settings apply for Articles Categories Options, unless they are changed
+by the individual category or menu settings.
 
 ![Articles options categories tab](../../../en/images/articles/articles-options-categories-tab.png "Articles options categories")
 
@@ -184,8 +192,8 @@ Options control the display of the menu item List All Categories.
 
 ### Blog/Featured Layouts tab
 
-Options control the layout of the menu items Blog, Featured Articles and List
-All Categories.
+ These settings apply for blog or featured layouts unless they are changed for
+ a specific menu item.
 
 ![Articles options blog and featured layout tab](../../../en/images/articles/articles-options-blog-layouts-tab.png "Articles options blog and featured layout")
 
@@ -234,7 +242,8 @@ All Categories.
 
 ### List Layouts tab
 
-Options control the layout of the menu items List and List All Categories.
+ These settings apply for List Layouts Options unless they are changed for a
+ specific menu item or category.
 
 ![Articles options list layouts tab](../../../en/images/articles/articles-options-list-layouts-tab.png "Articles options list layouts")
 
@@ -261,7 +270,8 @@ Options control the layout of the menu items List and List All Categories.
 
 ### Shared tab
 
-Options shared by the menu items Blog, List and Featured Articles.
+These settings apply for Shared Options in List, Blog and Featured layouts
+unless they are changed by the menu settings.
 
 ![Articles options shared tab](../../../en/images/articles/articles-options-shared-tab.png "Articles shared")
 
@@ -317,8 +327,8 @@ Options shared by the menu items Blog, List and Featured Articles.
 
 ### Integration tab
 
-Options control how Articles integrate News Feeds, Routing, Custom
-Fields and Workflow.
+These settings determine how the Article Component will integrate with other
+extensions.
 
 ![Articles options integration tab](../../../en/images/articles/articles-options-integration-tab.png "Articles options integration")
 
@@ -343,57 +353,6 @@ Fields and Workflow.
 #### Workflow panel
 
 - **Enable Workflow**. Use customised workflows to manage articles.
-
-### Permissions tab
-
-This section lets you set up the default Access Control List
-permissions for all articles in all categories.
-
-![Articles options permissions tab](../../../en/images/articles/articles-options-permissions-tab.png "Articles options permissions")
-
-To change the permissions for articles and categories, do the following.
-
-1.  Select the **Group** by clicking its title located on the left.
-2.  Find the desired **Action**.
-    - **Configure ACL & Options**. Users can edit the options and
-      permissions.
-    - **Configure Options Only**. Users can edit the options exept the
-      permissions.
-    - **Access Administration Interface**. Users can access user
-      administration interface.
-    - **Create**. Users can create articles and categories.
-    - **Delete**. Users can delete articles and categories.
-    - **Edit**. Users can edit articles and categories.
-    - **Edit State**. User can change the published state and related
-      information.
-    - **Edit Own**. Users can edit own created articles and categories.
-    - **Edit Custom Field Value**. Users can edit any value of custom
-      fields submitted in articles and categories.
-    - **Manage Workflows**. Users can manage workflows.
-    - **Execute Transition**. Users can execute transitions.
-3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the Global Configuration
-      permissions.
-    - **Allowed**. Allowed for users in this Group.Note: If this action
-      is Denied at one of the higher levels, the Allowed permission here
-      will not take effect. A Denied setting cannot be overridden.
-    - **Denied**. Denied for users in this Group.
-4.  Click **Save** in **Toolbar** at top. When the screen refreshes, the
-    Calculated Setting column will show the effective permission for
-    this Group and Action.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Save**. Saves the articles options and stays in the current screen.
-- **Save & Close**. Saves the articles options and closes the current
-  screen.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Toggle Inline Help**. Show help text below some options.
-- **Help**. Opens this help screen.
 
 ## Quick Tips
 

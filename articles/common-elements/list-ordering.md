@@ -1,4 +1,4 @@
-<!-- Filename: Help6.x:Item_Ordering / Display title: Item Ordering -->
+<!-- Filename: Help6.x:List_Ordering / Display title: List Ordering -->
 
 ## Where Ordering Matters
 
@@ -11,7 +11,7 @@ articles are added. But what if you want one particular article to be first
 in the list. If you have a Committee with articles on each member you may want
 the Chairman to be in first position in the front page layout.
 
-The same principle applies to Category Bolog layouts. You may have several
+The same principle applies to Category Blog layouts. You may have several
 Committees, each in a different Category. In that case you filter the articles
 list by Category and make the article on the Chairman first in the list.
 

@@ -1,11 +1,11 @@
-<!-- Filename: Help6.x:Batch_Process / Display title: Batch Process -->
+<!-- Filename: Help6.x:List_Batch_Process / Display title: List Batch Process -->
 
 ## List Pages
 
 Many of the Joomla Administrator pages are lists of items. Most familiar are
-lists of Articles, Users and Menu Items. Typically, one or more items in a 
+lists of Articles, Users and Menu Items. Typically, one or more items in a
 list may be selected for a batch operation. For example, you may wish to add
-a tag to 10 different articles or move a group of articles to a different 
+a tag to 10 different articles or move a group of articles to a different
 category.
 
 The operations that can be performed vary with the list. The following

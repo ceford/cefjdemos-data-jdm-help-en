@@ -1,4 +1,4 @@
-<!-- Filename: Help6.x:Pagination / Display title: Pagination -->
+<!-- Filename: Help6.x:List_Pagination / Display title: List Pagination -->
 
 ## Purpose¶
 

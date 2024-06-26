@@ -25,12 +25,14 @@ help=banners=banners-options.md
 help=banners=banners-tracks.md
 
 heading=common-elements=Common Elements
-help=common-elements=permissions.md
 help=common-elements=toolbars.md
-help=common-elements=batch-process.md
 help=common-elements=list-filters.md
-help=common-elements=pagination.md
-help=common-elements=item-ordering.md
+help=common-elements=list-column-headers.md
+help=common-elements=list-ordering.md
+help=common-elements=list-pagination.md
+help=common-elements=list-batch-process.md
+help=common-elements=edit-associations.md
+help=common-elements=edit-permissions.md
 
 heading=components=Components
 help=components=components-patch-tester-options.md
