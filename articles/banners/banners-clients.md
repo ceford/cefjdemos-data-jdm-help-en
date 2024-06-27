@@ -8,14 +8,14 @@ and one Banner Category defined before you can add your first Banner.
 
 ### Common Elements
 
-Some elements of the Banners: Clients list page are covered in separate Help 
+Some elements of the Banners: Clients list page are covered in separate Help
 articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
 * [List Filters](jdocmanual?article=help/common-elements/list-filters "").
 * [List Column Headers](jdocmanual?article=help/common-elements/list-column-headers "").
 * [List Item Ordering](jdocmanual?article=help/common-elements/list-ordering "").
-* [list Pagination](jdocmanual?article=help/common-elements/list-pagination "").
+* [List Pagination](jdocmanual?article=help/common-elements/list-pagination "").
 
 ## How to Access
 

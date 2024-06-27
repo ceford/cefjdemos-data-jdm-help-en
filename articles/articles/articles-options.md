@@ -12,7 +12,7 @@ items, set that option to 'Show' here and it will be the default value.
 You do not need to set any of these options. Your Joomla site will work
 with the default settings.
 
-### Additional Information
+### Common Elements
 
 Some aspects of the *Articles: Options* page are covered in separate Help
 articles:

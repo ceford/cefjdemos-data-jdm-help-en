@@ -10,7 +10,7 @@ for the site as a whole or for individual users.
 Most parameters in the *Article: Edit* page have suitable defaults but you
 might wish to set a specific Category or provide article-specific Metadata.
 
-### Additional Information
+### Common Elements
 
 Some aspects of the *Articles: Edit* page are covered in separate Help
 articles:

@@ -1,6 +1,6 @@
 <!-- Filename: Help4.x:Edit_Publishing / Display title: Edit Publishing -->
 
-## Edit Screens Permissions Tab
+## Purpose
 
 Many components allow specification of publishing date options for each item,
 typically when to start or end publishing. Articles, Banners, Contacts and
@@ -20,7 +20,7 @@ The Articles Publishing tab:
 Most form fields have default values allow the item to be saved. You may wish
 to take appropriate action for the following fields:
 
-- **Meta Description:** It is in your own interests to describe the content of 
+- **Meta Description:** It is in your own interests to describe the content of
 	this item in less tha 64 characters.
 - **Keywords** A feature of web pages abandoned by search engines years ago.
 	Leave empty unless you have a specific application that uses them.

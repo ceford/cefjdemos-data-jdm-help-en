@@ -1,6 +1,6 @@
 <!-- Filename: Help6.x:List_Batch_Process / Display title: List Batch Process -->
 
-## List Pages
+## Purpose
 
 Many of the Joomla Administrator pages are lists of items. Most familiar are
 lists of Articles, Users and Menu Items. Typically, one or more items in a

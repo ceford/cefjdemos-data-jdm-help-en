@@ -11,18 +11,18 @@ help=articles=articles.md
 help=articles=articles-featured.md
 help=articles=articles-edit.md
 help=articles=articles-categories.md
-help=articles=articles-new-or-edit-category.md
+help=articles=articles-edit-category.md
 help=articles=articles-options.md
 
 heading=banners=Banners
 help=banners=banners.md
-help=banners=banners-categories.md
-help=banners=banners-clients.md
 help=banners=banners-edit.md
-help=banners=banners-new-or-edit-category.md
-help=banners=banners-new-or-edit-client.md
-help=banners=banners-options.md
+help=banners=banners-categories.md
+help=banners=banners-edit-category.md
+help=banners=banners-clients.md
+help=banners=banners-edit-client.md
 help=banners=banners-tracks.md
+help=banners=banners-options.md
 
 heading=common-elements=Common Elements
 help=common-elements=toolbars.md
@@ -33,6 +33,8 @@ help=common-elements=list-pagination.md
 help=common-elements=list-batch-process.md
 help=common-elements=edit-associations.md
 help=common-elements=edit-permissions.md
+help=common-elements=edit-publishing.md
+help=common-elements=edit-category-options.md
 
 heading=components=Components
 help=components=components-patch-tester-options.md

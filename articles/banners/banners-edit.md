@@ -6,14 +6,20 @@ Used to add or edit banners which can be displayed on your Joomla!
 website. Remember to create at least one Banner Client and one Banner Category
 before creating any Banners.
 
+### Common Elements
+
+Some aspects of the *Banners: Edit* page are covered in separate Help
+articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
+
 ## How to Access
 
-To '**add'** a new Banner or '**edit'** an existing Banner, navigate to
-the Banners list:
-
-- Select **Components → Banners → New** to create a new Banner.
-- Select **Components → Banners** and click on a Banner name to
-  '**Edit'** an existing Banner.
+From the Administrator menu:
+- Select **Components → Banners** to go to the Banners list page.
+- Select the **New** button in the Toolbar to create a new Banner.
+- Select a Banner **name** from the *Name* column to edit an existing Banner.
 
 ## Screenshot
 
@@ -21,20 +27,15 @@ A banner may be a clickable image or some custom code. The Image Type is
 shown in the screenshot below. The custom type has the image selection
 box replaced with a code text area.
 
-<img
-src="https://docs.joomla.org/images/thumb/d/da/Help-4x-Components-Banners-Banners-Edit-screen-en.png/800px-Help-4x-Components-Banners-Banners-Edit-screen-en.png.jpeg"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/da/Help-4x-Components-Banners-Banners-Edit-screen-en.png/1200px-Help-4x-Components-Banners-Banners-Edit-screen-en.png.jpeg 1.5x, https://docs.joomla.org/images/d/da/Help-4x-Components-Banners-Banners-Edit-screen-en.png 2x"
-data-file-width="1440" data-file-height="1208" width="800" height="671"
-alt="Banners edit details tab" />
+![Banners edit details tab](../../../en/images/banners/banners-edit-details-tab.png)
 
 ## Form Fields
 
 - **Name** The name of the Banner. This is the name that will display
   in the *Name* column of the Banners list.
 - **Alias** The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+  blank and Joomla will fill in a default value derived from the Name but
+  in lower case and with dashes instead of spaces.
 
 ## Details Tab
 
@@ -81,16 +82,11 @@ alt="Banners edit details tab" />
     displaying automatically.
 - **Language**. Item language.
 - **Version Note**. Optional field to identify this version of the item
-  in the item's Version History
-  window.
+  in the item's Version History window.
 
 ### Banner Details tab
 
-<img
-src="https://docs.joomla.org/images/0/09/Help-4x-Components-Banners-Banners-Edit-Banners-Details-Tab-en.png"
-decoding="async" data-file-width="600" data-file-height="411"
-width="800" height="548"
-alt="Banners edit banner details tab" />
+![Banners edit banner details tab](../../../en/images/banners/banners-edit-banner-details-tab.png)
 
 - **Max. Impressions.** The number of Impressions purchased for this
   Banner. Impressions are the number of times a Banner will be displayed
@@ -103,98 +99,14 @@ alt="Banners edit banner details tab" />
   entry is allowed. You can reset this number to 0 by pressing the
   'Reset clicks' button.
 - **Client.** The Client for this Banner. Select one from the drop-down list
-box of existing Clients.
+  box of existing Clients.
 - **Purchase Type:** The purchase type of the banner. This is used to
   indicate how the banner client purchased the display time for the
   banner.
-
-The following options are: (*-Use Client Default-, Unlimited, Yearly,
-Monthly, Weekly, Daily*).
-
 - **Track Impressions** Whether or not to track the number of times the
   banner is displayed to web site visitors.
 - **Track Clicks** Whether or not to track the number of times the
   banner is clicked by web site visitors.
-
-### Publishing Tab
-
-<img
-src="https://docs.joomla.org/images/9/90/Help-4x-Components-Banners-Banners-Edit-Publishing-Options-Tab-en.png"
-decoding="async" data-file-width="600" data-file-height="680"
-width="800" height="907"
-alt="Banners edit banner publishing tab" />
-
-- **Start Publishing**. Date the Banner will publish and be available
-  for website. Enter the date (time optional) in format
-  *year-month-date hrs:min:sec* as '2013-01-07 14:10:00' or alternatively,
-  use the modal 'pop up' window and select a date from the calendar.
-- **Finish Publishing**. Date the Banner will stop being published and
-  will no longer be available for website. Enter the date (time optional) in f
-  ormat *year-month-date hrs:min:sec* as '2013-01-07 14:10:00' or
-  alternatively, use the modal 'pop up' window and select a date from the
-  calendar.
-- **Created Date**. Date the item(Article, Category, Weblink, etc.) was
-  created.
-- **Created By**. Name of the Joomla User who created this item. This
-  will default to the currently logged-in user. If you want to change
-  this to a different user, click the Select User button to select a
-  different user.
-- **Created by Alias**. This optional field allows you to enter in an
-  alias for this Author for this Article. This allows you to display a
-  different Author name for this Article.
-- **Modified Date**. Date of last modification.
-- **Modified By**. Username who performed the last modification.
-- **Revision**. Number of revisions to this item.
-- **Keywords**. Optional entry for keywords. Must be entered separated
-  by commas (for example, "cats, dogs, pets") and may be entered in
-  upper or lower case. (For example, "CATS" will match "cats" or
-  "Cats"). Keywords can be used in several ways:
-  1.  To help Search Engines and other systems classify the content of
-      the Article.
-  2.  In combination with Banner tags, to display specific Banners based
-      on the Article content. For example, say you have one Banner with
-      an ad for dog products and another Banner for cat products. You
-      can have your dog Banner display when a User is viewing a
-      dog-related Article and your cat Banner display for a cat-related
-      Article. To do this, you would:
-      - Add the keywords "dog" and "cat" to the appropriate Articles.
-      - Add the Tags "dog" and "cat" to the appropriate Banners in
-        Banners: Edit.
-      - Set the Banner module Parameter 'Search By Tags' to "Yes" in
-        the Site Modules: Banners list.
-  3.  For articles only, in combination with the Articles - Related module,
-      to display Articles that share at least one keyword in common. For
-      example, if the current Article displayed has the keywords "cats,
-      dogs, monkeys", any other Articles with at least one of these
-      keywords will show in the 'Articles - Related' module.
-- **Use Own Prefix.** Whether or not to use the banner's prefix or that
-  of the client. Select *No* if you want to use the prefix of the banner
-  client.
-- **Meta Keyword Prefix:** When matching meta keywords, only search for
-  meta keywords with these optional prefixes. This improves performance.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Save & New**. Saves the item and keeps the editing screen open and
-  ready to create another item.
-- **Save as Copy**. Saves your changes to a copy of the current item.
-  Does not affect the current item. This toolbar icon is not shown if
-  you are creating a new item.
-- **Cancel**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. Or
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
-- **Versions**. Opens the Item Version History window to show any prior
-  versions of this item. This allows you to view older versions of this
-  item and, if desired, restore from an older version. See Version History
-  for more information.
-- **Help**. Opens this help screen.
 
 ## Quick Tips
 
@@ -210,5 +122,5 @@ Screenshot above. The functions are:
   3.  In the Banner Module, set the 'Randomise' value to 'Sticky,
       Randomise'.
 
-With these settings, the different Banners for that Client and Category
-will display on the selected pages in random order.
+  With these settings, the different Banners for that Client and Category
+  will display on the selected pages in random order.

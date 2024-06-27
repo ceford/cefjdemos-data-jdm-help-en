@@ -1,6 +1,6 @@
 <!-- Filename: Help4.x:Edit_Associations / Display title: Edit Associations -->
 
-## Edit Screens Associations Tab
+## Purpose
 
 In multilingual sites it is possible to create an item in one language and
 have it linked to an equivalent item in one or more other languages. The link

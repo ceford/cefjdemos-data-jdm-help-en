@@ -1,6 +1,6 @@
 <!-- Filename: Help4.x:Edit_Permissions / Display title: Edit Permissions -->
 
-## Edit Screens Permissions Tab
+## Purpose
 
 Many extensions have edit screens with a Permissions tab that is used to change
 the permissions allocated to User Groups. The number of User Groups may vary

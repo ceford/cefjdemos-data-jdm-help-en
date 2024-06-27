@@ -18,6 +18,7 @@ an existing Category.
 Some elements of the Category edit page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [The Options Tab](jdocmanual?article=help/common-elements/edit-category-options "").
 * [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
 * [The Associations Tab](jdocmanual?article=help/common-elements/edit-associations "").
 * [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
@@ -88,20 +89,6 @@ To edit an existing Category:
 - **Version Note.** Optional field to identify this version of the item
   in the item's Version History
   window.
-
-### Options
-
-This shows Options for this Category, as shown below when tab is
-clicked:
-
-![Edit category options tab](../../../en/images/articles/articles-edit-category-options-tab.png "Edit category options tab")
-
-- **Layout**. Use a different layout from the supplied components view
-  or overrides in the templates.
-- **Image**. Choose an image to be displayed with this item/category in
-  the Frontend.
-- **Alt Text**. Alternative text used for visitors without access to
-  images.
 
 ### Workflow
 

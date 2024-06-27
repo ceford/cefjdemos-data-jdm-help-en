@@ -1,27 +1,29 @@
 articles=articles-categories.md=https://docs.joomla.org/Help5.x:Articles:_Categories
 articles=articles-edit.md=https://docs.joomla.org/Help5.x:Articles:_Edit
 articles=articles-featured.md=https://docs.joomla.org/Help5.x:Articles:_Featured
-articles=articles-new-or-edit-category.md=https://docs.joomla.org/Help5.x:Articles:_New_or_Edit_Category
+articles=articles-edit-category.md=https://docs.joomla.org/Help5.x:Articles:_New_or_Edit_Category
 articles=articles-options.md=https://docs.joomla.org/Help5.x:Articles:_Options
 articles=articles.md=https://docs.joomla.org/Help5.x:Articles
 
-banners=banners-categories.md=https://docs.joomla.org/Help5.x:Banners:_Categories
-banners=banners-clients.md=https://docs.joomla.org/Help5.x:Banners:_Clients
-banners=banners-edit.md=https://docs.joomla.org/Help5.x:Banners:_Edit
-banners=banners-new-or-edit-category.md=https://docs.joomla.org/Help5.x:Banners:_New_or_Edit_Category
-banners=banners-new-or-edit-client.md=https://docs.joomla.org/Help5.x:Banners:_New_or_Edit_Client
-banners=banners-options.md=https://docs.joomla.org/Help5.x:Banners:_Options
-banners=banners-tracks.md=https://docs.joomla.org/Help5.x:Banners:_Tracks
 banners=banners.md=https://docs.joomla.org/Help5.x:Banners
+banners=banners-edit.md=https://docs.joomla.org/Help5.x:Banners:_Edit
+banners=banners-categories.md=https://docs.joomla.org/Help5.x:Banners:_Categories
+banners=banners-edit-category.md=https://docs.joomla.org/Help5.x:Banners:_New_or_Edit_Category
+banners=banners-clients.md=https://docs.joomla.org/Help5.x:Banners:_Clients
+banners=banners-edit-client.md=https://docs.joomla.org/Help5.x:Banners:_New_or_Edit_Client
+banners=banners-tracks.md=https://docs.joomla.org/Help5.x:Banners:_Tracks
+banners=banners-options.md=https://docs.joomla.org/Help5.x:Banners:_Options
 
 common-elements=edit-associations.md=Help6.x:Edit_Associations
 common-elements=edit-permissions.md=Help6.x:Edit_Permissions
+common-elements=edit-publishing.md=Help6.x:Edit_Publishing
+common-elements=edit-category-options.md=Help6.x:Edit_Category_Options
 common-elements=list-batch-process.md=Help6.x:List_Batch_Process
-common-elements=toolbars.md=Help6.x:Toolbars
 common-elements=list-filters.md=Help6.x:List_Filters
 common-elements=list-pagination.md=Help6.x:List_Pagination
 common-elements=list-ordering.md=Help6.x:List_Ordering
 common-elements=list-column-headers.md=Help6.x:List_Column_Headers
+common-elements=toolbars.md=Help6.x:Toolbars
 
 components=components-patch-tester-options.md=https://docs.joomla.org/Help5.x:Components_Patch_Tester_Options
 
