@@ -17,6 +17,7 @@ banners=banners-options.md=https://docs.joomla.org/Help5.x:Banners:_Options
 common-elements=edit-associations.md=Help6.x:Edit_Associations
 common-elements=edit-permissions.md=Help6.x:Edit_Permissions
 common-elements=edit-publishing.md=Help6.x:Edit_Publishing
+common-elements=edit-schema.md=Help6.x:Edit_Schema
 common-elements=edit-category-options.md=Help6.x:Edit_Category_Options
 common-elements=list-batch-process.md=Help6.x:List_Batch_Process
 common-elements=list-filters.md=Help6.x:List_Filters
@@ -28,8 +29,8 @@ common-elements=toolbars.md=Help6.x:Toolbars
 components=components-patch-tester-options.md=https://docs.joomla.org/Help5.x:Components_Patch_Tester_Options
 
 contacts=contacts-categories.md=https://docs.joomla.org/Help5.x:Contacts:_Categories
-contacts=contacts-new-or-edit.md=https://docs.joomla.org/Help5.x:Contacts:_New_or_Edit
-contacts=contacts-new-or-edit-category.md=https://docs.joomla.org/Help5.x:Contacts:_New_or_Edit_Category
+contacts=contacts-edit.md=https://docs.joomla.org/Help5.x:Contacts:_New_or_Edit
+contacts=contacts-edit-category.md=https://docs.joomla.org/Help5.x:Contacts:_New_or_Edit_Category
 contacts=contacts-options.md=https://docs.joomla.org/Help5.x:Contacts:_Options
 contacts=contacts.md=https://docs.joomla.org/Help5.x:Contacts
 

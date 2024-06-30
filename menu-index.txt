@@ -34,6 +34,7 @@ help=common-elements=list-batch-process.md
 help=common-elements=edit-associations.md
 help=common-elements=edit-permissions.md
 help=common-elements=edit-publishing.md
+help=common-elements=edit-schema.md
 help=common-elements=edit-category-options.md
 
 heading=components=Components
@@ -42,8 +43,8 @@ help=components=components-patch-tester-options.md
 heading=contacts=Contacts
 help=contacts=contacts.md
 help=contacts=contacts-categories.md
-help=contacts=contacts-new-or-edit.md
-help=contacts=contacts-new-or-edit-category.md
+help=contacts=contacts-edit.md
+help=contacts=contacts-edit-category.md
 help=contacts=contacts-options.md
 
 heading=content-security-policy=Content Security Policy

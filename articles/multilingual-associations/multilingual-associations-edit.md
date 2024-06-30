@@ -2,41 +2,33 @@
 
 ## Description
 
-Used to add or edit associations between languages displayed on a
-multilingual website.
+The Multilingual Associations: Edit Associations page shows a Reference item
+and a Target item side by side in wider screens and stacked in narrow screens.
+The side by side mode allows you to align the reference and target for ease
+of translation.
+
+The fields in the Reference and Target are the same as those in the edit form
+for a single item but the layout is adjusted for the restricted column width.
 
 ## How to Access
 
-To add an Association:
-
-- **Components → Multilingual Associations**
-  1.  select **Item Type**.
-  2.  select **Language**.
-  3.  Select a target language in the **Not Associated** column.
-
-To edit an Association:
-
-- **Components → Multilingual Associations**
-  1.  select **Item Type**.
-  2.  select **Language**.
-  3.  Select a target language in the **Associated** column.
+* Select **Components → Multilingual Associations** from the Administrator menu.
+  * Select an **Item Type** from the *- Select Item Type -* dropdown list.
+  * Select **Language** from the *- Select Language -* dropdown list. This 
+    becomes the Reference language.
+* To edit an Association: Select a Target language from the **Associated** column.
+* To add an Association: Select a Target language from the **Not Associated** column.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/9/94/Help-4x-Components-Assocations-Edit-screen-en.png/800px-Help-4x-Components-Assocations-Edit-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/9/94/Help-4x-Components-Assocations-Edit-screen-en.png/1200px-Help-4x-Components-Assocations-Edit-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/9/94/Help-4x-Components-Assocations-Edit-screen-en.png/1600px-Help-4x-Components-Assocations-Edit-screen-en.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="multilingual assocations edit screen" />
+![TReference and Target items side by side](../../../en/images/multilingual-associations/multilingual-associations-edit.png)
 
-The Multilingual Associations edit screen shows the item content in
-source and destination side by side. Each is a scrollable window with
-the item options beneath the text edit area.
+In this example the items are Articles. Each is a scrollable window with
+the item options beneath the text edit area (not shown).
 
 ## Form Fields
 
-The form fields are those of the selected item so are not covered here.
+The form fields are those of the selected item type so are not covered here.
 
 ## Toolbar
 

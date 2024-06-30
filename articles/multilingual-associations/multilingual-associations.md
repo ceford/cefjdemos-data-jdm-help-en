@@ -2,106 +2,72 @@
 
 ## Description
 
-The Multilingual Associations Component is a tool that allows editing of
-associated items side-by-side without the need to go back and forth.
+In multilingual sites it is possible to create an item in one language and
+have it linked to an equivalent item in one or more other languages. The link
+is known as an **Association**. It must be made manually.
 
-This screen is used to set up an Association between an item and
-installed site languages.
+Associations can be created for Articles and their Categories, Contacts and
+their Categories, Menu items and News Feeds and their Categories. Third party
+extensions may also support Associations. 
+
+The Multilingual Associations component allows side-by-side editing of
+associated items without the need to go back and forth.
+
+There is more explanation following the screenshot below.
 
 ## How to Access
 
-- **Components → Multilingual Associations**
-  1.  select **Item Type**.
-  2.  select **Language**.
+* Select **Components → Multilingual Associations** From the Administrator Menu.
+* Select an item from the **- Select Item Type -** dropdown list. 
+* Select a language from the **- Select Languag -e** dropdown list.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/2/29/Help-4x-Components-Associations-en.png/800px-Help-4x-Components-Associations-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/2/29/Help-4x-Components-Associations-en.png/1200px-Help-4x-Components-Associations-en.png 1.5x, https://docs.joomla.org/images/thumb/2/29/Help-4x-Components-Associations-en.png/1600px-Help-4x-Components-Associations-en.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="mulitlingual associations screenshot" />
+![Multilingual associations lis](../../../en/images/multilingual-associations/multilingual-associations-list.png)
 
-## Column Headers
+In this screenshot an article named **Article (en-GB)** has been associated
+with articles in 6 other languages. An article named **Lorem Ipsum (en-GB)**
+has been associated with an article on one other language.
 
-- **Status**. The published status of the menu item.
-- **Title**. The title of the menu item. Edit the menu item by clicking
-  on the Title.
-- **Language**. Menu items language.
-- **Associations**. Shows which language this menu item is associated.
-- **Not Associated**. Shows for which languages this menu item is not
-  associated.
-- **Menu**. Shows which menu the menu item belongs to.
-- **Access**. The viewing Access level  for this menu item.
-- **ID**. A unique identification number for this menu item, you cannot
-  change this number.
+The articles do not have to have a language code in the title. The usually 
+don't! There may be other *Lorem Ipsum* articles translated from English into
+other languages but not yet associated.
 
-## List Filters
+The list only contains items where the language has been set. Any articles
+with the language set to *All* will not be present.
 
-### Search bar
+## Reference Articles
 
-Near the top of the page you will see the search bar shown in the
-Screenshot above.
+The items in the **Title** column are the reference items for the selected
+language. If you view the list with German selected you will see the same items
+because all of the associated items are available in both languages.
 
-- **Search by Text**. Enter part of the search term and click the Search
-  icon. *Hover* to see a *Tooltip* indicating which fields will be
-  searched.To 'Search by ID' enter "id:x", where "x" is the ID number
-  (for example, "id:19").
-- **Filter Options**. Click to display the additional filters.
-- **Clear**. Click to clear the Filter field and restore the list to its
-  unfiltered state.
-- **Ordering**. Shows the current list ordering field. 2 ways to change
-  the order:
-  - Select from the dropdown list. Ordering may be in ascending or
-    descending order.
-  - Click a column heading. The column heading toggles between ascending
-    and descending order.
-- **Number to Display**. Shows the number of menu items in a list.
-  Select from the dropdown list to change the number displayed.The
-  default for a site is '20' but this may be changed in the Global Configuration.
+If you view the list with other languages selected you are likely to see 
+different items. For example, Dutch may show nothing in the Associations 
+column because the translation exists but is has not been associated with 
+English or German. And if you select Spanish the number of items in the list 
+may change because the Lorem Ipsum article has not been translated into Spanish.
 
-### Filter Options
+If you select an item from the **Title** column the reference item will appear
+in the edit form but no target is selected. That is useful if you wish to edit
+the reference item in the selected language. It is also required if you
+wish to create a new associated item.
 
-Near the top of the page you will see the filter bar shown in the
-Screenshot above.
+## Associations
 
-- **Select Status**. Select from Trashed / Unpublished / Published /
-  Archived / All.
-- **Select Category**. Select from the list of available categories.
-- **Select Menu**. Select from the list of available menus.
-- **Select Access**. Select from the list of available viewing access
-  levels.
-- **Select Max Levels**. Select from the list of available levels.
+If you wish to edit an existing association in side by side mode you select one
+of the buttons in the **Associations** column. This loads the *Reference* and
+*Target* items side by side.
 
-### Pagination
+## Not Associated
 
-**Page Controls**. When the number of menu items is more than one page,
-you will see a page control bar near the bottom of the page shown in the
-Screenshot above. The current page number being viewed
-has a dark colour background.
-
-- **Start**. Click to go to the first page.
-- **Prev**. Click to go to the previous page.
-- **Page numbers**. Click to go to the desired page.
-- **Next**. Click to go to the next page.
-- **End**. Click to go to the last page.
-
-## Toolbar
-
-Prior to selection of an Item Type and Language the toolbar at the top
-has 4 buttons. The first 2 disappear after selection.
-
-- **Delete All Associations**. Lets you delete all associations. After a
-  question to confirm, all associations will be deleted.
-- **Delete Orphans**. Lets you delete all orphans.
-- **Options**. Opens the help screen for Multilingual Associations: Options.
-- **Help**. Opens this help screen.
+Select a button in the *Not Associated* column to create a new article 
+associated with the reference article. It loads an edit form with the reference 
+item alongside a new empty associated item. The language is pre-filled and
+cannot be changed. 
 
 ## Quick Tips
 
-- An menu-item in English can be more easily translated into French with
+- A menu-item in English can be more easily translated into French with
   the original and translation side by side. And then select Persian to
   translate from English to Persian too.
-- This screen use menu-items as example. You will see all Item Types
-  shown in the Screenshot above.

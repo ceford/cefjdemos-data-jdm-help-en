@@ -16,6 +16,7 @@ Some aspects of the *Articles: Edit* page are covered in separate Help
 articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [The Schema Tab](jdocmanual?article=help/common-elements/edit-schema "").
 * [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
 * [The Associations Tab](jdocmanual?article=help/common-elements/edit-associations "").
 * [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
@@ -226,26 +227,6 @@ will appear as a separate tab.
 
 ![Fields tab](../../../en/images/articles/articles-edit-fields-tab.png "Filds Tab")
 
-### Schema tab
-
-![Schema tab](../../../en/images/articles/articles-edit-schema-tab.png "Schema Tab")
-
-The schema mechanism allows you to enter metadata for individual articles,
-choosing from the following schema types:
-
-* None
-* Article
-* BlogPosting
-* Book
-* Event
-* JobPosting
-* Organisation
-* Person
-* Recipe
-* Custom
-
-Each is a plugin which can disable or enable as required. More schmema types
-my be added later or available from third party sources.
 
 ### Configure Edit Screen tab
 
