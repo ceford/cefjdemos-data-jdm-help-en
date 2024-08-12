@@ -4,6 +4,14 @@
 
 You can add or modify menus in this screen.
 
+### Common Elements
+
+Some aspects of the *Articles: Edit* page are covered in separate Help
+articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
+
 ## How to Access
 
 - Select **Menus → Manage** from the Administrator menu. Then...
@@ -13,11 +21,7 @@ You can add or modify menus in this screen.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/f/f4/Help-4x-menus-menu-manager-add-menu-en.png"
-decoding="async" data-file-width="800" data-file-height="475"
-width="800" height="475"
-alt="menus edit screenshot" />
+![menus edit details tab](../../../en/images/menus/menus-edit-menu-details-tab.png)
 
 ## Form Fields
 
@@ -28,43 +32,6 @@ alt="menus edit screenshot" />
 
 - **Unique Name.** The system name of the menu.
 - **Description.** A description about the purpose of the menu.
-
-### Permissions Tab
-
-You can set permissions for a menu so that only specific groups can
-alter the menu. The actions available are:
-
-- **Access Administration Interface**
-- **Create**
-- **Delete**
-- **Edit**
-- **Edit State**
-
-The available settings for each are:
-
-- **Inherited** means that the permissions from global configuration,
-  parent group and category will be used.
-- **Allowed** means that the group being edited will be able to take
-  this action for this item (but if this is in conflict with the global
-  configuration, parent group or category it will have no impact; a
-  conflict will be indicated by Not Allowed (Inherited) under Calculated
-  Settings).
-- **Denied** means that no matter what the global configuration, parent
-  group or category settings are, the group being edited can't take this
-  action on this item.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Save & New**. Saves the item and keeps the editing screen open and
-  ready to create another item.
-- **Cancel**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
 
 ## Quick Tips
 

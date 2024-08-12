@@ -19,7 +19,7 @@ Some elements of the Categories list page are covered in separate Help articles:
 * [List Filters](jdocmanual?article=help/common-elements/list-filters "").
 * [List Column Headers](jdocmanual?article=help/common-elements/list-column-headers "").
 * [List Item Ordering](jdocmanual?article=help/common-elements/list-ordering "").
-* [list Pagination](jdocmanual?article=help/common-elements/list-pagination "").
+* [List Pagination](jdocmanual?article=help/common-elements/list-pagination "").
 * [List Batch Process](jdocmanual?article=help/common-elements/list-batch-process "").
 
 ## How to Access

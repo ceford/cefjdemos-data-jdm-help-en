@@ -13,17 +13,8 @@ conflicts in your installation or dependency failures may appear here.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/2/26/Help4x-Extensions-Extension-Manager-Warnings-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="301"
-width="800" height="301"
-alt="Information Warnings screen" />
+![Information Warnings](../../../en/images/information/warnings.png)
 
 ## Toolbar
 
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
+- **Options.** Opens the Installer: Options page.

@@ -5,6 +5,13 @@
 Menu Options allow the setting of parameters used globally on all menus
 such as, Title, CSS Class and Permissions.
 
+### Common Elements
+
+Some aspects of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
+
 ## How to Access
 
 - Select **Menus → Manage** in the Administrator menu. Then...
@@ -12,11 +19,7 @@ such as, Title, CSS Class and Permissions.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/b/bc/Help-4x-Menus-Menu-Manager-Options-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="335"
-width="800" height="335"
-alt="Menus Options screen" />
+![Menus Options](../../../en/images/menus/menu-options-page-display-tab.png)
 
 ## Form Fields
 
@@ -27,57 +30,10 @@ alt="Menus Options screen" />
 - **Show Page Heading:** Whether or not to show the Browser Page Title
   in the heading of the page. The page heading is normally displayed
   inside an h1 HTML element.
-- **Page Heading:** Optional alternative text for the Page Heading.
+- **Page Heading:** Optional alternative text for the Page Heading, displayed
+  if *Show Page Heading* is set to *Show*.
 - **Page Class:** Optional CSS class to add to elements in this page.
   This allows CSS styling specific to this page.
-
-### Permissions Tab
-
-<img
-src="https://docs.joomla.org/images/3/3b/Help-4x-Menu-Options-screen-permissions-tab-en.png"
-decoding="async" data-file-width="600" data-file-height="653"
-width="600" height="653"
-alt="Menus Options permissions tab" />
-
-To change the permissions for this extension, do the following.
-
-- Select the **Group** by clicking its title located on the left.
-- Find the desired **Action**. Possible Actions are:
-  - **Configure ACL & Options**. Users can edit the options and
-    permissions of this extension.
-  - **Configure Options Only**. Users can edit the options exept the
-    permissions of this extension.
-  - **Access Administration Interface**. Users can access user
-    administration interface of this extension.
-  - **Create:** Users can create content of this extension.
-  - **Delete:** Users can delete content of this extension.
-  - **Edit:** Users can edit content of this extension.
-  - **Edit State:** User can change the published state and related
-    information for content of this extension.
-  - **Edit Own:** Users can edit own created content of this extension.
-- Select the desired permission for the action you wish to change.
-  Possible settings are:
-  - ***Inherited:*** Inherited for users in this Group from the Global
-    Configuration permissions of this extension.
-  - ***Allowed:*** Allowed for users in this Group. Note that, if this
-    action is Denied at one of the higher levels, the Allowed permission
-    here will not take effect. A Denied setting cannot be overridden.
-  - ***Denied:*** Denied for users in this Group.
-- Click **Save** in **Toolbar** at top. When the screen refreshes, the
-  Calculated Setting column will show the effective permission for this
-  Group and Action.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
-- **Help**. Opens this help screen.
 
 ## Quick Tips
 

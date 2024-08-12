@@ -2,16 +2,21 @@
 
 ## Description
 
-The Media Manager is a tool for managing files in the
-\[joomlaroot\]https://docs.joomla.org/images/ folder and other user
-defined local folders. Tools available include:
+The Media component is a tool for managing files in the images folder and 
+other user defined local folders. Actions available include:
 
-- upload a new image (or document)
-- delete an existing image
-- rename an image
-- edit an image
-- get an image link
-- create a new folder.
+- Upload a new image (or document)
+- Delete an existing image
+- Rename an image
+- Edit an image
+- Get an image link
+- Create a new folder
+
+### Common Elements
+
+Some aspects of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 
 ## How to access
 
@@ -19,12 +24,7 @@ defined local folders. Tools available include:
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-screen-en.png/800px-Help-4x-Media-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-screen-en.png/1200px-Help-4x-Media-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/5/5a/Help-4x-Media-screen-en.png/1600px-Help-4x-Media-screen-en.png 2x"
-data-file-width="2240" data-file-height="1400" width="800" height="500"
-alt="Media screen" />
+![Media](../../../en/images/media/media.png)
 
 ## Image Display Area
 
@@ -57,8 +57,8 @@ the image display area.
 
 ### Actions
 
-Hover over an image and select the menu button labelled with 3 dots. 6
-icons appear offering the following actions:
+Hover over an image and select the menu button labelled with an ellipsis (...). 
+6 icons appear offering the following actions:
 
 1.  **Preview**. Select the magnifier icon - the image is shown full
     size in a dialog.
@@ -75,18 +75,6 @@ icons appear offering the following actions:
 6.  **Delete**. Select the waste bin icon to delete the image. You will
     be prompted to confirm. Once deleted it is gone forever! May be used
     also to delete a folder.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Upload**. Opens window for uploading images.
-- **Create New Folder**. Opens a dialog to prompt for a new folder name.
-  The new folder is created in the currently selected folder.
-- **Delete**. Deletes the selected images.
-- **Options**. Opens the Media Options.
-- **Help**. Opens this help screen.
 
 ## Quick Tips
 

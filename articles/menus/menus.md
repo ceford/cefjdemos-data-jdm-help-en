@@ -23,17 +23,23 @@ The process for adding a menu to the site is normally as follows:
     When you create the modules, you will select which menu items
     (pages) the modules will show on.
 
+### Common Elements
+
+Some elements of the this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [List Filters](jdocmanual?article=help/common-elements/list-filters "").
+* [List Column Headers](jdocmanual?article=help/common-elements/list-column-headers "").
+* [List Item Ordering](jdocmanual?article=help/common-elements/list-ordering "").
+* [List Pagination](jdocmanual?article=help/common-elements/list-pagination "").
+
 ## How to Access
 
 - Select **Menus → Manage** from the Administrator menu.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/0/00/Help-4x-menus-menu-manager-menus-en.png"
-decoding="async" data-file-width="800" data-file-height="633"
-width="800" height="633"
-alt="menus list screenshot" />
+![menus list](../../../en/images/menus/menus-list.png)
 
 ## Column Headers
 
@@ -61,29 +67,6 @@ ascending order.
   and you cannot change this number. When creating a new item, this
   field displays "0" until you save the new entry, at which point a new
   ID is assigned to it.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **New**. Opens the editing screen to create a new menu.
-- **Edit**. Opens the editing screen for the selected menu. If more than
-  one menu is selected (where applicable), only the first menu will be
-  opened. The editing screen can also be opened by clicking on the Name
-  of the menu.
-- **Delete:** Deletes the selected menus. Works with one or multiple
-  menus selected. Deleting a menu also deletes all the menu items it
-  contains and any associated menu modules. On clicking Delete you will
-  be asked to confirm that you want to delete the selected menus.
-  Clicking OK button will delete the menus. Click Cancel to abort the
-  deletion.
-- **Rebuild.** Reconstructs and refreshes the menu table. Normally, you
-  do *not* need to rebuild this table. This function is provided in case
-  the data in the table becomes corrupted.
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
 
 ## Quick Tips
 

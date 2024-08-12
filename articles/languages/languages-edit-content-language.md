@@ -2,9 +2,15 @@
 
 ## Description
 
-In the Languages: Edit Content Language you can set the title, SEF,
-image, code, and description of an installed langauges. You may also
-update or add meta keywords and a description.
+In the Languages: Edit Content Language page you can set the parameters of an 
+installed language.
+
+### Common Elements
+
+Some aspects of the *Languages: Edit Content* page are covered in separate Help
+articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
 
 ## How to Access
 
@@ -14,12 +20,7 @@ update or add meta keywords and a description.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/7/7d/Help-4x-Extensions-Language-Manager-Edit-screen-en.png/800px-Help-4x-Extensions-Language-Manager-Edit-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/7/7d/Help-4x-Extensions-Language-Manager-Edit-screen-en.png 1.5x"
-data-file-width="1193" data-file-height="876" width="800" height="587"
-alt="Language Edit content language screen" />
+![Languages Edit content language details tab](../../../en/images/languages/languages-edit-content-language-details-tab.png)
 
 ## Form Fields
 
@@ -46,28 +47,10 @@ alt="Language Edit content language screen" />
 
 ### Options Tab
 
-<img
-src="https://docs.joomla.org/images/a/ab/Help-4x-Extensions-Language-Manager-Edit-Options-screen-en.png"
-decoding="async" data-file-width="600" data-file-height="212"
-width="600" height="212"
-alt="Language Options tab" />
+![Languages Edit content language options tab](../../../en/images/languages/languages-edit-content-language-options-tab.png)
 
-* The **Site Custom Name* might be different in different languages!
+* The **Site Custom Name** might be different in different languages!
 * The **Meta Description** should be different in different languages!
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Save & New**. Saves the item and keeps the editing screen open and
-  ready to create another item.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
-- **Help**. Opens this help screen.
 
 ## Quick Tips
 

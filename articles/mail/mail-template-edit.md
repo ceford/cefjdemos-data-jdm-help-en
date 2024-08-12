@@ -2,44 +2,45 @@
 
 ## Description
 
-The Mail Template Edit form allows you to change the default text for
-the Subject, Body and/or HTML Body.
+The Edit Mail Template page allows you to change the default text for
+the Subject, Body and/or HTML Body of a mail message.
+
+The Mail Options allow you to choose whether to send Plain Text or HTML 
+messages or both. If you select only one method then the alternative will
+not be present in the message edit form.
+
+Items in curly braces are placeholders that will be replaced when a message
+is sent. They should not be changed. For example, {SITENAME} is a placeholder 
+that will be replaced by your site name when a message is sent. The 
+placeholders are listed as **Insert Tags** to the right of 
+the form. The placeholders available change from message to message.
+
+### Common Elements
+
+One element of the Edit Mail Template page is covered in a separate Help 
+article:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
 
 ## How to Access
 
 - Select **System → Templates panel → Mail Templates** from the
   Administrator menu. Then...
-  - Select the Title of the template you wish to edit. Select the
-    language version you wish to edit from the pop-up list.
+  - Select the Title of the template you wish to edit (in English) or select 
+    the flag for the language version you wish to edit.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/b/be/Help-4x-Mail-Template-Edit-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="473"
-width="800" height="473"
-alt="Mail Template Edit screen" />
+![Edit Mail Template](../../../en/images/mail/edit-mail-template.png)
+
+This screenshot shows the plain text message edit form. If the HTML option
+is enabled its edit field uses the same WYSIWYG editor used for articles.
 
 ## Form Fields
 
 ### Mail Tab
 
-- **Subject.** This displays a string key if the adjacent Edit Subject
-  toggle is set to **No**. If set to **Yes** the subject contains the
-  default text for you to change. {SITENAME} is a placeholder that
-  should not be changed.
-- **Body.** Set the adjacent Edit Body toggle to see and edit the
-  default plain text message.
-- **HTML.** Set the adjacent Edit HTML Body toggle to see and edit the
-  default HTML message.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
+- **Subject** This may display a string or a placeholder or a mixture of the
+  two in plain text. 
+- **Body** The plain text message content.
+- **HTML** The HTML message content.

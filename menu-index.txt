@@ -47,10 +47,6 @@ help=contacts=contacts-edit.md
 help=contacts=contacts-edit-category.md
 help=contacts=contacts-options.md
 
-heading=content-security-policy=Content Security Policy
-help=content-security-policy=content-security-policy-options.md
-help=content-security-policy=content-security-policy-reports.md
-
 heading=editors=Editors
 help=editors=editors.md
 
@@ -60,6 +56,7 @@ help=extensions=extensions-install.md
 help=extensions=extensions-languages.md
 help=extensions=extensions-manage.md
 help=extensions=extensions-update.md
+help=extensions=installer-options.md
 
 heading=fields=Fields
 help=fields=fields.md
@@ -71,33 +68,31 @@ heading=glossary=Glossary
 help=glossary=glossary.md
 
 heading=guided-tours=Guided Tours
-help=guided-tours=guided-tours-new-or-edit-step.md
-help=guided-tours=guided-tours-new-or-edit-tour.md
-help=guided-tours=guided-tours-options.md
-help=guided-tours=guided-tours-steps.md
 help=guided-tours=guided-tours-tours.md
+help=guided-tours=guided-tours-new-or-edit-tour.md
+help=guided-tours=guided-tours-steps.md
+help=guided-tours=guided-tours-new-or-edit-step.md
+help=guided-tours=guided-tours-options.md
 
 heading=information=Information
 help=information=information-warnings.md
 
-heading=install-or-update=Install or Update
-help=install-or-update=joomla-update.md
-help=install-or-update=joomla-update-options.md
-help=install-or-update=installer-options.md
+heading=joomla-update=Joomla Update
+help=joomla-update=joomla-update.md
+help=joomla-update=joomla-update-options.md
 
 heading=languages=Languages
+help=languages=languages-installed.md
 help=languages=languages-content.md
 help=languages=languages-edit-content-language.md
-help=languages=languages-edit-override.md
-help=languages=languages-installed.md
-help=languages=languages-options.md
 help=languages=languages-overrides.md
+help=languages=languages-edit-override.md
+help=languages=languages-options.md
 
 heading=mail=Mail
-help=mail=mail-template-edit.md
 help=mail=mail-templates.md
+help=mail=mail-template-edit.md
 help=mail=mail-templates-options.md
-help=mail=mass-mail-users.md
 
 heading=maintenance=Maintenance
 help=maintenance=maintenance-clear-cache.md
@@ -110,48 +105,80 @@ heading=media=Media
 help=media=media.md
 help=media=media-options.md
 
-heading=menu-items=Menu Items
-help=menu-items=menu-item-alias.md
-help=menu-items=menu-item-article-archived.md
-help=menu-items=menu-item-category-blog.md
-help=menu-items=menu-item-category-list.md
-help=menu-items=menu-item-compact-list-of-tagged-items.md
-help=menu-items=menu-item-components-menu-container.md
-help=menu-items=menu-item-confirm-request.md
-help=menu-items=menu-item-create-article.md
-help=menu-items=menu-item-create-contact.md
-help=menu-items=menu-item-create-request.md
-help=menu-items=menu-item-display-template-options.md
-help=menu-items=menu-item-edit-user-profile.md
-help=menu-items=menu-item-extend-consent.md
-help=menu-items=menu-item-featured-articles.md
-help=menu-items=menu-item-featured-contacts.md
-help=menu-items=menu-item-heading.md
-help=menu-items=menu-item-iframe-wrapper.md
-help=menu-items=menu-item-list-all-categories.md
-help=menu-items=menu-item-list-all-contact-categories.md
-help=menu-items=menu-item-list-all-news-feed-categories.md
-help=menu-items=menu-item-list-all-tags.md
-help=menu-items=menu-item-list-contacts-in-a-category.md
-help=menu-items=menu-item-list-news-feeds-in-a-category.md
-help=menu-items=menu-item-login-form.md
-help=menu-items=menu-item-logout.md
-help=menu-items=menu-item-new-item.md
-help=menu-items=menu-item-password-reset.md
-help=menu-items=menu-item-registration-form.md
-help=menu-items=menu-item-search.md
-help=menu-items=menu-item-separator.md
-help=menu-items=menu-item-single-article.md
-help=menu-items=menu-item-single-contact.md
-help=menu-items=menu-item-single-news-feed.md
-help=menu-items=menu-item-site-configuration-options.md
-help=menu-items=menu-item-tagged-items.md
-help=menu-items=menu-item-url.md
-help=menu-items=menu-item-user-profile.md
-help=menu-items=menu-item-username-reminder-request.md
-help=menu-items=menu-item-weblink-categories.md
-help=menu-items=menu-item-weblink-category.md
-help=menu-items=menu-item-weblink-submit.md
+heading=menu-items-administrator=Menu Items: Administrator
+help=menu-items=administrator-new-item.md
+help=menu-items=administrator-components-menu-container.md
+
+heading=menu-items-articles=Menu Items: Articles
+help=menu-items=articles-archived-articles.md
+help=menu-items=articles-category-blog.md
+help=menu-items=articles-category-list.md
+help=menu-items=articles-create-article.md
+help=menu-items=articles-featured-articles.md
+help=menu-items=articles-list-all-categories.md
+help=menu-items=articles-single-article.md
+
+heading=menu-items-configuration=Menu Items: Configuration
+help=menu-items=configuration-display-template-options.md
+help=menu-items=configuration-site-configuration-options.md
+
+heading=menu-items-contacts=Menu Items: Contacts
+help=menu-items=contacts-create-contact.md
+help=menu-items=contacts-featured-contacts.md
+help=menu-items=contacts-list-all-contact-categories.md
+help=menu-items=contacts-list-contacts-in-a-category.md
+help=menu-items=contacts-single-contact.md
+
+heading=menu-items-news-feeds=Menu Items: News Feeds
+help=menu-items=news-feeds-list-all-news-feed-categories.md
+help=menu-items=news-feeds-list-news-feeds-in-a-category.md
+help=menu-items=news-feeds-single-news-feed.md
+
+heading=menu-items-privacy=Menu Items: Privacy
+help=menu-items=privacy-confirm-request.md
+help=menu-items=privacy-create-request.md
+help=menu-items=privacy-extend-consent.md
+
+heading=menu-items-smart-search=Menu Items: Smart Search
+help=menu-items=smart-search-search.md
+
+heading=menu-items-system-links=Menu Items: System Links
+help=menu-items=system-links-menu-heading.md
+help=menu-items=system-links-menu-item-alias.md
+help=menu-items=system-links-separator.md
+help=menu-items=system-links-url.md
+
+heading=menu-items-tags=Menu Items: Tags
+help=menu-items=tags-compact-list-of-tagged-items.md
+help=menu-items=tags-list-all-tags.md
+help=menu-items=tags-tagged-items.md
+
+heading=menu-items-users=Menu Items: Users
+help=menu-items=users-edit-user-profile.md
+help=menu-items=users-login-form.md
+help=menu-items=users-logout.md
+help=menu-items=users-password-reset.md
+help=menu-items=users-registration-form.md
+help=menu-items=users-user-profile.md
+help=menu-items=users-username-reminder-request.md
+
+heading=menu-items-wrapper=Menu Items: Wrapper
+help=menu-items=wrapper-iframe-wrapper.md
+
+heading=menu-items-weblinks=Menu Items: Weblinks
+help=menu-items=weblinks-weblink-categories.md
+help=menu-items=weblinks-weblink-category.md
+help=menu-items=weblinks-weblink-submit.md
+
+heading=menu-items-common=Menu Items Common
+help=menu-items-common=menu-item-details.md
+help=menu-items-common=menu-item-article-options.md
+help=menu-items-common=menu-item-integration.md
+help=menu-items-common=menu-item-link-type.md
+help=menu-items-common=menu-item-page-display.md
+help=menu-items-common=menu-item-metadata.md
+help=menu-items-common=menu-item-associations.md
+help=menu-items-common=menu-item-module-assignment.md
 
 heading=menus=Menus
 help=menus=menus.md
@@ -159,13 +186,16 @@ help=menus=menus-edit.md
 help=menus=menus-items.md
 help=menus=menus-options.md
 
-heading=messages=Messages
-help=messages=messages-options.md
+heading=modules=Modules
+help=modules=modules.md
+help=modules=modules-module-tab.md
+help=modules=modules-menu-assignment-tab.md
+help=modules=modules-options-tab.md
+help=modules=modules-advanced-tab.md
+help=modules=module-options.md
 
 heading=modules-admin=Administrator Modules
-help=modules-admin=modules.md
-help=modules-admin=admin-modules-new.md
-help=modules-admin=module-options.md
+help=modules-admin=admin-modules-administrator.md
 help=modules-admin=admin-modules-action-logs-latest.md
 help=modules-admin=admin-modules-administrator-dashboard-menu.md
 help=modules-admin=admin-modules-administrator-menu.md
@@ -189,9 +219,9 @@ help=modules-admin=admin-modules-sample-data.md
 help=modules-admin=admin-modules-title.md
 help=modules-admin=admin-modules-toolbar.md
 help=modules-admin=admin-modules-user-menu.md
-help=modules-admin=extensions-modules-administrator.md
 
 heading=modules-site=Site Modules
+help=modules-site=site-modules-site.md
 help=modules-site=site-modules-articles-archived.md
 help=modules-site=site-modules-articles-categories.md
 help=modules-site=site-modules-articles-category.md
@@ -259,6 +289,7 @@ heading=private-messages=Private Messages
 help=private-messages=private-messages.md
 help=private-messages=private-messages-read.md
 help=private-messages=private-messages-write.md
+help=private-messages=messages-options.md
 
 heading=redirect=Redirect
 help=redirect=redirects-links.md
@@ -302,6 +333,7 @@ help=users=users-groups.md
 help=users=users-new-or-edit-group.md
 help=users=users-viewing-access-levels.md
 help=users=users-edit-viewing-access-level.md
+help=users=mass-mail-users.md
 help=users=user-notes.md
 help=users=user-notes-new-or-edit.md
 help=users=user-notes-categories.md

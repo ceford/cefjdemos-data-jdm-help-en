@@ -1,40 +1,43 @@
-<!-- Filename: Help4.x:Fields:_Edit / Display title: Fields: Edit -->
+<!-- Filename: Help4.x:Fields:_Edit / Display title: Component: Edit Field -->
 
 ## Description
 
-This is where you can add and edit Fields in Articles, Contacts, and
-Users.
+The Component: Edit Field page is similar for all components that implement 
+fields but the page title changes depending on context: Articles: Edit Field, 
+Contacts: Edit Field or Users: Edit Field. 
 
-The helpscreen show as example Users.
+The **General** tab changes to reflect the type of field being edited and once 
+a field has been saved its field type cannot be changed. However it easy to
+delete fields and create new ones.
+
+### Common Elements
+
+Some aspects of the *Components: Edit Field* page are covered in separate Help
+articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
 
 ## How to Access
 
-Select **Content → Field Groups** from tha Administrator menu. Or...
-Select **Contact → Field Groups** from tha Administrator menu. Or...
-Select **Users → Field Groups** from tha Administrator menu. Then...
+* Select **Content → Fields** from tha Administrator menu. Or...
+* Select **Contact → Fields** from tha Administrator menu. Or...
+* Select **Users → Fields** from tha Administrator menu. Then...
+  * select the **New** button in the Toolbar to create a new field. Or...
+  * Select a **Title** from the list to edit an existing field.
 
-Select an item from the list in the filter bar. The options are:
-
-- Content: Articles or Category.
-- Contact: Contact, Mail or Category.
-- User: No options.
-
-To add a Field Group: select the **New** toolbar button
-
-To edit a Field Group: select a **Title** from the list
+**Note:** There is a dropdown list that allows creation of Fields for a
+Category, and Mail in the Contact component. They require some coding 
+experience to prepare suitable template overrides.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/6/6f/Help-4x-Fields-Edit-screen-en.png/800px-Help-4x-Fields-Edit-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/6f/Help-4x-Fields-Edit-screen-en.png/1200px-Help-4x-Fields-Edit-screen-en.png 1.5x, https://docs.joomla.org/images/thumb/6/6f/Help-4x-Fields-Edit-screen-en.png/1600px-Help-4x-Fields-Edit-screen-en.png 2x"
-data-file-width="2720" data-file-height="1700" width="800" height="500"
-alt="Fields Edit screen" />
+![Articles edit field](../../../en/images/fields/articles-edit-field.png)
 
 ## Form Fields
 
-- **Title**. The Title for this field.
+- **Title**. The title for this field.
 
 ### General tab
 
@@ -82,12 +85,7 @@ Parameters for all fields:
 
 ### Options tab
 
-<img
-src="https://docs.joomla.org/images/thumb/5/55/Help-4x-Fields-Edit-options-subscreen-en.png/600px-Help-4x-Fields-Edit-options-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/55/Help-4x-Fields-Edit-options-subscreen-en.png/900px-Help-4x-Fields-Edit-options-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/5/55/Help-4x-Fields-Edit-options-subscreen-en.png/1200px-Help-4x-Fields-Edit-options-subscreen-en.png 2x"
-data-file-width="1259" data-file-height="531" width="600" height="253"
-alt="Fields Edit options tab" />
+![Articles edit field options tab](../../../en/images/fields/articles-edit-field-options-tab.png)
 
 #### Form Options
 
@@ -104,25 +102,25 @@ alt="Fields Edit options tab" />
 - **Showon Attribute**. Conditionally show or hide the field depending
   on the value of other fields. The syntax to use here, for example:
   `list-of-items:value1[OR]list-of-items:value2`
-  - list-of-items â€“ It is the *name* of an already created field on
-    which this field will depends to be show.
-  - value1 â€“ Is the value need have the field on which it depends to
-    be show.
-  - \[OR\] â€“ To create a choice among multiple fields. In the example,
-    this field will show when *list-of-items* field have the value:
+  - list-of-items: The *name* of an already created field on
+    which this field will depend to be shown.
+  - value1: The value needed to have the field on which it depends to
+    be shown.
+  - \[OR\]: To create a choice among multiple fields. In the example,
+    this field will show when the *list-of-items* field has the value:
     *value1* OR *value2*
-  - \[AND\] â€“ To combine multiple fields. This field will show only
-    when *list-of-items* field have the value: *value1* AND *value2*
+  - \[AND\]: To combine multiple fields. This field will show only
+    when the *list-of-items* field has the value: *value1* AND *value2*
   - You can also use value 'does not equal' as in
     **list-of-items!:value1**. The syntax will show this field only when
     *list-of-items* is not equal to *value1*
   - To show this field when *list-of-items* field has been selected and
-    have not a empty value, use the syntax *list-of-items!:* (without a
+    does not have an empty value, use the syntax *list-of-items!:* (without a
     value specified).
 
-**Note:** Subform fields handle different the identifier *name* of
-*list-of-items*. If you create a Subform custom field and you add this
-conditional field you are creating to there, you need use *field\[ID\]*
+**Note:** Subform fields handle the identifier *name* of *list-of-items*
+differently. If you create a Subform custom field and you add this
+conditional field there, you need use *field\[ID\]*
 instead of *list-of-items*, where ID is the id of the field
 *list-of-items*. Therefore, the showon attribute for this conditional
 field you are creating need be: `field36:value1[OR]field36:value2` where
@@ -151,69 +149,6 @@ field you are creating need be: `field36:value1[OR]field36:value2` where
   user doesn't have the access level) should the field be displayed or
   hidden.
 
-### Publishing
+#### Smart Search
 
-<img
-src="https://docs.joomla.org/images/thumb/7/77/Help-4x-Fields-Edit-publishing-subscreen-en.png/600px-Help-4x-Fields-Edit-publishing-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/7/77/Help-4x-Fields-Edit-publishing-subscreen-en.png/900px-Help-4x-Fields-Edit-publishing-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/7/77/Help-4x-Fields-Edit-publishing-subscreen-en.png/1200px-Help-4x-Fields-Edit-publishing-subscreen-en.png 2x"
-data-file-width="2880" data-file-height="980" width="600" height="204"
-alt="Fields Edit publishing tab" />
-
-- **Created Date**. The current time when the field was created. Enter
-  in a different date and time or click on the calendar icon to find the
-  desired date.
-- **Created By**. Name of the User who created this field. This will
-  default to the currently logged-in user. If you want to change this to
-  a different user, click the Select User button.
-- **Modified Date**. Date of last modification.
-- **Modified By**. Username who performed the last modification.
-- **ID**. A unique identification number for this field, you cannot
-  change this number. When creating a new field, this field displays "0"
-  until you save the new entry.
-
-### Permissions
-
-This is where you can enter permissions for this field.
-
-<img
-src="https://docs.joomla.org/images/thumb/c/c0/Help-4x-Fields-Edit-permissions-subscreen-en.png/600px-Help-4x-Fields-Edit-permissions-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c0/Help-4x-Fields-Edit-permissions-subscreen-en.png/900px-Help-4x-Fields-Edit-permissions-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/c/c0/Help-4x-Fields-Edit-permissions-subscreen-en.png/1200px-Help-4x-Fields-Edit-permissions-subscreen-en.png 2x"
-data-file-width="2880" data-file-height="1260" width="600" height="263"
-alt="Fields Edit permissions tab" />
-
-To change the permissions for this field, do the following.
-
-1.  Select the **Group** by clicking its title located on the left.
-2.  Find the desired **Action**.
-    - **Delete**. Users can delete this field.
-    - **Edit**. Users can edit this field.
-    - **Edit State**. User can change the published state and related
-      information for this field.
-    - **Edit Custom Field Value.** Users can edit the field value.
-3.  Select the desired permission for the action you wish to change.
-    - **Inherited**. Inherited for users in this Group from the Global Configuration,
-      parent group, or category.
-    - **Allowed**. Allowed for users in this Group.Note: If this action
-      is Denied at one of the higher levels, the Allowed permission here
-      will not take effect. A Denied setting cannot be overridden.
-    - **Denied**. Denied for users in this Group.
-4.  Click **Save** in **Toolbar** at top. When the screen refreshes, the
-    Calculated Setting column will show the effective permission for
-    this Group and Action.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Save**. Saves the field and stays in the current screen.
-- **Save & Close**. Saves the field and closes the current screen.
-  - **Save & New**. Saves the field and keeps the editing screen open
-    and ready to create another field.
-  - **Save as Copy**. Saves your changes to a copy of the current field.
-    Does not affect the current field.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
+- **Search Index:** ...

@@ -14,7 +14,7 @@ category, contact, menu item and news feed.
 ![Article edit associations tab](../../../en/images/common-elements/articles-edit-association-tab.png "")
 
 In this illustration an article has been created in German. It is the one being
-edited. The associations list shows the available language other than German.
+edited. The associations list shows the available languages other than German.
 An association with the same article in English has been made. It can be Edited
 or Cleared. Associations with the same article in other languages can be made
 by choosing an article from articles already available or by creating a new

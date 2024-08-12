@@ -34,9 +34,6 @@ contacts=contacts-edit-category.md=https://docs.joomla.org/Help5.x:Contacts:_New
 contacts=contacts-options.md=https://docs.joomla.org/Help5.x:Contacts:_Options
 contacts=contacts.md=https://docs.joomla.org/Help5.x:Contacts
 
-content-security-policy=content-security-policy-options.md=https://docs.joomla.org/Help5.x:Content_Security_Policy:_Options
-content-security-policy=content-security-policy-reports.md=https://docs.joomla.org/Help5.x:Content_Security_Policy_Reports
-
 editors=editors.md=https://docs.joomla.org/Help5.x:Editors
 
 extensions=extensions-discover.md=https://docs.joomla.org/Help5.x:Extensions:_Discover
@@ -44,6 +41,7 @@ extensions=extensions-install.md=https://docs.joomla.org/Help5.x:Extensions:_Ins
 extensions=extensions-languages.md=https://docs.joomla.org/Help5.x:Extensions:_Languages
 extensions=extensions-manage.md=https://docs.joomla.org/Help5.x:Extensions:_Manage
 extensions=extensions-update.md=https://docs.joomla.org/Help5.x:Extensions:_Update
+extensions=installer-options.md=https://docs.joomla.org/Help5.x:Installer:_Options
 
 fields=field-groups-edit.md=https://docs.joomla.org/Help5.x:Field_Groups:_Edit
 fields=field-groups.md=https://docs.joomla.org/Help5.x:Field_Groups
@@ -62,9 +60,8 @@ help-screens=start-here.md=https://docs.joomla.org/Help5.x:Start_Here
 
 information=information-warnings.md=https://docs.joomla.org/Help5.x:Information:_Warnings
 
-install-or-update=installer-options.md=https://docs.joomla.org/Help5.x:Installer:_Options
-install-or-update=joomla-update-options.md=https://docs.joomla.org/Help5.x:Joomla_Update:_Options
-install-or-update=joomla-update.md=https://docs.joomla.org/Help5.x:Joomla_Update
+joomla-update=joomla-update-options.md=https://docs.joomla.org/Help5.x:Joomla_Update:_Options
+joomla-update=joomla-update.md=https://docs.joomla.org/Help5.x:Joomla_Update
 
 languages=languages-content.md=https://docs.joomla.org/Help5.x:Languages:_Content
 languages=languages-edit-content-language.md=https://docs.joomla.org/Help5.x:Languages:_Edit_Content_Language
@@ -76,7 +73,6 @@ languages=languages-overrides.md=https://docs.joomla.org/Help5.x:Languages:_Over
 mail=mail-template-edit.md=https://docs.joomla.org/Help5.x:Mail_Template:_Edit
 mail=mail-templates-options.md=https://docs.joomla.org/Help5.x:Mail_Templates:_Options
 mail=mail-templates.md=https://docs.joomla.org/Help5.x:Mail_Templates
-mail=mass-mail-users.md=https://docs.joomla.org/Help5.x:Mass_Mail_Users
 
 maintenance=maintenance-clear-cache.md=https://docs.joomla.org/Help5.x:Maintenance:_Clear_Cache
 maintenance=cache-options.md=https://docs.joomla.org/Help5.x:Cache:_Options
@@ -87,59 +83,81 @@ maintenance=check-in-options.md=https://docs.joomla.org/Help5.x:Check-in:_Option
 media=media-options.md=https://docs.joomla.org/Help5.x:Media:_Options
 media=media.md=https://docs.joomla.org/Help5.x:Media
 
-menu-items=menu-item-alias.md=https://docs.joomla.org/Help5.x:Menu_Item:_Alias
-menu-items=menu-item-article-archived.md=https://docs.joomla.org/Help5.x:Menu_Item:_Article_Archived
-menu-items=menu-item-category-blog.md=https://docs.joomla.org/Help5.x:Menu_Item:_Category_Blog
-menu-items=menu-item-category-list.md=https://docs.joomla.org/Help5.x:Menu_Item:_Category_List
-menu-items=menu-item-compact-list-of-tagged-items.md=https://docs.joomla.org/Help5.x:Menu_Item:_Compact_List_of_Tagged_Items
-menu-items=menu-item-components-menu-container.md=https://docs.joomla.org/Help5.x:Menu_Item:_Components_Menu_Container
-menu-items=menu-item-confirm-request.md=https://docs.joomla.org/Help5.x:Menu_Item:_Confirm_Request
-menu-items=menu-item-create-article.md=https://docs.joomla.org/Help5.x:Menu_Item:_Create_Article
-menu-items=menu-item-create-contact.md=https://docs.joomla.org/Help5.x:Menu_Item:_Create_Contact
-menu-items=menu-item-create-request.md=https://docs.joomla.org/Help5.x:Menu_Item:_Create_Request
-menu-items=menu-item-display-template-options.md=https://docs.joomla.org/Help5.x:Menu_Item:_Display_Template_Options
-menu-items=menu-item-edit-user-profile.md=https://docs.joomla.org/Help5.x:Menu_Item:_Edit_User_Profile
-menu-items=menu-item-extend-consent.md=https://docs.joomla.org/Help5.x:Menu_Item:_Extend_Consent
-menu-items=menu-item-featured-articles.md=https://docs.joomla.org/Help5.x:Menu_Item:_Featured_Articles
-menu-items=menu-item-featured-contacts.md=https://docs.joomla.org/Help5.x:Menu_Item:_Featured_Contacts
-menu-items=menu-item-heading.md=https://docs.joomla.org/Help5.x:Menu_Item:_Heading
-menu-items=menu-item-iframe-wrapper.md=https://docs.joomla.org/Help5.x:Menu_Item:_Iframe_Wrapper
-menu-items=menu-item-list-all-categories.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_All_Categories
-menu-items=menu-item-list-all-contact-categories.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_All_Contact_Categories
-menu-items=menu-item-list-all-news-feed-categories.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_All_News_Feed_Categories
-menu-items=menu-item-list-all-tags.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_All_Tags
-menu-items=menu-item-list-contacts-in-a-category.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_Contacts_in_a_Category
-menu-items=menu-item-list-news-feeds-in-a-category.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_News_Feeds_in_a_Category
-menu-items=menu-item-login-form.md=https://docs.joomla.org/Help5.x:Menu_Item:_Login_Form
-menu-items=menu-item-logout.md=https://docs.joomla.org/Help5.x:Menu_Item:_Logout
-menu-items=menu-item-new-item.md=https://docs.joomla.org/Help5.x:Menu_Item:_New_Item
-menu-items=menu-item-password-reset.md=https://docs.joomla.org/Help5.x:Menu_Item:_Password_Reset
-menu-items=menu-item-registration-form.md=https://docs.joomla.org/Help5.x:Menu_Item:_Registration_Form
-menu-items=menu-item-search.md=https://docs.joomla.org/Help5.x:Menu_Item:_Search
-menu-items=menu-item-separator.md=https://docs.joomla.org/Help5.x:Menu_Item:_Separator
-menu-items=menu-item-single-article.md=https://docs.joomla.org/Help5.x:Menu_Item:_Single_Article
-menu-items=menu-item-single-contact.md=https://docs.joomla.org/Help5.x:Menu_Item:_Single_Contact
-menu-items=menu-item-single-news-feed.md=https://docs.joomla.org/Help5.x:Menu_Item:_Single_News_Feed
-menu-items=menu-item-site-configuration-options.md=https://docs.joomla.org/Help5.x:Menu_Item:_Site_Configuration_Options
-menu-items=menu-item-tagged-items.md=https://docs.joomla.org/Help5.x:Menu_Item:_Tagged_Items
-menu-items=menu-item-url.md=https://docs.joomla.org/Help5.x:Menu_Item:_URL
-menu-items=menu-item-user-profile.md=https://docs.joomla.org/Help5.x:Menu_Item:_User_Profile
-menu-items=menu-item-username-reminder-request.md=https://docs.joomla.org/Help5.x:Menu_Item:_Username_Reminder_Request
-menu-items=menu-item-weblink-categories.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Categories
-menu-items=menu-item-weblink-category.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Category
-menu-items=menu-item-weblink-submit.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Submit
+menu-items=administrator-components-menu-container.md=https://docs.joomla.org/Help5.x:Menu_Item:_Components_Menu_Container
+menu-items=administrator-new-item.md=https://docs.joomla.org/Help5.x:Menu_Item:_New_Item
+
+menu-items=articles-archived-articles.md=https://docs.joomla.org/Help5.x:Menu_Item:_Article_Archived
+menu-items=articles-category-blog.md=https://docs.joomla.org/Help5.x:Menu_Item:_Category_Blog
+menu-items=articles-category-list.md=https://docs.joomla.org/Help5.x:Menu_Item:_Category_List
+menu-items=articles-create-article.md=https://docs.joomla.org/Help5.x:Menu_Item:_Create_Article
+menu-items=articles-featured-articles.md=https://docs.joomla.org/Help5.x:Menu_Item:_Featured_Articles
+menu-items=articles-list-all-categories.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_All_Categories
+menu-items=articles-single-article.md=https://docs.joomla.org/Help5.x:Menu_Item:_Single_Article
+
+menu-items=configuration-display-template-options.md=https://docs.joomla.org/Help5.x:Menu_Item:_Display_Template_Options
+menu-items=configuration-site-configuration-options.md=https://docs.joomla.org/Help5.x:Menu_Item:_Site_Configuration_Options
+
+menu-items=contacts-create-contact.md=https://docs.joomla.org/Help5.x:Menu_Item:_Create_Contact
+menu-items=contacts-featured-contacts.md=https://docs.joomla.org/Help5.x:Menu_Item:_Featured_Contacts
+menu-items=contacts-list-all-contact-categories.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_All_Contact_Categories
+menu-items=contacts-list-contacts-in-a-category.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_Contacts_in_a_Category
+menu-items=contacts-single-contact.md=https://docs.joomla.org/Help5.x:Menu_Item:_Single_Contact
+
+menu-items=news-feeds-list-all-news-feed-categories.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_All_News_Feed_Categories
+menu-items=news-feeds-list-news-feeds-in-a-category.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_News_Feeds_in_a_Category
+menu-items=news-feeds-single-news-feed.md=https://docs.joomla.org/Help5.x:Menu_Item:_Single_News_Feed
+
+menu-items=privacy-confirm-request.md=https://docs.joomla.org/Help5.x:Menu_Item:_Confirm_Request
+menu-items=privacy-create-request.md=https://docs.joomla.org/Help5.x:Menu_Item:_Create_Request
+menu-items=privacy-extend-consent.md=https://docs.joomla.org/Help5.x:Menu_Item:_Extend_Consent
+
+menu-items=smart-search-search.md=https://docs.joomla.org/Help5.x:Menu_Item:_Search
+
+menu-items=system-links-menu-heading.md=https://docs.joomla.org/Help5.x:Menu_Item:_Heading
+menu-items=system-links-menu-item-alias.md=https://docs.joomla.org/Help5.x:Menu_Item:_Alias
+menu-items=system-links-separator.md=https://docs.joomla.org/Help5.x:Menu_Item:_Separator
+menu-items=system-links-url.md=https://docs.joomla.org/Help5.x:Menu_Item:_URL
+
+menu-items=tags-compact-list-of-tagged-items.md=https://docs.joomla.org/Help5.x:Menu_Item:_Compact_List_of_Tagged_Items
+menu-items=tags-list-all-tags.md=https://docs.joomla.org/Help5.x:Menu_Item:_List_All_Tags
+menu-items=tags-tagged-items.md=https://docs.joomla.org/Help5.x:Menu_Item:_Tagged_Items
+
+menu-items=users-edit-user-profile.md=https://docs.joomla.org/Help5.x:Menu_Item:_Edit_User_Profile
+menu-items=users-login-form.md=https://docs.joomla.org/Help5.x:Menu_Item:_Login_Form
+menu-items=users-logout.md=https://docs.joomla.org/Help5.x:Menu_Item:_Logout
+menu-items=users-password-reset.md=https://docs.joomla.org/Help5.x:Menu_Item:_Password_Reset
+menu-items=users-registration-form.md=https://docs.joomla.org/Help5.x:Menu_Item:_Registration_Form
+menu-items=users-user-profile.md=https://docs.joomla.org/Help5.x:Menu_Item:_User_Profile
+menu-items=users-username-reminder-request.md=https://docs.joomla.org/Help5.x:Menu_Item:_Username_Reminder_Request
+
+menu-items=wrapper-iframe-wrapper.md=https://docs.joomla.org/Help5.x:Menu_Item:_Iframe_Wrapper
+
+menu-items=weblinks-weblink-categories.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Categories
+menu-items=weblinks-weblink-category.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Category
+menu-items=weblinks-weblink-submit.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Submit
+
+menu-items-common=menu-item-article-options.md=Help6.x:Menu_Item_Article_Options
+menu-items-common=menu-item-details.md=Help6.x:Menu_Item_Details
+menu-items-common=menu-item-link-type.md=Help6.x:Menu_Item_Link_Type
+menu-items-common=menu-item-page-display.md=Help6.x:Menu_Item_Page_Display
+menu-items-common=menu-item-metadata.md=Help6.x:Menu_Item_Metadata
+menu-items-common=menu-item-associations.md=Help6.x:Menu_Item_Associations
+menu-items-common=menu-item-module-assignment.md=Help6.x:Menu_Item_Module_Assignment
+menu-items-common=menu-item-integration.md=Help6.x:Menu_Item_Integration
 
 menus=menus-edit.md=https://docs.joomla.org/Help5.x:Menus:_Edit
 menus=menus-items.md=https://docs.joomla.org/Help5.x:Menus:_Items
 menus=menus-options.md=https://docs.joomla.org/Help5.x:Menus:_Options
 menus=menus.md=https://docs.joomla.org/Help5.x:Menus
 
-messages=messages-options.md=https://docs.joomla.org/Help5.x:Messages:_Options
+modules=module-options.md=Help6.x:Module:_Options
+modules=modules-module-tab.md=Help6.x:Modules_Module_Tab
+modules=modules-menu-assignment-tab.md=Help6.x:Modules_Menu_Assignment_Tab
+modules=modules-options-tab.md=Help6.x:Modules_Options_Tab
+modules=modules-advanced-tab.md=Help6.x:Modules_Advanced_Tab
+modules=modules.md=https://docs.joomla.org/Help5.x:Modules
 
-modules-admin=modules.md=https://docs.joomla.org/Help5.x:Modules
-modules-admin=admin-modules-new.md=https://docs.joomla.org/Help5.x:Extensions_Module_Manager_Edit
-modules-admin=module-options.md=https://docs.joomla.org/Help5.x:Module:_Options
-
+modules-admin=admin-modules-administrator.md=https://docs.joomla.org/Help5.x:Extensions_Modules_Administrator
 modules-admin=admin-modules-action-logs-latest.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Action_Logs_-_Latest
 modules-admin=admin-modules-administrator-dashboard-menu.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Administrator_Dashboard_Menu
 modules-admin=admin-modules-administrator-menu.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Administrator_Menu
@@ -163,8 +181,8 @@ modules-admin=admin-modules-title.md=https://docs.joomla.org/Help5.x:Admin_Modul
 modules-admin=admin-modules-toolbar.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Toolbar
 modules-admin=admin-modules-guided-tours.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Tours_Menu
 modules-admin=admin-modules-user-menu.md=https://docs.joomla.org/Help5.x:Admin_Modules:_User_Menu
-modules-admin=extensions-modules-administrator.md=https://docs.joomla.org/Help5.x:Extensions_Modules_Administrator
 
+modules-site=site-modules-site.md=https://docs.joomla.org/Help5.x:Extensions_Module_Manager_Edit
 modules-site=site-modules-articles-archived.md=https://docs.joomla.org/Help5.x:Site_Modules:_Articles_-_Archived
 modules-site=site-modules-articles-categories.md=https://docs.joomla.org/Help5.x:Site_Modules:_Articles_-_Categories
 modules-site=site-modules-articles-category.md=https://docs.joomla.org/Help5.x:Site_Modules:_Articles_-_Category
@@ -224,6 +242,7 @@ privacy=privacy-dashboard.md=https://docs.joomla.org/Help5.x:Privacy_Dashboard
 private-messages=private-messages.md=https://docs.joomla.org/Help5.x:Private_Messages
 private-messages=private-messages-read.md=https://docs.joomla.org/Help5.x:Private_Messages:_Read
 private-messages=private-messages-write.md=https://docs.joomla.org/Help5.x:Private_Messages:_Write
+private-messages=messages-options.md=https://docs.joomla.org/Help5.x:Messages:_Options
 
 redirect=redirects-links.md=https://docs.joomla.org/Help5.x:Redirects:_Links
 redirect=redirects-new-or-edit.md=https://docs.joomla.org/Help5.x:Redirects:_New_or_Edit
@@ -273,6 +292,7 @@ users=users-new-or-edit-group.md=https://docs.joomla.org/Help5.x:Users:_New_or_E
 users=users-options.md=https://docs.joomla.org/Help5.x:Users:_Options
 users=users-viewing-access-levels.md=https://docs.joomla.org/Help5.x:Users:_Viewing_Access_Levels
 users=users.md=https://docs.joomla.org/Help5.x:Users
+users=mass-mail-users.md=https://docs.joomla.org/Help5.x:Mass_Mail_Users
 
 weblinks=weblinks-options.md=https://docs.joomla.org/Help4.x:Components_Web_Links_Manager_Options
 weblinks=weblinks-categories.md=https://docs.joomla.org/Help4.x:Components_Weblinks_Categories
