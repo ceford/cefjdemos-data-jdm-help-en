@@ -9,12 +9,12 @@ of Categories, such as those for Articles, Contacts, and News Feeds.
 
 ### Common Elements
 
-Some elements of the Category edit page are covered in separate Help articles:
+Some elements of this page are covered in separate Help articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
-* [The Options Tab](jdocmanual?article=help/common-elements/edit-category-options "").
-* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
-* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Options Tab](jdocmanual?article=help/common-elements/edit-category-options).
+* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing).
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
 
 ## How to Access
 

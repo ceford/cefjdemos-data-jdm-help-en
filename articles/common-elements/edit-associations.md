@@ -11,7 +11,7 @@ category, contact, menu item and news feed.
 
 ## Example: Articles: Edit Associations Tab
 
-![Article edit associations tab](../../../en/images/common-elements/articles-edit-association-tab.png "")
+![Article edit associations tab](../../../en/images/common-elements/articles-edit-association-tab.png)
 
 In this illustration an article has been created in German. It is the one being
 edited. The associations list shows the available languages other than German.

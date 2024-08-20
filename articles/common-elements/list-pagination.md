@@ -8,7 +8,7 @@ may be hundreds of items, thousands perhaps, or even millions. The default
 Beneath each page of results, if there are more results than the current limit,
 you will find a *Pagination* bar:
 
-![Articles list pagination bar](../../../en/images/common-elements/articles-list-pagination-bar.png "")
+![Articles list pagination bar](../../../en/images/common-elements/articles-list-pagination-bar.png)
 
 With the first number in the Pagination bar selected, the first 20 results will
 be displayed in the list, or whatever number of results the List Limit has been
@@ -22,7 +22,7 @@ it easy to move on or move back a page at a time.
 Here is a screenshot of the Plugins list having moved on to Page 10 with the
 List Limit set to 5:
 
-![Plugins list pagination bar](../../../en/images/common-elements/plugins-list-pagination-bar.png "")
+![Plugins list pagination bar](../../../en/images/common-elements/plugins-list-pagination-bar.png)
 
 ### The Icons
 

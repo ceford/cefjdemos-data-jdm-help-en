@@ -10,13 +10,13 @@ disclose personal information by mistake!
 
 ### Common Elements
 
-Some aspects of the *Contacts: Edit* page are covered in separate Help
+Some aspects of this page are covered in separate Help
 articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
-* [The Schema Tab](jdocmanual?article=help/common-elements/edit-schema "").
-* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
-* [The Associations Tab](jdocmanual?article=help/common-elements/edit-associations "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Schema Tab](jdocmanual?article=help/common-elements/edit-schema).
+* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing).
+* [The Associations Tab](jdocmanual?article=help/common-elements/edit-associations).
 
 ## How to Access
 

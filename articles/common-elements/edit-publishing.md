@@ -15,7 +15,7 @@ same description. This could have an adverse effect on SEO.
 
 The Articles Publishing tab:
 
-![The articles edit publishing tab](../../../en/images/common-elements/articles-edit-publishing-tab.png "")
+![The articles edit publishing tab](../../../en/images/common-elements/articles-edit-publishing-tab.png)
 
 Most form fields have default values allow the item to be saved. You may wish
 to take appropriate action for the following fields:

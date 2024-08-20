@@ -8,11 +8,11 @@ before creating any Banners.
 
 ### Common Elements
 
-Some aspects of the *Banners: Edit* page are covered in separate Help
+Some aspects of this page are covered in separate Help
 articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
-* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing).
 
 ## How to Access
 

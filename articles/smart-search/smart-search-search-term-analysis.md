@@ -8,22 +8,18 @@ set to **Yes** to allow statistics to be collected.
 
 ## How to Access
 
-- Select **Components → SmartSearch → Statistics** from the
+- Select **Components → Smart Search → Search Terms** from the
   Administrator menu.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/e/e7/Help-4x-Component-Smart-Search-Searches-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="416"
-width="800" height="416"
-alt="Smart Search Searches screen" />
+![smart search search term analysis](../../../en/images/smart-search/smart-search-search-term-analysis.png)
 
 ## Columns
 
-- **Search Phrase.** The search term entered by the site user.
-- **Hits.** The number of times this term has been used.
-- **Results.** The number of items resulting from the search.
+- **Search Phrase** The search term entered by the site user.
+- **Hits** The number of times this term has been used.
+- **Results** The number of items resulting from the search.
 
 ## Toolbar
 

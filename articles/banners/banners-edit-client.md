@@ -7,10 +7,10 @@ At least one Banner Client is required before a Banner can be created.
 
 ### Common Elements
 
-Some aspects of the *Banners: Edit Client* page are covered in separate Help
+Some aspects of this page are covered in separate Help
 articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 
 ## How to Access
 

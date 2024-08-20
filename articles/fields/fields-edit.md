@@ -12,12 +12,12 @@ delete fields and create new ones.
 
 ### Common Elements
 
-Some aspects of the *Components: Edit Field* page are covered in separate Help
+Some aspects of this page are covered in separate Help
 articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
-* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
-* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing).
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
 
 ## How to Access
 

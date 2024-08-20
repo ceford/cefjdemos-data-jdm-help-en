@@ -32,11 +32,10 @@ The form fields are those of the selected item type so are not covered here.
 
 ## Toolbar
 
-- **Save Reference**. Saves the Reference and stays in the current
+- **Save Reference** Saves the Reference and stays in the current
   screen.
-- **Save Target**. Saves the Target and stays in the current screen.
-- **Copy Reference to Target**. Copies all the fields to the target
-  fields.
-- **Close**. Closes the current screen and returns to the previous
+- **Save Target** Saves the Target and stays in the current screen.
+- **Copy Reference to Target** Copies all the fields to the target fields.
+- **Close** Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
+- **Help** Opens this help screen.

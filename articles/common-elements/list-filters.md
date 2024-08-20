@@ -13,7 +13,7 @@ to see your trashed items you need to set the **- Select Status -** filter to
 
 ## Articles List Filter Options¶
 
-![Articles list](../../../en/images/common-elements/articles-list-filter-options.png "")
+![Articles list](../../../en/images/common-elements/articles-list-filter-options.png)
 
 To **show** or **hide** the Options select the **Filter Options** button. Note
 that the Options are always displayed on return to any page in which an Option

@@ -1,5 +1,10 @@
 <!-- Filename: Help4.x:Templates:_Customise_Source / Display title: Templates: Customise Source -->
 
+<div class="alert alert-warning">
+This page appears in the index of Help pages but is not used via a Help button.
+This is a bug that is likely to be corrected.
+</div>
+
 ## Description
 
 This screen is where the source code of template files is edited. It

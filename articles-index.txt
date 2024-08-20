@@ -213,16 +213,11 @@ multilingual-associations=multilingual-associations-edit.md=https://docs.joomla.
 multilingual-associations=multilingual-associations-options.md=https://docs.joomla.org/Help5.x:Multilingual_Associations:_Options
 multilingual-associations=multilingual-associations.md=https://docs.joomla.org/Help5.x:Multilingual_Associations
 
-my-profile=my-profile.md=https://docs.joomla.org/Help5.x:My_Profile
-
 news-feed=news-feed-options.md=https://docs.joomla.org/Help5.x:News_Feed:_Options
 news-feed=news-feeds-categories.md=https://docs.joomla.org/Help5.x:News_Feeds:_Categories
 news-feed=news-feeds-new-or-edit.md=https://docs.joomla.org/Help5.x:News_Feeds:_New_or_Edit
 news-feed=news-feeds-new-or-edit-category.md=https://docs.joomla.org/Help5.x:News_Feeds:_New_or_Edit_Category
 news-feed=news-feeds.md=https://docs.joomla.org/Help5.x:News_Feeds
-
-permissions=permissions-for-group.md=https://docs.joomla.org/Help5.x:Permissions_for_Group
-permissions=permissions-for-user.md=https://docs.joomla.org/Help5.x:Permissions_for_User
 
 plugins=plugin-options.md=https://docs.joomla.org/Help5.x:Plugin:_Options
 plugins=plugins-name-of-plugin.md=https://docs.joomla.org/Help5.x:Plugins:_Name_of_Plugin
@@ -244,18 +239,12 @@ private-messages=private-messages-read.md=https://docs.joomla.org/Help5.x:Privat
 private-messages=private-messages-write.md=https://docs.joomla.org/Help5.x:Private_Messages:_Write
 private-messages=messages-options.md=https://docs.joomla.org/Help5.x:Messages:_Options
 
-redirect=redirects-links.md=https://docs.joomla.org/Help5.x:Redirects:_Links
-redirect=redirects-new-or-edit.md=https://docs.joomla.org/Help5.x:Redirects:_New_or_Edit
-redirect=redirect-options.md=https://docs.joomla.org/Help5.x:Redirect:_Options
+redirects=redirects-links.md=https://docs.joomla.org/Help5.x:Redirects:_Links
+redirects=redirects-new-or-edit.md=https://docs.joomla.org/Help5.x:Redirects:_New_or_Edit
+redirects=redirect-options.md=https://docs.joomla.org/Help5.x:Redirect:_Options
 
 site=site-control-panel.md=https://docs.joomla.org/Help5.x:Site_Control_Panel
 site=site-global-configuration.md=https://docs.joomla.org/Help5.x:Site_Global_Configuration
-site=site-global-configuration-logging.md=https://docs.joomla.org/Help5.x:Site_Global_Configuration_Logging
-site=site-global-configuration-permissions.md=https://docs.joomla.org/Help5.x:Site_Global_Configuration_Permissions
-site=site-global-configuration-server.md=https://docs.joomla.org/Help5.x:Site_Global_Configuration_Server
-site=site-global-configuration-site.md=https://docs.joomla.org/Help5.x:Site_Global_Configuration_Site
-site=site-global-configuration-system.md=https://docs.joomla.org/Help5.x:Site_Global_Configuration_System
-site=site-global-configuration-text-filters.md=https://docs.joomla.org/Help5.x:Site_Global_Configuration_Text_Filters
 site=site-system-information.md=https://docs.joomla.org/Help5.x:Site_System_Information
 
 smart-search=smart-search-content-maps.md=https://docs.joomla.org/Help5.x:Smart_Search:_Content_Maps
@@ -277,7 +266,7 @@ templates=templates-styles.md=https://docs.joomla.org/Help5.x:Templates:_Styles
 templates=templates-templates.md=https://docs.joomla.org/Help5.x:Templates:_Templates
 
 update-sites=edit-update-site.md=https://docs.joomla.org/Help5.x:Edit_Update_Site
-update-sites=extensions-update-sites.md=https://docs.joomla.org/Help5.x:Extensions:_Update_Sites
+update-sites=update-sites.md=https://docs.joomla.org/Help5.x:Extensions:_Update_Sites
 
 users=user-actions-log-options.md=https://docs.joomla.org/Help5.x:User_Actions_Log:_Options
 users=user-actions-log.md=https://docs.joomla.org/Help5.x:User_Actions_Log
@@ -285,14 +274,16 @@ users=user-notes-categories.md=https://docs.joomla.org/Help5.x:User_Notes:_Categ
 users=user-notes-new-or-edit.md=https://docs.joomla.org/Help5.x:User_Notes:_New_or_Edit
 users=user-notes-new-or-edit-category.md=https://docs.joomla.org/Help5.x:User_Notes:_New_or_Edit_Category
 users=user-notes.md=https://docs.joomla.org/Help5.x:User_Notes
-users=users-edit-profile.md=https://docs.joomla.org/Help5.x:Users:_Edit_Profile
 users=users-edit-viewing-access-level.md=https://docs.joomla.org/Help5.x:Users:_Edit_Viewing_Access_Level
 users=users-groups.md=https://docs.joomla.org/Help5.x:Users:_Groups
 users=users-new-or-edit-group.md=https://docs.joomla.org/Help5.x:Users:_New_or_Edit_Group
+users=users-new-or-edit.md=https://docs.joomla.org/Help5.x:Users:_Edit_Profile
 users=users-options.md=https://docs.joomla.org/Help5.x:Users:_Options
 users=users-viewing-access-levels.md=https://docs.joomla.org/Help5.x:Users:_Viewing_Access_Levels
 users=users.md=https://docs.joomla.org/Help5.x:Users
 users=mass-mail-users.md=https://docs.joomla.org/Help5.x:Mass_Mail_Users
+users=permissions-for-group.md=https://docs.joomla.org/Help5.x:Permissions_for_Group
+users=permissions-for-user.md=https://docs.joomla.org/Help5.x:Permissions_for_User
 
 weblinks=weblinks-options.md=https://docs.joomla.org/Help4.x:Components_Web_Links_Manager_Options
 weblinks=weblinks-categories.md=https://docs.joomla.org/Help4.x:Components_Weblinks_Categories
@@ -300,6 +291,6 @@ weblinks=weblinks-categories-edit.md=https://docs.joomla.org/Help4.x:Components_
 weblinks=weblinks-links.md=https://docs.joomla.org/Help4.x:Components_Weblinks_Links
 weblinks=weblinks-links-edit.md=https://docs.joomla.org/Help4.x:Components_Weblinks_Links_Edit
 
-workflow=stages-list-basic-workflow.md=https://docs.joomla.org/Help5.x:Stages_List:_Basic_Workflow
-workflow=transitions-list-basic-workflow.md=https://docs.joomla.org/Help5.x:Transitions_List:_Basic_Workflow
-workflow=workflows-list.md=https://docs.joomla.org/Help5.x:Workflows_List
+workflows=stages-basic-workflow.md=https://docs.joomla.org/Help5.x:Stages_List:_Basic_Workflow
+workflows=transitions-basic-workflow.md=https://docs.joomla.org/Help5.x:Transitions_List:_Basic_Workflow
+workflows=workflows.md=https://docs.joomla.org/Help5.x:Workflows_List

@@ -15,6 +15,12 @@ access to all access levels that the parent group has access to. So you
 don't need to assign a child group access to levels that its parent
 group already has access to.
 
+### Common Elements
+
+Some elements of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+
 ## How to access
 
 - Select **Users → Access Levels** from the Administrator menu.
@@ -25,37 +31,22 @@ group already has access to.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/b/b8/Help-4x-users-user-manager-add-new-viewing-access-level-en.png"
-decoding="async" data-file-width="600" data-file-height="562"
-width="600" height="562"
-alt="add new viewing access level screen" />
+![users viewing access levels](../../../en/images/users/users-edit-viewing-access-level-details-tab.png)
 
-## Level Details
+### Level Details tab
 
 - **Level Title:** Enter a Title for this Access level.
 - **User Groups With Viewing Access** Check any Group to have this
   Access Level.
 
-## User Groups With Viewing Access
+### User Groups With Viewing Access tab
+
+![users viewing access levels](../../../en/images/users/users-edit-viewing-access-level-ugwva-tab.png)
 
 Select a check box to add a user group to a viewing level. In the
-example shown all Groups are childs of Public so it not necessary to
+example shown all Groups are children of Public so it not necessary to
 check any of the child groups. They inherit the Public access
 permissions. This feature should only be used for custom groups!
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Save & New**. Saves the item and keeps the editing screen open and
-  ready to create another item.
-- **Cancel**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
 
 ## Quick tips
 

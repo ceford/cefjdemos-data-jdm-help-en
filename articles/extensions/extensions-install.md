@@ -28,10 +28,10 @@ Extensions are categorised into five types, as follows:
 
 ### Common Elements
 
-Some elements of the Extensions: Install page are covered in separate Help 
+Some elements of this page are covered in separate Help 
 articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 
 ## How to Access
 

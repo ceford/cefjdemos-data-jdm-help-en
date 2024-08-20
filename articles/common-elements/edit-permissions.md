@@ -15,21 +15,21 @@ created and assigned to the Special access level. A user also named Oddjob has
 been created and assigned to the Oddjob group.
 
 For more detailed information on User Groups, Access Levels and Permissions
-there is a separate tutorial on [Access Control](jdocmanual?article=user/users/access-control "").
+there is a separate tutorial on [Access Control](jdocmanual?article=user/users/access-control).
 
 ## Global Configuration Permissions
 
 In this example, users in the Oddjob group have been assigned Global
 permission to login to the Administrator interface but nothing else.
 
-![Permissions Screenshot](../../../en/images/common-elements/global-configuration-permissions-tab.png "")
+![Permissions Screenshot](../../../en/images/common-elements/global-configuration-permissions-tab.png)
 
 ## Component Configuration Permissions
 
 To access a specific component permissions must be set in the component options.
 In this example the Media component options.
 
-![Media Screenshot](../../../en/images/common-elements/media-options-permissions-tab.png "")
+![Media Screenshot](../../../en/images/common-elements/media-options-permissions-tab.png)
 
 You will notice that this component has fewer Actions available and the Oddjob
 group is allowed just enough permissions to do the job.
@@ -52,8 +52,8 @@ To change the permissions for this component:
 After login, a user in the Oddjob group will see whatever Home Dashboard
 modules have **Special** access set and a Menu item link to the Media component.
 
-![Home Dashboard for Oddjob](../../../en/images/common-elements/home-dashboard-for-oddjob.png "")
+![Home Dashboard for Oddjob](../../../en/images/common-elements/home-dashboard-for-oddjob.png)
 
 And the Media screen for user Oddjob is as expected:
 
-![Media screen for Oddjob](../../../en/images/common-elements/media-screen-for-oddjob.png "")
+![Media screen for Oddjob](../../../en/images/common-elements/media-screen-for-oddjob.png)

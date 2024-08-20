@@ -2,9 +2,41 @@
 
 ## Description
 
+User Groups control what actions a user can take on the site. Actions
+include things like creating a new article, changing options for a
+component, or logging in. The site administrator assigns permissions for
+various actions to each group. Permissions for actions can be assigned
+at different levels in the component hierarchy (Global Configuration,
+component options, categories, and articles). If a user does not have
+permission for a given action, the user cannot perform that action.
+
+User groups also control which objects a user can view on the site.
+Objects include categories, articles, modules, menu items, and others.
+When you create an access level, one or more user groups are assigned to
+it. Then, when you create an object (such as a menu item or module), the
+object is assigned an access level. If a user is a member of a group
+that is assigned to an access level, this user can view any object
+assigned to that access level. If not, then that user cannot view that
+object.
+
+User groups can be arranged in a hierarchy. If so, then all child groups
+inherit the action permissions and access levels of a parent group. If
+used wisely, this feature can save a lot of time setting up your
+security system, since it means that you don't have to enter duplicate
+setup information.
+
 User Groups control what actions a user may take on the site and which
-objects a user can view. This screen allows you to create, view, edit,
-and delete User Groups.
+objects a user can view. This page allows you to view, create, edit or
+delete User Groups.
+
+### Common Elements
+
+Some elements of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [List Filters](jdocmanual?article=help/common-elements/list-filters).
+* [List Column Headers](jdocmanual?article=help/common-elements/list-column-headers).
+* [List Pagination](jdocmanual?article=help/common-elements/list-pagination).
 
 ## How to access
 
@@ -12,61 +44,12 @@ and delete User Groups.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/a/a9/Help-4x-users-user-manager-user-groups-en.png"
-decoding="async" data-file-width="800" data-file-height="773"
-width="800" height="773"
-alt="user groups screen" />
-
-## Column Headers
-
-In the table containing the users from your Joomla! site, you will see
-different columns. Here you can read what they mean and what is
-displayed in that column.
-
-- **Checkbox**. Check this box to select one or more items. To select
-  all items, check the box in the column heading. After one or more
-  boxes are checked, click a toolbar button to take an action on the
-  selected item or items. Many toolbar actions, such as Publish and
-  Unpublish, can work with multiple items. Others, such as Edit, only
-  work on one item at a time. If multiple items are checked and you
-  press Edit, the first item will be opened for editing.
-- **Group Title**. The name of the group.
-- **Permissions**. Link to The Advanced Permissions Report which maps
-  out the exact permissions for any given user group across all assets
-  on your Joomla! installation.
-- **Enabled users**. (Tick) The number of enabled users in this group.
-- **Disabled users**. (X) The number of disabled users in this group.
-- **ID**. This is a unique identification number for this item assigned
-  automatically by Joomla. It is used to identify the item internally,
-  and you cannot change this number. When creating a new item, this
-  field displays "0" until you save the new entry, at which point a new
-  ID is assigned to it.
-
-## List Filters
-
-At the top you will see the search bar shown in the Screenshot above.
-The functions are:
-
-- **Search**. Filter by Partial Group Name or Group ID. Enter part of
-  the group's name and press the Search icon to find matching names.
-  Press Clear to clear the search field and restore the list of groups.
-
-## Toolbar
-
-At the top you will see the toolbar shown in the Screenshot above. The
-functions are:
-
-- **New**. Opens the editing screen to create a new user group.
-- **Delete:** Deletes the selected user groups. Works with one or
-  multiple user groups selected. If you delete a group that has users
-  assigned to it, those users will lose the permissions they had from
-  that group. It is recommended to remove all users from a group before
-  you delete the group.
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.
+![users groups](../../../en/images/users/users-groups-list.png)
 
 ## Quick Tips
 
-- Click on the name of a group to edit the group's properties.
+- Select the name of a group to edit the group's properties.
+- Select the Permission icon to review the group permissions to access each
+  asset. This is often used to debug access permissions problems.
+- Select an Enabled Users number to see a list of enabled users in that group.
+- Select a Blocked Users number to see a list of blocked users in that group.

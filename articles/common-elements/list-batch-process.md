@@ -11,7 +11,7 @@ category.
 The operations that can be performed vary with the list. The following
 screenshot shows the batch dialog for Articles:
 
-![Articles list batch screenshot](../../../en/images/common-elements/articles-list-batch.png "")
+![Articles list batch screenshot](../../../en/images/common-elements/articles-list-batch.png)
 
 ## Example: How to Batch Process a group of articles:
 

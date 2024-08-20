@@ -13,15 +13,15 @@ state.
 
 ### The Articles list Column Headers
 
-![Articles list column header](../../../en/images/common-elements/articles-list-column-header.png "")
+![Articles list column header](../../../en/images/common-elements/articles-list-column-header.png)
 
 ### The Categories list Column Headers
 
-![Categores list column header](../../../en/images/common-elements/categories-list-column-header.png "")
+![Categores list column header](../../../en/images/common-elements/categories-list-column-header.png)
 
 ### The Users list Column Headers
 
-![Users list column header](../../../en/images/common-elements/users-list-column-header.png "")
+![Users list column header](../../../en/images/common-elements/users-list-column-header.png)
 
 ## Order by Column
 

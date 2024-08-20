@@ -11,8 +11,8 @@ Options configuration allows setting of permissions for the tours.
 The *Guided Tours: Options* page is covered in separate Help
 articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
-* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing).
 
 ## How to Access
 

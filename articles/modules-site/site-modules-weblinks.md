@@ -14,7 +14,7 @@ From the Administrator menu:
 
 ## Screenshot
 
-![weblinks module data entry form](../../../en/images/modules-site/modules-site-weblinks.png "")
+![weblinks module data entry form](../../../en/images/modules-site/modules-site-weblinks.png)
 
 ## Form Fields
 

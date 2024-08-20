@@ -7,7 +7,7 @@ currently logged into the site. It is displayed in the Home Dashboard.
 
 ### Common Elements
 
-Some elements of the this page are covered in separate Help articles:
+Some elements of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [The Modules: Module Tab](jdocmanual?article=help/modules/modules-module-tab).

@@ -7,7 +7,7 @@ Registered Users who are currently accessing the Web site.
 
 ### Common Elements
 
-Some elements of the this page are covered in separate Help articles:
+Some elements of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [The Modules: Modules Tab](jdocmanual?article=help/modules/modules-module-tab).

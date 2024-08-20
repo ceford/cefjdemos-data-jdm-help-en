@@ -21,15 +21,15 @@ is up to date, or a version number, meaning that a new version is available.
 
 If your site is up to date you will see this screen:
 
-![Upload & Update](../../../en/images/joomla-update/upload-update-up-to-date.png "")
+![Upload & Update](../../../en/images/joomla-update/upload-update-up-to-date.png)
 
 If an update is available you will see this screen:
 
-![Upload & Update](../../../en/images/joomla-update/upload-update-available.png "")
+![Upload & Update](../../../en/images/joomla-update/upload-update-available.png)
 
 If updating a major or minor version you will see a pre-update check screen:
 
-![pre update check](../../../en/images/joomla-update/upload-update-pre-update-check.png "")
+![pre update check](../../../en/images/joomla-update/upload-update-pre-update-check.png)
 
 Select each of the three menu items to see if anything needs attention.
 
@@ -59,7 +59,7 @@ You must have your PHP *upload_max_filesize* and *post_max_size* set to 64Mb
 and your PHP memory limit set to 256 Mb. Otherwise the update may fail. One
 good reason for taking that backup!
 
-![upload and install](../../../en/images/joomla-update/upload-update-upload-install.png "")
+![upload and install](../../../en/images/joomla-update/upload-update-upload-install.png)
 
 ## Update Options
 

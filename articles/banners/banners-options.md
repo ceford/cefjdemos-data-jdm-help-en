@@ -7,11 +7,11 @@ individual banners.
 
 ### Common Elements
 
-Some elements of the Banners: Options page are covered in separate Help 
+Some elements of this page are covered in separate Help 
 articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
-* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
 
 ## How to Access
 

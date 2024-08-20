@@ -5,6 +5,13 @@
 News Feed Options configuration allows setting of parameters used
 globally for all news feeds.
 
+### Common Elements
+
+Some elements of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
+
 ## How to Access
 
 - Select **Components → News Feeds → Feeds** from the
@@ -15,11 +22,7 @@ globally for all news feeds.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/b/bd/Help-4x-Component-Newsfeed-Manager-Options-screenshot-en.png"
-decoding="async" data-file-width="800" data-file-height="588"
-width="800" height="588"
-alt="Newsfeed Options screenshot" />
+![News feeds options news feed tab](../../../en/images/news-feeds/news-feeds-options-news-feed-tab.png)
 
 ## Form Fields
 
@@ -28,11 +31,11 @@ alt="Newsfeed Options screenshot" />
 These settings apply for all News Feeds unless they are changed for a
 specific menu item or News Feed
 
-- **Choose a layout.** Default layout to use for articles.
-- **Enable Versions.** (Yes/No). Whether or not to save version history
+- **Choose a layout** Select a layout to use for articles.
+- **Enable Versions** Whether or not to save version history
   for this component. If No, version history will not be saved for
   component items or for this component's categories.
-- **Maximum Versions.** The maximum number of versions to store for an
+- **Maximum Versions** The maximum number of versions to store for an
   item. If an item is saved and the maximum number of versions has been
   reached, the oldest version will be deleted automatically. If set to
   0, then versions will never be deleted automatically. Also, specific
@@ -40,91 +43,67 @@ specific menu item or News Feed
   automatically. Note that versions may be deleted manually using the
   Delete button in the Version History
   screen.
-- **Feed Image.** (Show/Hide). Show or hide the feed image.
-- **Feed Description.** (Show/Hide). Show or hide the feed description.
-- **Feed Content.** (Show/Hide). Show or hide the feed content.
-- **Characters Count.** The maximum number of characters to display for
+- **Feed Image** Show or hide the feed image.
+- **Feed Description** Show or hide the feed description.
+- **Feed Content** Show or hide the feed content.
+- **Characters Count** The maximum number of characters to display for
   each feed. This is a way to limit the size of the feed.
-- **Feed Display Order.** (Most recent first/oldest first). The order in
-  which to show the feeds.
-- **First Image Float.** (Right/Left/None). Where to display the image
-  on the page.
-- **Second Image Float.** (Right/Left/None). Where to display the image
-  on the page.
-- **Show Tags.** (Show/Hide). Show or hide the feed's tags.
+- **Feed Display Order** The order in which to show the feeds.
+- **First Image Float** Where to display the image on the page.
+- **Second Image Float** Where to display the image on the page.
+- **Show Tags** Show or hide the feed's tags.
 
 ### Category Tab
 
-Category Options control how feeds will show when you drill down to a
-Category to view its feeds.
+![News feeds options category tab](../../../en/images/news-feeds/news-feeds-options-category-tab.png)
 
-<img
-src="https://docs.joomla.org/images/3/39/Help-4x-Component-Newsfeed-Manager-Options-category-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="546"
-width="600" height="546"
-alt="Newsfeed Options category tab" />
-
-- **Choose a layout.** (Blog/List/user defined). This lets you select
+- **Choose a layout** (Blog/List/user defined). This lets you select
   the default layout to show when you click on a Category link. If you
   create an alternative layout for a category layout, you may select
   that as the default.
-- **Category Title.** (Show/Hide). Show or hide the title of the
+- **Category Title** (Show/Hide). Show or hide the title of the
   category.
-- **Category Description.** (Show/Hide). Show or hide the description
+- **Category Description** (Show/Hide). Show or hide the description
   for the category.
-- **Category Image.** (Show/Hide). Show or hide the category image.
-- **Subcategory Levels.** (None/All/1-5). Categories in Joomla can be
+- **Category Image** (Show/Hide). Show or hide the category image.
+- **Subcategory Levels** (None/All/1-5). Categories in Joomla can be
   created in a hierarchy. This lets you control how many levels of
   subcategories to show when showing a category view.
-- **Empty Categories.** (Show/Hide). Show or hide categories that don't
+- **Empty Categories** (Show/Hide). Show or hide categories that don't
   contain any items or subcategories.
-- **Subcategories Descriptions.** (Hide/Show). Show or hide the
+- **Subcategories Descriptions** (Hide/Show). Show or hide the
   descriptions for subcategories that are shown.
-- **\# Feeds in Category.** (Show/Hide). Show or hide the number of news
+- **\# Feeds in Category** (Show/Hide). Show or hide the number of news
   feeds in category.
-- **Show Tags.** (Show/Hide). Show or hide the tags for a single
+- **Show Tags** (Show/Hide). Show or hide the tags for a single
   category.
 
 ### Categories Tab
 
-These settings apply for News Feed Categories Options unless they are
-changed for a specific menu item.
+![News feeds options categories tab](../../../en/images/news-feeds/news-feeds-options-categories-tab.png)
 
-<img
-src="https://docs.joomla.org/images/7/72/Help-4x-Component-Newsfeed-Manager-Options-categories-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="368"
-width="600" height="368"
-alt="Newsfeed Options categories tab" />
-
-- **Top Level Category Description.** (Show/Hide). Show or hide the
+- **Top Level Category Description** (Show/Hide). Show or hide the
   description of the top-level category.
-- **Subcategory Levels.** (All/1-5). How many levels in the hierarchy to
+- **Subcategory Levels** (All/1-5). How many levels in the hierarchy to
   show.
-- **Empty Categories.** (Show/Hide). Show or hide categories that
+- **Empty Categories** (Show/Hide). Show or hide categories that
   contain no items and no subcategories.
-- **Subcategories Descriptions.** (Hide/Show). Show or hide the
+- **Subcategories Descriptions** (Hide/Show). Show or hide the
   description of each subcategory.
-- **\# Feeds in Category.** (Show/Hide). Show or hide the number of news
+- **\# Feeds in Category** (Show/Hide). Show or hide the number of news
   feeds in category.
 
 ### List Layouts Tab
 
-These settings apply for Feed List Options unless they are changed for a
-specific menu item.
+![News feeds options list layouts tab](../../../en/images/news-feeds/news-feeds-options-list-layouts-tab.png)
 
-<img
-src="https://docs.joomla.org/images/8/8b/Help-4x-Component-Newsfeed-Manager-Options-list-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="440"
-width="600" height="440"
-alt="Newsfeed Options list layouts tab" />
-
-- **Filter Field.** The Filter Field creates a text field where a user
+- **Filter Field** The Filter Field creates a text field where a user
   can enter a field to be used to filter the articles shown in the list.
     - *Hide:* Don't show a filter field.
     - *Title:* Filter on article title.
     - *Author:* Filter on the author's name.
     - *Hits:* Filter on the number of article hits.
-- **Display Select.** (Show/Hide) Whether to show or hide the Display \#
+- **Display Select** (Show/Hide) Whether to show or hide the Display \#
   control that allows the user to select the number of items to show in
   the list.
     If there are more items than this number, you can use the page
@@ -132,15 +111,15 @@ alt="Newsfeed Options list layouts tab" />
     navigate between pages. Note that if you have a large number of items,
     it may be helpful to use the Filter options, located above the column
     headings, to limit which items display.
-- **Table Headings.** (Hide/Show) Table Headings show a heading above
+- **Table Headings** (Hide/Show) Table Headings show a heading above
   the article list.
     If set to *Show*, this heading will show about the list. Otherwise the
     list will show with no headings.
-- **\# Articles.** (Show/Hide). Whether to show or hide the number or
+- **\# Articles** (Show/Hide). Whether to show or hide the number or
   articles in each feed.
-- **Feed Links.** (Show/Hide). Whether to show or hide the feed links
+- **Feed Links** (Show/Hide). Whether to show or hide the feed links
   URL.
-- **Pagination.** Hide or Show Pagination support. Pagination provides
+- **Pagination** Hide or Show Pagination support. Pagination provides
   page links at the bottom of the page that allow the User to navigate
   to additional pages. These are needed if the listed items will not fit
   on one page.
@@ -149,71 +128,16 @@ alt="Newsfeed Options list layouts tab" />
     - *Show:* Pagination links shown if needed.
     - *Hide:* Pagination links not shown. Note: In this case, Users will not
       be able to navigate to additional pages.
-- **Pagination Results.** Hide or Show the current page number and total
+- **Pagination Results** Hide or Show the current page number and total
   pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
   will use the default value from the component options.
 
 ### Integration Tab
 
-These options control the display of news feeds.
+![News feeds options integration tab](../../../en/images/news-feeds/news-feeds-options-integration-tab.png)
 
-<img
-src="https://docs.joomla.org/images/0/05/Help-4x-Component-Newsfeed-Manager-Options-integration-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="220"
-width="600" height="220"
-alt="Newsfeed Options integration tab" />
-
-- **Remove IDs from URLs.** (Yes or No) Whether or not to show the
-  database id of a newsfeed in a link.
-
-### Permissions Tab
-
-This section shows permissions for feeds. The screen shows as follows.
-
-<img
-src="https://docs.joomla.org/images/2/2a/Help-4x-Component-Newsfeed-Manager-Options-permissions-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="723"
-width="600" height="723"
-alt="Newsfeed Options permissions tab" />
-
-To change the permissions for this extension, do the following.
-
-- Select the **Group** by clicking its title located on the left.
-- Find the desired **Action**. Possible Actions are:
-  - **Configure ACL & Optons**. Users can edit the options and
-    persimissions of this extension.
-  - **Configure Optons Only**. Users can edit the options exept the
-    persimissions of this extension.
-  - **Access Administration Interface**. Users can access user
-    administration interface of this extension.
-  - **Create:** Users can create content of this extension.
-  - **Delete:** Users can delete content of this extension.
-  - **Edit:** Users can edit content of this extension.
-  - **Edit State:** User can change the published state and related
-    information for content of this extension.
-  - **Edit Own:** Users can edit own created content of this extension.
-- Select the desired permission for the action you wish to change.
-  Possible settings are:
-  - ***Inherited:*** Inherited for users in this Group from the Global
-    Configuration permissions of this extension.
-  - ***Allowed:*** Allowed for users in this Group. Note that, if this
-    action is Denied at one of the higher levels, the Allowed permission
-    here will not take effect. A Denied setting cannot be overridden.
-  - ***Denied:*** Denied for users in this Group.
-- Click **Save** in **Toolbar** at top. When the screen refreshes, the
-  Calculated Setting column will show the effective permission for this
-  Group and Action.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the Screenshot
-above. The functions are:
-
-- **Save.** Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
+- **Remove IDs from URLs** Whether or not to show the database id of a 
+  newsfeed in a link.
 
 ## Quick Tips
 

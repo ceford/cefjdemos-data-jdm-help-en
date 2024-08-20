@@ -20,7 +20,7 @@ the form. The placeholders available change from message to message.
 One element of the Edit Mail Template page is covered in a separate Help 
 article:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 
 ## How to Access
 

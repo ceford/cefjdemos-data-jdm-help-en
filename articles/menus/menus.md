@@ -25,13 +25,13 @@ The process for adding a menu to the site is normally as follows:
 
 ### Common Elements
 
-Some elements of the this page are covered in separate Help articles:
+Some elements of this page are covered in separate Help articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
-* [List Filters](jdocmanual?article=help/common-elements/list-filters "").
-* [List Column Headers](jdocmanual?article=help/common-elements/list-column-headers "").
-* [List Item Ordering](jdocmanual?article=help/common-elements/list-ordering "").
-* [List Pagination](jdocmanual?article=help/common-elements/list-pagination "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [List Filters](jdocmanual?article=help/common-elements/list-filters).
+* [List Column Headers](jdocmanual?article=help/common-elements/list-column-headers).
+* [List Item Ordering](jdocmanual?article=help/common-elements/list-ordering).
+* [List Pagination](jdocmanual?article=help/common-elements/list-pagination).
 
 ## How to Access
 

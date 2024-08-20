@@ -2,17 +2,25 @@
 
 ## Description
 
-The Post-installation Messages shows a variety of messages useful to the
+The Post-installation Messages page shows messages useful to the
 site Administrator.
+
+### Common Elements
+
+Some elements of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 
 ## How to Access
 
-- Select the **Post-installation Messages** icon in any Administrator
-  list screen Title bar. The icon is disabled in Edit screens.
+- Select the **System -> Information tab -> Installation Messages** from the
+  Administrator menu. Or select the Post-installation Messages button in any 
+  Administrator list screen  Title bar. The button is absent from Edit pages 
+  and may be absent if its parent module is unpublished.
 
 ## Screenshot
 
-![post installation messages screen](../../../en/images/post-install-messages/post-installation-messages.png "")
+![post installation messages screen](../../../en/images/post-install-messages/post-install-messages.png)
 
 ## Messages
 
@@ -25,20 +33,6 @@ There are a number of message panels, each with two buttons:
 
 ## Example messages
 
-- **Stats Collection in Joomla.** Information on how Statistics on your
+- **Stats Collection in Joomla** Information on how Statistics on your
   site are used.
 - **Welcome to Joomla!** Some resources you may find helpful.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Hide All Messages.** Select this button to hide the messages in the
-  left panel. The messages are replaced by a box that says ***You have
-  read all the messages***. There is a ***Reset Messages*** button that
-  restores the unread messages, including the individually hidden
-  messages.
-- **Options.** Opens the Options window where settings such as default
-  parameters can be edited.
-- **Help**. Opens this help screen.

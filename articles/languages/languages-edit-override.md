@@ -16,10 +16,10 @@ of existing overrides, so it is empty initially.
 
 ### Common Elements
 
-Some aspects of the *Languages: Edit Override* page are covered in separate 
+Some aspects of this page are covered in separate 
 Help articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 
 ## How to Access
 

@@ -12,14 +12,13 @@ might wish to set a specific Category or provide article-specific Metadata.
 
 ### Common Elements
 
-Some aspects of the *Articles: Edit* page are covered in separate Help
-articles:
+Some aspects of this page are covered in separate Help articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
-* [The Schema Tab](jdocmanual?article=help/common-elements/edit-schema "").
-* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
-* [The Associations Tab](jdocmanual?article=help/common-elements/edit-associations "").
-* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Schema Tab](jdocmanual?article=help/common-elements/edit-schema).
+* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing).
+* [The Associations Tab](jdocmanual?article=help/common-elements/edit-associations).
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
 
 Or in User articles:
 

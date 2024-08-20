@@ -5,8 +5,8 @@
 The Multilingual Associations Component Options page only has a Permissions
 tab, which is covered as a Common Element.
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
-* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
 
 ## How to Access
 

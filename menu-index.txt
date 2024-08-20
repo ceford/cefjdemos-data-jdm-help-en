@@ -253,19 +253,12 @@ help=multilingual-associations=multilingual-associations.md
 help=multilingual-associations=multilingual-associations-edit.md
 help=multilingual-associations=multilingual-associations-options.md
 
-heading=my-profile=My Profile
-help=my-profile=my-profile.md
-
 heading=news-feed=News Feed
 help=news-feed=news-feeds.md
 help=news-feed=news-feeds-new-or-edit.md
 help=news-feed=news-feeds-categories.md
 help=news-feed=news-feeds-new-or-edit-category.md
 help=news-feed=news-feed-options.md
-
-heading=permissions=Permissions
-help=permissions=permissions-for-group.md
-help=permissions=permissions-for-user.md
 
 heading=plugins=Plugins
 help=plugins=plugins.md
@@ -291,10 +284,10 @@ help=private-messages=private-messages-read.md
 help=private-messages=private-messages-write.md
 help=private-messages=messages-options.md
 
-heading=redirect=Redirect
-help=redirect=redirects-links.md
-help=redirect=redirects-new-or-edit.md
-help=redirect=redirect-options.md
+heading=redirects=Redirects
+help=redirects=redirects-links.md
+help=redirects=redirects-new-or-edit.md
+help=redirects=redirect-options.md
 
 heading=site=Site
 help=site=site-control-panel.md
@@ -323,16 +316,19 @@ help=templates=templates-edit-style.md
 help=templates=template-options.md
 
 heading=update-sites=Update Sites
+help=update-sites=update-sites.md
 help=update-sites=edit-update-site.md
-help=update-sites=extensions-update-sites.md
 
 heading=users=Users
 help=users=users.md
-help=users=users-edit-profile.md
+help=users=users-new-or-edit.md
 help=users=users-groups.md
 help=users=users-new-or-edit-group.md
+help=users=permissions-for-group.md
+help=users=permissions-for-user.md
 help=users=users-viewing-access-levels.md
 help=users=users-edit-viewing-access-level.md
+
 help=users=mass-mail-users.md
 help=users=user-notes.md
 help=users=user-notes-new-or-edit.md
@@ -349,7 +345,7 @@ help=weblinks=weblinks-categories.md
 help=weblinks=weblinks-categories-edit.md
 help=weblinks=weblinks-options.md
 
-heading=workflow=Workflow
-help=workflow=workflows-list.md
-help=workflow=stages-list-basic-workflow.md
-help=workflow=transitions-list-basic-workflow.md
+heading=workflows=Workflow
+help=workflows=workflows.md
+help=workflows=stages-basic-workflow.md
+help=workflows=transitions-basic-workflow.md

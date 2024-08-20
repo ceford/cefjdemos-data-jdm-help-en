@@ -16,7 +16,7 @@ If there are a lot of buttons they will wrap onto two rows. Some examples:
 
 ### Article Edit Toolbar
 
-![Article edit toolbar](../../../en/images/common-elements/article-edit-toolbar.png "")
+![Article edit toolbar](../../../en/images/common-elements/article-edit-toolbar.png)
 
 The buttons without a down chevron all operate immediately. So **Save** will
 save the page and return with green confirmation message or a red error
@@ -37,7 +37,7 @@ Please explore what the various buttons do!
 
 ### Plugins List Toolbar
 
-![Plugins list toolbar](../../../en/images/common-elements/plugins-list-toolbar.png "")
+![Plugins list toolbar](../../../en/images/common-elements/plugins-list-toolbar.png)
 
 In this Toolbar example the buttons are grey to indicate they are inactive.
 They become bright and active when a Plugin item checkbox is checked to make

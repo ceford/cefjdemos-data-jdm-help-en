@@ -6,11 +6,11 @@ This page is used to add a new or edit an existing Step of a tour.
 
 ### Common Elements
 
-Some aspects of the *Guided Tours: Edit Step* page are covered in separate Help
+Some aspects of this page are covered in separate Help
 articles:
 
-* [Toolbars](jdocmanual?article=help/common-elements/toolbars "").
-* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing "").
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing).
 
 ## How to Access
 

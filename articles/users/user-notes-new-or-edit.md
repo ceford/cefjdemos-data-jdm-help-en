@@ -6,9 +6,13 @@ User notes are pieces of information which can be assigned to registered
 users on your Joomla! site. For example, user notes can contain comments
 about 'offending' or 'difficult' users etc.
 
-In this screen you can create a new user note or edit an existing user
-note. The 'editor' will be the chosen 'editor' for the user editing the
-note. Examples: TinyMCE, JCE or Codemirror
+In this page you can create a new user note or edit an existing user note. 
+
+### Common Elements
+
+Some elements of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 
 ## How to access
 
@@ -25,41 +29,16 @@ note. Examples: TinyMCE, JCE or Codemirror
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/1/19/Help-4x-users-notes-en.png"
-decoding="async" data-file-width="800" data-file-height="972"
-width="800" height="972" alt="users notes new or edit screen" />
+![users user notes new or edit](../../../en/images/users/users-user-notes-new-or-edit.png)
 
-## Details
+## Form Fields
 
-- **Subject:** The subject line for the note.
-- **User:** The user for the note. You can select an existing user
-- **Category:** (*Uncategorised*). The category that this item is
-  assigned to.
-- **Status:** (*Published*/*Unpublished*/*Archived*/*Trashed*). Set
-  publication status.
-- **Review Date:** Review date is a manually entered date you can use as
-  fits in your workflow. Examples would be to put in a date that you
+- **Subject** The subject line for the note.
+- **User** Select an existing user for this note. A user may have several notes.
+- **Category** The category that this item is assigned to.
+- **Status** Set the publication status.
+- **Review Date** Review date is a manually entered date you can use as
+  appropriate for your workflow. Examples would be to put in a date that you
   want to review a user or the last date you reviewed the user.
-- **Version Note:** Enter an optional note for this version of the item.
-- **Note:** Enter the note.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save:** Saves the user note and stays in the current screen.
-- **Save & Close**. Saves the user note and closes the current screen.
-- **Save & New**. Saves the user note and keeps the editing screen open
-  and ready to create another user note.
-- **Save as Copy**. Saves your changes to a copy of the current user
-  note. Does not affect the current user note. This toolbar icon is not
-  shown if you are creating a new user note.
-- **Versions:** Opens the Item Version History window to show any prior
-  versions of this item. This allows you to view older versions of this
-  item and, if desired, restore from an older version. See Version History
-  for more information.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
+- **Version Note** Enter an optional note for this version of the item.
+- **Note** Enter the note.

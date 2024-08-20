@@ -2,8 +2,13 @@
 
 ## Description
 
-This screen allows you to view and reply to a single private message
-only.
+This page allows you to view and reply to a single private message only.
+
+### Common Elements
+
+Some elements of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 
 ## How to Access
 
@@ -20,11 +25,7 @@ only.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/9/99/Help-4x-Components-Messaging-Read-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="311"
-width="800" height="311"
-alt="Private messages view screen" />
+![private messages view](../../../en/images/private-messages/private-messages-view.png)
 
 ## Details
 
@@ -33,19 +34,8 @@ alt="Private messages view screen" />
 - **Subject** The subject of the message.
 - **Message** The body of the message.
 
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Reply** Creates a new message as a reply to the current message.
-- **Cancel** Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help** Opens this help screen.
-
 ## Quick Tips
 
 - Only users who are members of the "Super Users" and "Administrator"
-  groups have access to this screen, unless User Group
-  permissions have been altered for this component via the Private Messages
-  Options screen.
+  groups have access to this screen, unless User Group permissions have been 
+  altered for this component via the Private Messages Options screen.

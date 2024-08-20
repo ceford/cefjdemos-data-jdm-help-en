@@ -7,7 +7,7 @@ Joomla core update process.
 
 ### Common Elements
 
-Some aspects of the *Joomla Update: Options* page are covered in separate Help
+Some aspects of this page are covered in separate Help
 articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars)

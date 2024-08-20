@@ -2,12 +2,18 @@
 
 ## Description
 
-This is where you edit template styles. When a template is first
+This page is used to edit template styles. When a template is first
 installed, a default style is created for it. The default style for the
 template will have the same name as the template with a *- Default*
 suffix. To make a different variation of the default template style,
 check the default style's checkbox and press the *Duplicate* icon in the
 toolbar. Then edit the duplicate.
+
+### Common Elements
+
+Some elements of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 
 ## How to Access
 
@@ -19,25 +25,21 @@ toolbar. Then edit the duplicate.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/2/29/Help-4x-Extensions-Template-Manager-Styles-Edit-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="349"
-width="800" height="349"
-alt="Template Styles Edit screen" />
+![templates cassiopeia edit style editor tab](../../../en/images/templates/templates-site-edit-style-details-tab.png)
 
 ## Form Fields
 
-- **Style Name.** The name of the style. This is the name that will
+- **Style Name** The name of the style. This is the name that will
   display in the Style column of the *Template: Styles* screen.
 
 ### Details Tab
 
-- **Template Name.** The name of the template, Site or Administrator
+- **Information** The name of the template, Site or Administrator
   indicator and a brief description.
-- **Default.** Whether or not the style is the default for the location.
-- **Template.** The name of the template the style is derived from.
 
 ### Advanced Tab
+
+![templates cassiopeia edit style editor tab](../../../en/images/templates/templates-site-edit-style-advanced-tab.png)
 
 This section may not be present for all styles. If a template from which
 a style is derived from has configurable options they will be present
@@ -71,27 +73,15 @@ your image:
 
 ### Menu Assignment Tab
 
+![templates cassiopeia edit style editor tab](../../../en/images/templates/templates-site-edit-style-menu-assignment-tab.png)
+
 This section contains all the menu items configured in your Joomla!
 website. To apply the current style to a menu item's corresponding web
 page, check the box next to the menu item. You can press the *Toggle
 Selection* button to invert the menu item selections.
 
-**Note**: If a checkbox is grayed out and cannot be checked then it
+**Note** If a checkbox is grayed out and cannot be checked then it
 could be because the menu item is in use by another user. You can see if
 this is the case by going to the menu manager screen for the menu
 concerned. If there is a padlock symbol next to the menu item then it is
 currently in use by another user.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Save as Copy**. Saves your changes to a copy of the current item.
-  Does not affect the current item. This toolbar icon is not shown if
-  you are creating a new item.
-- **Cancel**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
