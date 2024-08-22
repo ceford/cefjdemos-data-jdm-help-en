@@ -2,20 +2,15 @@
 
 ## Description
 
-This page is used to set global default values for menu items that display
-articles. They are used when 'Use Global' is selected for an option in an
-Articles menu item.
+This page is used to set global default values for articles. They are used 
+when *Use Global* is selected for an option in an Articles menu item.
 
-For example, to show the 'Create Date' for an article in your Articles menu
-items, set that option to 'Show' here and it will be the default value.
-
-You do not need to set any of these options. Your Joomla site will work
-with the default settings.
+For example, to show the *Create Date* for an article in your Articles menu
+items, set that option to *Show* here and it will be the default value.
 
 ### Common Elements
 
-Some aspects of this page are covered in separate Help
-articles:
+Some aspects of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
@@ -51,27 +46,25 @@ menu item or article.
 - **Article Info Title**. Displays the word *Details* on top of the article
   information block.
 - **Category**. Show the Article's Category Title.
-  - **Link Category**. Show the title as a link to that Category.Note:
-    You can set this to be either a blog or list layout with the Choose a Layout
-    option in the Category Tab.
+  - **Link Category**. Show the title as a link to that Category. Note:
+    This can be set to either a blog or a list layout with the 
+    *Choose a Layout* option in the Category tab.
 - **Parent Category**. Show the Article's Parent Category Title.
   - **Link Parent Category**. Show the title as a link to that
-    Category.Note: You can set this to be either a blog or list layout
-    with the Choose a Layout option in the Category Tab.
+    Category. Note: This can be set either a blog or a list layout
+    with the *Choose a Layout* option in the Category tab.
 - **Associations**. Show the associated flags or Language Code.
   Multilingual only.
-  - **Use Image Flags**. Display language choice as image flags is Associations
+  - **Use Image Flags**. Display language choice as image flags if Associations
     is set to *Show*.
 - **Author**. Show the author of the Article.
   - **Link to Author's Contact Page**. Show it as a link to a Contact
-    layout for that author.Note: The author must be set up as a
-    Contact.
-    Also, a link will not show if there is an Author Alias value for the article.
+    layout for that author. Note: The author must be set up as a Contact.
+    Also, a link will not show if there is an Author Alias value for the contact.
 - **Create Date**. Show the Article's create date.
 - **Modify Date**. Show the Article's modify date.
 - **Publish Date**. Show the Article's start publishing date.
-- **Navigation**. Show a navigation link 'Prev' or 'Next' when you drill
-  down to the article.
+- **Navigation**. Show a navigation link *Prev* or *Next*.
 - **"Read More" Link**. Show the Read More link to link from the part of
   the article before the Read More break to the rest of the Article.
 - **Read More with Title**.
@@ -79,13 +72,11 @@ menu item or article.
     be in the format "Read More: \[article title\]".
   - Hide: The link will be "Read more".
 - **Read More Limit (characters)**. The maximum number of characters
-  from the title to include.Note: This can prevent the Read More text to
+  from the title to include. Note: This can prevent the Read More text to
   become excessively long if the article has a very long title.
 - **Tags**. Show the tags for each article.
-- **Record Hits**. Record the number of times the article has been
-  viewed.
-- **Hits**. Show the number of times the article has been displayed by a
-  user.
+- **Record Hits**. Record the number of times the article has been viewed.
+- **Hits**. Show the number of times the article has been displayed by a user.
 - **Unauthorised Links**.
   - Yes: The Intro Text for restricted articles will show. Clicking on
     the Read more link will require users to log in to view the full
@@ -103,7 +94,7 @@ These options control the layout of the article editing page.
 ![Articles options editing layout tab](../../../en/images/articles/articles-options-editing-layout-tab.png "Articles options editing layout")
 
 - **Allow Captcha on submit**. Select the captcha plugin
-  that will be used in the article submit form. If 'Use Global' is
+  that will be used in the article submit form. If *Use Global* is
   selected, make sure a captcha plugin is selected in Global Configuration.
 - **Publishing Options**. Hide the Publishing Options tab
   in the Backend when editing Articles. This means that Backend users
@@ -153,8 +144,8 @@ by the individual category or menu settings.
 
 ![Articles options category tab](../../../en/images/articles/articles-options-category-tab.png "Articles options category")
 
-- **Choose a Layout**. Select the default layout to show when you click
-  on a Category link.
+- **Choose a Layout**. Select the default layout to show when a Category link 
+  is selected.
 - **Category Title**. Show the title of the category.
 - **Category Description**. Show the description for the category.
 - **Category Image**. Show the category image.
@@ -202,8 +193,8 @@ by the individual category or menu settings.
   when using the full width. If an Article has a "Read more..." break,
   only the part of the text before the break (the Intro text) will
   display.
-- **Leading Article Class**. You can add any CSS class for your own
-  styling ideas. Add a border on top with class boxed.For image position
+- **Leading Article Class**. Add any CSS class to customise the layout.
+  Add a border on top with class boxed. For image position
   use for example image-left, image-right. Add image-alternate for
   alternate ordering of intro images.
 - **# Intro Articles**. Determines the number of Articles to display
@@ -213,13 +204,13 @@ by the individual category or menu settings.
   display, followed by a "Read more..." link. The order in which to
   display the articles is determined by the Category Order and Article
   Order parameters below.
-- **Article Class**. You can add any CSS class for your own styling
-  ideas. Add a border on top with class boxed.For image position use for
+- **Article Class**. Add any CSS class for custom styling. Add a border on 
+  top with class boxed. For image position use for
   example image-left, image-right. Add image-alternate for alternate
   ordering of intro images.
 - **# Columns**. The number of columns to use in the Intro Articles
-  area. This is normally between 1 and 3 (depending on the template you
-  are using). If 1 is used, the Intro Articles will display using the
+  area. This is normally between 1 and 3 (depending on the template 
+  in use). If 1 is used, the Intro Articles will display using the
   full width of the display area, just like the Leading Articles.
 - **Multi Column Direction**. In multi-column blog layouts, whether to
   order articles Down the columns or Across the columns.
@@ -356,10 +347,9 @@ extensions.
 
 ## Quick Tips
 
-- If you are a beginning user, you can just keep the default values here
-  until you learn more about using global options.
-- If you are an advanced user, you can save time by creating good
-  default values here. When you set up menu items and create articles,
-  you will be able to accept the default values for most options.
+- Inexperienced users can keep the default values here.
+- Experienced users can save time by creating appropriate default values here. 
+  New menu items and articles will then be able to use the default values for 
+  most options.
 - All values set here can be overridden at the menu item, category, or
   article level.

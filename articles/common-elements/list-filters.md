@@ -95,5 +95,5 @@ select less important columns to hide. Then close the Columns list again. The
 effect is immediate as it uses JavaScript to hide the selected columns in the
 layout. They are still present in the page.
 
-Your settings are saved by your browser so will be used until you change then
+Your settings are saved by your browser so will be used until you change them
 again, even if you logout and login again.

@@ -206,7 +206,7 @@ this menu item type.
 - **Create Date**. Show or hide the Article's create date.
 - **Modify Date**. Show or hide the Article's modify date.
 - **Publish Date**. Show or hide the Article's start publishing date.
-- **Navigation**. Show or hide a navigation link 'Prev' or 'Next' when you drill
+- **Navigation**. Show or hide a navigation link *Prev* or *Next* when you drill
   down to the article.
 - **"Read More" Link**. Show or hide the Read More link to link from the part of
   the article before the Read More break to the rest of the Article.

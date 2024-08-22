@@ -5,10 +5,10 @@
 Categories are are used to organize Articles, Contacts and other
 components for ease of management and display. They can be organised
 into tree-like structures like file systems. For example, category Pets
-may be a parent to category Dogs, category Cats and Category Goldfish.
+may be a parent to category Dogs, category Cats and category Goldfish.
 Categories can be nested to any level. All Articles must be assigned
 either to a parent Category or a child Category or to the default
-Category named 'Uncategorized'.
+Category named 'Uncategorised'.
 
 The edit form is used to create a new Category or to alter the properties of
 an existing Category.
@@ -90,7 +90,7 @@ To edit an existing Category:
   in the item's Version History
   window.
 
-### Workflow
+### Workflow tab
 
 ![Edit category workflow tab](../../../en/images/articles/articles-edit-category-workflow-tab.png "Edit category workflow tab")
 

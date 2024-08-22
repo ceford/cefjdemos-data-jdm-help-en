@@ -52,7 +52,7 @@ Not all of the following fields are present in all menu item types!
 - **Create Date** Show the Article's create date.
 - **Modify Date** Show the Article's modify date.
 - **Publish Date** Show the Article's start publishing date.
-- **Navigation** Show a navigation link 'Prev' or 'Next' when you drill
+- **Navigation** Show a navigation link *Prev* or *Next* when you drill
   down to the article.
 - **"Read More" Link** Show the Read More link to link from the part of
   the article before the Read More break to the rest of the Article.

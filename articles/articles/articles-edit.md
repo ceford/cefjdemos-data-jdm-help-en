@@ -7,9 +7,6 @@ using a Wysiwyg editor. The default editor is TinyMCE but if other
 editors are installed the default editor may be set to something else
 for the site as a whole or for individual users.
 
-Most parameters in the *Article: Edit* page have suitable defaults but you
-might wish to set a specific Category or provide article-specific Metadata.
-
 ### Common Elements
 
 Some aspects of this page are covered in separate Help articles:
@@ -87,8 +84,8 @@ Home Dashboard.
 
 ### Images and Links tab
 
-**Note:** This tab can be hidden in Article: Options by a user with Admin permissions.
-It lets you display images and links in your articles using
+**Note:** This tab can be hidden in *Article: Options* by a user with 
+Admin permissions. It allows display of images and links in articles using
 standardised layouts.
 
 ![Articles edit images and links tab](../../../en/images/articles/articles-edit-images-tab.png "Articles edit images and links tab")
@@ -97,7 +94,7 @@ standardised layouts.
 
 - **Intro Image**. Click the Select button to select an image to be
   displayed in a fixed location in the Intro Text of this article. This
-  will open a window that allows you to select an image from your images
+  will open a window that allows selection of an image from the images
   folder.
 - **Image Description (Alt Text)**. Set the alt attribute for this
   image. A few descriptive words for screen readers.
@@ -106,15 +103,15 @@ standardised layouts.
   Description checkbox is unchecked then the image will fail to meet
   accessibility criteria. If an image description is present this
   checkbox has no effect.
-- **Image Class**. You can add any CSS class for your own styling ideas.
-  For image position use for example float-start and float-end.
+- **Image Class**. Add any CSS class for custom styling.
+  For example, for image position use float-start or float-end.
 - **Caption**. Create a caption for this image.
 
 #### Full Article Image
 
 - **Full Article Image**. Click the Select button to select an image to
   be displayed in a fixed location in the Full Text of this article.
-  This will open a window that allows you to select an image from your
+  This will open a window that allows selection of an image from the
   images folder.
 - **Image Description (Alt Text)**. Set the alt attribute for this
   image. A few descriptive words for screen readers.
@@ -123,8 +120,8 @@ standardised layouts.
   Description checkbox is unchecked then the image will fail to meet
   accessibility criteria. If an image description is present this
   checkbox has no effect.
-- **Image Class**. You can add any CSS class for your own styling ideas.
-  For image position use for example float-start and float-end.
+- **Image Class**. Add any CSS class for custom styling.
+  For example, for image position use float-start or float-end.
 - **Caption**. Enter an optional caption for this image.
 
 #### Link A
@@ -150,7 +147,7 @@ standardised layouts.
 ### Options tab
 
 **Note**: This tab can be hidden by a user with Admin permissions in the
-Article: Options. It is a set of options you can use to control how this
+Article: Options. It is a set of options used to control how this
 article will show in the Frontend.
 
 ![Options tab](../../../en/images/articles/articles-edit-options-tab.png "Options Tab")
@@ -163,11 +160,11 @@ article will show in the Frontend.
 - **Tags**. Enter tags for this article. Select existing tags by
   entering in the first few letters or create new tags by entering them
   here.
-- **Intro Text**.
-  - Show: The Intro Text of the article will show when you drill down to
-    the article.
+- **Intro Text**. 
+  - Show: The Intro Text of the article will show in a page displaying the
+    complete article.
   - Hide: Only the part of the article after the Read More break will
-    show.
+    show in a page displaying the complete article.
 - **Position of Article Info**.
   - Above: Puts the article information block above the text.
   - Below: Puts the article information block below the text.
@@ -202,10 +199,9 @@ article will show in the Frontend.
 
 #### Options
 
-- **Navigation**. Show a navigation link 'Prev' or 'Next' when you drill
-  down to the article.
-- **Hits**. Show the number of times the article has been displayed by a
-  user.
+- **Navigation**. Show navigation links, *Prev* and/or *Next*, when
+  displaying a page containing the full article.
+- **Hits**. Show the number of times the article has been displayed by a user.
 - **Unauthorised Links**. If Yes, the Intro Text for restricted articles
   will show. Clicking on the Read more link will require users to log in
   to view the full article content.
@@ -251,17 +247,15 @@ Article: Options.
 
 - There are 2 methods to insert an image into article using the TinyMCE
   editor.
-  1.  The CMS Content
-      dropdown list provides access to the Media screen
-      that lets you browse image files and upload images.
-  2.  The 'Insert' dropdown list is a simple form for which you need to
-      know the image url. It is used for external images.
-- **Read more**  breaks allow you to save space on the Front Page or on any
-  blog layout page by showing just the first portion of an Article. Page break
-  allow you to provide multi-page navigation for long Articles. You can
-  use both on one Article, if desired.For example, you could put a Read
-  more break after the first paragraph of a multi-page article, and have
-  Page breaks after each page. No page navigation would display on the
-  Front Page until the User selects the Read more link. At that time,
-  the Article's table of contents would display showing links to every
-  page.
+  1. The *CMS Content* dropdown list provides access to the Media screen.
+  2. The *Insert* dropdown list is a simple form for which requires the image 
+    url. It is used for external images.
+- A *Read More* insert saves space on any Featured or Blog layout page by 
+  showing just the first portion of an Article. *Page Break* inserts
+  provide multi-page navigation for long articles. Both may be used in a single
+  article if desired. For example, a *Read More* break could be placed after the 
+  first paragraph and *Page Break* breaks could be placed after later groups of 
+  paragraphs to create a multi-page article. No page navigation would display 
+  on the Featured or Blog page until the User selects the Read more link. At 
+  that time, the Article's table of contents would display showing links to 
+  every page.

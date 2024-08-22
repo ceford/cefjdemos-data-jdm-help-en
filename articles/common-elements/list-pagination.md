@@ -16,7 +16,7 @@ set to. Select the next number or the Next icon
 (<span class="icon-angle-right"></span>) to move on to the next page of items.
 
 The maximum number of pages displayed in a single pagination bar is 10.
-However, page numbers below and above the curren page are displayed to make
+However, page numbers below and above the current page are displayed to make
 it easy to move on or move back a page at a time.
 
 Here is a screenshot of the Plugins list having moved on to Page 10 with the
