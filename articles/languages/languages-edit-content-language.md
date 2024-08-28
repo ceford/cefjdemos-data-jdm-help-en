@@ -2,7 +2,7 @@
 
 ## Description
 
-In the Languages: Edit Content Language page you can set the parameters of an 
+In the Languages: Edit Content Language page you can set the parameters of an
 installed language.
 
 ### Common Elements
@@ -52,7 +52,7 @@ articles:
 * The **Site Custom Name** might be different in different languages!
 * The **Meta Description** should be different in different languages!
 
-## Quick Tips
+## Tips
 
 - Users can use any Language from the list of installed Languages,
   either by having it assigned in the User Profile

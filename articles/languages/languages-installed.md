@@ -27,13 +27,13 @@ Some elements of this page are covered in separate Help articles:
 
 ### Filter by Site or Administrator
 
-- **Site** Shows the installed Languages for the site frontend. Select an 
+- **Site** Shows the installed Languages for the site frontend. Select an
   item from the Default column to set it as the default frontend language.
-- **Administrator** Shows the installed Languages for the administrator 
+- **Administrator** Shows the installed Languages for the administrator
   backend. Select an item from the Default column to set it as the default
   backend language.
 
-## Quick Tips
+## Tips
 
 - Users can use any Language from the list of installed Languages,
   either by having it assigned in the Users list or

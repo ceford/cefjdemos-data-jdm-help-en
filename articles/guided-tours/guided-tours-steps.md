@@ -2,13 +2,13 @@
 
 ## Description
 
-The guided tours give users the ability to complete walk-throughs (or tours) 
-to better understand the interface they are learning to use. Steps are 
+The guided tours give users the ability to complete walk-throughs (or tours)
+to better understand the interface they are learning to use. Steps are
 necessary in the building of a tour.
 
 ### Common Elements
 
-Some elements of this page are covered in separate 
+Some elements of this page are covered in separate
 Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
@@ -26,6 +26,6 @@ Help articles:
 
 ![Guided tours steps list](../../../en/images/guided-tours/guided-tours-steps-list.png)
 
-## Quick Tips
+## Tips
 
 - The title bar contains the name of the Guided Tour the steps apply to.

@@ -69,7 +69,7 @@ To edit a Menu Item:
 
 - **Menu**. Shows which menu the link will appear in.
 
-## Quick Tips
+## Tips
 
 - If you have a Single Article Layout defined for an article, that
   layout will show any time a user drills down to that article. For

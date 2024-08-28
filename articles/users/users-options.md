@@ -28,7 +28,7 @@ User Options set globally for all users include
   - Yes: Users can register from the Frontend of the site using the
     'Create an Account' link provided in the Login form.
   - No: The 'Create an Account' link will not show.
-- **New User Registration Group** The group that users are assigned to by 
+- **New User Registration Group** The group that users are assigned to by
   default when they register on the site. Defaults to 'Registered'.
 - **Guest User Group** The group that guests are assigned to (Guests
   are visitors to the site who are not logged in). It is possible to
@@ -157,7 +157,7 @@ User Options set globally for all users include
 
 - **Enable Custom Fields** Enable the creation of custom fields.
 
-## Quick Tips
+## Tips
 
 If you are a beginning user, you can just keep the default values here
 until you learn more about using global options.

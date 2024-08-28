@@ -60,7 +60,7 @@ There are two routes to the Categories list page:
 - **ID**. A unique identification number for this category, you cannot
   change this number.
 
-## Quick Tips
+## Tips
 
 - Click on an icon in the Status column to toggle between Published and
   Unpublished.

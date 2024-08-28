@@ -6,7 +6,7 @@ The Languages: Content page displays information on installed languages.
 
 ### Common Elements
 
-Some elements of this page are covered in separate 
+Some elements of this page are covered in separate
 Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
@@ -41,7 +41,7 @@ Selected information:
 - **Home** Whether there is a default page set for this language or
   not.
 
-## Quick Tips
+## Tips
 
 - Users can use any Language from the list of installed Languages,
   either by having it assigned in the Users list or

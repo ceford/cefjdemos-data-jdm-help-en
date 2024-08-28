@@ -21,6 +21,6 @@ Some aspects of this page are covered in separate Help articles:
 
 ![Checkin options](../../../en/images/maintenance/check-in-options.png)
 
-## Quick Tips
+## Tips
 
 - Remember, these choices are applied globally.

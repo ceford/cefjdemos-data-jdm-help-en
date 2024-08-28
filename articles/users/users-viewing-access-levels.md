@@ -34,7 +34,7 @@ Select **Users → Access Levels** from the Administrator menu.
 
 ![users viewing access levels](../../../en/images/users/users-viewing-access-levels.png)
 
-## Quick Tips
+## Tips
 
 - Click on the name of an access level to edit it.
 - Click on the Column Headers to sort the users by that column,

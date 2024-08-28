@@ -69,7 +69,7 @@ To edit an existing Login Form menu item:
 - **Logout Description Text:** Enter text to display on Logout page.
 - **Logout Image:** Select or upload an image to display on Logout page.
 
-## Quick Tips
+## Tips
 
 - The **Login and Logout URL** can be used to send a user to a specific
   page('article') created to provide some feedback to the user. For

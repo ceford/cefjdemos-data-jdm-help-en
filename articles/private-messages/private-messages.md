@@ -23,7 +23,7 @@ Some elements of this page are covered in separate Help articles:
 
 ![private messages](../../../en/images/private-messages/private-messages.png)
 
-## Quick Tips
+## Tips
 
 - Only users who are members of the *Super Users* and *Administrator*
   groups have access to this page, unless User Group permissions have

@@ -63,6 +63,6 @@ the Plus symbol, links to the form to create a new item.
   Time Zone, Language, Server Configurations, Session settings, and Meta
   Data.
 
-## Quick Tips
+## Tips
 
 Access from other pages: select the Joomla Logo.

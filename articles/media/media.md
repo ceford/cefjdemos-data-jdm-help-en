@@ -2,7 +2,7 @@
 
 ## Description
 
-The Media component is a tool for managing files in the images folder and 
+The Media component is a tool for managing files in the images folder and
 other user defined local folders. Actions available include:
 
 - Upload a new image (or document)
@@ -57,7 +57,7 @@ the image display area.
 
 ### Actions
 
-Hover over an image and select the menu button labelled with an ellipsis (...). 
+Hover over an image and select the menu button labelled with an ellipsis (...).
 6 icons appear offering the following actions:
 
 1.  **Preview**. Select the magnifier icon - the image is shown full
@@ -76,7 +76,7 @@ Hover over an image and select the menu button labelled with an ellipsis (...).
     be prompted to confirm. Once deleted it is gone forever! May be used
     also to delete a folder.
 
-## Quick Tips
+## Tips
 
 - If you wish to keep images and documents in separate local folders:
   1.  create a folder in the root of your site, say **files**

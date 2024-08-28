@@ -6,7 +6,7 @@ Used to view a list of existing Banner Tracking information.
 
 ### Common Elements
 
-Some elements of this page are covered in separate 
+Some elements of this page are covered in separate
 Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
@@ -43,7 +43,7 @@ The following buttons are specific to Banners: Tracks.
   followed by any text entered (JCMS6-some-text.zip).
 - **Delete Tracks**. Will delete the selected Banner Tracks.
 
-## Quick Tips
+## Tips
 
 - You must add at least one Banner Client and Banner Category *before*
   you can add a Banner.

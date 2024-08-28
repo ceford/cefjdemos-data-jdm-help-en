@@ -130,8 +130,6 @@ Plugins - editors-xtd.
 - Outdent (move left) and Indent (indent right).
 - 3 dots: Show second Toolbar row.
 
-#
-
 #### Medium: Second Row
 
 - Insert/edit Link: To insert or edit a link, select the linked text and
@@ -168,8 +166,6 @@ alt="tinymce advanced preset toolbar" />
 This option provides all of the same buttons as documented in the Set 1
 Toolbar above. In addition, the following options are available.
 
-#
-
 #### Advanced: Top Row
 
 - Blocks: Paragraph, Headings, Preformatted.
@@ -180,8 +176,6 @@ Toolbar above. In addition, the following options are available.
   location and press this button. A popup dialog will display that
   allows you to enter the Source, Width or Height and other information
   about the image.
-
-#
 
 #### Advanced: Second Row
 
@@ -201,8 +195,6 @@ Toolbar above. In addition, the following options are available.
 - Nonbreaking space.
 - Blockquote.
 - Insert Template.
-
-#
 
 #### Advanced: Third Row
 

@@ -96,7 +96,7 @@ List Layout Options control the appearance of the list layout.
 
 ### Mail Options Tab
 
-Contact Mail Options control the appearance of a Contact's → *Contact Form* if 
+Contact Mail Options control the appearance of a Contact's → *Contact Form* if
 it is enabled.
 
 ![Menu Item Featured Contacts mail options tab](../../../en/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
@@ -120,10 +120,10 @@ it is enabled.
 - **Contact Redirect** Enter an alternative URL to redirect the submitter
   after the email is sent.
 
-## Quick Tips
+## Tips
 
 - To feature a contact do one of the following using the Contacts list:
-  - Select the Featured symbol (circle with a star) in the Featured column, 
-  - Select the Item select check box and select Feature in the Actions 
-  drop-down list in the Toolbar. Several items can be selected to Feature 
+  - Select the Featured symbol (circle with a star) in the Featured column,
+  - Select the Item select check box and select Feature in the Actions
+  drop-down list in the Toolbar. Several items can be selected to Feature
   or Unfeature via the Actions list.

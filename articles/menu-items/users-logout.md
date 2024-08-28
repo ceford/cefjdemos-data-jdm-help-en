@@ -50,7 +50,7 @@ To edit an existing Logout menu item:
   to redirect to on logout. A user may be viewing a restricted access
   page on logout so must be redirected to a public access page.
 
-## Quick Tips
+## Tips
 
 - The **Login and Logout URL** can be used to send a user to a specific
   page('article') created to provide some feedback to the user. For

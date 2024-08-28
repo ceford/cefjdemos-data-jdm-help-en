@@ -52,17 +52,11 @@ this screenshot.
   - If the list Filter Options include a Position filter select the
     desired Position. This will limit the list to items that are
     assigned to that Position.
-  - Select the Ordering icon <img
-    src="https://docs.joomla.org/images/e/ee/Help30-Ordering-colheader-icon.png"
-    decoding="async" data-file-width="12" data-file-height="23" width="12"
-    height="23" alt="Ordering column header icon" /> in the Table
+  - Select the Ordering icon <i class="fa-solid fa-sort"></i> in the Table
     heading to make it the active ordering item. The ordering icons in
     each row will change from light grey to dark grey and the pointer
     will change to a drag arrow on hover.
-  - Select one of the Ordering icons <img
-    src="https://docs.joomla.org/images/8/87/Help30-Ordering-colheader-grab-bar-icon.png"
-    decoding="async" data-file-width="10" data-file-height="21" width="10"
-    height="21" alt="Ordering drag icon" /> and
+  - Select one of the Ordering drag icons <span class="icon-ellipsis-v"></i> and
     drag it up or down to change the position of that row in the list.
     The items will display in the new order within the Position.
 - **Status**. The published status of the item.

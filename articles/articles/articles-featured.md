@@ -28,7 +28,7 @@ Some elements of this page are covered in separate Help articles:
 
 ![Featured articles list screenshot](../../../en/images/articles/articles-featured-list.png "Feature Articles List")
 
-## Quick Tips
+## Tips
 
 - Select the icon in the **Featured** column to toggle between featured and
   not featured but beware this may affect ordering of featured items.

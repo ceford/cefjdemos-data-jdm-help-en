@@ -136,10 +136,10 @@ specific menu item or News Feed
 
 ![News feeds options integration tab](../../../en/images/news-feeds/news-feeds-options-integration-tab.png)
 
-- **Remove IDs from URLs** Whether or not to show the database id of a 
+- **Remove IDs from URLs** Whether or not to show the database id of a
   newsfeed in a link.
 
-## Quick Tips
+## Tips
 
 - If you are a beginning user, you can just keep the default values here
   until you learn more about using global options.

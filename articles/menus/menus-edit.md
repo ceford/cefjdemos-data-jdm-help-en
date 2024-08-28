@@ -33,7 +33,7 @@ articles:
 - **Unique Name.** The system name of the menu.
 - **Description.** A description about the purpose of the menu.
 
-## Quick Tips
+## Tips
 
 - If you forgot to create a module for this menu, go to the Modules list,
   found by going to **Home Dashboard â†’ Site â†’ Module**. Click on

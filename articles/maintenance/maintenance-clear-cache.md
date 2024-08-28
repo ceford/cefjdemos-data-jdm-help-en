@@ -39,7 +39,7 @@ Some aspects of this page are covered in separate Help articles:
   group.
 - **Size**. The total size, in KB, of the cache files in this group.
 
-## Quick Tips
+## Tips
 
 - Normally you want to delete all cache files. To do this, click the
   check box in the column heading to select all files and then click the

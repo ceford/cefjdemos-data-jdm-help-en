@@ -44,7 +44,7 @@ To edit an existing Registration Form menu item:
   blank and Joomla will fill in a default value Title in lower case and
   with dashes instead of spaces.
 
-## Quick Tips
+## Tips
 
 - For extended registration, see the User Profile Plugin.
   It can be used to add required fields for registration and it provides

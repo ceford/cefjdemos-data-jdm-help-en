@@ -3,7 +3,7 @@
 ## Description
 
 Module: Options are global settings for all modules. They can be overridden in
-individual modules. The same global options are used for Site and Administrator 
+individual modules. The same global options are used for Site and Administrator
 modules.
 
 ### Common Elements
@@ -31,11 +31,11 @@ Some elements of this page are covered in separate Help articles:
 
 ### Administrator Modules tab
 
-* **Language Filtering** Allows filtering administrator modules per 
+* **Language Filtering** Allows filtering administrator modules per
   administrator language.
 
 ![Module Options general tab](../../../en/images/modules/module-options-administrator-modules-tab.png)
 
-## Quick Tips
+## Tips
 
-* Enable module editing in Global Configuration. 
+* Enable module editing in Global Configuration.

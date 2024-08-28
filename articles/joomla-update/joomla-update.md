@@ -40,13 +40,7 @@ latest update from this page. To do so make sure you have taken a backup
 and check the **I am aware...** checkbox to indicate you have done so. Then
 select the **Start Update** button and Joomla will install the latest version.
 
-### The screen while updating
-
-<img
-src="https://docs.joomla.org/images/0/05/Help-4x-joomla-update-manager-updating-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="173"
-width="800" height="173"
-alt="joomla update updating in progress screen" />
+The update screen shows a progress while the update is in progress.
 
 ### Upload and Update
 

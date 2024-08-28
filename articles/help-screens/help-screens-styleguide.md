@@ -164,7 +164,7 @@ has a batch process feature. For example, see
 title="Help4.x:Components Banners Categories">Help4.x:Components Banners
 Categories</a>.
 
-### Quick Tips
+### Tips
 
 As the name suggests, this section should include tips, hints,
 suggestions that can assist a user in performing tasks involving the

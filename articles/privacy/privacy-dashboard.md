@@ -8,7 +8,7 @@ requests.
 ### Tutorials
 
 - [Privacy Outline - Content and Workflow](https://docs.joomla.org/Help4.x:Components_Privacy_Outline/en)
-- [The Privacy Tool Suite](https://docs.joomla.org/J3.x:Privacy/en) 
+- [The Privacy Tool Suite](https://docs.joomla.org/J3.x:Privacy/en)
   (Detailed Tutorial from Joomla 3)
 - [Information Request Workflow](https://docs.joomla.org/J3.x:Information_Request_Workflow_in_Privacy_Component/en)
   (Detailed Tutorial from Joomla 3)
@@ -25,17 +25,17 @@ requests.
 
 ### Privacy Status
 
-- **Published Privacy Policy** Whether a Privacy Policy is available. Navigate 
-  to *Plugins → System - Privacy Consent* and select your Privacy Article. 
+- **Published Privacy Policy** Whether a Privacy Policy is available. Navigate
+  to *Plugins → System - Privacy Consent* and select your Privacy Article.
   Once published, you can edit your Privacy Policy article from this screen.
-- **Published Request Form Menu Item**  Whether the Menu Item (which allows 
-  users to send requests) is published or unpublished. To create it, navigate 
-  to your Menu → Add New Menu Item → Menu Item Type: Create Request. Once 
+- **Published Request Form Menu Item**  Whether the Menu Item (which allows
+  users to send requests) is published or unpublished. To create it, navigate
+  to your Menu → Add New Menu Item → Menu Item Type: Create Request. Once
   published, you can edit your menu item from this screen.
 - **Outstanding Urgent Requests** Number of urgent requests which are
   older than the number of days set in the Component Options (from 10 to
   29 days).
-- **Mail Sending Enabled** 
+- **Mail Sending Enabled**
 - **Database connection encryption**
 
 ### Privacy Requests
@@ -56,6 +56,6 @@ requests.
   block displays also the total number of requests and the number of
   active requests
 
-## Quick Tips
+## Tips
 
 - Click on a Request Type to view the requests.

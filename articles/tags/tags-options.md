@@ -122,7 +122,7 @@ articles:
 - **Show Feed Link** Show or hide an RSS Feed Link. (A Feed Link will
   show up as a feed icon in the address bar of most modern browsers).
 
-## Quick Tips
+## Tips
 
 - If you are a beginning user, you can just keep the default values here
   until you learn more about using global options.

@@ -23,11 +23,7 @@ to read.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/9/90/Help-4x-Extensions-Template-Manager-Templates-Edit-Source-screen-en.png"
-decoding="async" data-file-width="800" data-file-height="430"
-width="800" height="430"
-alt="Templates Edit Source screen" />
+![Templates customise cassiopeia editor tab](../../../en/images/templates/templates-customise-cassiopeia-edit-component-editor-tab.png)
 
 ## Form Fields
 
@@ -48,7 +44,7 @@ alt="Templates Edit Source screen" />
 If there have been no updates to the template since overrides were
 created this tab will contain a simple message:
 
-- **Notice.** Overridden files are up to date. Nothing has been changed
+- **Notice** Overridden files are up to date. Nothing has been changed
   in the last extension or Joomla update.
 
 If there have been updates, a table will show a list of overrides that
@@ -56,28 +52,28 @@ need to be reviewed.
 
 ### Template Description Tab
 
-- **Thumbnail and Description.** Information on this template.
+- **Thumbnail and Description** Information on this template.
 
 ## Toolbar
 
 The Toolbar icons change with the action being taken. You may see:
 
-- **Save.** Saves the item and stays in the current screen.
+- **Save** Saves the item and stays in the current screen.
 - **Save & Close**. Saves the item and closes the current screen.
-- **Copy Template.** Copies the current template. A dialog box prompts
+- **Copy Template** Copies the current template. A dialog box prompts
   for a new name.
-- **Template Preview.** Select to open the Site in a new browser tab.
-- **Manage Folders.** Allows creation and deletion of template folders
+- **Template Preview** Select to open the Site in a new browser tab.
+- **Manage Folders** Allows creation and deletion of template folders
   using a dialog box.
-- **New File.** Allows upload of a file from your computer to the
+- **New File** Allows upload of a file from your computer to the
   template file hierarchy using a dialog box.
-- **Rename File.** Select a file to edit. Select the Rename button to
+- **Rename File** Select a file to edit. Select the Rename button to
   prompt for a new name.
-- **Delete File.** You will be prompted to Confirm or Cancel.
-- **Close File.** Closes the open file and returns to the Editor Tab.
+- **Delete File** You will be prompted to Confirm or Cancel.
+- **Close File** Closes the open file and returns to the Editor Tab.
 - **Help**. Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - Important: Do not delete the default template files using FTP because
   it generates an error in both the front-end and back-end.

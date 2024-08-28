@@ -41,7 +41,7 @@ Some aspects of this page are covered in separate Help articles:
   Joomla! installation's /plugins directory where the extension is
   located.
 
-## Quick Tips
+## Tips
 
 - If you experience problems during an update, use this Database check
   to see if your database was updated correctly.

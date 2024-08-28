@@ -1,7 +1,7 @@
 <!-- Filename: Help4.x:Site_Modules:_Who%27s_Online / Display title: Modules: Who's Online -->
 
 ## Description
-  
+
 The **Who's Online** module type displays the number of Anonymous and
 Registered Users who are currently accessing the Web site.
 
@@ -42,7 +42,7 @@ Some elements of this page are covered in separate Help articles:
 - **Display** Select what to show.
 - **Filter Groups** Choose to filter by groups of the connected user.
 
-## Quick Tips
+## Tips
 
 - Most people prefer not to use the "Who's Online" module when they have
   few visitors.

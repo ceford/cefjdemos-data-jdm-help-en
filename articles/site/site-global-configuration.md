@@ -349,7 +349,7 @@ suit your site's needs. The filtering is opt-in and the default settings
 provide good protection against markup commonly associated with website
 attacks.
 
-## Quick Tips
+## Tips
 
 - Most of these settings can be set once and then left alone.
 - If major modifications need to be made, then consider taking the site

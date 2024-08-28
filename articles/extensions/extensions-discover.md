@@ -3,9 +3,9 @@
 ## Description
 
 This page allows you to discover extensions that have not passed through
-the normal installation process. For example, some extensions are too large 
-in file size to upload using the web interface due to limitations of the web 
-hosting environment. Using this feature you can upload extension files directly 
+the normal installation process. For example, some extensions are too large
+in file size to upload using the web interface due to limitations of the web
+hosting environment. Using this feature you can upload extension files directly
 to your web server using some other means such as FTP or SFTP and place those
 extension files into the appropriate directory. You can then use the
 discover feature to find the newly uploaded extension and activate it in
@@ -33,7 +33,7 @@ can be installed with the discover function and the following steps:
 
 ### Common Elements
 
-Some elements of this page are covered in separate 
+Some elements of this page are covered in separate
 Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
@@ -51,7 +51,7 @@ Help articles:
 
 ![Extensions discover list](../../../en/images/extensions/discover-list.png)
 
-## Quick Tips
+## Tips
 
 - If you have many extensions you want to install you can upload them
   all into the appropriate directories of your Joomla! installation and

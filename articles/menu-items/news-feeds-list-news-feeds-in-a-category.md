@@ -119,7 +119,7 @@ To edit an existing List News Feeds in a Category menu item:
   Select the feed display order, most recent first, oldest first, or
   Global, the setting in News Feeds Options.
 
-## Quick Tips
+## Tips
 
 - Categories can be "nested" into levels, similar to folders on a disk
   drive. In theory there is no absolute limit on the number of levels

@@ -46,7 +46,7 @@ Some elements of this page are covered in separate Help articles:
 
 ![users groups](../../../en/images/users/users-groups-list.png)
 
-## Quick Tips
+## Tips
 
 - Select the name of a group to edit the group's properties.
 - Select the Permission icon to review the group permissions to access each

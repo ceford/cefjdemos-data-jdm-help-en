@@ -41,6 +41,6 @@ To edit an existing External URL menu item:
   blank and Joomla will fill in a default value Title in lower case and
   with dashes instead of spaces.
 
-## Quick Tips
+## Tips
 
 Make sure you include the full URL path.

@@ -57,16 +57,16 @@ Options, as shown below.
 - **Category Title** Show or hide the Category Title which
   will show as a subheading on the page. The subheading is usually
   displayed inside the "H2" tag.
-- **Category Description** Show or hide the description of the selected 
+- **Category Description** Show or hide the description of the selected
   Category.
 - **Category Image** Show or hide the category image.
-- **Subcategory Levels** The number of levels of subcategories to show in 
+- **Subcategory Levels** The number of levels of subcategories to show in
   the layout. Select *All* to show all levels in the subcategory hierarchy.
-- **Empty Categories** Show or hide the categories that contain no content 
+- **Empty Categories** Show or hide the categories that contain no content
   items or subcategories.
-- **Subcategories Descriptions** Show or hide the category description of 
+- **Subcategories Descriptions** Show or hide the category description of
   subcategories.
-- **\# Contacts in Category** Show or hide the number of Contacts in a 
+- **\# Contacts in Category** Show or hide the number of Contacts in a
   Contact Category.
 
 ### List Layouts Tab
@@ -75,9 +75,9 @@ List Layout Options control the appearance of the list layout.
 
 ![Menu Item List Contacts in a Category list layouts tab](../../../en/images/menu-items/contacts-featured-contacts-list-layouts-tab.png)
 
-- **Filter Field** Show or hide the Filter Field which creates a text field 
+- **Filter Field** Show or hide the Filter Field which creates a text field
   for the front-end user to enter some part of a contact name to search for.
-- **Display Select** Show or hide the Display \# control that allows the user 
+- **Display Select** Show or hide the Display \# control that allows the user
   to select the number of items to show in the list.
     If there are more items than this number, you can use the page
     navigation buttons (Start, Prev, Next, End, and page numbers) to
@@ -126,8 +126,8 @@ Contact Display fields control the appearance of the list layout.
       text only.
     - *Show With Link* Show Category name of contacts as heading styled text
     linked to Category.
-- **Contact Select List** Show or hide to allow the user to use a drop down 
-  list of all contacts in one contact category. 
+- **Contact Select List** Show or hide to allow the user to use a drop down
+  list of all contacts in one contact category.
 - **Name** Show or hide the contact's *Name*.
 - **Tags** Show or hide any contact's tags.
 - **Contact Information** If set to Show the following fields are available:
@@ -154,7 +154,7 @@ Contact Display fields control the appearance of the list layout.
 
 ### Mail Options Tab
 
-Contact Mail Options control the appearance of a Contact's → *Contact Form* 
+Contact Mail Options control the appearance of a Contact's → *Contact Form*
 if it is enabled.
 
 ![Menu Item List Contacts in a Category mail options tab](../../../en/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
@@ -162,14 +162,14 @@ if it is enabled.
 - **Contact Form** Show or hide the contact's *contact form*.
 - **Send Copy to Submitter** Show or hide the a check
   box to allow a Submitter to send a copy of email to themselves.
-- **Session Check** Check for the existence of a session cookie. Users without 
+- **Session Check** Check for the existence of a session cookie. Users without
   cookies enabled will not be able to send emails.
-- **Custom Reply** Turn on or off the custom message reply to contact form's 
+- **Custom Reply** Turn on or off the custom message reply to contact form's
   submitter.
 - **Contact Redirect** Enter alternative URL to redirect the submitter to
   after a successful contact form email is sent.
 
-## Quick Tips
+## Tips
 
 - The Category List layout is a convenient way to list a compact
   directory of contacts in a category that can include filtering and

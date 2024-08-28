@@ -108,7 +108,7 @@ box replaced with a code text area.
 - **Track Clicks** Whether or not to track the number of times the
   banner is clicked by web site visitors.
 
-## Quick Tips
+## Tips
 
 - Banners are placed on specific pages by adding Modules of type
   'Banners' using the Modules list.

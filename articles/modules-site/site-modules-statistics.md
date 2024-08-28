@@ -45,7 +45,7 @@ Some elements of this page are covered in separate Help articles:
 - **Hit Counter** Show or hide Hit Counter.
 - **Increase Counter** Enter the number of hits to increase the counter by.
 
-## Quick Tips
+## Tips
 
 Just because you *could* display your server information, doesn't mean
 you should, or that it's a good idea!

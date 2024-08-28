@@ -15,6 +15,13 @@ More Information:
   rel="nofollow noreferrer noopener">A Dummies Guide to Joomla Bug
   Testing</a>
 
+### Common Elements
+
+Some elements of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
+
 ## How to Access
 
 - Select **Components → Patch Tester** from the Administrator menu.
@@ -32,7 +39,7 @@ alt="Component Patch Tester Options screenshot" />
 
 ### GitHub Repository Tab
 
-- **GitHub Repository.** The default is Joomla! CMS. Use it.
+- **GitHub Repository** The default is Joomla! CMS. Use it.
 
 ### Github Authentication Tab
 
@@ -45,9 +52,9 @@ decoding="async" data-file-width="600" data-file-height="459"
 width="600" height="459"
 alt="Component Patch Tester Options github authentication subscreen" />
 
-- **GitHub Authentication Method.** Choose the Token method. The
+- **GitHub Authentication Method** Choose the Token method. The
   Credentials method will not work from September 2020.
-- **GitHub Token.** Paste in the Token obtained from GitHub.
+- **GitHub Token** Paste in the Token obtained from GitHub.
 
 ### CI Server Settings Tab
 
@@ -60,50 +67,7 @@ decoding="async" data-file-width="600" data-file-height="257"
 width="600" height="257"
 alt="Component Patch Tester Options ci server settings subscreen" />
 
-- **CI Server Address.** Default:
+- **CI Server Address** Default:
   <a href="https://ci.joomla.org" rel="noreferrer noopener">https://ci.joomla.org</a>
-- **Switch CI Integration.** Default: Off.
+- **Switch CI Integration** Default: Off.
 
-### Permissions Tab
-
-It is most unlikely that a Tester will wish to change the Permissions
-for this Component!
-
-<img
-src="https://docs.joomla.org/images/b/b6/Help-4x-Component-Patch-Tester-Options-permissions-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="518"
-width="600" height="518"
-alt="Component Patch Tester Options permissions subscreen" />
-
-To change the permissions for this extension, do the following.
-
-- Select the **Group** by clicking its title located on the left.
-- Find the desired **Action**. Possible Actions are:
-  - **Configure ACL & Optons**. Users can edit the options and
-    persimissions of this extension.
-  - **Access Administration Interface**. Users can access user
-    administration interface of this extension.
-- Select the desired permission for the action you wish to change.
-  Possible settings are:
-  - ***Inherited:*** Inherited for users in this Group from the Global
-    Configuration permissions of this extension.
-  - ***Allowed:*** Allowed for users in this Group. Note that, if this
-    action is Denied at one of the higher levels, the Allowed permission
-    here will not take effect. A Denied setting cannot be overridden.
-  - ***Denied:*** Denied for users in this Group.
-- Click **Save** in **Toolbar** at top. When the screen refreshes, the
-  Calculated Setting column will show the effective permission for this
-  Group and Action.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the Screenshot
-above. The functions are:
-
-- **Save.** Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
-
-## Quick Tips

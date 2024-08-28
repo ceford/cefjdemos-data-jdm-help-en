@@ -18,7 +18,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## How to access
 
-- Select **Content → Site Modules** from the Administrator menu. 
+- Select **Content → Site Modules** from the Administrator menu.
 
 ## Screenshot - List of Installed Site Modules
 
@@ -28,7 +28,7 @@ Some elements of this page are covered in separate Help articles:
 
 ![administrator modules available](../../../en/images/modules-site/modules-site-available.png)
 
-## Quick Tips
+## Tips
 
 - Some Joomla Extensions provide new Module Types. If you have installed
   any Extensions, your Joomla! site might have Module Types that are not

@@ -35,6 +35,6 @@ Some aspects of this page are covered in separate Help articles:
 - **Page Class:** Optional CSS class to add to elements in this page.
   This allows CSS styling specific to this page.
 
-## Quick Tips
+## Tips
 
 - Remember, these choices are applied globally.

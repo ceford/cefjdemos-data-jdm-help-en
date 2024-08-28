@@ -4,6 +4,13 @@
 
 Contact Options used globally for all contacts.
 
+### Common Elements
+
+Some aspects of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
+
 ## How to Access
 
 - Select **Components → Contacts** from the Administrator menu.
@@ -13,11 +20,7 @@ Contact Options used globally for all contacts.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/a/ab/Help-4x-Components-Contacts-Contacts-options1-en.png"
-decoding="async" data-file-width="800" data-file-height="1109"
-width="800" height="1109"
-alt="Contacts options edit form contact tab" />
+![Contacts options screenshot](../../../en/images/contacts/contacts-options-contact-tab.png)
 
 ## Form Fields
 
@@ -85,11 +88,7 @@ specific menu item or Contact
 
 ### Icons Tab
 
-<img
-src="https://docs.joomla.org/images/c/c8/Help-4x-Component-Contact-Manager-Options-icons-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="579"
-width="800" height="772"
-alt="Contacts options edit form icons tab" />
+![Contacts options icons tab](../../../en/images/contacts/contacts-options-icons-tab.png)
 
 These settings apply for single Contact unless they are changed for a
 specific menu item or Contact
@@ -114,11 +113,7 @@ specific menu item or Contact
 Category Options control how contacts will show when you drill down to a
 Category to view its contacts.
 
-<img
-src="https://docs.joomla.org/images/b/b9/Help-4x-Component-Contact-Manager-Options-category-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="444"
-width="800" height="592"
-alt="Contacts options edit form category tab" />
+![Contacts options category tab](../../../en/images/contacts/contacts-options-category-tab.png)
 
 - **Choose a Layout.** (Blog/List/user defined). This lets you select
   the default layout to show when you click on a Category link. If you
@@ -145,33 +140,14 @@ alt="Contacts options edit form category tab" />
 These settings apply for Contact Categories Options unless they are
 changed for a specific menu item.
 
-<img
-src="https://docs.joomla.org/images/7/70/Help-4x-Component-Contact-Manager-Options-categories-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="300"
-width="800" height="400"
-alt="Contacts options edit form categories tab" />
-
-- **Top Level Category Description.** (Show/Hide). Hide or Show the
-  description of the top-level category.
-- **Subcategory Levels.** (All/1-5). How many levels in the hierarchy to
-  show.
-- **Subcategories Descriptions.** (Show/Hide). Hide or Show the
-  description of each subcategory.
-- **Empty Categories.** (Show/Hide). Hide or Show categories that
-  contain no articles and no subcategories.
-- **\# Contacts in Category.** Show or Hide the number of Contacts in
-  category.
+![Contacts options categories tab](../../../en/images/contacts/contacts-options-categories-tab.png)
 
 ### List Layouts Tab
 
 These settings apply for Contact List Options unless they are changed
 for a specific menu item.
 
-<img
-src="https://docs.joomla.org/images/1/13/Help-4x-Component-Contact-Manager-Options-list-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="659"
-width="800" height="879"
-alt="Contacts options edit form list layouts tab" />
+![Contacts options list layouts tab](../../../en/images/contacts/contacts-options-list-layouts-tab.png)
 
 - **Filter Field.** The Filter Field creates a text field where a user
   can enter a field to be used to filter the articles shown in the list.
@@ -223,11 +199,7 @@ alt="Contacts options edit form list layouts tab" />
 These settings apply for single Contact unless they are changed for a
 specific menu item or Contact.
 
-<img
-src="https://docs.joomla.org/images/e/ed/Help-4x-Component-Contact-Manager-Options-form-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="586"
-width="800" height="781"
-alt="Contacts options edit form form tab" />
+![Contacts options form tab](../../../en/images/contacts/contacts-options-form-tab.png)
 
 - **Allow Captcha on Contact.** Use Default or None Selected. Select the
   captcha plugin that will be used in the contact form. Captcha is the
@@ -250,78 +222,7 @@ alt="Contacts options edit form form tab" />
 - **Contact Redirect.** Enter an alternative URL, where the user will be
   redirected after mail is send.
 
-### Integration Tab
-
-These settings determine how the Contact Component will integrate with
-other extensions.
-
-<img
-src="https://docs.joomla.org/images/5/56/Help-4x-Component-Contact-Manager-Options-integration-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="359"
-width="800" height="479"
-alt="Contacts options edit form integration tab" />
-
-- **Show Feed Links.** (Show or Hide) Show or hide the feed links URLs.
-  A feed link will show up as a feed icon in the address bar of most
-  browsers.
-- **Remove IDs from URLs.** (Yes or No) Whether or not to show the
-  database id of a contact in a link.
-- **Enable Custom Fields.** (Yes or No) Enable the creation of custom
-  fields.
-
-### Permissions Tab
-
-This section shows permissions for contacts. The screen shows as
-follows.
-
-<img
-src="https://docs.joomla.org/images/e/e2/Help-4x-Component-Contact-Manager-Options-permissions-options-subscreen-en.png"
-decoding="async" data-file-width="600" data-file-height="651"
-width="800" height="868"
-alt="Contacts options edit form permissions tab" />
-
-To change the permissions for this extension, do the following.
-
-- Select the **Group** by clicking its title located on the left.
-- Find the desired **Action**. Possible Actions are:
-  - **Configure ACL & Optons.** Users can edit the options and
-    permissions of this extension.
-  - **Configure Options Only.** Users can edit the options except the
-    permissions of this extension.
-  - **Access Administration Interface.** Users can access user
-    administration interface of this extension.
-  - **Create.** Users can create content of this extension.
-  - **Delete.** Users can delete content of this extension.
-  - **Edit.** Users can edit content of this extension.
-  - **Edit State.** User can change the published state and related
-    information for content of this extension.
-  - **Edit Own.** Users can edit own created content of this extension.
-- Select the desired permission for the action you wish to change.
-  Possible settings are:
-  - ***Inherited.*** Inherited for users in this Group from the Global
-    Configuration permissions of this extension.
-  - ***Allowed.*** Allowed for users in this Group. Note that, if this
-    action is Denied at one of the higher levels, the Allowed permission
-    here will not take effect. A Denied setting cannot be overridden.
-  - ***Denied.*** Denied for users in this Group.
-- Click **Save** in **Toolbar** at top. When the screen refreshes, the
-  Calculated Setting column will show the effective permission for this
-  Group and Action.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the Screenshot
-above. The functions are:
-
-- **Save.** Saves the Contact Manager options and stays in the current
-  screen.
-- **Save & Close**. Saves the Contact Manager options and closes the
-  current screen.
-- **Cancel**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
-
-## Quick Tips
+## Tips
 
 - If you are a beginning user, you can just keep the default values here
   until you learn more about using global options.

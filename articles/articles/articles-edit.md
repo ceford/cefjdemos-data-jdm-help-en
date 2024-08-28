@@ -84,7 +84,7 @@ Home Dashboard.
 
 ### Images and Links tab
 
-**Note:** This tab can be hidden in *Article: Options* by a user with 
+**Note:** This tab can be hidden in *Article: Options* by a user with
 Admin permissions. It allows display of images and links in articles using
 standardised layouts.
 
@@ -160,7 +160,7 @@ article will show in the Frontend.
 - **Tags**. Enter tags for this article. Select existing tags by
   entering in the first few letters or create new tags by entering them
   here.
-- **Intro Text**. 
+- **Intro Text**.
   - Show: The Intro Text of the article will show in a page displaying the
     complete article.
   - Hide: Only the part of the article after the Read More break will
@@ -243,19 +243,19 @@ Article: Options.
 - **Frontend Images and Links**. If Yes, the Images and Links tab will
   show in the Frontend article editor screen.
 
-## Quick Tips
+## Tips
 
 - There are 2 methods to insert an image into article using the TinyMCE
   editor.
   1. The *CMS Content* dropdown list provides access to the Media screen.
-  2. The *Insert* dropdown list is a simple form for which requires the image 
+  2. The *Insert* dropdown list is a simple form for which requires the image
     url. It is used for external images.
-- A *Read More* insert saves space on any Featured or Blog layout page by 
+- A *Read More* insert saves space on any Featured or Blog layout page by
   showing just the first portion of an Article. *Page Break* inserts
   provide multi-page navigation for long articles. Both may be used in a single
-  article if desired. For example, a *Read More* break could be placed after the 
-  first paragraph and *Page Break* breaks could be placed after later groups of 
-  paragraphs to create a multi-page article. No page navigation would display 
-  on the Featured or Blog page until the User selects the Read more link. At 
-  that time, the Article's table of contents would display showing links to 
+  article if desired. For example, a *Read More* break could be placed after the
+  first paragraph and *Page Break* breaks could be placed after later groups of
+  paragraphs to create a multi-page article. No page navigation would display
+  on the Featured or Blog page until the User selects the Read more link. At
+  that time, the Article's table of contents would display showing links to
   every page.

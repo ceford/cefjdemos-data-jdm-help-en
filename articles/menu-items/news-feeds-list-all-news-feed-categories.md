@@ -144,7 +144,7 @@ The Feed Display Options are as follows.
 - **Characters count**. Number of characters to show if Feed Content
   from News Feeds is set to show.
 
-## Quick Tips
+## Tips
 
 - Categories can be "nested" into levels, similar to folders on a disk
   drive. In theory there is no absolute limit on the number of levels

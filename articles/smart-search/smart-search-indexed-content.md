@@ -3,7 +3,7 @@
 ## Description
 
 This screen shows a list of all the content items that have been indexed
-in Smart Search. 
+in Smart Search.
 
 ### Common Elements
 
@@ -30,7 +30,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Create an Index
 
-Click on the **Index** button in the Toolbar. This will open a window to show 
+Click on the **Index** button in the Toolbar. This will open a window to show
 the progress of the indexing operation. The indexing operation may take some
 time depending on the number of content items on your site and the
 number of search words and phrases contained in each content item. A
@@ -69,10 +69,10 @@ time (tens of minutes).
     settings after a Purge-Index cycle.
 - **Statistics** Shows some basic statistics on Smart Search.
 
-## Quick Tips
+## Tips
 
 - If you run the indexer and get an "undefined null" error, then check
   the permissions on the Joomla `/logs` directory. The web server needs
   to have write permission to that directory for the indexer to work.
-- If the list is empty then make sure that the Smart Search plug-in has 
+- If the list is empty then make sure that the Smart Search plug-in has
   been enabled.

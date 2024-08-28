@@ -7,6 +7,17 @@ a hierarchical list, parent with child (sub) categories. Depending on
 the selected layout options, click on a category Title to show the Web
 Links in that category or sub categories.
 
+### Common Elements
+
+Some aspects of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Link Type Tab](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+* [The Page Display Tab](jdocmanual?article=help/menu-items-common/menu-item-page-display).
+* [The Metadata Tab](jdocmanual?article=help/menu-items-common/menu-item-metadata).
+* [The Associations Tab](jdocmanual?article=help/common-elements/edit-associations).
+* [The Module Assignment Tab](jdocmanual?article=help/menu-items-common/menu-item-module-assignment).
+
 ## How To Access
 
 To create a new **List Web Links in a Category** Menu Item:
@@ -23,71 +34,56 @@ Title in Menu Manager: Menu Items.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/d/de/Help-4x-Menus-Menu-Item-Web-Link-Category-screen-en.png/800px-Help-4x-Menus-Menu-Item-Web-Link-Category-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/de/Help-4x-Menus-Menu-Item-Web-Link-Category-screen-en.png/1200px-Help-4x-Menus-Menu-Item-Web-Link-Category-screen-en.png 1.5x, https://docs.joomla.org/images/d/de/Help-4x-Menus-Menu-Item-Web-Link-Category-screen-en.png 2x"
-data-file-width="1256" data-file-height="933" width="800" height="594"
-alt="Menu item List Web Links in a Category screenshot" />
+![Menu item type List Web Links in a Category](../../../en/images/menu-items/weblinks-list-web-links-in-a-category-details-tab.png)
 
 ## Form Fields
 
-- **Title:** The title that will display for this menu item.
+- **Title** The title that will display for this menu item.
 
 ### Details Tab
 
-- **Menu Item Type**. The Menu Item Type selected when this menu item
+- **Menu Item Type** The Menu Item Type selected when this menu item
   was created. This can be one of the core menu item types or a menu
   item type provided by an installed extension.
-- **Choose a Category**. The Categories that are within this category
+- **Choose a Category** The Categories that are within this category
   will be displayed.
-- **Menu**. Shows which menu the link will appear in.
+- **Menu** Shows which menu the link will appear in.
 
 ### Category tab
 
 Category Options control the appearance of the screen when you click on
 a category link. The following options are available.
 
-<img
-src="https://docs.joomla.org/images/thumb/0/08/Help-4x-Menus-Menu-Item-Web-Link-Categories-category-options-parameters-en.png/800px-Help-4x-Menus-Menu-Item-Web-Link-Categories-category-options-parameters-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/08/Help-4x-Menus-Menu-Item-Web-Link-Categories-category-options-parameters-en.png/1200px-Help-4x-Menus-Menu-Item-Web-Link-Categories-category-options-parameters-en.png 1.5x, https://docs.joomla.org/images/0/08/Help-4x-Menus-Menu-Item-Web-Link-Categories-category-options-parameters-en.png 2x"
-data-file-width="1299" data-file-height="841" width="800" height="518"
-alt="Menu item List Web Links in a Category category tab" />
+![Menu item type List Web Links in a Category](../../../en/images/menu-items/weblinks-list-web-links-in-a-category-category-tab.png)
 
-- **Category Title.** (Use Global/Hide/Show) If Show, the Category Title
+- **Category Title** (Use Global/Hide/Show) If Show, the Category Title
   will show as a subheading on the page. The subheading is usually
   displayed inside the "H2" tag.
-- **Category Description**. (Use Global/Hide/Show) Show or hide the
+- **Category Description** (Use Global/Hide/Show) Show or hide the
   description of the selected Category.
-- **Category Image.** (Use Global/Hide/Show) Whether to hide or show the
+- **Category Image** (Use Global/Hide/Show) Whether to hide or show the
   category image.
-- **Subcategory Levels.** (Use Global/All/1-5) The number of levels of
+- **Subcategory Levels** (Use Global/All/1-5) The number of levels of
   subcategories to show in the layout. Select *All* to show all levels
   in the subcategory hierarchy.
-- **Empty Categories.** (Use Global/Hide/Show) Whether to hide or show
+- **Empty Categories** (Use Global/Hide/Show) Whether to hide or show
   the categories that contain no content items or subcategories.
-- **Subcategories Descriptions.** (Use Global/Hide/Show) Whether to hide
+- **Subcategories Descriptions** (Use Global/Hide/Show) Whether to hide
   or show the category description of subcategories.
 - **\# Web links**. (Use Global/Hide/Show) Show or hide the number of
   'Web Links' in each category.
 
-### List Layout tab
+### List Layouts tab
 
 The List Layout options control the appearance of the category
 drill-down page when that is presented as a Category List. The following
 options are available:
 
-<img
-src="https://docs.joomla.org/images/thumb/a/a3/Help-4x-Menus-Menu-Item-Web-Link-Categories-list-layout-options-parameters-en.png/800px-Help-4x-Menus-Menu-Item-Web-Link-Categories-list-layout-options-parameters-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/a/a3/Help-4x-Menus-Menu-Item-Web-Link-Categories-list-layout-options-parameters-en.png/1200px-Help-4x-Menus-Menu-Item-Web-Link-Categories-list-layout-options-parameters-en.png 1.5x, https://docs.joomla.org/images/a/a3/Help-4x-Menus-Menu-Item-Web-Link-Categories-list-layout-options-parameters-en.png 2x"
-data-file-width="1302" data-file-height="783" width="800" height="481"
-alt="Menu item List Web Links in a Category list layout tab" />
+![Menu item type List Web Links in a Category](../../../en/images/menu-items/weblinks-list-web-links-in-a-category-list-layouts-tab.png)
 
-- **Filter Field:** (Use Global/Hide/Show) Whether to show a Filter
+- **Filter Field** (Use Global/Hide/Show) Whether to show a Filter
   field for the list. Select Hide to hide the filer field
-- **Display Select.** (Use Global/Hide/Show) Whether to hide or show the
+- **Display Select** (Use Global/Hide/Show) Whether to hide or show the
   Display \# control that allows the user to select the number of items
   to show in the list.
     If there are more items than this number, you can use the page
@@ -95,7 +91,7 @@ alt="Menu item List Web Links in a Category list layout tab" />
     navigate between pages. Note that if you have a large number of items,
     it may be helpful to use the Filter options, located above the column
     headings, to limit which items display.
-- **Table Headings.** (Use Global/Hide/Show) Table Headings show a
+- **Table Headings** (Use Global/Hide/Show) Table Headings show a
   heading above a list.
     If set to *Show*, this heading will show above the list. If set to
     *Hide*, the list will show with no headings.
@@ -103,7 +99,7 @@ alt="Menu item List Web Links in a Category list layout tab" />
   description of the list of links.
 - **Hits**. (Use Global/Hide/Show) Show or hide the number of hits
   (refers to \# of clicks) to a link in the list of links.
-- **Pagination.** Hide or Show Pagination support. Pagination provides
+- **Pagination** Hide or Show Pagination support. Pagination provides
   page links at the bottom of the page that allow the User to navigate
   to additional pages. These are needed if the listed items will not fit
   on one page.
@@ -112,35 +108,11 @@ alt="Menu item List Web Links in a Category list layout tab" />
     - *Show:* Pagination links shown if needed.
     - *Hide:* Pagination links not shown. Note: In this case, Users will not
       be able to navigate to additional pages.
-- **Pagination Results.** Hide or Show the current page number and total
+- **Pagination Results** Hide or Show the current page number and total
   pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
   will use the default value from the component options.
 
-### Common Options
-
-See Menus: New Item for help on fields common to all Menu Item types, including:
-
-- Right Panel
-- Link Type
-- Page Display
-- Metadata
-- Associations
-- Module Assignment
-
-## Toolbar
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Save & New**. Saves the item and keeps the editing screen open and
-  ready to create another item.
-- **Save as Copy**. Saves your changes to a copy of the current item.
-  Does not affect the current item. This toolbar icon is not shown if
-  you are creating a new item.
-- **Cancel**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
-
-## Quick Tips
+## Tips
 
 - Categories can be "nested" into levels, similar to folders on a disk
   drive. In theory there is no absolute limit on the number of levels

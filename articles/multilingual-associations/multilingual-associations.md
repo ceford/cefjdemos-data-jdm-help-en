@@ -8,7 +8,7 @@ is known as an **Association**. It must be made manually.
 
 Associations can be created for Articles and their Categories, Contacts and
 their Categories, Menu items and News Feeds and their Categories. Third party
-extensions may also support Associations. 
+extensions may also support Associations.
 
 The Multilingual Associations component allows side-by-side editing of
 associated items without the need to go back and forth.
@@ -28,7 +28,7 @@ Some elements of this page are covered in separate Help articles:
 ## How to Access
 
 * Select **Components → Multilingual Associations** From the Administrator Menu.
-* Select an item from the **- Select Item Type -** dropdown list. 
+* Select an item from the **- Select Item Type -** dropdown list.
 * Select a language from the **- Select Languag -e** dropdown list.
 
 ## Screenshot
@@ -39,7 +39,7 @@ In this screenshot an article named **Article (en-GB)** has been associated
 with articles in 6 other languages. An article named **Lorem Ipsum (en-GB)**
 has been associated with an article on one other language.
 
-The articles do not have to have a language code in the title. The usually 
+The articles do not have to have a language code in the title. The usually
 don't! There may be other *Lorem Ipsum* articles translated from English into
 other languages but not yet associated.
 
@@ -52,10 +52,10 @@ The items in the **Title** column are the reference items for the selected
 language. If you view the list with German selected you will see the same items
 because all of the associated items are available in both languages.
 
-If you view the list with other languages selected you are likely to see 
-different items. For example, Dutch may show nothing in the Associations 
-column because the translation exists but is has not been associated with 
-English or German. And if you select Spanish the number of items in the list 
+If you view the list with other languages selected you are likely to see
+different items. For example, Dutch may show nothing in the Associations
+column because the translation exists but is has not been associated with
+English or German. And if you select Spanish the number of items in the list
 may change because the Lorem Ipsum article has not been translated into Spanish.
 
 If you select an item from the **Title** column the reference item will appear
@@ -71,12 +71,12 @@ of the buttons in the **Associations** column. This loads the *Reference* and
 
 ## Not Associated
 
-Select a button in the *Not Associated* column to create a new article 
-associated with the reference article. It loads an edit form with the reference 
+Select a button in the *Not Associated* column to create a new article
+associated with the reference article. It loads an edit form with the reference
 item alongside a new empty associated item. The language is pre-filled and
-cannot be changed. 
+cannot be changed.
 
-## Quick Tips
+## Tips
 
 - A menu-item in English can be more easily translated into French with
   the original and translation side by side. And then select Persian to

@@ -13,8 +13,8 @@ troubleshooting setup problems.
 - Note that none of these settings can be changed from these panels.
   This must be done in different locations throughout your Joomla!
   installation, depending on the specific setting.
-- Some settings can be changed from the Global Configuration page. Others 
-  depend on your host server configuration and cannot be changed from inside 
+- Some settings can be changed from the Global Configuration page. Others
+  depend on your host server configuration and cannot be changed from inside
   Joomla!.
 
 ### Common Elements
@@ -139,7 +139,7 @@ about how PHP is implemented on the server.
 For full details on the information contained within the PHP Info tab
 visit: [http://php.net/phpinfo](http://php.net/phpinfo).
 
-## Quick Tips
+## Tips
 
 - If you are having problems installing extensions, uploading files, or
   changing configuration options, check the Directory Permissions tab

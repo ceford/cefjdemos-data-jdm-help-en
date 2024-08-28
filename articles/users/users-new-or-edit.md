@@ -90,7 +90,7 @@ To create a new user:
 - **Highlight Links** Yes/No
 - **Increase Font Size** Yes/No
 
-### User Actions Log Options 
+### User Actions Log Options
 
 This tab is available for Super Users only!
 
@@ -163,7 +163,7 @@ prompted to enter that code to gain site access. It is a one-time code.
 A new one is sent for every login. Have a look and select Cancel if you
 decide not to proceed.
 
-## Quick tips
+## Tips
 
 - Name, Login Name, and Email are required.
 - If you did not fill in a particular language, editor, help site and/or

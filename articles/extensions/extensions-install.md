@@ -28,7 +28,7 @@ Extensions are categorised into five types, as follows:
 
 ### Common Elements
 
-Some elements of this page are covered in separate Help 
+Some elements of this page are covered in separate Help
 articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
@@ -39,9 +39,9 @@ articles:
   Administrator menu.
 
 There are four installation methods available. If **Install from Web** has
-been made first in the list or was the last method selected there will be a 
-brief delay as Joomla downloads an initial selection of Extension data from 
-the Joomla Extensions Directory. 
+been made first in the list or was the last method selected there will be a
+brief delay as Joomla downloads an initial selection of Extension data from
+the Joomla Extensions Directory.
 
 The normal Tab order for the installation methods is as follows:
 
@@ -50,7 +50,7 @@ The normal Tab order for the installation methods is as follows:
 * Install from URL
 * Install from Web
 
-Only one method is needed to install a given Extension. The normal procedure 
+Only one method is needed to install a given Extension. The normal procedure
 for installing a Joomla! Extension is as follows:
 
 1.  Download one or more archive files (normally ".zip" or "tar.gz"
@@ -61,7 +61,7 @@ for installing a Joomla! Extension is as follows:
     Module). If there are two or more parts, each one may have its own
     archive file. Or the parts may be combined in a package file.
 2.  Choose one of the described methods to install the extension.
-3.  When it is finished, the screen will display a **Success** or **Fail** 
+3.  When it is finished, the screen will display a **Success** or **Fail**
     message.
 4.  Depending on the Extension, it may be necessary to enable the
     Extension (for example, in the Modules or Plugins lists).
@@ -73,8 +73,8 @@ for installing a Joomla! Extension is as follows:
 - Drag and drop or browse to the location where you downloaded the
   Extension's archive file.
 
-The upload begins automatically. Note the **Maximum upload size: 32.00MB** 
-defined for your installation. If you cannot increase this value you can use 
+The upload begins automatically. Note the **Maximum upload size: 32.00MB**
+defined for your installation. If you cannot increase this value you can use
 *Install from Folder*.
 
 ## Install from Folder Tab
@@ -111,7 +111,7 @@ can search by partial name.
 
 ![Extension install from web tab](../../../en/images/extensions/install-from-web.png)
 
-## Quick Tips
+## Tips
 
 - Four alternate installation methods are available, as indicated above.
   The most common one is the "Upload Package File" method.
@@ -133,7 +133,7 @@ can search by partial name.
   your live site for testing purposes because it may compromise your
   site and server. Test new extensions on a local test site before
   deploying them on your live site.
-- Do not install Joomla! Extensions downloaded from 
+- Do not install Joomla! Extensions downloaded from
   [Warez](https://en.wikipedia.org/wiki/Warez) sites because
   they may be infected by a virus or malware that cause damage on the
   server and can contaminate the computer of your visitors!

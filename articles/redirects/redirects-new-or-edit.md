@@ -39,7 +39,7 @@ Some elements of this page are covered in separate Help articles:
   - *Unpublished*: The item is unpublished.
   - *Archived*: The item has been archived.
   - *Trashed*: The item has been sent to the Trash.
-- **Comment** A comment that is only viewable by an administrator. It is 
+- **Comment** A comment that is only viewable by an administrator. It is
   primarily intended for administrator reference only.
 - **ID** This is a unique identification number for this item assigned
   automatically by Joomla. It is used to identify the item internally,
@@ -74,7 +74,7 @@ Some elements of this page are covered in separate Help articles:
 4.  Select the **Save & Close** toolbar button to save your new redirect
     and put it into effect.
 
-## Quick Tips
+## Tips
 
 - When entering URLs into the *Expired/Source URL* and *New/Destination
   URL* fields, enter the complete URL as you would type it into your web

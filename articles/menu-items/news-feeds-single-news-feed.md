@@ -64,7 +64,7 @@ screen.
   Select the feed display order, most recent first, oldest first, or
   Global, the setting in News Feeds Options.
 
-## Quick Tips
+## Tips
 
 - You can set the News Feed options in two places.
   - In News Feeds Options

@@ -232,7 +232,7 @@ unless they are changed by the menu settings.
 - **Pagination Summary**. Show the current page number and total pages
   (e.g., "Page 1 of 2") at the bottom of each page.
 
-## Quick Tips
+## Tips
 
 - Categories can be "nested" into levels, similar to folders on a disk
   drive. In theory there is no absolute limit on the number of levels

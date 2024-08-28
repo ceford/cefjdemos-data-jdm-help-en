@@ -17,7 +17,7 @@ Some elements of this page are covered in separate Help articles:
 ### Tutorials
 
 - [Privacy Outline - Content and Workflow](https://docs.joomla.org/Help4.x:Components_Privacy_Outline/en)
-- [The Privacy Tool Suite](https://docs.joomla.org/J3.x:Privacy/en) 
+- [The Privacy Tool Suite](https://docs.joomla.org/J3.x:Privacy/en)
   (Detailed Tutorial from Joomla 3)
 - [Information Request Workflow](https://docs.joomla.org/J3.x:Information_Request_Workflow_in_Privacy_Component/en)
   (Detailed Tutorial from Joomla 3)
@@ -54,6 +54,6 @@ Joomla! site, you will see different columns.
   request assigned automatically by Joomla. It is used to identify the
   item internally, and you cannot change this number.
 
-## Quick Tips
+## Tips
 
 - Click on the Email address to view the information request

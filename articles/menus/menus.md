@@ -68,7 +68,7 @@ ascending order.
   field displays "0" until you save the new entry, at which point a new
   ID is assigned to it.
 
-## Quick Tips
+## Tips
 
 - It is expedient to give a descriptive title for new menus because,
   later, you will see it in the *Backend Menus* menu. It is a good idea

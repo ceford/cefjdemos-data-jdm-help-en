@@ -86,7 +86,7 @@ To edit a Menu Item:
   Text to show. If the Intro Text is longer than this value, it will be
   truncated to this length.
 
-## Quick Tips
+## Tips
 
 - The Archived Articles layout allows you to access old or outdated
   articles that you don't want to remove entirely from the site.

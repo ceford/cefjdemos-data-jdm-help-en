@@ -39,8 +39,8 @@ To edit a Menu Item:
 
 ## Form Fields
 
-- **Title**. The title that will display for this menu item.
-- **Alias**. The internal name of the menu item. Normally, you can leave
+- **Title** The title that will display for this menu item.
+- **Alias** The internal name of the menu item. Normally, you can leave
   this blank and Joomla will fill in a default value Title in lower case
   and with dashes instead of spaces.
 
@@ -117,7 +117,7 @@ srcset="https://docs.joomla.org/images/thumb/c/cb/Help-4x-Menus-Item-Articles-Cr
 data-file-width="1728" data-file-height="329" width="600" height="114"
 alt=" Item Articles Create Article frontend language" />
 
-## Quick Tips
+## Tips
 
 An unauthorised user will normally get an error if they click on a
 Create Article menu item. For this reason, it is normal practice to give

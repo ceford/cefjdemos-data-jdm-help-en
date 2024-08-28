@@ -24,7 +24,7 @@ group allowed access to one component only.
 - **Group Parent** Choose a Parent for this Group. The new group inherits the
   permissions of the parent group.
 
-## Quick tips
+## Tips
 
 - If a new group will have similar permissions to an existing group, you
   can save work by making the new group a child of the existing group.

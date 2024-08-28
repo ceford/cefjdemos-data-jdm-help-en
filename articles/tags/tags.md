@@ -23,6 +23,6 @@ Select **Components → Tags** from the Administrator menu.
 
 ![tags list](../../../en/images/tags/tags-list.png)
 
-## Quick Tips
+## Tips
 
 - **Tagged Items** Select the number to go to a list of tagged items.

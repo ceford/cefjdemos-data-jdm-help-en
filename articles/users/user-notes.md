@@ -28,6 +28,6 @@ Some elements of this page are covered in separate Help articles:
 
 ![users user notes list](../../../en/images/users/users-user-notes-list.png)
 
-## Quick Tips
+## Tips
 
 - Click on a subject to edit that user note.

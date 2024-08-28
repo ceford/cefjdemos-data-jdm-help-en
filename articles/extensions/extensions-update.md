@@ -10,7 +10,7 @@ methods.
 
 ### Common Elements
 
-Some elements of this page are covered in separate 
+Some elements of this page are covered in separate
 Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
@@ -30,7 +30,7 @@ Help articles:
 
 ![Extensions update list](../../../en/images/extensions/update-list.png)
 
-## Quick Tips
+## Tips
 
 - Only extensions which support the Joomla! update system will be listed
   in this screen. If you use extensions which do not support the

@@ -173,7 +173,7 @@ These parameters control the layout of the page produced by this menu item type.
 
 ### Options tab
 
-These parameters control the layout of each article in the page produced by 
+These parameters control the layout of each article in the page produced by
 this menu item type.
 
 ![Menu Item type Category List - options tab](../../../en/images/menu-items-common/articles-article-options.png)
@@ -223,7 +223,7 @@ this menu item type.
   - No: Articles that the user is not authorised to view (based on the
     viewing access level for the article) will not show.
 
-## Quick Tips
+## Tips
 
 - The Category List layout is a convenient way to list a compact
   directory of articles in a category that can include filtering and

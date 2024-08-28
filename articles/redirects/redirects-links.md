@@ -2,7 +2,7 @@
 
 ## Description
 
-The redirect component is used to redirect URLs for web pages that no longer 
+The redirect component is used to redirect URLs for web pages that no longer
 exist on your website to web pages that are working. The URL you want to
 redirect from must not be a working one on your website which actually
 loads a web page. It can be the URL to a web page which you have
@@ -42,7 +42,7 @@ Some elements of this page are covered in separate Help articles:
 - **404 Hits** Number of 404 Hits there has been on this URL.
 - **Status Code** The Status Code of the page.
 
-## Quick Tips
+## Tips
 
 - In order for your redirects to work, you must enable the option **Use
   URL Rewriting** in the **Global Configuration** options of your

@@ -2,9 +2,9 @@
 
 ## Description
 
-A component record, an article for example, may be locked by a user who 
-opened it for editing and never finished the editing session. In such cases, 
-other users are not able to edit the record. Performing a Global Check-in 
+A component record, an article for example, may be locked by a user who
+opened it for editing and never finished the editing session. In such cases,
+other users are not able to edit the record. Performing a Global Check-in
 releases all such records in selected extension tables.
 
 ### Common Elements
@@ -25,7 +25,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ![maintenance global check in](../../../en/images/maintenance/maintenance-global-check-in.png)
 
-## Quick Tips
+## Tips
 
 - Joomla articles are stored in the #__content table (#_ is a the table
   prefix placeholder).

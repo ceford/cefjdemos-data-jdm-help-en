@@ -7,7 +7,7 @@ individual banners.
 
 ### Common Elements
 
-Some elements of this page are covered in separate Help 
+Some elements of this page are covered in separate Help
 articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
@@ -58,7 +58,7 @@ Banner Clients and Banner Categories.
   automatically. Note that versions may be deleted manually using the
   Delete button in the Version History screen.
 
-## Quick Tips
+## Tips
 
 - Remember, these choices are applied globally.
 

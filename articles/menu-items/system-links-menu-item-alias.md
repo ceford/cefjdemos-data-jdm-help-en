@@ -40,7 +40,7 @@ To edit an existing Menu Item:
 
 ![Menu Item Alias](../../../en/images/menu-items/system-links-menu-item-alias-details-tab.png)
 
-## Quick Tips
+## Tips
 
 - Leave the alias field empty if the menu item alias and the menu item
   linked to by the alias have the same parent.

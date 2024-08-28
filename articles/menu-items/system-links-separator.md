@@ -43,7 +43,7 @@ To edit an existing Separator menu item:
   blank and Joomla will fill in a default value Title in lower case and
   with dashes instead of spaces.
 
-## Quick Tips
+## Tips
 
 - It is possible to use an image as a Text Separator. Since a Menu Title
   is required, to use only image as a separator, the Menu Title can be a

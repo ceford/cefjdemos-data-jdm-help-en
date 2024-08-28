@@ -11,7 +11,7 @@ This page is used to manage extensions: Enable, Disable or Uninstall.
 
 ### Common Elements
 
-Some elements of this page are covered in separate 
+Some elements of this page are covered in separate
 Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
@@ -24,7 +24,7 @@ Help articles:
 
 ![Extensions manage list](../../../en/images/extensions/manage-list.png)
 
-## Quick Tips
+## Tips
 
 - Throughout the administrator interface of Joomla! you will see the
   terms "Publish" and "Unpublish". *Publish* means the same thing as

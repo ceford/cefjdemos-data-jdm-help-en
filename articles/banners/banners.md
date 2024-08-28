@@ -56,7 +56,7 @@ The following columns are specific to Banners.
     is what percentage of the time user clicked on the banner when it was
     displayed.
 
-## Quick Tips
+## Tips
 
 - You must add at least one Banner Client and Banner Category *before* you
 can add a Banner.

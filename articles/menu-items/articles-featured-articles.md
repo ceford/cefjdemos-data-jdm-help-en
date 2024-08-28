@@ -157,7 +157,7 @@ The Options control the appearance of the blog menu item.
 - **Pagination Summary**. Show the current page number and total pages
   (e.g., "Page 1 of 2") at the bottom of each page.
 
-## Quick Tips
+## Tips
 
 - To see an example of the featured layout, install Joomla with the
   sample data and select the Home page.

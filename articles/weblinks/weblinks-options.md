@@ -29,7 +29,7 @@ Some elements of this page are covered in separate Help articles:
   Default' is selected, make sure a captcha plugin is selected in Global
   Configuration.
 - **Target** Target browser window when the link is selected.
-- **Count Clicks** If Yes, the number of times the link has been clicked 
+- **Count Clicks** If Yes, the number of times the link has been clicked
   will be recorded.
 - **Text/Icon/Web Link Only** Shows a text, icon, or nothing with the
   Web Link. Default is Icon.
@@ -45,17 +45,17 @@ Some elements of this page are covered in separate Help articles:
 Category Options control how web links will show when you drill down to a
 web links to view its links.
 
-- **Choose a layout** Select the default layout to show when you click on a 
-  Category link. If you create an alternative layout for a category layout, 
+- **Choose a layout** Select the default layout to show when you click on a
+  Category link. If you create an alternative layout for a category layout,
   you may select that as the default.
 - **Category Title** Show or hide the title of the category.
 - **Category Description** Show or hide the description for the category.
 - **Category Image** Show or hide the category image.
-- **Subcategory Levels** How many levels of subcategories to show when 
+- **Subcategory Levels** How many levels of subcategories to show when
   showing a category view.
-- **Empty Categories** Show or hide categories that don't contain any items 
+- **Empty Categories** Show or hide categories that don't contain any items
   or subcategories.
-- **Subcategories Descriptions** Show or hide the descriptions for 
+- **Subcategories Descriptions** Show or hide the descriptions for
   subcategories that are shown.
 - **\# Web Links** Show or Hide the number of web links in each
   category.
@@ -66,12 +66,12 @@ web links to view its links.
 These settings apply for Web Links Categories Options unless they are
 changed for a specific menu item.
 
-- **Top Level Category Description** Show or hide the description of the 
+- **Top Level Category Description** Show or hide the description of the
   top-level category.
 - **Subcategory Levels** How many levels in the hierarchy to show.
-- **Empty Categories** Show or hide categories that contain no items and 
+- **Empty Categories** Show or hide categories that contain no items and
   no subcategories.
-- **Subcategories Descriptions** Show or hide the description of each 
+- **Subcategories Descriptions** Show or hide the description of each
   subcategory.
 - **\# Web Links** Show or Hide the number of web links in each
   category.
@@ -98,12 +98,12 @@ for a specific menu item.
 These settings determine how the Web links Component will integrate with
 other extensions.
 
-* **RSS Feed Link** Show or hide the feed links URLs. A feed link will show up 
+* **RSS Feed Link** Show or hide the feed links URLs. A feed link will show up
 as a feed icon in the address bar of most browsers.
 * **Remove IDs from URLs** Yes or No.
 * **Edit Custom Fields** Yes or No.
 
-## Quick Tips
+## Tips
 
 - If you are a beginning user, you can just keep the default values here
   until you learn more about using global options.

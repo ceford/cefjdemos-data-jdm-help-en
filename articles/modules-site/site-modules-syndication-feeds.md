@@ -46,8 +46,8 @@ Some elements of this page are covered in separate Help articles:
 - **Display Label** If set to 'Yes', Label will be displayed next to the icon.
 - **Feed Format** Select the format for the Syndication Feed.
 
-## Quick Tips
+## Tips
 
 Not all menu items types actually provide for an RSS feed. Feeds are displayed
-on Category Blog and on Featured Articles menu types (probably others). On 
+on Category Blog and on Featured Articles menu types (probably others). On
 pages for which no feed is available this module will not display.

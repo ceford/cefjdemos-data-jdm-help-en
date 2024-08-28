@@ -25,9 +25,9 @@ Some elements of this page are covered in separate Help articles:
 
 ![Plugins list](../../../en/images/plugins/plugins-list.png)
 
-## Quick Tips
+## Tips
 
 - To enable or disable a group of Plugins, check the check box for each
   desired Plugin and then click the Enable or Disable toolbar button.
-- You may see the terms 'options' and 'parameters' used interchangeably in 
+- You may see the terms 'options' and 'parameters' used interchangeably in
   help documentation and tutorials you encounter.

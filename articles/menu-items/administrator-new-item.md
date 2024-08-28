@@ -6,14 +6,22 @@ Menu Items are the core structure of a Joomla website. Each Menu Item is
 a link to a webpage. The Menu Item Type determines the type of page that
 will display when this menu choice is selected by the User.
 
-In this screen, you will select the Menu Item Type for the Menu Item you
-are creating and then fill in information about this specific Menu Item.
-Some of these fields are common to all Menu Item Types and are
-documented in this help screen.
-
-In addition to these common fields, different Menu Item types may
+Many of the menu item types use the same tabs for configuration. Some may
 require different fields unique to that type. These are documented in
 the help screen for each type.
+
+### Common Elements
+
+Some aspects of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Details Tab](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [The Options Tab](jdocmanual?article=help/menu-items-common/menu-item-article-options).
+* [The Link Type Tab](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+* [The Page Display Tab](jdocmanual?article=help/menu-items-common/menu-item-page-display).
+* [The Metadata Tab](jdocmanual?article=help/menu-items-common/menu-item-metadata).
+* [The Associations Tab](jdocmanual?article=help/common-elements/edit-associations).
+* [The Module Assignment Tab](jdocmanual?article=help/menu-items-common/menu-item-module-assignment).
 
 ## How To Access
 
@@ -30,12 +38,7 @@ To edit a Menu Item:
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-New-Item-screen-en.png/800px-Help-4x-Menus-New-Item-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/a/a4/Help-4x-Menus-New-Item-screen-en.png/1200px-Help-4x-Menus-New-Item-screen-en.png 1.5x, https://docs.joomla.org/images/a/a4/Help-4x-Menus-New-Item-screen-en.png 2x"
-data-file-width="1440" data-file-height="1319" width="800" height="733"
-alt="Menu New Item screen" />
+![menu item details tab](../../../en/images/menu-items-common/menu-item-details.png)
 
 ## Form Fields
 
@@ -44,154 +47,7 @@ alt="Menu New Item screen" />
   this blank and Joomla will fill in a default value Title in lower case
   and with dashes instead of spaces.
 
-### Details
+## Tips
 
-#### Left Panel
-
-- **Menu Item Type**. The Menu Item Type selected when this menu item
-  was created.
-- **Link**. The system-generated link for this menu item. This field
-  cannot be changed and is for information only.
-- **Target Window**. Select from the dropdown list.
-- **Template Style**. Select from the dropdown list.
-
-#### Right Panel
-
-- **Menu**. Shows which menu the link will appear in.
-- **Parent Item**. The parent menu item for this menu item. Used to
-  determine whether a Menu Item is a top-level item or a submenu item.
-  Select 'Menu Item Root' (the default value) if this is a top-level
-  Menu Item. Otherwise, select the Menu Item that is this item's parent.
-- **Ordering**. Indicates the order of this menu item in the Menu. The
-  default Order is to add the menu item to the end of the Menu. This
-  menu item will moved to the order position just after the menu item
-  selected from the dropdown list. Note: The Order can also be changed
-  in *Menus: Items*.
-- **Status**. The published status of the menu item.
-- **Start Publishing**. Date and time to start publishing. Use this
-  field if you want to enter the menu item ahead of time and then have
-  it published automatically at a future time.
-- **Finish Publishing**. Date and time to finish publishing. Use this
-  field if you want to have the menu item automatically changed to
-  Unpublished state at a future time (for example, when it is no longer
-  applicable).
-- **Default Page**. If Yes, this menu item is the default page for the
-  site. There must be exactly one menu item set as the default page. You
-  can change the default page in two ways:
-  1.  Click on the Home column of the desired menu item in the Menus: Items
-      screen.
-  2.  Open the menu item for the new default page and change the Default
-      Page setting to Yes.
-- **Access**. The viewing Access  Level   for this menu item.
-- **Language**. Menu items language.
-- **Note**. This is normally for the site administrator's use and does
-  not show in the Frontend of the site.
-
-### Link Type
-
-<img
-src="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Menus-New-Item-link-type-subscreen-en.png/600px-Help-4x-Menus-New-Item-link-type-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f0/Help-4x-Menus-New-Item-link-type-subscreen-en.png/900px-Help-4x-Menus-New-Item-link-type-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/f/f0/Help-4x-Menus-New-Item-link-type-subscreen-en.png/1200px-Help-4x-Menus-New-Item-link-type-subscreen-en.png 2x"
-data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Menu New Item link type tab" />
-
-- **Link Title Attribute**. An optional, custom description for the
-  title attribute of the menu hyperlink.
-- **Link Class**. An optional, custom style to apply to the menu
-  hyperlink.
-- **Link Icon Class**. If an icon class is entered, it takes precedence
-  over the link image.
-- **Link Image**. Select or upload an optional image to be used with the
-  menu hyperlink.
-- **Image Class**. An optional class to apply to the image.
-- **Add Menu Title**. If the optional image is added, adds the menu
-  title next to the image. Default is 'Yes'.
-- **Display in Menu**. Select 'No' if you want to exclude this menu item
-  from displaying in the menu.Note: Any submenu items will also be
-  hidden.
-
-### Page Display
-
-<img
-src="https://docs.joomla.org/images/thumb/c/c1/Help-4x-Menus-New-Item-page-display-subscreen-en.png/600px-Help-4x-Menus-New-Item-page-display-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/c/c1/Help-4x-Menus-New-Item-page-display-subscreen-en.png/900px-Help-4x-Menus-New-Item-page-display-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/c/c1/Help-4x-Menus-New-Item-page-display-subscreen-en.png/1200px-Help-4x-Menus-New-Item-page-display-subscreen-en.png 2x"
-data-file-width="2880" data-file-height="970" width="600" height="202"
-alt="Menu New Item page display tab" />
-
-- **Browser Page Title**. Optional text for the 'Browser page title'
-  element. If blank, a default value is used based on the Menu Item
-  Title.
-- **Show Page Heading**. Show the Browser Page Title in the heading of
-  the page (If no optional text entered - will default to value based on
-  the Menu Item Title). The Page heading is usually displayed inside the
-  HTML-tag 'H1'.
-- **Page Heading**. Optional alternative text for the Page heading.
-- **Page Class**. Optional CSS class to add to elements in this page.
-  This allows CSS styling specific to this page.
-
-### Metadata
-
-<img
-src="https://docs.joomla.org/images/thumb/b/b2/Help-4x-Menus-New-Item-metadata-subscreen-en.png/600px-Help-4x-Menus-New-Item-metadata-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/b/b2/Help-4x-Menus-New-Item-metadata-subscreen-en.png/900px-Help-4x-Menus-New-Item-metadata-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/b/b2/Help-4x-Menus-New-Item-metadata-subscreen-en.png/1200px-Help-4x-Menus-New-Item-metadata-subscreen-en.png 2x"
-data-file-width="2880" data-file-height="830" width="600" height="173"
-alt="Menu New Item metadata tab" />
-
-- **Meta Description**. An paragraph to be used as the description of
-  the page.
-- **Robots**. The instructions for web 'robots' that browse to this
-  page. Set 'Use Global' in Global Configuration.
-
-### Associations
-
-<img
-src="https://docs.joomla.org/images/thumb/d/d9/Help-4x-Menus-New-Item-associations-subscreen-en.png/600px-Help-4x-Menus-New-Item-associations-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/d/d9/Help-4x-Menus-New-Item-associations-subscreen-en.png/900px-Help-4x-Menus-New-Item-associations-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/d/d9/Help-4x-Menus-New-Item-associations-subscreen-en.png/1200px-Help-4x-Menus-New-Item-associations-subscreen-en.png 2x"
-data-file-width="2880" data-file-height="570" width="600" height="119"
-alt="Menu New Item associations tab" />
-
-Multilingual only!
-
-### Module Assignment
-
-<img
-src="https://docs.joomla.org/images/thumb/f/f8/Help-4x-Menus-New-Item-module-assignment-subscreen-en.png/600px-Help-4x-Menus-New-Item-module-assignment-subscreen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/f8/Help-4x-Menus-New-Item-module-assignment-subscreen-en.png/900px-Help-4x-Menus-New-Item-module-assignment-subscreen-en.png 1.5x, https://docs.joomla.org/images/thumb/f/f8/Help-4x-Menus-New-Item-module-assignment-subscreen-en.png/1200px-Help-4x-Menus-New-Item-module-assignment-subscreen-en.png 2x"
-data-file-width="2880" data-file-height="1340" width="600" height="279"
-alt="Menu New Item module assignment tab" />
-
-- **Unassigned Modules**. Show modules unassigned to this menu item
-- **Unpublished Modules**. Show modules that are unpublished
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above.
-
-- **Save**. Saves the menu item and stays in the current screen.
-- **Save & Close**. Saves the menu item and closes the current screen.
-  - **Save & New**. Saves the menu item and keeps the editing screen
-    open and ready to create another menu item.
-- **Cancel**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-- **Help**. Opens this help screen.
-
-Saved menu items have additional buttons:
-
-- Dropdown 'Save & Close':
-  - **Save as Copy**. Saves your changes to a copy of the current menu
-    item. Does not affect the current menu item.
-- **Associations**. With a specific language set for an menu item,
-  allows side by side editing in another language. Multilingual
-  only.
-- **Close** instead 'Cancel', same function.
-
-## Quick Tips
-
-- The core distribution of Joomla provides 38 different Menu Item types.
+- The core distribution of Joomla provides 38 or more different Menu Item types.
   If you install third-party extensions, these may add more menu types.

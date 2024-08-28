@@ -57,7 +57,7 @@ To edit a User:
 - **ID** A unique identification number for this user, you cannot
   change this number.
 
-## Quick Tips
+## Tips
 
 - Click on the name of a user to edit the user's properties.
 - Click on the icon in the Enabled column to toggle between Enabled and

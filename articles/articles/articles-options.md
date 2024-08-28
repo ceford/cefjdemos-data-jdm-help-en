@@ -2,7 +2,7 @@
 
 ## Description
 
-This page is used to set global default values for articles. They are used 
+This page is used to set global default values for articles. They are used
 when *Use Global* is selected for an option in an Articles menu item.
 
 For example, to show the *Create Date* for an article in your Articles menu
@@ -47,7 +47,7 @@ menu item or article.
   information block.
 - **Category**. Show the Article's Category Title.
   - **Link Category**. Show the title as a link to that Category. Note:
-    This can be set to either a blog or a list layout with the 
+    This can be set to either a blog or a list layout with the
     *Choose a Layout* option in the Category tab.
 - **Parent Category**. Show the Article's Parent Category Title.
   - **Link Parent Category**. Show the title as a link to that
@@ -144,7 +144,7 @@ by the individual category or menu settings.
 
 ![Articles options category tab](../../../en/images/articles/articles-options-category-tab.png "Articles options category")
 
-- **Choose a Layout**. Select the default layout to show when a Category link 
+- **Choose a Layout**. Select the default layout to show when a Category link
   is selected.
 - **Category Title**. Show the title of the category.
 - **Category Description**. Show the description for the category.
@@ -204,12 +204,12 @@ by the individual category or menu settings.
   display, followed by a "Read more..." link. The order in which to
   display the articles is determined by the Category Order and Article
   Order parameters below.
-- **Article Class**. Add any CSS class for custom styling. Add a border on 
+- **Article Class**. Add any CSS class for custom styling. Add a border on
   top with class boxed. For image position use for
   example image-left, image-right. Add image-alternate for alternate
   ordering of intro images.
 - **# Columns**. The number of columns to use in the Intro Articles
-  area. This is normally between 1 and 3 (depending on the template 
+  area. This is normally between 1 and 3 (depending on the template
   in use). If 1 is used, the Intro Articles will display using the
   full width of the display area, just like the Leading Articles.
 - **Multi Column Direction**. In multi-column blog layouts, whether to
@@ -345,11 +345,11 @@ extensions.
 
 - **Enable Workflow**. Use customised workflows to manage articles.
 
-## Quick Tips
+## Tips
 
 - Inexperienced users can keep the default values here.
-- Experienced users can save time by creating appropriate default values here. 
-  New menu items and articles will then be able to use the default values for 
+- Experienced users can save time by creating appropriate default values here.
+  New menu items and articles will then be able to use the default values for
   most options.
 - All values set here can be overridden at the menu item, category, or
   article level.

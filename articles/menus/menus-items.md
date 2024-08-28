@@ -29,7 +29,7 @@ Some elements of this page are covered in separate Help articles:
 
 ![all menu items list](../../../en/images/menus/menus-all-menu-items-list.png)
 
-## Quick Tips
+## Tips
 
 - Select an item and click on the *Home* button to set your Home page.
 - Set different filter options to only show some of the menu items.

@@ -32,10 +32,10 @@ Site Template screen is illustrated here.
 ![templates customise cassiopeia create overrides tab](../../../en/images/templates/templates-customise-cassiopeia-create-overrides-tab.png)
 
 - Select an item to override. Items marked with a solid file icon open to
-  reveal a list of items. Items marked with superimposed open and filled page 
-  icons create an override immediately with no prompt for confirmation. The 
-  override is placed in the appropriate location. There is a confirmation 
-  message, for example: 
+  reveal a list of items. Items marked with superimposed open and filled page
+  icons create an override immediately with no prompt for confirmation. The
+  override is placed in the appropriate location. There is a confirmation
+  message, for example:
   Override created in /templates/cassiopeia/html/mod_whosonline
 
 ### Updated Files Tab
@@ -105,7 +105,7 @@ Screenshot above. The functions are:
 - **Close File** Closes the open file and returns to the Editor Tab.
 - **Help** Opens this help screen.
 
-## Quick Tips
+## Tips
 
 - Before editing the HTML and the CSS file of the template, it is a good
   idea to make a backup of the file you are editing. Also, you can edit

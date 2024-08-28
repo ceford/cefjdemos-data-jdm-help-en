@@ -20,6 +20,6 @@ Some aspects of this page are covered in separate Help articles:
 
 ![Cache Options](../../../en/images/maintenance/cache-options.png)
 
-## Quick Tips
+## Tips
 
 - Remember, these choices are applied globally.

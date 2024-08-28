@@ -12,14 +12,9 @@ Some elements of this page are covered in separate Help articles:
 
 ## How to Access
 
-- Select **Users → Messaging → Private Messages** from the
-  Administrator menu.
-- Or select the icon in the title bar of the Administrator pages.
-    <img
-    src="https://docs.joomla.org/images/b/bf/Help-4x-Components-Messaging-Read-mymessages-subscreen-en.png"
-    decoding="async" data-file-width="95" data-file-height="50" width="95"
-    height="50"
-    alt="Title bar Messaging module" />
+- Select **Users → Messaging → Private Messages** from the Administrator menu.
+- Or select the **Private Messages** button in the Status bar of Administrator 
+  pages. This button will be absent if there are no incoming private messages.
 - Next, click on a Message Subject link to open the **Private Messages:
   View** screen.
 
@@ -34,8 +29,8 @@ Some elements of this page are covered in separate Help articles:
 - **Subject** The subject of the message.
 - **Message** The body of the message.
 
-## Quick Tips
+## Tips
 
 - Only users who are members of the "Super Users" and "Administrator"
-  groups have access to this screen, unless User Group permissions have been 
+  groups have access to this screen, unless User Group permissions have been
   altered for this component via the Private Messages Options screen.

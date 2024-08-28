@@ -43,7 +43,7 @@ Please select one of the following:
 
 * **Site or Administrator** Selects either Site or Administrator modules.
 
-## Quick Tips
+## Tips
 
 - Joomla websites require at least 1 Mneu module.
 - Other Module Types (for example Banners) are optional.

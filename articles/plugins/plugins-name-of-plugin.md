@@ -8,30 +8,54 @@ part of the Plugin Tab and described below.
 
 Plugins by Group:
 
-- **Action Log Group** (1 Plugin)
-- **API Authentication Group** (2 Plugins)
-- **Authentication Group** (3 Plugins)
-- **Behaviour Group** (2 Plugins)
-- **CAPTCHA Group**. (2 Plugins)
-- **Content Group** (1 Plugin)
-- **Editors Group** (3 Plugins)
-- **Editor Button Group** (8 Plugins)
-- **Extensions Group** (3 Plugins)
-- **Fields Group** (6 Plugins)
-- **FileSystem Group** (1 Plugin)
-- **Finder Group** (5 Plugins)
-- **Installer Group** (5 Plugins)
-- **Media Action Group** (3 Plugins)
-- **Privacy Group** (6 Plugins)
-- **Quick Icon Group** (6 Plugins)
-- **Sample Data Group** (2 Plugins)
-- **System Group** (22 Plugins)
-- **Two Factor Authentication Group** (2 Plugins)
-- **User Group** (5 Plugins)
-- **Web Services Group** (5 Plugins)
-- **Workflow Group** (3 Plugins)
+* [Action Log Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Action_Log_Group)
+  (1 Plugin)
+* [API Authentication Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_API_Authentication_Group)
+  (2 Plugins)
+* [Authentication Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Authentication_Group)
+  (3 Plugins)
+* [Behaviour Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Behaviour_Group)
+  (3 Plugins)
+* [Content Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group)
+  (10 Plugins)
+* [Editors Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group)
+  (3 Plugins)
+* [Editor Button Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group)
+  (8 Plugins)
+* [Extensions Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Extension_Group)
+  (3 Plugins)
+* [Fields Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group)
+  (16 Plugins)
+* [FileSystem Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group)
+  (1 Plugins)
+* [Finder Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group)
+  (5 Plugins)
+* [Installer Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Installer_Group)
+  (5 Plugins)
+* [Media Action Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Media_Action_Group)
+  (3 Plugins)
+* Multi-factor Authentication Group
+  (5 Plugins)
+* [Privacy Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Privacy_Group)
+  (6 Plugins)
+* [Quick Icon Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Quick_Icon_Group)
+  (7 Plugins)
+* [Sample Data Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Sample_Data_Group)
+  (2 Plugins, 3 Plugins for Development installations)
+* Schema.org Group
+  (9 Plugins)
+* [System Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_System_Group)
+  (24 Plugins)
+* Task Group
+  (9 Plugins)
+* [User Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_User_Group)
+  (5 Plugins)
+* [Web Services Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Web_Services_Group)
+  (17 Plugins)
+* [Workflow Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Workflow_Group)
+  (3 Plugins)
 
-The complete list of plugins is available in a 
+The complete list of plugins is available in a
 [single long list](https://docs.joomla.org/Chunk4x:List_of_Plugins/en).
 
 ### Common Elements
@@ -58,7 +82,7 @@ Starting from the Administrator menu:
 
 #### Left Panel
 
-If the plugin has configurable options they will appear here. 
+If the plugin has configurable options they will appear here.
 
 #### Right Panel
 
@@ -88,8 +112,8 @@ fields:
   be changed. The developer of the plugin specifies this. This may be
   blank if the developer did not specify a description for the plugin.
 
-## Quick Tips
+## Tips
 
-- Configurable plug-in settings are referred to as *Options*. You may see the 
-  terms *Options* and *Parameters* used interchangeably in help documentation 
+- Configurable plug-in settings are referred to as *Options*. You may see the
+  terms *Options* and *Parameters* used interchangeably in help documentation
   and tutorials you encounter.

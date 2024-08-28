@@ -33,8 +33,9 @@ Some elements of this page are covered in separate Help articles:
 ## How to Access
 
 There are two routes to the Articles list page:
-* From the **Home Dashboard → Site panel** Select **Articles**
-* From Administrator menu select **Content → Articles**
+
+* Select **Site panel  → Articles** from the Home Dashboard.
+* Select **Content → Articles** from the Administrator menu.
 
 ## Screenshot
 
@@ -68,7 +69,7 @@ There are two routes to the Articles list page:
 - **Hits**. The number of times an article has been viewed.
 - **ID**. A unique identification number for this article. It cannot be changed.
 
-## Quick Tips
+## Tips
 
 - One article category named 'Uncategorised' is created on Installation.
 - To see trashed and archived articles, set the Status filter to 'All'.

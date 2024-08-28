@@ -48,7 +48,7 @@ example shown all Groups are children of Public so it not necessary to
 check any of the child groups. They inherit the Public access
 permissions. This feature should only be used for custom groups!
 
-## Quick tips
+## Tips
 
 - If you add a new group, you may need to edit any access levels that
   this group should have access to.

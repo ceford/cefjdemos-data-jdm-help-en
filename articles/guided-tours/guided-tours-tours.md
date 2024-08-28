@@ -2,14 +2,14 @@
 
 ## Description
 
-The guided tours give users the ability to complete walk-throughs (or tours) 
-to better understand the interface they are learning to use. Each tour has 
-mandatory associated steps. Joomla comes with built-in tours, a good starting 
+The guided tours give users the ability to complete walk-throughs (or tours)
+to better understand the interface they are learning to use. Each tour has
+mandatory associated steps. Joomla comes with built-in tours, a good starting
 point to create new tours.
 
 ### Common Elements
 
-Some elements of this page are covered in separate 
+Some elements of this page are covered in separate
 Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
@@ -29,7 +29,7 @@ Help articles:
 
 ![Guided tours list](../../../en/images/guided-tours/guided-tours-list.png)
 
-## Quick Tips
+## Tips
 
 - To see trashed and archived tours, set the Status filter to 'All'.
 - To empty the trash, set the Status filter to 'Trashed'. Select the tours to trash. In the toolbar, select 'Empty Trash'. The associated steps are deleted as well.

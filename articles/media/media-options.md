@@ -2,7 +2,7 @@
 
 ## Description
 
-The Media: Options page is used to set the media global parameters. 
+The Media: Options page is used to set the media global parameters.
 
 ### Common Elements
 
@@ -57,7 +57,7 @@ Some aspects of this page are covered in separate Help articles:
 - **Legal MIME Types.** A comma separated list of legal MIME types to
   upload.
 
-## Quick Tips
+## Tips
 
 - If you are a beginning user, you can just keep the default values here
   until you learn more about using global options.
