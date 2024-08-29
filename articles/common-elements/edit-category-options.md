@@ -21,10 +21,11 @@ For example, the Articles: Category Options layout offers:
 
 ## Options Tab
 
-- **Layout.** Select a layout from the list.
-- **Image.** Optional: Select an image to display alongside this
+- **Layout** Select a layout from the list.
+- **Image** Optional: Select an image to display alongside this
   Category.
-- **Alt Text.** Alternative text for the icon - often used by screen
+- **Alt Text** Alternative text for the icon - often used by screen
   readers.
-- **No Description:** Check this box if the image is decorative rather than
+- **No Description** Check this box if the image is decorative rather than
   informative.
+  

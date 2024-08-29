@@ -15,6 +15,7 @@ banners=banners-tracks.md=https://docs.joomla.org/Help5.x:Banners:_Tracks
 banners=banners-options.md=https://docs.joomla.org/Help5.x:Banners:_Options
 
 common-elements=edit-associations.md=Help6.x:Edit_Associations
+common-elements=edit-category.md=Help6.x:Edit_Category
 common-elements=edit-permissions.md=Help6.x:Edit_Permissions
 common-elements=edit-publishing.md=Help6.x:Edit_Publishing
 common-elements=edit-schema.md=Help6.x:Edit_Schema

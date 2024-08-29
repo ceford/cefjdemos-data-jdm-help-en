@@ -32,6 +32,7 @@ help=common-elements=list-ordering.md
 help=common-elements=list-pagination.md
 help=common-elements=list-batch-process.md
 help=common-elements=edit-associations.md
+help=common-elements=edit-category.md
 help=common-elements=edit-permissions.md
 help=common-elements=edit-publishing.md
 help=common-elements=edit-schema.md

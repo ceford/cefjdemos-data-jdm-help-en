@@ -35,11 +35,11 @@ the current ordering direction, ascending or descending.
 
 ## Some Common Headers
 
-- **Checkbox**. To select all articles, check the box in the column heading.
+- **Checkbox** To select all articles, check the box in the column heading.
     The toolbar button 'Actions' becomes active. An action may be applied to the
     items visible in the page. It is not applied to items in subsequent pages
     that are not visible.
-- **Ordering**. You can change the order of an article within a list as
+- **Ordering** You can change the order of an article within a list as
     follows:
   - In the Filter Options limit the list to items to be ordered, for example
     items in a selected Language or items by a selected Author.
@@ -48,6 +48,6 @@ the current ordering direction, ascending or descending.
   - Select one of the vertical ellipsis icons <span class="icon-ellipsis-v"></span>
     that appear when ordering is active and drag it up or down to change the
     position of that row in the list.
-- **Title** or **Name**. The title of the item is usually a link to the
+- **Title** or **Name** The title of the item is usually a link to the
     *Edit* page for that item.
-- **ID**. A unique identification number for this article. It cannot be changed.
+- **ID** A unique identification number for this article. It cannot be changed.
