@@ -38,9 +38,6 @@ help=common-elements=edit-publishing.md
 help=common-elements=edit-schema.md
 help=common-elements=edit-category-options.md
 
-heading=components=Components
-help=components=components-patch-tester-options.md
-
 heading=contacts=Contacts
 help=contacts=contacts.md
 help=contacts=contacts-categories.md
@@ -77,6 +74,9 @@ help=guided-tours=guided-tours-options.md
 
 heading=information=Information
 help=information=information-warnings.md
+
+heading=joomla-patchtester=Joomla! Patch Tester
+help=joomla-patchtester=patchtester-options.md
 
 heading=joomla-update=Joomla Update
 help=joomla-update=joomla-update.md

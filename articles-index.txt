@@ -27,8 +27,6 @@ common-elements=list-ordering.md=Help6.x:List_Ordering
 common-elements=list-column-headers.md=Help6.x:List_Column_Headers
 common-elements=toolbars.md=Help6.x:Toolbars
 
-components=components-patch-tester-options.md=https://docs.joomla.org/Help5.x:Components_Patch_Tester_Options
-
 contacts=contacts-categories.md=https://docs.joomla.org/Help5.x:Contacts:_Categories
 contacts=contacts-edit.md=https://docs.joomla.org/Help5.x:Contacts:_New_or_Edit
 contacts=contacts-edit-category.md=https://docs.joomla.org/Help5.x:Contacts:_New_or_Edit_Category
@@ -60,6 +58,8 @@ help-screens=help-screens-styleguide.md=https://docs.joomla.org/Help5.x:Help_scr
 help-screens=start-here.md=https://docs.joomla.org/Help5.x:Start_Here
 
 information=information-warnings.md=https://docs.joomla.org/Help5.x:Information:_Warnings
+
+joomla-patchtester=patchtester-options.md=https://docs.joomla.org/Help5.x:Components_Patch_Tester_Options
 
 joomla-update=joomla-update-options.md=https://docs.joomla.org/Help5.x:Joomla_Update:_Options
 joomla-update=joomla-update.md=https://docs.joomla.org/Help5.x:Joomla_Update
