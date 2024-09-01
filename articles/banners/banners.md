@@ -35,7 +35,7 @@ Some elements of this page are covered in separate Help articles:
 
 The following columns are specific to Banners.
 
-- **Pinned**.  If one or more Banners in a Category are pinned, they will take
+- **Pinned**  If one or more Banners in a Category are pinned, they will take
     priority over Banners that are not pinned. For example, if two Banners in
     a Category are pinned and a third Banner is not pinned, the third Banner
     will not display if the module setting is 'Pinned, Randomise'. Only the
@@ -45,13 +45,13 @@ The following columns are specific to Banners.
     number of impressions, once those impressions are used up, the pinned
     banners will no longer display, and the non-pinned banners will begin
     displaying automatically.
-- **Client.** The Client for this Banner. Clients are entered from the
+- **Client** The Client for this Banner. Clients are entered from the
     Banners: Clients list.
-- **Impressions.** The Impression count is the number of times the
+- **Impressions** The Impression count is the number of times the
     Banner has been displayed on a page. The first number in this column
     is the actual number of Impressions so far, and the second number is
     how many Impressions were purchased by the client.
-- **Clicks.** The first number is the total number of clicks that have
+- **Clicks** The first number is the total number of clicks that have
     been made on the Banner since the counter was reset. The second number
     is what percentage of the time user clicked on the banner when it was
     displayed.

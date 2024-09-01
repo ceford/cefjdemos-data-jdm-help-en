@@ -24,28 +24,28 @@ articles:
 
 ## Form Fields
 
-- **Name:** The name of this client.
+- **Name** The name of this client.
 
 ### Details Tab
 
-- **Contact Name:** The name of the contact person for this client.
-- **Contact E-mail:** The e-mail address of the banner client.
-- **Purchase Type:** The purchase type of the banner. This is used to
+- **Contact Name** The name of the contact person for this client.
+- **Contact E-mail** The e-mail address of the banner client.
+- **Purchase Type** The purchase type of the banner. This is used to
   indicate how the banner client purchased the display time for the
   banner - monthly, yearly, etc...
-- **Track Impressions:** Whether or not to track the number of times the
+- **Track Impressions** Whether or not to track the number of times the
   banner is displayed to web site visitors.
-- **Track Clicks:** Whether or not to track the number of times the
+- **Track Clicks** Whether or not to track the number of times the
   banner is clicked by web site visitors.
-- **Additional Information:** Enter any extra information you want to
+- **Additional Information** Enter any extra information you want to
   save for this client.
-- **Status**: Published status of the item. Possible values are:
+- **Status** Published status of the item. Possible values are:
   - *Published*: The item is published. This is the only state that will
     allow regular website users to view this item.
   - *Unpublished*: The item is unpublished.
   - *Archived*: The item has been archived.
   - *Trashed*: The item has been sent to the Trash.
-- **Version Note**. Optional field to identify this version of the item
+- **Version Note** Optional field to identify this version of the item
   in the item's Version History
   window.
 
@@ -53,7 +53,7 @@ articles:
 
 ![Banners edit client metadata tab](../../../en/images/banners/banners-edit-client-metadata-tab.png)
 
-- **Keywords**. Optional entry for keywords. Must be entered separated
+- **Keywords** Optional entry for keywords. Must be entered separated
   by commas (for example, "cats, dogs, pets") and may be entered in
   upper or lower case. (For example, "CATS" will match "cats" or
   "Cats"). Keywords can be used in several ways:
@@ -75,8 +75,8 @@ articles:
       example, if the current Article displayed has the keywords "cats,
       dogs, monkeys", any other Articles with at least one of these
       keywords will show in the 'Articles - Related' module.
-- **Use Own Prefix:** Whether or not to use the banner's prefix or that
+- **Use Own Prefix** Whether or not to use the banner's prefix or that
   of the client. Select *No* if you want to use the prefix of the banner
   client.
-- **Meta Keyword Prefix:** When matching meta keywords, only search for
+- **Meta Keyword Prefix** When matching meta keywords, only search for
   meta keywords with these optional prefixes. This improves performance.

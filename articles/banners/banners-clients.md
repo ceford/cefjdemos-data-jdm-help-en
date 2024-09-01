@@ -29,9 +29,9 @@ articles:
 
 The following columns are specific to Banners.
 
-- **Client.** The Client for this Banner. Clients are entered using the
+- **Client** The Client for this Banner. Clients are entered using the
   Banner Client Manager.
-- **Contact.** The Contact for this Client.
-- **Purchase Type.** The banner purchase type of the client. This is
+- **Contact** The Contact for this Client.
+- **Purchase Type** The banner purchase type of the client. This is
   used to indicate how the client purchased the display time for their
-  banners - monthly, yearly, etc...
+  banners - monthly, yearly, etc.

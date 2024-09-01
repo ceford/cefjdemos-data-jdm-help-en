@@ -26,22 +26,22 @@ Help articles:
 
 The following columns are specific to Banners: Tracks.
 
-- **Name.** The name and category of the banner.
-- **Client.** The Client for this Banner. Clients are entered from the
+- **Name** The name and category of the banner.
+- **Client** The Client for this Banner. Clients are entered from the
   Banners: Clients list.
-- **Type.** The type of the track, Impression or a Click.
-- **Count.** The number of impressions or clicks.
-- **Date.** Date and hour of the impression or click.
+- **Type** The type of the track, Impression or a Click.
+- **Count** The number of impressions or clicks.
+- **Date** Date and hour of the impression or click.
 
 ## Toolbar
 
 The following buttons are specific to Banners: Tracks.
 
-- **Export**. Opens a window where you will be able export the Banner Tracks.
+- **Export** Opens a window where you will be able export the Banner Tracks.
   The form allows composition of a file name from variables, for example
   __SITE__-some-text creates a suggested filename consisting of the Site name
   followed by any text entered (JCMS6-some-text.zip).
-- **Delete Tracks**. Will delete the selected Banner Tracks.
+- **Delete Tracks** Will delete the selected Banner Tracks.
 
 ## Tips
 
