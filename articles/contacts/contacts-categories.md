@@ -2,9 +2,9 @@
 
 ## Description
 
-Contact Categories allow you to organize contacts in your web site.
-Contact Categories are separate from other types of Categories, such as
-those for Articles, Banners, News Feeds, and so on.
+Contact Categories allow you to organize contacts in your web site. They are 
+separate from other types of component Categories, such as those for Articles, 
+Banners and News Feeds.
 
 ### Common Elements
 

@@ -24,10 +24,8 @@ Some elements of this page are covered in separate Help articles:
 
 ## How to access
 
-- Select **Components → Contacts → Contacts** from the
-  Administrator menu. Or...
-- Select the numbered button in the Contacts: Categories list
-  screen.
+- Either: select **Components → Contacts → Contacts** from the Administrator menu.
+- Or: select the numbered button in the *Contacts: Categories* list page.
 
 ## Screenshot
 

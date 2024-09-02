@@ -2,9 +2,10 @@
 
 ## Description
 
-Contact Categories allow you to organize contacts in your web site.
-Contact Categories are separate from other types of Categories, such as
-those for Articles, Banners, News Feeds, and so on.
+This page is used to add a new Contact Category or edit an existing one.
+Note that you need to create at least one Contact Category before you can
+create a Contact. Also, Contacts Categories are separate from other types
+of Categories, such as those for Articles, Contacts, and News Feeds.
 
 ### Common Elements
 
@@ -19,10 +20,9 @@ Some elements of this page are covered in separate Help articles:
 
 ## How to Access
 
-- Select **Components → Contacts → Categories** from the
-  Administrator menu. Then...
-  - Select the **New** button in Toolbar to create a new category. Or...
-  - Select a category title in the Title column to **Edit** an existing
+- Select **Components → Contacts → Categories** from the Administrator menu.
+  - Either: select the **New** button in Toolbar to create a new category.
+  - Or: Select a category title in the Title column to **Edit** an existing
     category.
 
 ## Screenshot
@@ -31,9 +31,9 @@ Some elements of this page are covered in separate Help articles:
 
 ## Form Fields
 
-- **Title**. The Title for this item. This may or may not display on the
+- **Title** The Title for this item. This may or may not display on the
   page, depending on the parameter values you choose.
-- **Alias**. The internal name of the item. Normally, you can leave this
+- **Alias** The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
   with dashes instead of spaces.
 
@@ -41,7 +41,5 @@ Some elements of this page are covered in separate Help articles:
 
 #### Left Panel
 
-- **Description** The description for the item. Category, Subcategory
-  and Web Link descriptions may be shown on web pages, depending on the
-  parameter settings. These descriptions are entered using the same
-  editor that is used for Articles.
+- **Description** The description for the item. It may be displayed as an
+introduction to a category list or category blog web page.

@@ -110,8 +110,8 @@ box replaced with a code text area.
 
 ## Tips
 
-- Banners are placed on specific pages by adding Modules of type
-  'Banners' using the Modules list.
+- Banners are placed on specific pages by adding Modules of type *Banners* 
+  using the Modules list.
 - If you have a series of Banners that you would like to display on one
   or more pages in random order:
   1.  Create the Banners you wish to include, making sure they have the

@@ -24,7 +24,7 @@ Some elements of this page are covered in separate Help articles:
 ## How to Access
 
 - Select **Components → Banners → Banners** from the Administrator menu.
-- Or Select a numbered button in the Banners: Categories list or the Banners:
+- Or Select a numbered button in the Banners: Categories or the Banners:
   Clients list pages.
 
 ## Screenshot

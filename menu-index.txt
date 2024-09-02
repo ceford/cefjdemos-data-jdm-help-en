@@ -40,8 +40,8 @@ help=common-elements=edit-category-options.md
 
 heading=contacts=Contacts
 help=contacts=contacts.md
-help=contacts=contacts-categories.md
 help=contacts=contacts-edit.md
+help=contacts=contacts-categories.md
 help=contacts=contacts-edit-category.md
 help=contacts=contacts-options.md
 
