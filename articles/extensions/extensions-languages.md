@@ -3,14 +3,13 @@
 ## Description
 
 This page allows you to install languages. It shows all available
-languages and the language version available. Language versions may be out of 
+languages and the language version available, which may be out of 
 step with Joomla versions. This could lead to the appearance of English text
 labels within none English pages. 
 
 ### Common Elements
 
-Some elements of this page are covered in separate 
-Help articles:
+Some elements of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [List Filters](jdocmanual?article=help/common-elements/list-filters).
@@ -20,10 +19,10 @@ Help articles:
 
 ## How to Access
 
-- Select **System → Install → Install Languages** from the
+- Either: select **System → Install → Install Languages** from the
   administrator menu.
-- Or select **System → Manage → Languages** from the
-  administrator menu and then...
+- Or: select **System → Manage → Languages** from the
+  administrator menu and then:
   - Select the *Install Languages* button on the Toolbar.
 
 ## Screenshot
@@ -32,9 +31,9 @@ Help articles:
 
 ## Column Headers
 
-- **Language.** Name of Language, sometimes with a national variation
+- **Language** Name of Language, sometimes with a national variation
   such as German AT or German DE.
-- **Language Tag.** This is a combination of two-character ISO language
+- **Language Tag** This is a combination of two-character ISO language
   codes and country codes.
-- **Version.** The version of the Language package available.
-- **Details URL.** URL of the Language package.
+- **Version** The version of the Language package available.
+- **Details URL** URL of the Language package.

@@ -6,13 +6,11 @@ This page is used to manage extensions: Enable, Disable or Uninstall.
 
 ## How to Access
 
-- Select **System → Manage Panel → Extensions** from the
-  Administrator menus.
+- Select **System → Manage Panel → Extensions** from the Administrator menu.
 
 ### Common Elements
 
-Some elements of this page are covered in separate
-Help articles:
+Some elements of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [List Filters](jdocmanual?article=help/common-elements/list-filters).
@@ -27,7 +25,7 @@ Help articles:
 ## Tips
 
 - Throughout the administrator interface of Joomla! you will see the
-  terms "Publish" and "Unpublish". *Publish* means the same thing as
+  terms *Publish* and *Unpublish*. *Publish* means the same thing as
   *Enable* or *Activate*. *Unpublish* means the same thing as *Disable*
   or *Deactivate*. You may see the terms used interchangeably in
   extension screens and help documentation you find online.

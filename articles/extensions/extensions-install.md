@@ -28,8 +28,7 @@ Extensions are categorised into five types, as follows:
 
 ### Common Elements
 
-Some elements of this page are covered in separate Help
-articles:
+Some elements of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 

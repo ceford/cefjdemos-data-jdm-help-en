@@ -44,12 +44,22 @@ Help articles:
 
 ## How to Access
 
-- Select **System → Install Panel → Discover** from the
-  Administrator menu.
+- Select **System → Install Panel → Discover** from the Administrator menu.
 
 ## Screenshot
 
 ![Extensions discover list](../../../en/images/extensions/discover-list.png)
+
+## Column Headers
+
+- **Name** The name of the extension.
+- **Location** Indicates whether it is a site or administrator extension.
+- **Type** The extension type – Module, Plugin, Template, Language.
+- **Version** The version number of the extension.
+- **Date** The release date of the extension.
+- **Author** The author of the extension.
+- **Directory** If the extension is a plugin, this shows the subdirectory within the /plugins directory of the Joomla! installation where the extension is located. By default, Joomla! has the following subdirectories in the Plugins directory, each representing different types of defined plugins: authentication, content, editors, editors-xtd, extension, search, system, user.
+- **ID** The ID number. A uniquely assigned identification number for this entry. It is automatically assigned by Joomla! and is used for the internal identification of the entry. The number cannot be changed.
 
 ## Tips
 
