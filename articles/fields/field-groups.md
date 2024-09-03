@@ -20,9 +20,11 @@ Some elements of this page are covered in separate Help articles:
 
 ## How to Access
 
-Select **Content → Field Groups** from tha Administrator menu. Or...
-Select **Contact → Field Groups** from tha Administrator menu. Or...
-Select **Users → Field Groups** from tha Administrator menu. Then...
+From the Administrator menu:
+
+- Either: select **Content → Field Groups**
+- Or: select **Contact → Field Groups**
+- Or: select **Users → Field Groups**
 
 **Note:** There is a dropdown list that allows creation of Fields for a
 Category, and Mail in the Contact component. They require some coding 

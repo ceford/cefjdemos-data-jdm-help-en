@@ -46,8 +46,8 @@ in a category to [Create a banner from Joomla's category description](https://ma
 ## How to Access
 
 * Select **Content → Fields** from tha Administrator menu.
-* Select **Articles** form the Articles/Categories dropdown list.
-  * Select the **New** button in the *Toolbar* to add a new field. Or...
+* Select **Articles** from the *Articles/Category* dropdown list.
+  * Select the **New** button in the *Toolbar* to add a new field.
   * Select a **Title** from the list to edit an existing field.
 
 **Note:** There is a dropdown list that allows creation of Fields for a
