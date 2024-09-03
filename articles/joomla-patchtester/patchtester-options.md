@@ -2,9 +2,9 @@
 
 ## Description
 
-The Joomla! Patch Tester is used by Testers to check that code patches
+The *Joomla! Patch Tester* is used by Testers to check that code patches
 produced by Developers actually do what they are supposed to do without
-unwanted side effects. The Options page is used to set up the Github
+unwanted side effects. The *Options* page is used to set up the Github
 connection.
 
 ### Common Elements
@@ -19,7 +19,7 @@ More Information: [A Dummies Guide to Joomla Bug Testing](https://brian.teeman.n
 ## How to Access
 
 - Select **Components → Patch Tester** from the Administrator menu.
-  - Click the *Options* button on the Toolbar.
+  - Select the *Options* button in the Toolbar.
 
 ## Screenshot
 
@@ -29,7 +29,7 @@ More Information: [A Dummies Guide to Joomla Bug Testing](https://brian.teeman.n
 
 ### GitHub Repository Tab
 
-- **GitHub Repository** The default is Joomla! CMS. Use it.
+- **GitHub Repository** The default is `Joomla! CMS`. Use it.
 
 ### Github Authentication Tab
 

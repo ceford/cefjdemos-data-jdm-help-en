@@ -6,8 +6,7 @@ The Languages: Content page displays information on installed languages.
 
 ### Common Elements
 
-Some elements of this page are covered in separate
-Help articles:
+Some elements of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [List Filters](jdocmanual?article=help/common-elements/list-filters).
@@ -32,14 +31,12 @@ Selected information:
 - **Language Tag** The language tag - example: en-GB for English (UK).
   This should be the exact prefix used for the language installed or to
   be installed.
-- **URL Language Code** The language code used in multilingual site
-  URLs.
+- **URL Language Code** The language code used in multilingual site URLs.
 - **Image** Name of the image file for this language when using the
-  "Use Image Flags" Language Switcher basic option. Example: If 'en' is
-  chosen, then the image shall be en.gif. Images and CSS for this module
+  *Use Image Flags* Language Switcher basic option. Example: If *en* is
+  chosen, then the image shall be *en.gif*. Images and CSS for this module
   are in media/mod_languages/
-- **Home** Whether there is a default page set for this language or
-  not.
+- **Home** Whether there is a default page set for this language or not.
 
 ## Tips
 
@@ -56,7 +53,7 @@ Selected information:
   web site's Articles and other content.
 - **Important**: Do not delete the default language files (for example,
   with FTP). This will create errors on both the Front-end and Back-end.
-- Additional Languages can be added using the Install Languages Screen.
+- Additional Languages can be added using the Install Languages page.
 - If desired, you can show the Front-end site in one Language and show
   the Back-end administration pages in a different Language. Also,
   individual articles can be configured to use a different language in

@@ -8,8 +8,7 @@ conflicts in your installation or dependency failures may appear here.
 
 ## How to Access
 
-- Select **System → Information Panel → Warning** from the
-  Administrator menu.
+- Select **System → Information Panel → Warning** from the Administrator menu.
 
 ## Screenshot
 
@@ -17,4 +16,4 @@ conflicts in your installation or dependency failures may appear here.
 
 ## Toolbar
 
-- **Options.** Opens the Installer: Options page.
+- **Options** Opens the *Installer: Options* page.

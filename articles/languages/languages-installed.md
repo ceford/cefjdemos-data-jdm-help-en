@@ -2,7 +2,7 @@
 
 ## Description
 
-In the Installed Languages list you can set the default Languages
+In the *Languages: Installed* page you can set the default Languages
 independently for the Site and Administrator interfaces.
 
 ### Common Elements
@@ -16,8 +16,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## How to Access
 
-- Select **System → Manage Panel → Languages** from the
-  Administrator menu.
+- Select **System → Manage Panel → Languages** from the Administrator menu.
 
 ## Screenshot
 
@@ -36,14 +35,12 @@ Some elements of this page are covered in separate Help articles:
 ## Tips
 
 - Users can use any Language from the list of installed Languages,
-  either by having it assigned in the Users list or
-  by filling out a Menu Item list - New/Edit - User Form
-  Layout at the Frontend. This will cause the Joomla! system prompts to be
+  either by having Backend and Frontend languages assigned in the 
+  *Basic Settings* tab of the Administrator *Users: Edit* form or the Frontend
+  *Edit Your Profile* form. This will cause the Joomla! system prompts to be
   generated in this Language just for this User. For example, if a User
   chooses Spanish as their language, then the Search Module will show
   with prompts in Spanish.
-- This User's choice is not affected by the Default Language set for the
-  Frontend.
 - Changing a User's Language or the Default Language does not affect the
   website's Articles and other content.
 - **Important**: Do not delete the default language files (for example,

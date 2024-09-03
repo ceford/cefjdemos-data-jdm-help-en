@@ -2,13 +2,12 @@
 
 ## Description
 
-In the Languages: Edit Content Language page you can set the parameters of an
+The *Languages: Edit Content Language* page is used to set the parameters of an
 installed language.
 
 ### Common Elements
 
-Some aspects of this page are covered in separate Help
-articles:
+Some aspects of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 
@@ -16,7 +15,7 @@ articles:
 
 - Select **System → Manage Panel → Content Languages** from the
   Administrator menu. Then...
-  - Select the language name link from the **Title** columne.
+  - Select the language name link from the **Title** column.
 
 ## Screenshot
 
@@ -26,20 +25,20 @@ articles:
 
 ### Details Tab
 
-- **Title.** The name of the language as it will appear in the lists.
-- **Title in Native Language.** Language title in the native language.
-- **Language Tag.** Enter the language tag â€“ example: en-GB for
+- **Title** The name of the language as it will appear in the lists.
+- **Title in Native Language** Language title in the native language.
+- **Language Tag** Enter the language tag, for example: en-GB for
   English (en-GB). This should be the exact prefix used for the language
   installed or to be installed.
-- **URL Language Code.** Language Code for this language. This Language
+- **URL Language Code** Language Code for this language. This Language
   Code will be included in the site URL. Note the Language Code must be
   unique among all the languages.
-- **Image.** Select from the available images for this language when
-  using the "Use Image Flags" Language Switcher basic option.
-- **Status.** Available options are Published, Unpublished, Trashed.
-- **Access**. The viewing Access  Level   for this item.
-- **Description.** Enter a discription for the language
-- **ID**. This is a unique identification number for this item assigned
+- **Image** Select from the available images for this language when
+  using the *Use Image Flags* Language Switcher basic option.
+- **Status** Available options are Published, Unpublished and Trashed.
+- **Access**. The viewing Access Level for this item.
+- **Description** Enter a description for the language.
+- **ID** This is a unique identification number for this item assigned
   automatically by Joomla. It is used to identify the item internally,
   and you cannot change this number. When creating a new item, this
   field displays "0" until you save the new entry, at which point a new

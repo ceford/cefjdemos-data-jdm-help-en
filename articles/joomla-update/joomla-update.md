@@ -12,9 +12,10 @@ In the **Home Dashboard → Notifications Panel** the Joomla icon will have
 one of two messages:
 - **Joomla is up to data**
 - **X.Y.Z Available - Update now!**
-Select the icon
 
-Also, in the **System → Update Panel → Joomla** will display a tick, meaning it
+Select the icon.
+
+Also, the **System → Update Panel → Joomla** will display a tick, meaning it
 is up to date, or a version number, meaning that a new version is available.
 
 ## Screenshot
@@ -40,7 +41,7 @@ latest update from this page. To do so make sure you have taken a backup
 and check the **I am aware...** checkbox to indicate you have done so. Then
 select the **Start Update** button and Joomla will install the latest version.
 
-The update screen shows a progress while the update is in progress.
+The update screen shows a progress bar while the update is in progress.
 
 ### Upload and Update
 

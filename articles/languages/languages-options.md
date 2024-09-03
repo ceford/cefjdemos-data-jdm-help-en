@@ -7,8 +7,7 @@ globally for Languages.
 
 ### Common Elements
 
-Some aspects of this page are covered in separate Help
-articles:
+Some aspects of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
@@ -17,8 +16,8 @@ articles:
 
 - Select **System → Languages in the Manage panel** from the
   Administration menu. **Beware:** Languages also occurs in the Install
-  panel. Then
+  panel. Then...
   - **Select** the Options button in the Toolbar.
 
-The Languages: Options page only has a Permissions tab which is covered in the
-Common Elements.
+The *Languages: Options* page only has a Permissions tab which is covered in the
+*Common Elements* section above.
