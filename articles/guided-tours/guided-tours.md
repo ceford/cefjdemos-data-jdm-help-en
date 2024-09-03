@@ -9,8 +9,7 @@ point to create new tours.
 
 ### Common Elements
 
-Some elements of this page are covered in separate
-Help articles:
+Some elements of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [List Filters](jdocmanual?article=help/common-elements/list-filters).
@@ -21,9 +20,9 @@ Help articles:
 ## How to Access
 
 - Select **System -> Manage -> Guided Tours** from the Administrator menu.
-- Select the **New** toolbar button to add a tour.
+- Select the **New** button in the Toolbar to add a tour.
 - Select a **Title** from the list to edit a tour.
-- Select the **steps number** from the Steps column to edit a tour's steps.
+- Select a **number** from the *Steps* column to edit a tour's steps.
 
 ## Screenshot
 
@@ -31,5 +30,8 @@ Help articles:
 
 ## Tips
 
-- To see trashed and archived tours, set the Status filter to 'All'.
-- To empty the trash, set the Status filter to 'Trashed'. Select the tours to trash. In the toolbar, select 'Empty Trash'. The associated steps are deleted as well.
+- To see trashed and archived tours, set the Status filter to *All*.
+- To empty the trash, set the *Status* filter to *Trashed*. Select the 
+  checkboxes for the tours to trash and then, in the toolbar, select 
+  *Empty Trash* from the *Actions* dropdown list. The associated steps are
+  deleted as well.

@@ -1,16 +1,15 @@
-<!-- Filename: Help4.x:Guided_Tours:_New_or_Edit_Tour / Display title: Guided Tours: New or Edit Tour -->
+<!-- Filename: Help4.x:Guided_Tours:_New_or_Edit_Tour / Display title: Guided Tours: Edit Tour -->
 
 ## Description
 
-This page is used to add a new or edit an existing Tour. A tour must include
-at least one step. Once a tour has been newly created, go to the tours list
-and select '0' from the Steps column. The first step of the tour is
-automatically made from the tour title and description.
+This page is used to add a new Tour or edit an existing Tour. A tour must 
+include at least one step. Once a tour has been newly created, go to the Tours 
+list and select the button with the *0* label from the Steps column. The first 
+step of the tour is automatically made from the tour title and description.
 
 ### Common Elements
 
-Some aspects of this page are covered in separate Help
-articles:
+Some aspects of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing).
@@ -42,31 +41,31 @@ file names structure.
 
 #### Left Panel
 
-- **Relative URL**. The mandatory relative path from where the tour starts.
+- **Relative URL** The mandatory relative path from where the tour starts.
    For instance, to start a tour from the tour's page, enter
-   *administrator/index.php?option=com_guidedtours&view=tours*.
-- **Description**. This is where you enter the description of the tour.
+   `administrator/index.php?option=com_guidedtours&view=tours`.
+- **Description** This is where you enter the description of the tour.
    The tour description can be a language key. When this is the case, a
    secondary field presents the translated description of that key for the
    user's locale.
 
 #### Right Panel
 
-- **Component Selector**. The tour will be visible in priority in pages of
-   the selected extensions. Use 'All' to show the tour in all pages. When
-   set to 'All', the tour is placed last in the list of contextual tours
+- **Component Selector** The tour will be visible in priority in pages of
+   the selected extensions. Use *All* to show the tour in all pages. When
+   set to *All*, the tour is placed last in the list of contextual tours
    in the module dropdown. This is a mandatory field.
-- **Auto Start.** Allows the tour to start automatically when a user reaches
+- **Auto Start** Allows the tour to start automatically when a user reaches
    the context in which the tour should be displayed.
 
 ## Tips
 
 - There are 2 methods to insert an image into the tour's description using the
-TinyMCE editor.
+  TinyMCE editor.
   1. The **CMS Content** dropdown list provides access to the **Media** screen
-  that lets you browse image files and upload images.
-  2. The 'Insert' dropdown list is a simple form for which you need to know
-  the image url. It is used for external images.
+     that lets you browse image files and upload images.
+  2. The *Insert* dropdown list is a simple form for which you need to know
+     the image url. It is used for external images.
 - There are 2 ways tours can be created for multilingual environments:
   1. Create one tour for each supported language.
   2. Create one tour only for all languages and use language keys for title

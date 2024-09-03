@@ -66,10 +66,10 @@ heading=glossary=Glossary
 help=glossary=glossary.md
 
 heading=guided-tours=Guided Tours
-help=guided-tours=guided-tours-tours.md
-help=guided-tours=guided-tours-new-or-edit-tour.md
+help=guided-tours=guided-tours.md
+help=guided-tours=guided-tours-edit-tour.md
 help=guided-tours=guided-tours-steps.md
-help=guided-tours=guided-tours-new-or-edit-step.md
+help=guided-tours=guided-tours-edit-step.md
 help=guided-tours=guided-tours-options.md
 
 heading=information=Information

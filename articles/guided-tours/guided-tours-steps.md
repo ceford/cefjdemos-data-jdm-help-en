@@ -8,8 +8,7 @@ necessary in the building of a tour.
 
 ### Common Elements
 
-Some elements of this page are covered in separate
-Help articles:
+Some elements of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [List Filters](jdocmanual?article=help/common-elements/list-filters).

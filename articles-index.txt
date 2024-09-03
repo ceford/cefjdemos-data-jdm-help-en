@@ -48,11 +48,11 @@ fields=fields.md=https://docs.joomla.org/Help5.x:Fields
 fields=fields-edit.md=https://docs.joomla.org/Help5.x:Fields:_Edit
 
 glossary=glossary.md=https://docs.joomla.org/Help5.x:Glossary
-guided-tours=guided-tours-new-or-edit-step.md=https://docs.joomla.org/Help5.x:Guided_Tours:_New_or_Edit_Step
-guided-tours=guided-tours-new-or-edit-tour.md=https://docs.joomla.org/Help5.x:Guided_Tours:_New_or_Edit_Tour
+guided-tours=guided-tours-edit-step.md=https://docs.joomla.org/Help5.x:Guided_Tours:_New_or_Edit_Step
+guided-tours=guided-tours-edit-tour.md=https://docs.joomla.org/Help5.x:Guided_Tours:_New_or_Edit_Tour
 guided-tours=guided-tours-options.md=https://docs.joomla.org/Help5.x:Guided_Tours:_Options
 guided-tours=guided-tours-steps.md=https://docs.joomla.org/Help5.x:Guided_Tours:_Steps
-guided-tours=guided-tours-tours.md=https://docs.joomla.org/Help5.x:Guided_Tours:_Tours
+guided-tours=guided-tours.md=https://docs.joomla.org/Help5.x:Guided_Tours:_Tours
 
 help-screens=help-screens-styleguide.md=https://docs.joomla.org/Help5.x:Help_screens_styleguide
 help-screens=start-here.md=https://docs.joomla.org/Help5.x:Start_Here
