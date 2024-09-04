@@ -7,8 +7,7 @@ all system emails.
 
 ### Common Elements
 
-Some aspects of this page are covered in separate Help
-articles:
+Some aspects of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
@@ -16,8 +15,8 @@ articles:
 ## How to Access
 
 - Select **System → Mail Templates in the Templates panel** from the
-  Administrator menu. Then ...
-  - **Select** the Options button in the Toolbar.
+  Administrator menu. Then...
+  - Select the **Options** button in the Toolbar.
 
 ## Screenshot
 

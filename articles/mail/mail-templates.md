@@ -2,13 +2,13 @@
 
 ## Description
 
-Mail Templates are used to adjust the layout of various system email
-messages.
+Mail Templates are used to send system email messages. The Mail Options 
+allow sending Plain Text or HTML messages or both. If only one method is 
+selected the alternative will not be present in the message edit form.
 
 ### Common Elements
 
-Some elements of this page are covered in separate Help 
-articles:
+Some elements of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [List Filters](jdocmanual?article=help/common-elements/list-filters).
@@ -36,4 +36,4 @@ articles:
   form for the template in that language.
 - **Description** Brief description of the template purpose.
 - **ID** Template ID name. This is the template_id of the mail
-  template's record in the \#\_mail_templates table in the database.
+  template's record in the `#_mail_templates` table in the database.
