@@ -14,13 +14,13 @@ layout of the **Metadata** tab.
 
 ## Screenshot
 
-![menu item details tab](../../../en/images/menu-items-common/menu-item-metadata.png)
+![menu item metadata tab](../../../en/images/menu-items-common/menu-item-metadata.png)
 
 ## Form Fields
 
 ### Metadata
 
-- **Meta Description** An paragraph to be used as the description of
-  the page.
-- **Robots** The instructions for web 'robots' that browse to this
-  page. Set 'Use Global' in Global Configuration.
+- **Meta Description** A paragraph to be used as the description of the page.
+- **Robots** The instructions for web `robots` that browse to this page. It
+  my be different from the setting in the *Global Configuration*.
+  

@@ -106,8 +106,24 @@ heading=media=Media
 help=media=media.md
 help=media=media-options.md
 
+heading=menus=Menus
+help=menus=menus.md
+help=menus=menus-edit.md
+help=menus=menus-items.md
+help=menus=menus-new-item.md
+help=menus=menus-options.md
+
+heading=menu-items-common=Menu Items Common
+help=menu-items-common=menu-item-details.md
+help=menu-items-common=menu-item-article-options.md
+help=menu-items-common=menu-item-link-type.md
+help=menu-items-common=menu-item-integration.md
+help=menu-items-common=menu-item-page-display.md
+help=menu-items-common=menu-item-metadata.md
+help=menu-items-common=menu-item-associations.md
+help=menu-items-common=menu-item-module-assignment.md
+
 heading=menu-items-administrator=Menu Items: Administrator
-help=menu-items=administrator-new-item.md
 help=menu-items=administrator-components-menu-container.md
 
 heading=menu-items-articles=Menu Items: Articles
@@ -170,22 +186,6 @@ heading=menu-items-weblinks=Menu Items: Weblinks
 help=menu-items=weblinks-weblink-categories.md
 help=menu-items=weblinks-weblink-category.md
 help=menu-items=weblinks-weblink-submit.md
-
-heading=menu-items-common=Menu Items Common
-help=menu-items-common=menu-item-details.md
-help=menu-items-common=menu-item-article-options.md
-help=menu-items-common=menu-item-integration.md
-help=menu-items-common=menu-item-link-type.md
-help=menu-items-common=menu-item-page-display.md
-help=menu-items-common=menu-item-metadata.md
-help=menu-items-common=menu-item-associations.md
-help=menu-items-common=menu-item-module-assignment.md
-
-heading=menus=Menus
-help=menus=menus.md
-help=menus=menus-edit.md
-help=menus=menus-items.md
-help=menus=menus-options.md
 
 heading=modules=Modules
 help=modules=modules.md

@@ -1,9 +1,11 @@
+
 <!-- Filename: Help4.x:Menus:_Options / Display title: Menus: Options -->
 
 ## Description
 
-Menu Options allow the setting of parameters used globally on all menus
-such as, Title, CSS Class and Permissions.
+The *Menus: Options* page is used to set parameters used globally on all menus 
+unless available from a menu item or component. The Title may appear in the 
+browser tab so should be short.
 
 ### Common Elements
 
@@ -25,16 +27,13 @@ Some aspects of this page are covered in separate Help articles:
 
 ### Page Display Tab
 
-- **Browser Page Title:** Optional text for the "Browser page title"
-  element. If blank, the Menu Item Title is used.
-- **Show Page Heading:** Whether or not to show the Browser Page Title
+- **Browser Page Title** Optional text for the page `<title>` element. 
+  The Menu Item Title is used if available. If not, the Article title is
+  used and the same field in the Article Options tab is empty.
+- **Show Page Heading** Whether or not to show the Browser Page Title
   in the heading of the page. The page heading is normally displayed
   inside an h1 HTML element.
-- **Page Heading:** Optional alternative text for the Page Heading, displayed
+- **Page Heading** Optional alternative text for the Page Heading, displayed
   if *Show Page Heading* is set to *Show*.
-- **Page Class:** Optional CSS class to add to elements in this page.
+- **Page Class** Optional CSS class to add to elements in this page.
   This allows CSS styling specific to this page.
-
-## Tips
-
-- Remember, these choices are applied globally.

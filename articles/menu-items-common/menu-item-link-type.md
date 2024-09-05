@@ -14,23 +14,21 @@ layout of the **Link Type** tab.
 
 ## Screenshot
 
-![menu item details tab](../../../en/images/menu-items-common/menu-item-link-type.png)
+![menu item link type tab](../../../en/images/menu-items-common/menu-item-link-type.png)
 
 ## Form Fields
 
 ### Link Type tab
 
-- **Link Title Attribute**. An optional, custom description for the
-  title attribute of the menu hyperlink.
-- **Link Class**. An optional, custom style to apply to the menu
-  hyperlink.
-- **Link Icon Class**. If an icon class is entered, it takes precedence
+- **Link Title Attribute** An optional, custom description for the
+  title attribute of the menu link.
+- **Link Class** An optional, custom style to apply to the menu link.
+- **Link Icon Class** If an icon class is entered, it takes precedence
   over the link image.
-- **Link Image**. Select or upload an optional image to be used with the
-  menu hyperlink.
-- **Image Class**. An optional class to apply to the image.
-- **Add Menu Title**. If the optional image is added, adds the menu
-  title next to the image. Default is 'Yes'.
-- **Display in Menu**. Select 'No' if you want to exclude this menu item
-  from displaying in the menu.Note: Any submenu items will also be
-  hidden.
+- **Link Image** Select or upload an optional image to be used with the
+  menu link.
+- **Image Class** An optional class to apply to the image.
+- **Add Menu Title** If the optional image is added, adds the menu
+  title next to the image. Default is *Yes*.
+- **Display in Menu** Select *No* to exclude this menu item from displaying 
+  in the menu. *Note:* Any submenu items will also be hidden.

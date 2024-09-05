@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:Maintenance:_Global_Check-in / Display title: Global Check-in -->
+<!-- Filename: Help4.x:Maintenance:_Global_Check-in / Display title:  Maintenance: Global Check-in -->
 
 ## Description
 
@@ -27,8 +27,8 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Tips
 
-- Joomla articles are stored in the #__content table (#_ is a the table
+- Joomla articles are stored in the `#__content` table (`#_` is a table
   prefix placeholder).
 - Make sure no one is busy editing any items before you perform a global
-  check-in. When a Global Check-in is done, *all* items are checked in,
-  including those currently being edited.
+  check-in. On Global Check-in, *all* items are checked in, including those 
+  currently being edited.

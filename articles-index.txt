@@ -84,8 +84,22 @@ maintenance=check-in-options.md=https://docs.joomla.org/Help5.x:Check-in:_Option
 media=media-options.md=https://docs.joomla.org/Help5.x:Media:_Options
 media=media.md=https://docs.joomla.org/Help5.x:Media
 
+menus=menus-edit.md=https://docs.joomla.org/Help5.x:Menus:_Edit
+menus=menus-items.md=https://docs.joomla.org/Help5.x:Menus:_Items
+menus=menus-new-item.md=https://docs.joomla.org/Help5.x:Menu_Item:_New_Item
+menus=menus-options.md=https://docs.joomla.org/Help5.x:Menus:_Options
+menus=menus.md=https://docs.joomla.org/Help5.x:Menus
+
+menu-items-common=menu-item-article-options.md=Help6.x:Menu_Item_Article_Options
+menu-items-common=menu-item-details.md=Help6.x:Menu_Item_Details
+menu-items-common=menu-item-link-type.md=Help6.x:Menu_Item_Link_Type
+menu-items-common=menu-item-page-display.md=Help6.x:Menu_Item_Page_Display
+menu-items-common=menu-item-metadata.md=Help6.x:Menu_Item_Metadata
+menu-items-common=menu-item-associations.md=Help6.x:Menu_Item_Associations
+menu-items-common=menu-item-module-assignment.md=Help6.x:Menu_Item_Module_Assignment
+menu-items-common=menu-item-integration.md=Help6.x:Menu_Item_Integration
+
 menu-items=administrator-components-menu-container.md=https://docs.joomla.org/Help5.x:Menu_Item:_Components_Menu_Container
-menu-items=administrator-new-item.md=https://docs.joomla.org/Help5.x:Menu_Item:_New_Item
 
 menu-items=articles-archived-articles.md=https://docs.joomla.org/Help5.x:Menu_Item:_Article_Archived
 menu-items=articles-category-blog.md=https://docs.joomla.org/Help5.x:Menu_Item:_Category_Blog
@@ -136,20 +150,6 @@ menu-items=wrapper-iframe-wrapper.md=https://docs.joomla.org/Help5.x:Menu_Item:_
 menu-items=weblinks-weblink-categories.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Categories
 menu-items=weblinks-weblink-category.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Category
 menu-items=weblinks-weblink-submit.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Submit
-
-menu-items-common=menu-item-article-options.md=Help6.x:Menu_Item_Article_Options
-menu-items-common=menu-item-details.md=Help6.x:Menu_Item_Details
-menu-items-common=menu-item-link-type.md=Help6.x:Menu_Item_Link_Type
-menu-items-common=menu-item-page-display.md=Help6.x:Menu_Item_Page_Display
-menu-items-common=menu-item-metadata.md=Help6.x:Menu_Item_Metadata
-menu-items-common=menu-item-associations.md=Help6.x:Menu_Item_Associations
-menu-items-common=menu-item-module-assignment.md=Help6.x:Menu_Item_Module_Assignment
-menu-items-common=menu-item-integration.md=Help6.x:Menu_Item_Integration
-
-menus=menus-edit.md=https://docs.joomla.org/Help5.x:Menus:_Edit
-menus=menus-items.md=https://docs.joomla.org/Help5.x:Menus:_Items
-menus=menus-options.md=https://docs.joomla.org/Help5.x:Menus:_Options
-menus=menus.md=https://docs.joomla.org/Help5.x:Menus
 
 modules=module-options.md=Help6.x:Module:_Options
 modules=modules-module-tab.md=Help6.x:Modules_Module_Tab

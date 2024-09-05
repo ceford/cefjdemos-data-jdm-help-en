@@ -14,20 +14,17 @@ layout of the **Page Display** tab.
 
 ## Screenshot
 
-![menu item details tab](../../../en/images/menu-items-common/menu-item-page-display.png)
+![menu item page display tab](../../../en/images/menu-items-common/menu-item-page-display.png)
 
 ## Form Fields
 
 ### Page Display
 
-- **Browser Page Title**. Optional text for the 'Browser page title'
-  element. If blank, a default value is used based on the Menu Item
-  Title.
-- **Show Page Heading**. Show the Browser Page Title in the heading of
+- **Browser Page Title** Optional text for the browser page `title` element.
+  If blank, a default value is used based on the Menu Item Title.
+- **Show Page Heading** Show the Browser Page Title in the heading of
   the page (If no optional text entered - will default to value based on
-  the Menu Item Title). The Page heading is usually displayed inside the
-  HTML-tag 'H1'.
-- **Page Heading**. Optional alternative text for the Page heading.
-- **Page Class**. Optional CSS class to add to elements in this page.
-  This allows CSS styling specific to this page.
-
+  the Menu Item Title). The Page heading is usually displayed in `H1` HTML tags.
+- **Page Heading** Optional alternative text for the Page heading.
+- **Page Class** Optional CSS class to add to the `<body>` element of this page
+  to allow specific CSS styling.

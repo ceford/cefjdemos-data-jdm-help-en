@@ -1,11 +1,10 @@
-<!-- Filename: Help4.x:Menus:_Items / Display title: Menus: All Menu Items -->
+<!-- Filename: Help4.x:Menus:_Items / Display title: Menus: Items -->
 
 ## Description
 
-The Menus: All Menu Items page lists the menu items contained in a menu created
-using the Menu list.
-The Title bar shows the name of the selected menu or *All Menu Items* if
-that list is selected.
+The *Menus: Items* page lists the menu items contained in a menu. The Title bar
+shows the name of the selected menu or *All Menu Items* if that list is 
+selected. 
 
 ### Common Elements
 
@@ -20,10 +19,10 @@ Some elements of this page are covered in separate Help articles:
 
 ## How to access
 
-- Select **Menus → All Menu Items** from the Administrator menu.
-  Or...
-- Select **Menus → \[*Menu Name*\]** from the Administrator menu to
-  select items for a specific menu.
+- Select **Menus → All Menu Items** from the Administrator menu. Or...
+- Select **Menus → \[*Menu Name*\]** from the Administrator menu to select 
+  items for a specific menu. Or...
+- Select a menu from the dropdown list of menus in the menu items list page.
 
 ## Screenshot
 

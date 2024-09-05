@@ -2,14 +2,11 @@
 
 ## Description
 
-Cache files are temporary files that are created to improve the
-performance of your site if enabled under the Site Global
-Configuration settings. If you have made significant changes to your
-web site, such as changing your Template or Language, your cache files
-may be out of date. To avoid any problems caused by out of date cache
-files, you can delete all of the cache files. After deletion of *all*
-Cache files the website may be a little slower until the cache files are
-re-created with use.
+Cache files are temporary files that are created to improve site performance 
+when enabled in the Site Global Configuration settings. Cache files can become
+out of date and cause rendering problems which can be corrected by deletion of 
+*all* Cache files. After deletion the website may be a little slower until the 
+cache files are recreated with use.
 
 ### Common Elements
 
@@ -22,8 +19,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## How to Access
 
-- Select **System → Maintenance Panel → Clear Cache** from the
-  Administrator menu.
+- Select **System → Maintenance Panel → Clear Cache** from the Administrator menu.
 
 ## Screenshot
 
@@ -31,13 +27,12 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Column Headers
 
-- **Cache Group**. The type of item being cached in this file. This is
+- **Cache Group** The type of item being cached in this file. This is
   also the name of the subdirectory where this type of cache file is
   stored. The cache files are stored in the directory
-  "\<path-to-Joomla!\>/cache/\<Cache Group Name\>".
-- **Number of Files**. The number of files currently in this cache
-  group.
-- **Size**. The total size, in KB, of the cache files in this group.
+  `\<path-to-Joomla!\>/cache/\<Cache Group Name\>`.
+- **Number of Files** The number of files currently in this cache group.
+- **Size** The total size of the cache files in this group.
 
 ## Tips
 

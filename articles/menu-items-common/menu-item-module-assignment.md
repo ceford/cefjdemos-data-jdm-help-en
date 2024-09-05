@@ -14,14 +14,14 @@ layout of the **Module Assignment** tab.
 
 ## Screenshot
 
-![menu item details tab](../../../en/images/menu-items-common/menu-item-module-assignment.png)
+![menu item module assignment tab](../../../en/images/menu-items-common/menu-item-module-assignment.png)
 
 ## Form Fields
 
 ### Module Assignment
 
-- **Unassigned Modules**. Shows or hides modules not assigned to a position.
-- **Unpublished Modules**. Shows or hides modules that are unpublished.
+- **Unassigned Modules** Shows or hides modules not assigned to a position.
+- **Unpublished Modules** Shows or hides modules that are unpublished.
 
 #### List of Modules
 

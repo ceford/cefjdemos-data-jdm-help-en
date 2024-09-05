@@ -15,7 +15,7 @@ some of the tabs change from type to type. This page describes the
 
 ## Screenshot
 
-![menu item details tab](../../../en/images/menu-items-common/menu-item-category-blog-integration.png)
+![menu item integration tab](../../../en/images/menu-items-common/menu-item-category-blog-integration.png)
 
 ## Form Fields
 
@@ -24,8 +24,8 @@ some of the tabs change from type to type. This page describes the
 The Options determine whether a news feed will be available for the page
 and what information it will show.
 
-- **RSS Feed Link**. If set to Show, a Feed Link will show up as a feed
+- **RSS Feed Link** If set to Show, a Feed Link will show up as a feed
   icon in the address bar of most browsers.
-- **Include in Feed**.
-  - Intro Text: Only the article's intro text will show in the feed.
-  - Full Text: The entire text of the article will show in the feed.
+- **Include in Feed**
+  - *Intro Text* Only the article's intro text will show in the feed.
+  - *Full Text* The entire text of the article will show in the feed.
