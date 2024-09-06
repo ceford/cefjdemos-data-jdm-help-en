@@ -2,7 +2,7 @@
 
 ## Description
 
-The Single Article menu item type is used to show one article in the
+The *Single Article* menu item type is used to show one article in the
 Frontend of the site.
 
 ### Common Elements
@@ -25,14 +25,14 @@ Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 To add a Menu Item:
 
-1.  click the **New** toolbar button.
-2.  click the Menu Item Type **Select** button.
-3.  select the **Articles** item.
-4.  select the **Single Article** item.
+1.  Select the **New** button in the Toolbar.
+2.  Select the Menu Item Type **Select** button.
+3.  Select the **Articles** item.
+4.  Select the **Single Article** item.
 
 To edit a Menu Item:
 
-- select a **Title** from the list
+- Select a **Title** from the list
 
 ## Screenshot
 
@@ -40,44 +40,19 @@ To edit a Menu Item:
 
 ## Form Fields
 
-- **Title**. The title that will display for this menu item.
-- **Alias**. The internal name of the menu item. Normally, you can leave
-  this blank and Joomla will fill in a default value Title in lower case
-  and with dashes instead of spaces.
-
 ### Details
 
 #### Left Panel
 
-- **Menu Item Type**. The Menu Item Type selected when this menu item
-  was created. This can be one of the core menu item types or a menu
-  item type provided by an installed extension.
-- **Select Article**. This field holds the article to be shown in the
-  menu item. Press the **Select/Change** button to open the article
-  selection window.This screen is similar to the
-  Articles
-  page. You can use the Filter fields to find the desired article and
-  then click on the article's Title to select it. At that point, the
-  modal window will close and the title will show in the Select Article
-  field.
-- **Link**. The system-generated link for this menu item. This field
-  cannot be changed and is for information only.
-- **Target Window**. Select from the dropdown list.
-- **Template Style**. Select from the dropdown list.
-
-#### Right Panel
-
-- **Menu**. Shows which menu the link will appear in.
+- **Select Article** This field holds the article to be shown in the
+  menu item. Use the **Select** or **Create** buttons to set an article.
+  After selection the buttons change to **Edit** and **Clear**. 
 
 ## Tips
 
 - If you have a Single Article Layout defined for an article, that
-  layout will show any time a user drills down to that article. For
+  layout will show any time that article is displayed in the frontend. For
   example, if an article is shown on another menu item type (for
   example, in a Category Blog or List Layout or a Featured Articles
   Layout), the user will be taken to the Single Article Layout for that
   article (if defined).
-- Archived articles are no longer published but are still stored on the
-  site. Articles are Archived using the Articles screen. Note that
-  Articles assigned to the 'Uncategorised' Section will not show on the
-  Archived Article List layout.

@@ -2,13 +2,11 @@
 
 ## Description
 
-The Archived Articles Menu Item Type shows a customised list of articles
+The *Archived Articles* Menu Item Type shows a customised list of articles
 ordered by date or title.
 
 Archived articles are no longer published but are still stored on the
 site. Articles are Archived using the Articles list screen.
-Articles assigned to the 'Uncategorised' Category will not show in the
-Archived Article Menu Item.
 
 ### Common Elements
 
@@ -29,9 +27,9 @@ Select **Menus → \[name of the menu\]** from the Administrator menu.
 
 To add a Menu Item:
 
-1.  Select the **New** toolbar button.
-2.  Select the Menu Item Type **Select** button.
-3.  Select the **Articles** item.
+1.  Select the **New** button in the Toolbar.
+2.  Select the *Menu Item Type* **Select** button.
+3.  Select the **Articles** item in the popup dialogue.
 4.  Select the **Archived Articles** item.
 
 To edit a Menu Item:
@@ -44,8 +42,8 @@ To edit a Menu Item:
 
 ## Form Fields
 
-- **Title**. The title that will display for this menu item.
-- **Alias**. The internal name of the menu item. Normally, you can leave
+- **Title** The title that will display for this menu item.
+- **Alias** The internal name of the menu item. Normally, you can leave
   this blank and Joomla will fill in a default value Title in lower case
   and with dashes instead of spaces.
 
@@ -53,7 +51,7 @@ To edit a Menu Item:
 
 ![Menus Archived articles](../../../en/images/menu-items/articles-archived-articles-archive-tab.png)
 
-* **Article Order**.
+* **Article Order**
   * **Oldest First** Articles are displayed starting with the oldest and
     ending with the most recent.
   * **Most Recent First** Articles are displayed starting with the most
@@ -73,9 +71,8 @@ To edit a Menu Item:
     with the one with the least hits and ending with the one with the
     most hits.
   * **Ordering** Articles are ordered according to the Order column entered
-    in
-    Articles.
-* **Date for Ordering**. The date used when articles are sorted by date.
+    in Articles.
+* **Date for Ordering** The date used when articles are sorted by date.
   * **Created** Use the article created date.
   * **Modified** Use the article modified date.
   * **Published** Use the article start publishing date.
@@ -91,5 +88,5 @@ To edit a Menu Item:
 - The Archived Articles layout allows you to access old or outdated
   articles that you don't want to remove entirely from the site.
 - If you want to be able to see old articles in a category blog or list,
-  create a category for older articles and move them to this category
+  create a category for older articles and move them to that category
   (instead of changing the Published state to Archived).

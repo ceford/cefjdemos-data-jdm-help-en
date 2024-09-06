@@ -10,8 +10,7 @@ Components on your site. Super Users will see links to everything of
 course. You can do this as follows:
 
 - Create a new User Group named, say Branch, with Public as parent.
-- Set the Global Permissions for this group to Allow Administrator
-  Login.
+- Set the Global Permissions for this group to Allow Administrator Login.
 - Create a new menu named, say, Branch Menu with no imported presets.
 - Create a linked Module named, say, Branch Menu with menu to show as
   Branch Menu. Set Check Menu to No and Access to Public.
@@ -33,12 +32,34 @@ For users who need access to Articles you can add more menu items to the
 Branch Menu. In this way you can build a complete custom menu for Branch
 users.
 
+### Common Elements
+
+Some aspects of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
+* [The Link Type Tab](jdocmanual?article=help/menu-items-common/menu-item-link-type).
+
 ## How To Access
 
 To create a new Component Container Menu Item:
 
-- Select **Menus → \[name of the menu\]** from the Administrator
-  menu.
+- Create a new Menu from **Menus → Manage** in the Administrator menu.
+  - Select **Administrator** from the *Site/Administrator* dropdown selector.
+  - Select the **New** button in the Toolbar. Fill in the form:
+    - **Title** Branch Menu
+    - **Unique Name** branch_menu
+    - **Description** Custom menu for Branch.
+    - **Import Preset** None
+    - **Save**
+    - **Permissions** Select *Branch* group and set all to *Allow*.
+    - **Save & Close**
+    - Select the **Create a Module** button and fill out the dialogue form:
+    - **Title** Branch Components
+    - **Check Menu** No (otherwise there will be a message inviting you to 
+      *turn on the menu recovery mode*.)
+    - **Access** Special
+    - **Position** Menu
+- Select **Menus → \[name of the menu\]** from the Administrator menu.
 - Select the **New** Toolbar button to create a new menu item.
 - Select the Menu Item Type **Select** button.
 - Select the **List Component Container** link from **System Links** in
@@ -49,17 +70,13 @@ the Menu Items list.
 
 ## Screenshot
 
-<img
-src="https://docs.joomla.org/images/thumb/5/57/Help4x-Menus-Menu-Item-Components-Menu-Container-screen-en.png/800px-Help4x-Menus-Menu-Item-Components-Menu-Container-screen-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/5/57/Help4x-Menus-Menu-Item-Components-Menu-Container-screen-en.png 1.5x"
-data-file-width="1000" data-file-height="1309" width="800" height="1047"
-alt="Menu Item Components Menu Container screen" />
+![Menu Item Components Menu Container](../../../en/images/menu-items/administrator-components-menu-container.png)
 
 ## Form Fields
 
-- **Name.** The full name of the menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
+- **Name** The name of the menu item, for example *Branch Menu*. It will appear
+  at the bottom of the Administrator menu.
+- **Alias** The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
   with dashes instead of spaces.
 
@@ -67,56 +84,28 @@ alt="Menu Item Components Menu Container screen" />
 
 #### Left Panel
 
-- **Menu Item Type**. The Menu Item Type selected when this menu item
-  was created. This can be one of the core menu item types or a menu
-  item type provided by an installed extension.
-- **Show or Hide Menu Items.** List of menu items with buttons to set
-  visibility status.
+- **Menu Item Type** In this case *Components Menu Container*.
+- **Show or Hide Menu Items** List of menu items with buttons to set
+  visibility status. If a parent item is set to *Hide* all of the child
+  items are hidden too, even if they are set to *Show*.
 
 #### Right Panel
 
-- **Menu**. Shows which menu the link will appear in.
-- **Parent**. The item (category, menu item, and so on) that is the
+- **Menu** Shows which menu the link will appear in.
+- **Parent** The item (category, menu item, and so on) that is the
   parent of the item being edited.
-- **Ordering:** Indicates the order of this Menu Item in the Menu. The
+- **Ordering** Indicates the order of this Menu Item in the Menu. The
   default Order is to add the Menu Item to the end of the Menu. This
   Menu Item will moved to the order position just after the Menu Item
   selected from the drop-down list. Note that the Order of Menu Items
   can also be changed in the Menu Item Manager.
-- **Status**. The published status of the item.
-- **Note**. This is normally for the site administrator's use (for
+- **Status** The published status of the item.
+- **Note** This is normally for the site administrator's use (for
   example, to document information about this item) and does not show in
   the Frontend of the site.
 
-### Link Type Tab
+## Tips
 
-The Options control attributes of the link for this menu item in a
-Joomla menu.
-
-- **Link Title Attribute.** An optional custom description for the title
-  attribute of the menu hyperlink.
-- **Link Icon Class.** If an icon class is entered, it takes precedence
-  over the link image.
-- **Link Image.** An optional image to be used with the menu hyperlink.
-- **Image Class** An optional custom CSS style to apply to the menu
-  image.
-- **Display Menu Item Title.** (No/Yes) If an optional image is added,
-  whether to add the menu title next to the image.
-- **Display in Menu.** (No/Yes) Option to display the image in a menu.
-
-## Toolbar
-
-At the top of the page you will see the toolbar shown in the
-Screenshot above. The functions are:
-
-- **Save**. Saves the item and stays in the current screen.
-- **Save & Close**. Saves the item and closes the current screen.
-- **Cancel**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made.
-
-Or
-
-- **Close**. Closes the current screen and returns to the previous
-  screen without saving any modifications you may have made. This
-  toolbar icon is not shown if you are creating a new item.
-- **Help**. Opens this help screen.
+- The **Branch Components** item appears at the bottom of the Administrator
+  menu. Access to the main Administrator menu and to this section can be
+  customised for the Branch group.

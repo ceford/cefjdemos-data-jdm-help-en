@@ -92,6 +92,8 @@ menus=menus.md=https://docs.joomla.org/Help5.x:Menus
 
 menu-items-common=menu-item-article-options.md=Help6.x:Menu_Item_Article_Options
 menu-items-common=menu-item-details.md=Help6.x:Menu_Item_Details
+menu-items-common=menu-item-category.md=Help6.x:Menu_Item_Category
+menu-items-common=menu-item-blog-layout.md=Help6.x:Menu_Item_Blog_Layout
 menu-items-common=menu-item-link-type.md=Help6.x:Menu_Item_Link_Type
 menu-items-common=menu-item-page-display.md=Help6.x:Menu_Item_Page_Display
 menu-items-common=menu-item-metadata.md=Help6.x:Menu_Item_Metadata

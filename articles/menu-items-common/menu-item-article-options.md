@@ -11,7 +11,7 @@ that are covered in the relevant menu items.
 
 * Select any **Site Menu** from the Administrator menu.
 * Select the **New** button from the Toolbar.
-* Select an Article menu item type that has an *Options* tab.
+* Select any Article menu item type that has an *Options* tab.
 * Select the **Options** tab.
 
 ## Screenshot

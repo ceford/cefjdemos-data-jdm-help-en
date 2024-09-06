@@ -115,6 +115,8 @@ help=menus=menus-options.md
 
 heading=menu-items-common=Menu Items Common
 help=menu-items-common=menu-item-details.md
+help=menu-items-common=menu-item-category.md
+help=menu-items-common=menu-item-blog-layout.md
 help=menu-items-common=menu-item-article-options.md
 help=menu-items-common=menu-item-link-type.md
 help=menu-items-common=menu-item-integration.md
