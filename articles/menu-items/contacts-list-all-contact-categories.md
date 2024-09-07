@@ -11,6 +11,7 @@ Some aspects of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [The Details Tab](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [The Category Tab](jdocmanual?article=help/menu-items-common/menu-item-category).
 * [The Integration Tab](jdocmanual?article=help/menu-items-common/menu-item-integration).
 * [The Link Type Tab](jdocmanual?article=help/menu-items-common/menu-item-link-type).
 * [The Page Display Tab](jdocmanual?article=help/menu-items-common/menu-item-page-display).
@@ -25,9 +26,8 @@ To create a new List All Contact Categories menu item:
 - Select **Menus → \[name of the menu\]** from the Administrator
   menu (for example, **Menus → Main Menu**).
 - Select the New Toolbar button.
-- Select the Menu Item Type Select button.
-  Then...
-  - In the modal dialog select the Contacts item to open a list and then
+- Select the Menu Item Type Select button. Then...
+  - In the modal dialogue select the Contacts item to open a list and then
     select the **List All Contact Categories** item.
 
 To edit an existing List All Contact Categories Menu Item:
@@ -39,11 +39,6 @@ To edit an existing List All Contact Categories Menu Item:
 ![Menu Item Contacts List All Categories tree details tab](../../../en/images/menu-items/contacts-list-all-categories-tree-details-tab.png)
 
 ## Form Fields
-
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
 
 ### Categories Tab
 
@@ -58,32 +53,11 @@ displayed in the layout. Things that you can modify are:
   top level category, the description field has to be filled.
 - **Alternative Description** If you enter some text in this field, it
   will override the Top Level Category Description, if it has one.
-- **Subcategory Levels.** The number of subcategory levels to display.
+- **Subcategory Levels** The number of subcategory levels to display.
 - **Empty Categories** Show or hide empty categories. A category is only 
   empty if it has no Contacts or subcategories.
 - **Subcategories Descriptions** Show or hide the subcategories description.
-- **\# Contacts in Category.** Show or hide number of contacts in a category.
-
-### Category Tab
-
-The Category Options control the way that category information is shown
-in the layout. The Category List Layout has the following Category
-Options, as shown below.
-
-![Menu Item Contacts List All Categories tree category tab](../../../en/images/menu-items/contacts-list-all-categories-tree-category-tab.png)
-
-- **Category Title** Show or hide the Category Title as a subheading on the 
-  page. The subheading is usually displayed inside the "H2" tag.
-- **Category Description** Show or hide the description of the selected Category.
-- **Category Image** Show or hide the category image.
-- **Subcategory Levels** The number of levels of subcategories to show in the 
-  layout. Select *All* to show all levels in the subcategory hierarchy.
-- **Empty Categories** Show or hide the categories that contain no content 
-  items or subcategories.
-- **Subcategories Descriptions** Show or hide the category description of 
-  subcategories.
-- **\# Contacts in Category** Show or hide the number of Contacts in a 
-  Contact Category.
+- **\# Contacts in Category** Show or hide number of contacts in a category.
 
 ### List Layouts Tab
 
@@ -113,10 +87,10 @@ List Layout Options control the appearance of the list layout.
   to additional pages. These are needed if the listed items will not fit
   on one page.
     The following options are available.
-    - *Use Global:* Use the default value from the component options screen.
-    - *Auto:* Pagination links shown if needed.
-    - *Show:* Pagination links shown if needed.
-    - *Hide:* Pagination links not shown. Note: In this case, Users will not
+    - *Use Global* Use the default value from the component options screen.
+    - *Auto* Pagination links shown if needed.
+    - *Show* Pagination links shown if needed.
+    - *Hide* Pagination links not shown. Note: In this case, Users will not
       be able to navigate to additional pages.
 - **Pagination Results** Show or hide the current page number and total
   pages (e.g., "Page 1 of 2") at the bottom of each page.
@@ -128,13 +102,13 @@ Contact Display Options control the appearance of the list layout.
 ![Menu Item Contacts List All Categories tree contact display options tab](../../../en/images/menu-items/contacts-list-all-categories-tree-contact-display-options.png)
 
 - **Contact Category** Show or hide the Contacts Category display view.
-    - *Use Global:* Use the default value from the contacts options screen.
-    - *Hide:* Do not show the Category name of the contacts.
-    - *Show Without Link:* Show Category name of contacts as heading styled
+    - *Use Global* Use the default value from the contacts options screen.
+    - *Hide* Do not show the Category name of the contacts.
+    - *Show Without Link* Show Category name of contacts as heading styled
       text only.
     - *Show With Link* Show Category name of contacts as heading styled text
       linked to Category.
-- **Contacts Select List**. Allow the user to use a drop down list of all
+- **Contacts Select List** Allow the user to use a drop down list of all
   contacts in one contact category.
 - **Name** Display the contact's *Name*.
 - **Tags** Display the contact's *Tags*.

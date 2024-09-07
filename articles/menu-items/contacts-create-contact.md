@@ -38,19 +38,4 @@ To edit an existing Create Contact menu item:
 
 ## Form Fields
 
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
-
-### Details Tab
-
-#### Left Panel
-
-- **Menu Item Type**. The Menu Item Type selected when this menu item
-  was created. This can be one of the core menu item types or a menu
-  item type provided by an installed extension.
-- **Link**. The system-generated link for this menu item. This field
-  cannot be changed and is for information only.
-- **Target Window.** Select from the drop-down list.
-- **Template Style.** Select from the drop-down list.
+See the *Common Elements* for more information.

@@ -41,8 +41,8 @@ To edit an existing List Contacts in a Category menu item:
 
 ## Form Fields
 
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
+- **Menu Title** The title that will display for this menu item.
+- **Alias** The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
   with dashes instead of spaces.
 
@@ -102,10 +102,10 @@ List Layout Options control the appearance of the list layout.
   to additional pages. These are needed if the listed items will not fit
   on one page.
     The following options are available.
-    - *Use Global:* Use the default value from the component options screen.
-    - *Auto:* Pagination links shown if needed.
-    - *Show:* Pagination links shown if needed.
-    - *Hide:* Pagination links not shown. Note: In this case, Users will not
+    - *Use Global* Use the default value from the component options screen.
+    - *Auto* Pagination links shown if needed.
+    - *Show* Pagination links shown if needed.
+    - *Hide* Pagination links not shown. Note: In this case, Users will not
     be able to navigate to additional pages.
 - **Pagination Results** Show or hide current page number and total number of
   pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
@@ -117,12 +117,12 @@ List Layout Options control the appearance of the list layout.
 Contact Display fields control the appearance of the list layout.
 ![Menu Item List Contacts in a Category contact display tab](../../../en/images/menu-items/contacts-featured-contacts-form-tab.png)
 
-- **Choose a Layout.** Select from the list of templates.
+- **Choose a Layout** Select from the list of templates.
 - **Contact Category** Show or hide the Contact Category display view.
     The following options are available.
-    - *Use Global:* Use the default value from the contacts options screen.
-    - *Hide:* Do not show the Category name of the contacts.
-    - *Show Without Link:* Show Category name of contacts as heading styled
+    - *Use Global* Use the default value from the contacts options screen.
+    - *Hide* Do not show the Category name of the contacts.
+    - *Show Without Link* Show Category name of contacts as heading styled
       text only.
     - *Show With Link* Show Category name of contacts as heading styled text
     linked to Category.

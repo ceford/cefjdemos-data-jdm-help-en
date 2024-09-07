@@ -18,5 +18,9 @@ The *Guided Tours: Options* page is covered in separate Help articles:
 - Select **System -> Manage -> Guided Tours** from the Administrator menu.
 - Select the **Options** button in the Toolbar.
 
-The Options page has only one tab, the Publishing tab, which is covered in 
-Common Elements above.
+## Screenshot
+
+![Guided tours options](../../../en/images/guided-tours/guided-tours-options.png)
+
+The items in the Guided Tours tab are well explained in the Inline Help.
+ 

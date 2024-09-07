@@ -38,11 +38,6 @@ To edit an existing Featured Contacts menu item:
 
 ## Form Fields
 
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
-
 ### List Layouts tab
 
 List Layout Options control the appearance of the list layout.
@@ -57,7 +52,7 @@ List Layout Options control the appearance of the list layout.
     it may be helpful to use the Filter options, located above the column
     headings, to limit which items display.
 - **Table Headings** Show or hide the list table Headings.
-- **Position**. Show or hide a Position column in the list of Contacts.
+- **Position** Show or hide a Position column in the list of Contacts.
 - **Email** Show or hide the Email display.
 - **Phone** Show or hide the Phone display.
 - **Mobile** Show or hide the Mobile display.
@@ -70,10 +65,10 @@ List Layout Options control the appearance of the list layout.
   to additional pages. These are needed if the listed items will not fit
   on one page.
     The following options are available.
-    - *Use Global:* Use the default value from the component options screen.
-    - *Auto:* Pagination links shown if needed.
-    - *Show:* Pagination links shown if needed.
-    - *Hide:* Pagination links not shown. Note: In this case, Users will not
+    - *Use Global* Use the default value from the component options screen.
+    - *Auto* Pagination links shown if needed.
+    - *Show* Pagination links shown if needed.
+    - *Hide* Pagination links not shown. Note: In this case, Users will not
       be able to navigate to additional pages.
 - **Pagination Summary** Show or hide the current page number and total
   pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
@@ -91,7 +86,7 @@ List Layout Options control the appearance of the list layout.
 - **User Articles** Show or hide the contact's *User Articles*.
 - **\# Articles to List** Show or hide the contact's *\# Articles to List*.
 - **Contact Links** Show or hide the contact's *Contact Links*.
-- **Link \<letter\> Label**. \<A to E\> Labels (5) to override the shown
+- **Link \<letter\> Label** \<A to E\> Labels (5) to override the shown
   link's label.
 
 ### Mail Options Tab
@@ -102,21 +97,21 @@ it is enabled.
 ![Menu Item Featured Contacts mail options tab](../../../en/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
 
 - **Contact Form** Show or hide the contact's *contact form*.
-- **Send Copy to Submitter**. Show or hide the a check box to allow a
+- **Send Copy to Submitter** Show or hide the a check box to allow a
   Submitter to send a copy of email to themselves.
 - **Session Check** Check for the existence of session cookie. Users
   without cookies enabled will not be able to send emails.
     It has the following options available:
-    - *Use Global:* Use the default value from the contacts options screen.
-    - *Yes:* Check for session cookie.
-    - *No:* Do not check for session cookie.
+    - *Use Global* Use the default value from the contacts options screen.
+    - *Yes* Check for session cookie.
+    - *No* Do not check for session cookie.
 - **Custom Reply** Turn on or off the custom message reply to contact
   form's submitter, allowing for Plugins to handle integration with
   other systems.
     It has the following options available:
-    - *Use Global:* Use the default value from the contacts options screen.
-    - *Yes:* Send an automated reply email.
-    - *No:* Do not send an automated reply email.
+    - *Use Global* Use the default value from the contacts options screen.
+    - *Yes* Send an automated reply email.
+    - *No* Do not send an automated reply email.
 - **Contact Redirect** Enter an alternative URL to redirect the submitter
   after the email is sent.
 
@@ -125,5 +120,5 @@ it is enabled.
 - To feature a contact do one of the following using the Contacts list:
   - Select the Featured symbol (circle with a star) in the Featured column,
   - Select the Item select check box and select Feature in the Actions
-  drop-down list in the Toolbar. Several items can be selected to Feature
-  or Unfeature via the Actions list.
+    drop-down list in the Toolbar. Several items can be selected to Feature
+    or Unfeature via the Actions list.

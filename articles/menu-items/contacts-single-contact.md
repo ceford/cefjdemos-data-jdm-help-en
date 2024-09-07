@@ -2,8 +2,8 @@
 
 ## Description
 
-The **Single Contact** is used to show a menu link for a Single Contact
-with optional settings such as Contact Details, Contact Form and Email
+The **Single Contact** meu item type is used to show a menu link for a Single 
+Contact with optional settings such as Contact Details, Contact Form and Email
 subject and message filters.
 
 ### Common Elements
@@ -39,8 +39,8 @@ To edit an existing Single Contact menu item:
 
 ## Form Fields
 
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
+- **Menu Title** The title that will display for this menu item.
+- **Alias** The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
   with dashes instead of spaces.
 
@@ -52,9 +52,9 @@ Contact Display Options control the appearance of the list layout.
 
 - **Contact Category** Show or hide the Contact Category display view.
     The following options are available.
-    - *Use Global:* Use the default value from the contacts options screen.
-    - *Hide:* Do not show the Category name of the contacts.
-    - *Show Without Link:* Show Category name of contacts as heading styled
+    - *Use Global* Use the default value from the contacts options screen.
+    - *Hide* Do not show the Category name of the contacts.
+    - *Show Without Link* Show Category name of contacts as heading styled
       text only.
     - *Show With Link* Show Category name of contacts as heading styled text
     linked to Category.
