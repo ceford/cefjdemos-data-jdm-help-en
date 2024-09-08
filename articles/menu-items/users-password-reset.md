@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Password Reset** menu item type is used to create a page
+The *Password Reset* menu item type is used to create a page
 containing a Password Reset form. It asks for the email associated with
 the user account and sends an email containing a reset token to the
 provided address.
@@ -30,17 +30,12 @@ To create a new Password Reset menu item:
   - In the modal dialogue select the Users item to open a list and then
     select the **Password Reset** item.
 
-To edit an existing User Password Reset menu item:
+To edit an existing *Password Reset* menu item:
 
-- Select its Title in the Menus: Items list.
+- Select its Title in the *Menus: Items* list.
 
 ## Screenshot
 
 ![Password reset details tab](../../../en/images/menu-items/users-password-reset-details-tab.png)
 
-## Form Fields
-
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+All of the form input fields are covered in the *Common Elements*.

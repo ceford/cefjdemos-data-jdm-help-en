@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Tagged Items** menu item type is used to create a page to display
+The *Tagged Items* menu item type is used to create a page to display
 content with selected tags.
 
 ## How To Access
@@ -18,35 +18,13 @@ To create a new **Tagged Items** menu item:
 
 To edit an existing Tagged Items menu item:
 
-- Select its Title in the Menus: Items list.
+- Select its Title in the *Menus: Items* list.
 
 ## Screenshot
 
 ![Tagged Items details tab](../../../en/images/menu-items/tags-tagged-items-details-tab.png)
 
 ## Form Fields
-
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
-
-### Details Tab
-
-#### Left Panel
-
-- **Menu Item Type**. The Menu Item Type selected when this menu item
-  was created. This can be one of the core menu item types or a menu
-  item type provided by an installed extension.
-- **Tag**. Select the tag to use.
-- **Content Type.** Only tags of the selected types will be displayed
-  (optional).
-- **Language Filter**. (Use Global (All)/All/Current/English
-  (en-GB)/...). Optionally filter the list of tags based on language.
-- **Link**. The system-generated link for this menu item. This field
-  cannot be changed and is for information only.
-- **Target Window.** Select from the drop-down list.
-- **Template Style.** Select from the drop-down list.
 
 ### Tag Options Tab
 

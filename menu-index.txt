@@ -117,6 +117,7 @@ heading=menu-items-common=Menu Items Common
 help=menu-items-common=menu-item-details.md
 help=menu-items-common=menu-item-category.md
 help=menu-items-common=menu-item-blog-layout.md
+help=menu-items-common=menu-item-list-layouts.md
 help=menu-items-common=menu-item-article-options.md
 help=menu-items-common=menu-item-link-type.md
 help=menu-items-common=menu-item-integration.md
@@ -187,6 +188,7 @@ help=menu-items=wrapper-iframe-wrapper.md
 heading=menu-items-weblinks=Menu Items: Weblinks
 help=menu-items=weblinks-weblink-categories.md
 help=menu-items=weblinks-weblink-category.md
+help=menu-items=weblinks-single-weblink.md
 help=menu-items=weblinks-weblink-submit.md
 
 heading=modules=Modules

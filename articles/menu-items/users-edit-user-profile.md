@@ -36,9 +36,5 @@ To edit an existing User Profile Edit menu item:
 
 ![Edit User Profile details tab](../../../en/images/menu-items/users-edit-user-profile-details-tab.png)
 
-## Form Fields
+All of the form input fields are covered in the *Common Elements*.
 
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.

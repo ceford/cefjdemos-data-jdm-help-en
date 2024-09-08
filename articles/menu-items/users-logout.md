@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Logout** menu item type provides a convenient way to logout.
+The *Logout* menu item type provides a convenient way to logout.
 
 ### Common Elements
 
@@ -37,24 +37,16 @@ To edit an existing Logout menu item:
 
 ## Form Fields
 
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
-
 ### Options Tab
 
 ![Logout options tab](../../../en/images/menu-items/users-logout-options-tab.png)
 
-- **Logout Redirection Page.** Use the default or select a specific page
-  to redirect to on logout. A user may be viewing a restricted access
-  page on logout so must be redirected to a public access page.
+- **Logout Redirection Page** Select or create the page the user will be 
+  redirected to after ending their current session by logging out. The default 
+  is to stay on the same page. 
 
 ## Tips
 
-- The **Login and Logout URL** can be used to send a user to a specific
-  page('article') created to provide some feedback to the user. For
-  example, a page titled, 'You are now Logged In' with some general
-  information. The use of a User Module to show links for Updating User
-  Profile, Viewing User Profile and other User functions could be shown
-  on this page enhancing a user's site experience.
+- A user may be viewing a restricted access page on logout so should be 
+  redirected to a public access page. Otherwise the user may be redirected
+  to a login page, which can be confusing.

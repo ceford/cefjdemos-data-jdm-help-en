@@ -36,9 +36,4 @@ To edit an existing Extend Consent menu item:
 
 ![Menu Item Privacy Create Request details tab](../../../en/images/menu-items/privacy-extend-consent-details-tab.png)
 
-## Form Fields
-
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+All of the form input fields are covered in the *Common Elements*.

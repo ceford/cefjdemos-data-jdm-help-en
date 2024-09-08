@@ -15,6 +15,7 @@ Some aspects of this page are covered in separate Help articles:
 * [The Details Tab](jdocmanual?article=help/menu-items-common/menu-item-details).
 * [The Category Tab](jdocmanual?article=help/menu-items-common/menu-item-category).
 * [The Blog Layout Tab](jdocmanual?article=help/menu-items-common/menu-item-blog-layout).
+* [The List Layouts Tab](jdocmanual?article=help/menu-items-common/menu-item-list-layouts).
 * [The Options Tab](jdocmanual?article=help/menu-items-common/menu-item-article-options).
 * [The Integration Tab](jdocmanual?article=help/menu-items-common/menu-item-integration).
 * [The Link Type Tab](jdocmanual?article=help/menu-items-common/menu-item-link-type).
@@ -94,34 +95,6 @@ that results in a blog layout.
 The blog layout form has a different layout from that in the Common Elements
 above but the fields are similar.
 
-### List Layouts tab
-
-The Options control the appearance of the category drill-down page when
-that is presented as a Category List.
-
-![Menu Item Articles List All Categories  categories tab](../../../en/images/menu-items/articles-list-all-categories-list-layouts-tab.png)
-
-- **Display Select** Show the Display \# control that allows the user
-  to select the number of articles to show.
-- **Filter Field** Show a text field in the Frontend where a user can
-  filter the articles.Options in the Backend menu item edit.
-  - *Hide* Don't show a filter field.
-  - *Title* Filter on article title.
-  - *Author* Filter on the author's name.
-  - *Hits* Filter on the number of article hits.
-- **Table Headings** Show a heading in the article list in the
-  Frontend.
-- **Date** Show a date in the list.
-  - *Hide* Don't show any date.
-  - *Created* Show the created date.
-  - *Modified* Show the date of the last modification.
-  - *Published* Show the start publishing date.
-- **Date Format** Optional format string to control the format of the
-  date.
-- **Hits** Show the number of hits for articles.
-- **Author** Show the name of the author.
-- **\# Articles to List** Number of articles shown in the list.
-
 ### Shared tab
 
 The Shared Options apply for Shared Options in List, Blog and Featured
@@ -132,16 +105,16 @@ unless they are changed by the menu settings.
 - **Pagination** Pagination provides page links at the bottom of the
   page that allow the User to navigate to additional pages. These are
   needed if the Articles will not fit on one page.
-  - *Hide: Pagination links not shown. Note* Users will not be able to
+  - *Hide* Pagination links not shown. *Note* Users will not be able to
     navigate to additional pages.
   - *Show* Pagination links shown if needed.
   - *Auto* Pagination links shown if needed.
 - **Pagination Summary** Show the current page number and total pages
-  (e.g., "Page 1 of 2") at the bottom of each page.
+  (for example, *Page 1 of 2*) at the bottom of each page.
 
 ## Tips
 
-- Categories can be "nested" into levels, similar to folders on a disk
+- Categories can be *nested* into levels, similar to folders on a disk
   drive. In theory there is no absolute limit on the number of levels
   you can have. However, as a practical matter it is recommended to keep
   the levels to a minimum. The Show All Categories layout may not work
@@ -155,9 +128,9 @@ unless they are changed by the menu settings.
   page display. Otherwise, the options set for the current Show All
   Categories menu item will control the page display.
 - You can set the option to drill down to a list or blog in 2 places.
-  - In Articles: Options you can set the default value for all categories.
-  - In Category: Edit you can set a value for a specific category. If this is 
+  - In *Articles: Options* you can set the default value for all categories.
+  - In *Category: Edit* you can set a value for a specific category. If this is 
     set, it overrides the default value.
-- To customise a *Date Format: you can use D M Y for day month year or d-m-y
+- To customise a *Date Format* you can use `D M Y` for day month year or `d-m-y`
   for a short version for example 17-08-05. If left blank, the DATE_FORMAT_LC1 
   key translation is used from your language file.

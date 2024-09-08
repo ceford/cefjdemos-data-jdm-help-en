@@ -2,10 +2,9 @@
 
 ## Description
 
-The **Separator** menu item type is used to separate links with images
+The *Separator* menu item type is used to separate links with images
 or text in a menu. Some uses might be to give a title to a group of
 links or allow a short description before each link or groups of links.
-See the Front End Example screenshot below.
 
 ### Common Elements
 
@@ -36,15 +35,8 @@ To edit an existing Separator menu item:
 
 ![Menu Item Alias](../../../en/images/menu-items/system-links-separator-details-tab.png)
 
-## Form Fields
-
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+All of the form input fields are covered in the *Common Elements*.
 
 ## Tips
 
-- It is possible to use an image as a Text Separator. Since a Menu Title
-  is required, to use only image as a separator, the Menu Title can be a
-  "space".
+- It is possible to use text or an image or both as a separator. 

@@ -2,14 +2,12 @@
 
 ## Description
 
-The **Menu Item Alias** menu type is used to create a link from one Menu
+The *Menu Item Alias* menu type is used to create a link from one Menu
 Item to another Menu Item.
 
-A Main Menu Item Alias could link to an Article Menu's 'Some Menu
-Type' Menu Item. By using Module Assignments, a possible use would be
-to replace the Main Menu with the Article Menu when the Alias Menu
-Item is selected. A return to Main Menu when another Alias Menu Item is
-selected pointed back to a Menu Item in the Main Menu.
+A *Menu Item Alias* could be used to link a *Main Menu* to a separate 
+*Article Menu*, which might show a different selection of menu items and
+modules from the Main Menu.
 
 ### Common Elements
 
@@ -39,6 +37,8 @@ To edit an existing Menu Item:
 ## Screenshot
 
 ![Menu Item Alias](../../../en/images/menu-items/system-links-menu-item-alias-details-tab.png)
+
+All of the form input fields are covered in the *Common Elements*.
 
 ## Tips
 

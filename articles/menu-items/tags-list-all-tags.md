@@ -2,7 +2,7 @@
 
 ## Description
 
-The **List All Tags** menu item type is Used to create a page containing
+The *List All Tags* menu item type is Used to create a page containing
 items with selected tags.
 
 ### Common Elements
@@ -39,44 +39,21 @@ To edit an existing List All Tags menu item:
 
 ## Form Fields
 
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
-
-### Details Tab
-
-#### Left Panel
-
-- **Menu Item Type**. The Menu Item Type selected when this menu item
-  was created. This can be one of the core menu item types or a menu
-  item type provided by an installed extension.
-- **Parent**. The item (category, menu item, and so on) that is the
-  parent of the item being edited.
-- **Language Filter**. (Use Global (All)/All/Current/English
-  (en-GB)/...). Optionally filter the list of tags based on language.
-- **Link**. The system-generated link for this menu item. This field
-  cannot be changed and is for information only.
-- **Target Window.** Select from the drop-down list.
-- **Template Style.** Select from the drop-down list.
-
 ### Options Tab
 
 ![Compact List of Tagged Items details tab](../../../en/images/menu-items/tags-list-all-tags-options-tab.png)
 
 - **Number of Columns** The number of columns to arrange the tags in.
   Note that this may not be the number displayed if 12 does not divide
-  evenly into it because display is based on a 12 column grid.
-- **Heading Description** Description to display at the heading of tags
+  evenly into it because the display is based on a 12 column grid.
+- **Heading Description** Description to display at the heading of the tags
   list.
-- **Show Heading Image** (Use Global/Hide/Show). Show an image at the
-  heading of the tags list.
-- **Heading Image File** Select or upload the image to display in the
+- **Show Heading Image** Show or hide an image at the heading of the tags list.
+- **Heading Image File** Select or upload an image to display in the
   heading of the tags list.
 - **Ordering** The column in which to sort displayed items
   in the table. The values are the same as the column heading names.
-- **Direction** Sort order. Descending is highest to lowest. Ascending
-  is lowest to highest.
+- **Direction** Sort order. 
 - **Item Images**  Show or hide the first image for each item in the list.
 - **Tag Description** Show or hide the description for the tag (only used 
   when a single tag is selected).
@@ -91,12 +68,11 @@ To edit an existing List All Tags menu item:
 - **Maximum Items** The maximum number of results to return.
 - **Filter Field** Show or hide the Filter Field used to filter the articles 
   shown in the list.
-- **Display Select.** Show or hide the \# control that allows the user to 
+- **Display Select** Show or hide the \# control that allows the user to 
   select the number of items to show in the list.
 - **Pagination** Show or hide Pagination support. Pagination provides
   page links at the bottom of the page that allow the User to navigate
   to additional pages. 
 - **Pagination Results** Show or hide the current page number and total
-  pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
+  pages (for example *Page 1 of 2*) at the bottom of each page. Use Global
   will use the default value from the component options.
-

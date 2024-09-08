@@ -13,6 +13,7 @@ Some aspects of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [The Details Tab](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [The List Layouts Tab](jdocmanual?article=help/menu-items-common/menu-item-list-layouts).
 * [The Integration Tab](jdocmanual?article=help/menu-items-common/menu-item-integration).
 * [The Link Type Tab](jdocmanual?article=help/menu-items-common/menu-item-link-type).
 * [The Page Display Tab](jdocmanual?article=help/menu-items-common/menu-item-page-display).
@@ -68,49 +69,6 @@ Options, as shown below.
   subcategories.
 - **\# Contacts in Category** Show or hide the number of Contacts in a
   Contact Category.
-
-### List Layouts Tab
-
-List Layout Options control the appearance of the list layout.
-
-![Menu Item List Contacts in a Category list layouts tab](../../../en/images/menu-items/contacts-featured-contacts-list-layouts-tab.png)
-
-- **Filter Field** Show or hide the Filter Field which creates a text field
-  for the front-end user to enter some part of a contact name to search for.
-- **Display Select** Show or hide the Display \# control that allows the user
-  to select the number of items to show in the list.
-    If there are more items than this number, you can use the page
-    navigation buttons (Start, Prev, Next, End, and page numbers) to
-    navigate between pages. Note that if you have a large number of items,
-    it may be helpful to use the Filter options, located above the column
-    headings, to limit which items display.
-- **Table Headings** Show or hide the Table Headings above a list.
-- **Image** Show or hide an Image column in the list of Contacts.
-- **Position** Show or hide the position this contact holds
-  in the organisation. For example CEO, Secretary, Janitor.
-- **Email** Show or hide the contact Email display in the list.
-- **Phone** Show or hide the contact Phone number display in the list.
-- **Mobile** Show or hide the contact Mobile number display in the list.
-- **Fax** Show or hide the contact Fax number display in the list.
-- **City or Suburb** Show or hide the contact City or Suburb display in the
-  list.
-- **State or County** Show or hide the contact State or County display in the
-  list.
-- **Country** Show or hide the contact Country display in the list.
-- **Pagination** Show or hide Pagination support. Pagination provides
-  page links at the bottom of the page that allow the User to navigate
-  to additional pages. These are needed if the listed items will not fit
-  on one page.
-    The following options are available.
-    - *Use Global* Use the default value from the component options screen.
-    - *Auto* Pagination links shown if needed.
-    - *Show* Pagination links shown if needed.
-    - *Hide* Pagination links not shown. Note: In this case, Users will not
-    be able to navigate to additional pages.
-- **Pagination Results** Show or hide current page number and total number of
-  pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
-  will use the default value from the component options.
-- **Sort by** Choose an ordering field name for sorting the list.
 
 ### Contact Display Tab
 

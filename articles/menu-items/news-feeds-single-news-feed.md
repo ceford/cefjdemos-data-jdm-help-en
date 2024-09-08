@@ -39,7 +39,7 @@ To edit an existing Single News Feeds menu item:
 ## Form Fields
 
 - **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
+- **Alias** The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
   with dashes instead of spaces.
 
@@ -51,24 +51,18 @@ In addition to Yes/No or Hide/Show, these options allow the "Use Global"
 setting. This uses the default value from the News Feeds Options
 screen.
 
-- **Feed Image**. (Use Global/Hide/Show) Show or hide the image of News
-  Feeds.
-- **Feed Description.** (Use Global/Hide/Show) Hide or Show the
-  description text of the News Feed.
-- **Feed Content**. (Use Global/Hide/Show) Show or hide the content of
-  News Feeds.
-- **Show Tags**. Show the tags for a news feed.
-- **Characters count**. Number of characters to show if Feed Content
+- **Feed Image** Show or hide the image of News Feeds.
+- **Feed Description** Show or hide the description text of the News Feed.
+- **Feed Content** Show or hide the content of News Feeds.
+- **Show Tags** Show or hide the tags for a news feed.
+- **Characters count** The number of characters to show if Feed Content
   from News Feeds is set to show.
-- **Feed display order**. (Use Global/Most recent first/Oldest first)
-  Select the feed display order, most recent first, oldest first, or
-  Global, the setting in News Feeds Options.
+- **Feed display order** Select the feed display order, most recent first, 
+  oldest first, or Global, the setting in News Feeds Options.
 
 ## Tips
 
 - You can set the News Feed options in two places.
-  - In News Feeds Options
-    screen you can set the default value for all categories.
-  - In News Feeds: New/Edit Category
-    you can set a value for a specific category. If this is set, it
-    overrides the default value.
+  - In *News Feeds: Options* you can set the default values for all categories.
+  - In *News Feeds: New or Edit Category* you can set values for a specific 
+    category. If set here, the settings override the default values.

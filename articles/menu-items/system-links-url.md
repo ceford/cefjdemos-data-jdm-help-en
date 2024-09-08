@@ -2,8 +2,7 @@
 
 ## Description
 
-The **URL** menu item type is used to create a link to a separate
-website.
+The **URL** menu item type is used to create a link to a separate website.
 
 ### Common Elements
 
@@ -34,13 +33,8 @@ To edit an existing External URL menu item:
 
 ![Menu Item Alias](../../../en/images/menu-items/system-links-url-details-tab.png)
 
-## Form Fields
-
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+All of the form input fields are covered in the *Common Elements*.
 
 ## Tips
 
-Make sure you include the full URL path.
+Make sure you use the full URL path including the scheme (http or https) and domain.

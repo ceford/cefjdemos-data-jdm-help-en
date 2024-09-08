@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Username Reminder Request** menu item type is used to create a
+The *Username Reminder Request* menu item type is used to create a
 form which allows a user to request an e-mail with their username.
 
 ### Common Elements
@@ -28,17 +28,12 @@ To create a new **Username Reminder Request** menu item:
   - In the modal dialog select the Users item to open a list and then
     select the **Username Reminder Request** item.
 
-To edit an existing Username Reminder Request menu item:
+To edit an existing *Username Reminder Request* menu item:
 
-- Select its Title in the Menu: Items list.
+- Select its Title in the *Menu: Items* list.
 
 ## Screenshot
 
 ![User profile details tab](../../../en/images/menu-items/users-username-reminder-request-details-tab.png)
 
-## Form Fields
-
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+All of the form input fields are covered in the *Common Elements*.

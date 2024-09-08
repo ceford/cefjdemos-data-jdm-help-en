@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Menu Heading** menu item type is used to separate menu links with
+The *Menu Heading* menu item type is used to separate menu links with
 text or images in a menu. For example, to give a title to a group of
 links or allow a short description before each link or groups of links.
 See the Front End Example screenshot below.
@@ -36,15 +36,10 @@ To edit an existing Menu Heading item type:
 
 ![Menu Item Heading details tab](../../../en/images/menu-items/system-links-menu-heading-details-tab.png)
 
-## Form Fields
-
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+All of the form input fields are covered in the *Common Elements*.
 
 ## Tips
 
 - It is possible to use an image as a Text Separator. Since a Menu Title
-  is required, to use only image as a separator, the Menu Title can be a
-  "space".
+  is required, to use only image as a separator the Menu Title can be a
+  *space*.

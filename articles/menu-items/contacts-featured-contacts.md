@@ -11,6 +11,7 @@ Some aspects of this page are covered in separate Help articles:
 
 * [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 * [The Details Tab](jdocmanual?article=help/menu-items-common/menu-item-details).
+* [The List Layouts Tab](jdocmanual?article=help/menu-items-common/menu-item-list-layouts).
 * [The Link Type Tab](jdocmanual?article=help/menu-items-common/menu-item-link-type).
 * [The Page Display Tab](jdocmanual?article=help/menu-items-common/menu-item-page-display).
 * [The Metadata Tab](jdocmanual?article=help/menu-items-common/menu-item-metadata).
@@ -37,42 +38,6 @@ To edit an existing Featured Contacts menu item:
 ![Menu Item Featured Contacts Details tab](../../../en/images/menu-items/contacts-featured-contacts-details-tab.png)
 
 ## Form Fields
-
-### List Layouts tab
-
-List Layout Options control the appearance of the list layout.
-
-![Menu Item Featured Contacts list layouts tab](../../../en/images/menu-items/contacts-featured-contacts-list-layouts-tab.png)
-
-- **Filter Field** Show or hide the list filter.
-- **Display Select** Show or hide the number of items to show in the list.
-  - If there are more items than this number, you can use the page
-    navigation buttons (Start, Prev, Next, End, and page numbers) to
-    navigate between pages. Note that if you have a large number of items,
-    it may be helpful to use the Filter options, located above the column
-    headings, to limit which items display.
-- **Table Headings** Show or hide the list table Headings.
-- **Position** Show or hide a Position column in the list of Contacts.
-- **Email** Show or hide the Email display.
-- **Phone** Show or hide the Phone display.
-- **Mobile** Show or hide the Mobile display.
-- **Fax** Show or hide the Fax display.
-- **City or Suburb** Show or hide the City or Suburb display.
-- **State or County** Show or hide the State or County display.
-- **Country** Show or hide the Country display.
-- **Pagination** Shoe or hide Pagination support. Pagination provides
-  page links at the bottom of the page that allow the User to navigate
-  to additional pages. These are needed if the listed items will not fit
-  on one page.
-    The following options are available.
-    - *Use Global* Use the default value from the component options screen.
-    - *Auto* Pagination links shown if needed.
-    - *Show* Pagination links shown if needed.
-    - *Hide* Pagination links not shown. Note: In this case, Users will not
-      be able to navigate to additional pages.
-- **Pagination Summary** Show or hide the current page number and total
-  pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
-  will use the default value from the component options.
 
 ### Form Tab
 

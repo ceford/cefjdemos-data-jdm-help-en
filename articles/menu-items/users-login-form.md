@@ -30,7 +30,7 @@ To create a new **Login Form** menu item:
 
 To edit an existing Login Form menu item:
 
-- Select its Title in the Menus: Items list.
+- Select its Title in the *Menus: Items* list.
 
 ## Screenshot
 
@@ -38,42 +38,36 @@ To edit an existing Login Form menu item:
 
 ## Form Fields
 
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
-
 ### Options Tab
 
 ![Login form details tab](../../../en/images/menu-items/users-login-form-options-tab.png)
 
-- **Choose Login Redirect Type:** 'Internal URL' lets you manually enter
-  any internal URL in the Redirect field. 'Menu Item' lets you directly
-  select an existing menu item. For a multilingual site, it is
-  recommended to use 'Menu Item'.
-- **Menu Item Login Redirect:** Select or create the page the user will
-  be redirected to after a successful login. The default is to remain on
-  the same page.
-- **Login Description:** *(Show or Hide)* Show or hide the login
-  description.
-- **Login Description Text:** Enter text to display on Login page.
-- **Login Image:** Select or upload an image to display on Login page.
-- **Choose Logout Redirect Type:** 'Internal URL' lets you manually
-  enter any internal URL in the Redirect field. 'Menu Item' lets you
-  directly select an existing menu item. For a multilingual site, it is
-  recommended to use 'Menu Item'.
-- **Menu Item Logout Redirect:** Select or create the page the user will
-  be redirected to after successfully ending their current session by
-  logging out. The default is to remain on the same page.
-- **Logout Description:** Show or hide logout description.
-- **Logout Description Text:** Enter text to display on Logout page.
-- **Logout Image:** Select or upload an image to display on Logout page.
+#### Login panel
+
+- **Choose Login Redirect Type** This may be a *Menu Item* or an *Internal URL*.
+  The following fields change depending on the setting of this parameter. For 
+  a multilingual site, *Menu Item* is recommended.
+  - **Menu Item Login Redirect** Select or create a menu item for the page
+    to redirect to after a successful login. If no menu item is selected, 
+    users will be redirected to the their profile after login. 
+  - **Login Redirect** Select an internal URL to redirect to after login.
+- **Login Description** Show or hide the login description.
+- **Login Description Text** Enter text to display on Login page.
+- **Login Image** Select or upload an image to display on Login page.
+- **Image Description (Alt Text)** Required for screen readers for accessibility
+  purposes.
+- **No Description** A checkbox to select if the image is purely decorative and
+  requires no explanation.
+
+#### Logout panel
+
+This panel uses the same fielding headings to control the logout process.
 
 ## Tips
 
 - The **Login and Logout URL** can be used to send a user to a specific
-  page('article') created to provide some feedback to the user. For
-  example, a page titled, 'You are now Logged In' with some general
-  information. The use of a User Module to show links for Updating User
-  Profile, Viewing User Profile and other User functions could be shown
-  on this page enhancing a user's site experience.
+  page created to provide some feedback to the user. For example, a page 
+  entitled *You are now Logged In* with some general information. The use of
+  a User Module to show links for Updating User Profile, Viewing User Profile 
+  and other User functions could be shown on this page enhancing a user's 
+  site experience.

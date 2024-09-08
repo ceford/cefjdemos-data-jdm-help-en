@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Registration Form** menu item type is used to create a User
+The *Registration Form* menu item type is used to create a User
 Registration form page. The default form contains basic information:
 Name, Username, Password, and Email Address.
 
@@ -31,21 +31,16 @@ To create a new **Registration Form** menu item:
 
 To edit an existing Registration Form menu item:
 
-- Select its Title in the Menus: Items list.
+- Select its Title in the *Menus: Items* list.
 
 ## Screenshot
 
 ![Registration form details tab](../../../en/images/menu-items/users-registration-form-details-tab.png)
 
-## Form Fields
-
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+All of the form input fields are covered in the *Common Elements*.
 
 ## Tips
 
-- For extended registration, see the User Profile Plugin.
-  It can be used to add required fields for registration and it provides
-  a method to force a TOS(Terms of Service) acceptance for registration.
+- For extended registration, see the User Profile Plugin. It can be used to 
+  add required fields for registration and it provides a method to force a 
+  TOS (*Terms of Service*) acceptance for registration.

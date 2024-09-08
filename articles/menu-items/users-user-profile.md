@@ -2,7 +2,7 @@
 
 ## Description
 
-The **User Profile** menu item type creates a page displaying a user's
+The *User Profile* menu item type creates a page displaying a user's
 own Profile settings.
 
 ### Common Elements
@@ -28,17 +28,12 @@ To create a new **User Profile** menu item:
   - In the modal dialog select the Users item to open a list and then
     select the **User Profile** item.
 
-To edit an existing User Profile Menu Item:
+To edit an existing *User Profile* menu item:
 
-- Select its Title in the Menus: Items list.
+- Select its Title in the *Menus: Items* list.
 
 ## Screenshot
 
 ![User profile details tab](../../../en/images/menu-items/users-user-profile-details-tab.png)
 
-## Form Fields
-
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+All of the form input fields are covered in the *Common Elements*.

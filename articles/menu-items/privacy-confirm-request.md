@@ -2,9 +2,9 @@
 
 ## Description
 
-The **Confirm Request** menu item type is used to display a menu link
-leading to a page containing a form allowing your users to confirm an
-information request (Export or Remove).
+The *Confirm Request* menu item type is used to display a menu link
+leading to a page containing a form allowing users to confirm an
+information request (*Export* or *Remove*).
 
 ### Common Elements
 
@@ -37,9 +37,4 @@ To edit an existing Confirm Request menu item:
 
 ![Menu Item Privacy Confirm Request details tab](../../../en/images/menu-items/privacy-confirm-request-details-tab.png)
 
-## Form Fields
-
-- **Menu Title:** The title that will display for this menu item.
-- **Alias**. The internal name of the item. Normally, you can leave this
-  blank and Joomla will fill in a default value Title in lower case and
-  with dashes instead of spaces.
+All of the form input fields are covered in the *Common Elements*.
