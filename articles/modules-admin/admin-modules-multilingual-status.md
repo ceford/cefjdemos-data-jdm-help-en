@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Multilingual Status** module type shows an icon in the Title Bar
+The *Multilingual Status* module type shows an icon in the Title Bar
 to provide access to the multilingual parameters in Multilingual sites.
 
 ### Common Elements
@@ -18,8 +18,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Administrator Modules** from
   the Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -38,5 +37,4 @@ Some elements of this page are covered in separate Help articles:
 
 #### Left Panel
 
-- **Information** This module shows the status of the multilingual
-  parameters.
+- **Information** This module shows the status of the multilingual parameters.

@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Privacy Status Check Module** shows information about your sites
+The *Privacy Status Check Module* shows information about the site
 privacy status.
 
 ### Common Elements
@@ -18,8 +18,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Administrator Modules** from
   the Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the

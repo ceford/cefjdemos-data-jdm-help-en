@@ -2,7 +2,8 @@
 
 ## Description
 
-This module shows a link to the frontend near the end of the Title bar.
+The *Frontend Link* module shows a link to the frontend near the end of the 
+Title bar.
 
 ### Common Elements
 
@@ -17,8 +18,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Administrator Modules** from
   the Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -30,11 +30,11 @@ Some elements of this page are covered in separate Help articles:
 
 ## Form Fields
 
-- **Title.** The title of the module. This is also the title displayed
-  for the module depending on the *Show Title* Form Field
+- **Title** The title of the module. This is also the title displayed
+  for the module depending on the *Show Title* form field.
 
 ### Module Tab
 
 #### Left Panel
 
-- **Information.** This module shows the Frontend Link information.
+- **Information** This module shows the Frontend Link information.

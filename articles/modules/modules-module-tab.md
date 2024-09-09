@@ -2,7 +2,7 @@
 
 ## Description
 
-The Modules: Module tab is present in all module edit forms. The left panel is
+The *Modules: Module tab* is present in all module edit forms. The left panel is
 unique to each module but the right panel is the same.
 
 ## Screenshot

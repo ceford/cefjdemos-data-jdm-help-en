@@ -2,8 +2,8 @@
 
 ## Description
 
-The **Feed Display** Module shows an RSS News Feed from a website. This
-Module is not related to the News Feeds Component or the News Feeds
+The *Feed Display* module shows an RSS News Feed from a website. This
+module is not related to the News Feeds Component or the News Feeds
 Layouts and is an alternative that allows a feed to display in a Module
 position.
 
@@ -20,8 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Administrator Modules** from
   the Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the

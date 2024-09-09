@@ -2,13 +2,13 @@
 
 ## Description
 
-The **Custom** Module type allows you to create a self-contained HTML
-unit and then put it in any valid location on a page.
+The *Custom* module type allows you to create a self-contained HTML
+unit and then place it in any valid location on a page.
 
-There are many cases where you might want to show free-form HTML in the
-administrator interface. For example, you might want to show a temporary
-system message. You may need to supply additional styling via the
-Advance Tab
+There are many cases where free-form HTML might be shown in the administrator
+interface. For example, a temporary system message might be displayed at the 
+top of all Administrator pages (th customtop position). Additional styling 
+may be required via the Advanced tab.
 
 ### Common Elements
 
@@ -32,21 +32,17 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![modules articles latest tab](../../../en/images/modules-admin/modules-articles-latest-module-tab.png)
+![modules articles latest tab](../../../en/images/modules-admin/modules-custom-module-tab.png)
 
 ## Form Fields
 
-- **Title.** The title of the module. This is also the title displayed
+- **Title** The title of the module. This is also the title displayed
   for the module depending on the *Show Title* Form Field
 
 ### Module Tab
 
 #### Left Panel
 
-- **Editor** The editor does not allow you to enter certain HTML tags.
-  To work around this, you can temporarily change your User's editor to
-  "No Editor", create the Custom HTML Module, and then change the editor
-  back to TinyMCE. Another option is to use an editor from an Extension
-  that allows HTML code to be entered. Another possibility is (if the
-  editor has this option) to switch to the HTML mode, enter the code,
-  save and switch back to normal view.
+- **Editor** The editor does not allow entry of certain HTML tags. This can be
+  configured in the Global Configuration *Text Filters* tab and the specific
+  editor plugin.

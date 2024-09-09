@@ -2,7 +2,8 @@
 
 ## Description
 
-This module displays the Joomla! version in the Administrator Title Bar.
+The *Joomla Version Information* module displays the Joomla! version in the 
+Administrator Title bar.
 
 ### Common Elements
 
@@ -17,8 +18,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Administrator Modules** from
   the Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the

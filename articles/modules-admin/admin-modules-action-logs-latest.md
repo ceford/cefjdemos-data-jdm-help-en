@@ -2,8 +2,8 @@
 
 ## Description
 
-The **Action Logs - Latest** module type shows a list of the most recent
-actions on the Administrator **Home Dashboard**.
+The *Action Logs - Latest* module type shows a list of the most recent
+actions on the Administrator *Home Dashboard*.
 
 ### Common Elements
 
@@ -32,8 +32,8 @@ Some elements of this page are covered in separate Help articles:
 ## Form Fields
 
 - **Title** Sets the name to give to this instance of the module.
+- **Position** Usually `cpanel`.
 
 ### Module Tab
 
-- **Count** Sets the number of recent actions to display on the Home
-  Dashboard of your site.
+- **Items to Display** Sets the number of recent actions to display.

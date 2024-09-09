@@ -2,8 +2,9 @@
 
 ## Description
 
-The **Quick Icons** module Type shows Quick Icons that are visible on
-the Dashboard (administrator area home page).
+The *Quick Icons* module type shows a group of icons in a panel in the Home 
+Dashboard. Examples include the *Site* panel, the *System* panel and the
+*Notifications* panel.
 
 ### Common Elements
 
@@ -18,8 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Administrator Modules** from
   the Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -38,10 +38,14 @@ Some elements of this page are covered in separate Help articles:
 
 #### Left Panel
 
-- **Information** This module shows Quick Icons that are visible on the
-  Dashboard (administrator area home page).
+- **Information** This module shows Quick Icons that are visible in a panel
+  in the Home Dashboard (administrator area home page).
 - **Group**
 - **Header Icon** The Font Awesome icon code.
+
+The following are icons that can be selected to appear in a module. The 
+settings for each are either *Show* or *Hide*. Some allow *Show with Items Count*.
+
 - **Global Configuration Icon**
 - **Checkin Icon**
 - **Cache Icon**

@@ -2,8 +2,8 @@
 
 ## Description
 
-The **Guided Tours** module shows a list of available guided tours as a 
-dropdown list in the Administrator Title Bar.
+The *Guided Tours* module shows a list of available guided tours as a 
+dropdown list in the Administrator Title bar.
 
 ### Common Elements
 

@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Administrator Menu** module shows the main administrator menu module.
+The *Administrator Menu* module shows the main administrator menu module.
 
 ### Common Elements
 
@@ -42,4 +42,4 @@ Some elements of this page are covered in separate Help articles:
 - **Add New Shortcuts**
 - **Help Menu** Shows the Help button in the Toolbar.
 - **Custom Support Forum URL** Enter the URL to a forum other than the
-  default. This allows you to use your own Help server.
+  default. This allows you to use your own support Forum.

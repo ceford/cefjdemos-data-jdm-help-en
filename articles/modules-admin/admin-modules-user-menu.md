@@ -2,7 +2,9 @@
 
 ## Description
 
-This module shows the User Menu in the Administrator Title Bar.
+The *User Menu* module shows the user menu in the Administrator Title bar. It
+contains a drop-down list of potential actions such as *Edit Account* and
+*Logout*.
 
 ### Common Elements
 
@@ -17,8 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Administrator Modules** from
   the Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the

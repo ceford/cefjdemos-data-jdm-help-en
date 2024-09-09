@@ -2,7 +2,9 @@
 
 ## Description
 
-This module shows a post installation messages icon in the title bar. 
+The *Post Installation Messages* module type shows an icon with the number
+of active post installation message in the Title bar. Messages can be hidden
+or archived. If there are no active messages the module is not displayed.
 
 ### Common Elements
 
@@ -17,8 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Administrator Modules** from
   the Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the

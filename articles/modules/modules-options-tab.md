@@ -2,7 +2,7 @@
 
 ## Description
 
-The Module: Options tab is used with minor variations in all Site 
+The *Modules: Options* tab is used with minor variations in all Site 
 module edit forms to control some display aspects of the selected module.
 
 ## Screenshot
