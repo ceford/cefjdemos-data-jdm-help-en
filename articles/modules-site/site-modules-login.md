@@ -2,10 +2,10 @@
 
 ## Description
 
-The **Login** module type displays a username and password Login form.
+The *Login* module type displays a username and password Login form.
 It also displays a link to retrieve a forgotten password. If User
 registration is enabled in the User Settings of the Global Configuration
-screen, then the link "Create an Account" will be shown to invite Users
+screen, then the link *Create an Account* will be shown to invite Users
 to self-register.
 
 ### Common Elements

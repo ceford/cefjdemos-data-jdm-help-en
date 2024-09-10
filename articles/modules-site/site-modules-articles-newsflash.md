@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Article Newsflash** module type will display a fixed number of
+The *Article Newsflash* module type will display a fixed number of
 Articles from a specific Category or a set of Categories.
 
 ### Common Elements
@@ -19,8 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -44,7 +43,7 @@ Some elements of this page are covered in separate Help articles:
 - **Tags** 
 - **Show Article Images** Show or hide Article images.
 - **Show Intro/Full Image** Show Intro Image, Full Image or niether
-- **Article Title:** Show or hide Article titles. If set to *Show* extra
+- **Article Title** Show or hide Article titles. If set to *Show* extra
   fields appear:
   - **Linked Titles** Link the Article titles to Articles.
   - **Header Level** Select the desired HTML header level for the Article 

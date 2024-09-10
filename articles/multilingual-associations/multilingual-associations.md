@@ -35,28 +35,19 @@ Some elements of this page are covered in separate Help articles:
 
 ![Multilingual associations lis](../../../en/images/multilingual-associations/multilingual-associations-list.png)
 
-In this screenshot an article named **Article (en-GB)** has been associated
-with articles in 6 other languages. An article named **Lorem Ipsum (en-GB)**
-has been associated with an article on one other language.
-
-The articles do not have to have a language code in the title. The usually
-don't! There may be other *Lorem Ipsum* articles translated from English into
-other languages but not yet associated.
-
-The list only contains items where the language has been set. Any articles
-with the language set to *All* will not be present.
+In this screenshot an article has been associated with an article in another 
+language. The list only contains items where the language has been set. Any 
+articles with the language set to *All* will not be present.
 
 ## Reference Articles
 
 The items in the **Title** column are the reference items for the selected
-language. If you view the list with German selected you will see the same items
-because all of the associated items are available in both languages.
+language. If you view the list with an alternative language selected you will 
+see the same items because all of the associated items are available in both 
+languages.
 
-If you view the list with other languages selected you are likely to see
-different items. For example, Dutch may show nothing in the Associations
-column because the translation exists but is has not been associated with
-English or German. And if you select Spanish the number of items in the list
-may change because the Lorem Ipsum article has not been translated into Spanish.
+If you view the list with another administrator language selected in the login
+form you are likely to see different items. 
 
 If you select an item from the **Title** column the reference item will appear
 in the edit form but no target is selected. That is useful if you wish to edit

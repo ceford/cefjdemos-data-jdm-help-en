@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Banners** module type displays the active Banners from the Component.
+The *Banners* module type displays the active Banners from the Banners component.
 
 ### Common Elements
 
@@ -18,8 +18,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -41,9 +40,8 @@ Some elements of this page are covered in separate Help articles:
 - **Target** Target window when the link is clicked.
 - **Count** The number of banners to display (default 5).
 - **Client** Select banners only from a single client.
-- **Category** Select banners from a specific Category or a set of
-  Categories. If no selection is made then it will show all categories as
-  default.
+- **Category** Select banners from a specific Category or a set of Categories.
+  If no selection is made then it will show all categories as default.
 - **Select by Keyword** Select *Yes* or *No* to select by
   matching the banner tags to the current document meta keywords.
 - **Randomise** Select a method to randomise the ordering of the banners.

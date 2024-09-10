@@ -2,9 +2,7 @@
 
 ## Description
 
-This is where you add a new News Feed or edit an existing one. Note that
-you need to create at least one News Feed Category before you can create
-your first News Feed.
+The *News Feed: Edit* page is used create a new or edit a News Feed page.
 
 ### Common Elements
 
@@ -18,8 +16,8 @@ Some aspects of this page are covered in separate Help articles:
 
 - Select **Components → News Feeds → Feeds** from the
   Administrator menu. Then ...
-  - To add a new News Feed, select the **New** icon in the toolbar.
-  - To edit an existing News Feed, select the News Feed's title link in
+  - To add a new *News Feed*, select the **New** icon in the toolbar.
+  - To edit an existing *News Feed*, select the its title link in
     the list **Title** column.
 
 ## Screenshot
@@ -33,11 +31,9 @@ Some aspects of this page are covered in separate Help articles:
 #### Left Panel
 
 - **Link** The link of this News Feed. This should normally begin with
-  *https://*.
-- **Description** The description for the item. Category, Subcategory
-  and Web Link descriptions may be shown on web pages, depending on the
-  parameter settings. These descriptions are entered using the same
-  editor that is used for Articles.
+  `https://`.
+- **Description** The description for the item. descriptions may be shown on
+  web pages, depending on the parameter settings. 
 
 ### Options Tab
 
@@ -46,18 +42,14 @@ Some aspects of this page are covered in separate Help articles:
 #### Images Panel
 
 - **First Image** Select or upload the first image of the News Feed.
-- **First Image Float** (Right/Left/None) Controls placement of the
-  image.
-- **Alt text** Alternative text to use for visitors who don't have
-  access to images. This text is replaced with the caption text if
-  caption text is available.
+- **First Image Float** Controls placement of the image.
+- **Image Description (Alt Text)** Alternative text for screen readers. This 
+  text is replaced with the caption text if caption text is available.
 - **Caption** The caption for the image.
 - **Second Image** Select or upload the second image of the News Feed.
-- **Second Image Float** (Right/Left/None) Controls placement of the
-  image.
-- **Alt text** Alternative text to use for visitors who don't have
-  access to images. This text is replaced with the caption text if
-  caption text is available.
+- **Second Image Float** Controls placement of the image.
+- **Image Description (Alt Text)** Alternative text to use for screen readers. 
+  This text is replaced with the caption text if caption text is available.
 - **Caption** The caption for the image.
 
 #### Display Panel
@@ -68,14 +60,11 @@ Some aspects of this page are covered in separate Help articles:
   content from the news feed source.
 - **Language Direction** Whether the language for this feed reads from
   left to right or right to left.
-- **Feed Image** (Use Global/Hide/Show) Show or hide the image of News
-  Feeds.
-- **Feed Description** (Use Global/Hide/Show) Hide or Show the
-  description text of the News Feed.
-- **Feed Content** (Use Global/Hide/Show) Show or hide the content of
-  News Feeds.
-- **Characters count** Number of characters to show if Feed Content
-  from News Feeds is set to show.
+- **Feed Image** Show or hide the News Feed images.
+- **Feed Description** Show or hide the News Feed description text.
+- **Feed Content** Show or hide the content of News Feed.
+- **Characters count** Number of characters to show if the Feed Content
+  is set to show.
 - **Layout** Use a layout from the supplied component view or overrides
   in the templates.
 - **Feed Display Order** The order used to display the feed.

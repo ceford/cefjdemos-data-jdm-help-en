@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Articles - Category** module type displays a list of published
+The *Articles - Category* module type displays a list of published
 articles from one or more categories.
 
 ### Common Elements
@@ -21,8 +21,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -58,88 +57,59 @@ Some elements of this page are covered in separate Help articles:
 
 ![articles category filtering options tab](../../../en/images/modules-site/modules-articles-category-filtering-options-tab.png)
 
-- **Featured Articles:** (*Show*/*Hide*/*Only*). Select to Show, Hide,
-  or Only display Featured Articles.
-- **Count:** The number of items to display. The default value of 0 will
+- **Featured Articles** Show or hide or select Only Featured Articles.
+- **Count** The number of items to display. The default value of 0 will
   display all articles.
-- **Category Filtering Type:** (*Inclusive*/*Exclusive*). Select
-  Inclusive to Include the Selected Categories, Exclusive to Exclude the
-  Selected Categories.
-- **Category:** Please select one or more categories.
-- **Child Category Articles:** (*Include*/*Exclude*). Include or Exclude
-  Articles from Child Categories.
-- **Category Depth:** The number of child category levels to return.
-- **Author Filtering Type:** (*Inclusive*/*Exclusive*). Select Inclusive
-  to Include the Selected Authors, Exclusive to Exclude the Selected
-  Authors.
-- **Authors:** Select one or more authors from the list below.
-- **Author Alias Filtering Type:** (*Inclusive*/*Exclusive*). Select
-  Inclusive to Include the Selected Author Aliases, Exclusive to Exclude
-  the Selected Author Aliases.
-- **Author Aliases:** Select one or more author aliases from the list
-  below.
-- **Article IDs to Exclude:** Please enter each Article ID on a new
-  line.
-- **Date Filtering:** (*Off*/*Date Range*/*Relative Date*). Select Date
-  Filtering Type.
-- **Date Range Field:** (*Created Date*/*Modified Date*/*Start
-  Publishing Date*). Select which date field you want the date range to
-  be applied to.
-- **Start Date Range:** If Date Range is selected above, please enter a
-  Starting Date.
-- **To Date:** If Date Range is selected above, please enter an End
-  Date.
-- **Relative Date:** If Relative Date is selected above, please enter in
-  a numeric day value. Results will be retrieved relative to the current
-  date and the value you enter.
+- **Category Filtering Type** Include or exclude the selected categories.
+- **Category** Select one or more categories.
+- **Child Category Articles** Include or exclude child category articles.
+- **Category Depth** The number of child category levels to return.
+- **Author Filtering Type** Include or exclude articles by the selected authors.
+- **Authors** Select one or more authors from the list.
+- **Author Alias Filtering Type** Include or exclude the selected author aliases.
+- **Author Aliases** Select one or more author aliases from the list.
+- **Article IDs to Exclude** Enter each Article ID to exclude on a new line.
+- **Date Filtering** Select date filtering type.
+- **Date Range Field** Select which date field range use.
+- **Start Date Range** If Date Range is selected above, enter a starting date.
+- **To Date** If Date Range is selected above, enter an end date.
+- **Relative Date** If Relative Date is selected above, enter a numeric day 
+  value. Results will be retrieved relative to the current date and the value 
+  entered.
 
 ### Ordering Options Tab
 
 ![articles category ordering options tab](../../../en/images/modules-site/modules-articles-category-ordering-options-tab.png)
 
-- **Article Field to Order By:** (*Article Manager Order*/*Featured
-  Articles Order*/*Hits*/*Title*/*ID*/*Alias*/*Created Date*/...).
-  Select which field you would like Articles to be ordered by. Featured
-  Ordering should only be used when Filtering Option for Featured
-  Articles is set to 'Only'.
-- **Ordering Direction:** (*Descending*/*Ascending*). Select the
-  direction you would like Articles to be ordered by.
+- **Article Field to Order By** Select a field from the list. Featured
+  Ordering should only be used when the Filtering Option for Featured
+  Articles is set to *Only*.
+- **Ordering Direction** Select the article ordering direction.
 
 ### Grouping Options Tab
 
 ![articles category grouping options tab](../../../en/images/modules-site/modules-articles-category-grouping-options-tab.png)
 
-- **Article Grouping:** (*None*/*Year*/*Month and
-  Year*/*Author*/*Category*). Select how you would like the articles to
-  be grouped.
-- **Grouping Direction:** (*Descending*/*Ascending*). Select the
-  direction you would like the Article Groupings to be ordered by.
-- **Month and Year Display Format:** Please enter in a valid date
-  format.
+- **Article Grouping** Select an article grouping method from the list.
+- **Grouping Direction** Select the ordering direction.
+- **Month and Year Display Format** Enter in a valid date format.
 
 ### Display Options Tab
 
 ![articles category display options tab](../../../en/images/modules-site/modules-articles-category-display-options-tab.png)
 
-- **Linked Titles:** (*Yes*/*No*).
-- **Date:** (*Show*/*Hide*). Select Show if you would like the date
-  displayed.
-- **Date Field:** (*Created Date*/*Modified Date*/*Start Publishing
-  Date*). Select which date field you want to display.
-- **Date Format:** Please enter in a valid date format.
-- **Category:** (*Show*/*Hide*). Select Show if you would like the
-  category name displayed.
-- **Hits:** (*Show*/*Hide*). Select Show if you would like the hits for
-  each article to be displayed.
-- **Author:** (*Show*/*Hide*). Select Show if you would like the author
-  (or author alias instead, if available) to be displayed.
-- **Introtext:** (*Show*/*Hide*). Select Show if you would like the
-  introtext to be displayed.
-- **Introtext Limit:** Please enter in a numeric character limit value.
-  The introtext will be trimmed to the number of characters you enter.
-- **Show "Read More":** (*Show*/*Hide*). If set to Show, the Read
-  more... Link will show if Main text has been provided for the Article.
-- **Show Title with Read More:** (*Show*/*Hide*). If set to show the
-  Title of the Article will be shown on the Read More button.
-- **Read More Limit:** Set a limit of number of characters in Article
-  Title to show in Read More button.
+- **Linked Titles** Show titles as links to articles.
+- **Date** Show* or hide the article date.
+- **Date Field** Select the date field to display.
+- **Date Format** Enter in a valid date format.
+- **Category** Show or hide the article category name.
+- **Hits** Show or hide the article hits.
+- **Author** Show or hide the author or author alias name.
+- **Introtext** Show or hide the article intro text.
+- **Introtext Limit** The maximum number of characters to display.
+- **Show "Read More"** Show or hide the *Read more...* link if the article 
+  main text has been provided.
+- **Show Title with Read More** Show or hide the article title in the 
+  *Read More...* link.
+- **Read More Limit** Limit the number of article title characters to show in 
+  the *Read More...* link.

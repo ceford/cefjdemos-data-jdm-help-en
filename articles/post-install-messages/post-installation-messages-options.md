@@ -2,7 +2,7 @@
 
 ## Description
 
-Post-installation Messages Configuration allows setting of parameters
+The *Post-installation Messages: Options* page allows setting of parameters
 used globally for all post-installation messages.
 
 ### Common Elements
@@ -22,5 +22,5 @@ Some elements of this page are covered in separate Help articles:
 
 ## Form Fields
 
-The Post-installation Messages: Options page only has a Permissions tab 
+The *Post-installation Messages: Options* page only has a Permissions tab 
 which is described in the Common Elements link above.

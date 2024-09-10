@@ -2,11 +2,10 @@
 
 ## Description
 
-The **Wrapper** module type allows you to display an external website in
-a module. The functionality is the same to that of the 'iFrame Wrapper'
+The *Wrapper* module type allows you to display an external website in
+a module. The functionality is the same to that of the *iFrame Wrapper*
 you can add as a menu item. If the page to which the wrapper is linked
-is too big, bars will be shown below and to the right of the wrapper,
-allowing you to "navigate" the page.
+is larger than the frame, vertical and horizontal scroll bars will be displayed.
 
 ### Common Elements
 
@@ -22,8 +21,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -42,7 +40,7 @@ Some elements of this page are covered in separate Help articles:
 
 #### Left Panel
 
-- **URL** URL to site/file you wish to display within the iframe.
+- **URL** URL to site or file you wish to display within the iframe.
 - **Auto Add** By default, http:// will be added unless it detects 
   http:// or https:// in the URL you provide. This allows you
   to switch this ability off.
@@ -50,7 +48,7 @@ Some elements of this page are covered in separate Help articles:
 - **Width** Width of the iFrame window. You can enter an absolute
   figure in pixels or a relative figure by adding a %.
 - **Height** Height of the iFrame window.
-- **Auto Height** The height will automatically be set to the size of the 
-  external page. This will only work for pages on your own domain.
-- **Frame border** Show a frame border which wraps the iframe.
-- **Target Name** Name of the iFrame when used as Target
+- **Auto Height** The height will be set automatically to the size of the 
+  external page. This will only work for pages in your own domain.
+- **Frame border** Show a frame border around the iframe.
+- **Target Name** Name of the iFrame when used as a Target

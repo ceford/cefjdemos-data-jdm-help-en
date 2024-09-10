@@ -2,9 +2,8 @@
 
 ## Description
 
-The News Feeds Edit/New Category screen allows administrators to create
-or edit News Feed Categories for better organisation of multiple News
-Feeds.
+The *News Feeds Edit/New Category* page allows administrators to create
+or edit News Feed Categories for better organisation of multiple News Feeds.
 
 ### Common Elements
 
@@ -19,8 +18,7 @@ Some aspects of this page are covered in separate Help articles:
 - Select **Components → News Feeds → Categories** from the
   Administrator menu. Then ...
   - Select the **New** Toolbar button to create a new category.
-  - Select a title link in the **Title** column to edit an existing
-    category.
+  - Select a title link in the **Title** column to edit an existing category.
 
 ## Screenshot
 
@@ -30,19 +28,14 @@ Some aspects of this page are covered in separate Help articles:
 
 ### Category tab
 
-- **Description**. The description for the item. Category, Subcategory
-  and Web Link descriptions may be shown on web pages, depending on the
-  parameter settings. These descriptions are entered using the same
-  editor that is used for Articles.
+- **Description** The description for the item. Category and Subcategory
+  descriptions may be shown on web pages, depending on the parameter settings.
 
 ### Options tab
 
 ![News feeds edit category category tab](../../../en/images/news-feeds/news-feeds-edit-category-options-tab.png)
 
-- **Layout** Use a different layout from the supplied components view
-  or overrides in the templates.
-- **Image** Choose an image to be displayed with this item/category in
-  the Frontend.
-- **Alt Text** Alternative text used for visitors without access to
-  images.
+- **Layout** Select a layout from the available choices.
+- **Image** Choose an image to be displayed with this category in the Frontend.
+- **Image Description (Alt Text)** Alternative text used for screen readers.
 - **No Description** Decorative Image - no description required.

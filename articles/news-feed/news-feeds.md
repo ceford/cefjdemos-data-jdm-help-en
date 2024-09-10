@@ -2,7 +2,7 @@
 
 ## Description
 
-The News Feeds list page allows you to add News Feeds from other
+The *News Feeds* list page allows you to add News Feeds from other
 sites to your Joomla! site. You can add links to these feeds for users
 by creating News Feed layouts in a Menu Item.
 

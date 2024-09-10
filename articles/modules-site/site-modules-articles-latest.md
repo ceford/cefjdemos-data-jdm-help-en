@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Articles - Latest** module type shows a list of the most recently
+The *Articles - Latest* module type shows a list of the most recently
 published Articles.
 
 ### Common Elements
@@ -19,8 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -45,12 +44,12 @@ Some elements of this page are covered in separate Help articles:
 - **Featured Articles** Show or hide Featured Articles or only show
   Featured Articles.
 - **Order** Select an ordering mechanism:
-  - Recently Added First: order the articles using their creation date
-  - Recently Modified First: order the articles using their modification date
-  - Recently Published First: order the articles using their publication date.
-  - Recently Touched First: order the articles using their modification or 
+  - *Recently Added First* order the articles using their creation date
+  - *Recently Modified First* order the articles using their modification date
+  - *Recently Published First* order the articles using their publication date.
+  - *Recently Touched First* order the articles using their modification or 
   creation dates.
-  - Random Articles: order is random.
+  - *Random Articles* order is random.
 - **Authors** Filter by author.
-- **Created by Author(s)** This item appears if *Authors: Created by* is 
-  selected. Multiple authors may be selected or typed.
+- **Created by Author(s)** This item appears if *Authors* is set to 
+  *Created by*. Multiple authors may be selected or typed.

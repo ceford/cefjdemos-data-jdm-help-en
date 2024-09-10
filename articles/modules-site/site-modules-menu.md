@@ -2,7 +2,7 @@
 
 ## Description
 
-This **Menu** module type allows you to place a Menu at the desired
+This *Menu* module type allows you to place a Menu at the desired
 position and on the desired web pages. A web site may have more than one
 menu on a single page and different menus on different web pages.
 
@@ -20,8 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -42,15 +41,15 @@ Some elements of this page are covered in separate Help articles:
 
 - **Select Menu** Select a menu from the list of available menus.
 - **Base Item** Select a menu item
-  to always be used as the base for the menu display. You must set the
+  to be used always as the base for the menu display. You must set the
   Start Level to the same level or higher than the level of the base
   item. This will cause the module to be displayed on all assigned
   pages. If Current is selected the currently active item is used as the
-  base. This causes the module to only display when the parent menu item
+  base. This causes the module to display only when the parent menu item
   is active.
 - **Start Level** Level to start rendering the menu at. Setting the start 
   and end levels to the same \# and setting *Show Sub-menu Items* to *Show* 
   will only display that single level.
-- **End Level** Level to stop rendering the menu at. If you choose 'All', all 
+- **End Level** Level to stop rendering the menu at. If you choose *All*, all 
   levels will be shown depending on the *Show Sub-menu Items* setting.
 - **Sub-menu Items** Show or hide the sub-menu items.

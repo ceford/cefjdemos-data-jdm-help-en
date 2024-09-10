@@ -2,13 +2,19 @@
 
 ## Description
 
-The Multilingual Associations: Edit Associations page shows a Reference item
+The *Multilingual Associations: Edit Associations* page shows a Reference item
 and a Target item side by side in wider screens and stacked in narrow screens.
 The side by side mode allows you to align the reference and target for ease
 of translation.
 
 The fields in the Reference and Target are the same as those in the edit form
 for a single item but the layout is adjusted for the restricted column width.
+
+### Common Elements
+
+Some elements of this page are covered in separate Help articles:
+
+* [Toolbars](jdocmanual?article=help/common-elements/toolbars).
 
 ## How to Access
 
@@ -32,10 +38,8 @@ The form fields are those of the selected item type so are not covered here.
 
 ## Toolbar
 
-- **Save Reference** Saves the Reference and stays in the current
-  screen.
+- **Save Reference** Saves the Reference and stays in the current screen.
 - **Save Target** Saves the Target and stays in the current screen.
-- **Copy Reference to Target** Copies all the fields to the target fields.
+- **Copy Reference to Target** Copies all the reference fields to the target fields.
 - **Close** Closes the current screen and returns to the previous
   screen without saving any modifications you may have made.
-- **Help** Opens this help screen.

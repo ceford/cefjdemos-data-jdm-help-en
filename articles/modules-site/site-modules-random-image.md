@@ -2,8 +2,7 @@
 
 ## Description
 
-The **Random Image** module type displays a random image from a
-directory.
+The *Random Image* module type displays a random image from a directory.
 
 ### Common Elements
 

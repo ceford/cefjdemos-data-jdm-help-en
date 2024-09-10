@@ -2,8 +2,8 @@
 
 ## Description
 
-Plugins Options configuration allows setting of parameters used globally
-for Plugins.
+The *Plugins: Options* page allows setting of parameters used globally
+for all Plugins.
 
 ### Common Elements
 
@@ -20,5 +20,5 @@ Some elements of this page are covered in separate Help articles:
 
 ## Form Fields
 
-The Plugin: Options page only has a Permissions tab which is described in the
+The *Plugin: Options* page only has a Permissions tab which is described in the
 Common Elements link above.

@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Articles - Most Read** module type shows a list of the currently
+The *Articles - Most Read* module type shows a list of the currently
 published Articles that have the highest number of page views.
 
 ### Common Elements
@@ -19,8 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the

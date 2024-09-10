@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Tags - Popular** module type displays tags used on the site in a
+The *Tags - Popular* module type displays tags used on the site in a
 list or a cloud layout. Tags can be ordered by title or by the number of
 tagged items and limited to a specific time period.
 
@@ -20,8 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -53,6 +52,6 @@ Some elements of this page are covered in separate Help articles:
 ### Cloud Layout Tab
 
 - **Minimum font size** The minimum font size used for the tags, proportional 
-  to the site's default font size (eg "2" means 200% of the default size). 
+  to the site's default font size (for example `2` means 200% of the default size). 
 - **Maximum font size** The maximum font size used for the tags, proportional 
-  to the site's default font size (eg "2" means 200% of the default size). 
+  to the site's default font size (for example `2` means 200% of the default size). 

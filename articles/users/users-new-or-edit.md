@@ -76,10 +76,11 @@ To create a new user:
 - **Frontend Language** (*Use Default*/*English (United Kingdom)*)
   Select the Language for the frontend interface. This will only affect
   this User.
-- **Editor** (*Use Default*/*Editor - CodeMirror*/*Editor -
-  None*/*Editor - TinyMCE*) Editor for this user.
-- **Time Zone** (*Use Default*/*Abidjan*/*Accra*/*Addis
-  Ababa*/*Algiers*/*Asmara*/...) Time zone for this user.
+- **Editor** Select an Editor for this user. The default is TinyMCE unless 
+  changed in the Global Configurations. 
+- **Time Zone** There is a long list of time zones to choose from organised by
+  continent with Europe near the end. The site default time zone is set in the
+  Global Configurations.
 
 ### Accessibility Settings
 

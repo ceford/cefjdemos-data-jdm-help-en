@@ -43,6 +43,10 @@ Some elements of this page are covered in separate Help articles:
 
 #### Left Panel
 
-- **Editor** The editor does not allow entry of certain HTML tags. This can be
-  configured in the Global Configuration *Text Filters* tab and the specific
-  editor plugin.
+- **Editor** The Joomla text filters and the TinyMCE editor each do not allow
+  entry of certain HTML tags. 
+  - The text filters can be configured in the Global Configuration 
+    *Text Filters* tab. For example, by default the Guest, Public and Registered
+    user groups are not allowed to enter any html in any form fields.
+  - The TinyMCE filters can be configured in its plugin. By default it disallows
+    entry of script, applet and iframe tags.

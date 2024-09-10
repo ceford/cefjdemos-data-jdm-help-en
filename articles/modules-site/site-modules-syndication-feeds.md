@@ -1,8 +1,8 @@
-<!-- Filename: Help4.x:Site_Modules:_Syndication_Feeds / Display title: Site Modules: Syndication Feeds -->
+<!-- Filename: Help4.x:Site_Modules:_Syndication_Feeds / Display title: Modules: Syndication Feeds -->
 
 ## Description
 
-The Smart **Syndication Feeds** module type creates a Syndicated Feed
+The Smart *Syndication Feeds* module type creates a Syndicated Feed
 for the page where the Module is displayed.
 
 ### Common Elements
@@ -19,8 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -39,15 +38,15 @@ Some elements of this page are covered in separate Help articles:
 
 #### Left Panel
 
-- **Label** If 'Display Label' is set to *Yes*, the text entered here will
+- **Label** If *Display Label* is set to *Yes*, the text entered here will
   be displayed next to the icon along with the RSS Link. If this field
   is left empty, the default text displayed will be picked from the site
   language ini file.
-- **Display Label** If set to 'Yes', Label will be displayed next to the icon.
+- **Display Label** If set to *Yes*, this text will be displayed next to the icon.
 - **Feed Format** Select the format for the Syndication Feed.
 
 ## Tips
 
-Not all menu items types actually provide for an RSS feed. Feeds are displayed
-on Category Blog and on Featured Articles menu types (probably others). On
-pages for which no feed is available this module will not display.
+Not all menu items types actually provide for an RSS feed. For example, feeds 
+are displayed on Category Blog and on Featured Articles pages. On pages for 
+which no feed is available this module will not display.

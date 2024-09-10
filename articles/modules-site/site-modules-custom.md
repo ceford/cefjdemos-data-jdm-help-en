@@ -1,11 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Custom / Display title: Site Modules: Custom -->
+<!-- Filename: Help4.x:Site_Modules:_Custom / Display title: Modules: Custom -->
 
 ## Description
 
-The **Custom** module type allows you to create a self-contained HTML
-unit and then put it in any valid location on a page.
+The *Custom* module type allows you to create a self-contained HTML
+unit to be placed in any valid location on a page.
 
-There are many cases where you might want to put free-form HTML inside a
+There are many cases where you might want to put free-form HTML in a
 web page. For example, you might want to create an HTML Image Map or you
 might want to copy HTML code from PayPal, Amazon, or some other site.
 
@@ -23,8 +23,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -43,13 +42,13 @@ Some elements of this page are covered in separate Help articles:
 
 #### Left Panel
 
-- **Editor** The editor does not allow you to enter certain HTML tags.
-  To work around this, you can temporarily change your User's editor to
-  "No Editor", create the Custom HTML Module, and then change the editor
-  back to TinyMCE. Another option is to use an editor from an Extension
-  that allows HTML code to be entered. Another possibility is (if the
-  editor has this option) to switch to the HTML mode, enter the code,
-  save and switch back to normal view.
+- **Editor** The Joomla text filters and the TinyMCE editor each do not allow
+  entry of certain HTML tags. 
+  - The text filters can be configured in the Global Configuration 
+    *Text Filters* tab. For example, by default the Guest, Public and Registered
+    user groups are not allowed to enter any html in any form fields.
+  - The TinyMCE filters can be configured in its plugin. By default it disallows
+    entry of script, applet and iframe tags.
 
 ### Options Tab
 

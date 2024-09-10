@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Articles - Categories** module type displays a list of categories
+The *Articles - Categories* module type displays a list of categories
 from one parent category. **Important:** If the parent category has no
 sub-categories the module does not display.
 
@@ -20,8 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the
@@ -41,10 +40,10 @@ Some elements of this page are covered in separate Help articles:
 #### Left Panel
 
 - **Parent Category** Select a parent category from the list that appears in
-  a popup dialog.
-- **Category Descriptions** Show or Hide category descriptions.
-- **Show Number of Articles** Show or Hide Number of articles.
-- **Show Subcategories** Show or Hide Subcategories.
+  a popup dialogue.
+- **Category Descriptions** Show or hide category descriptions.
+- **Show Number of Articles** Show or hide the number of articles.
+- **Show Subcategories** Show or hide subcategories.
 - **\# First Subcategories** Select the number of first level subcategories 
   to display. The default is *All*.
 - **Maximum Level Depth** Select the maximum level depth for each subcategory. 

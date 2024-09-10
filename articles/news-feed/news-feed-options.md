@@ -2,7 +2,7 @@
 
 ## Description
 
-News Feed Options configuration allows setting of parameters used
+The *News Feed: Options* configuration page allows setting of parameters used
 globally for all news feeds.
 
 ### Common Elements
@@ -18,7 +18,7 @@ Some elements of this page are covered in separate Help articles:
   Administrator menu. Or...
 - Select **Components → News Feeds → Categories** from the
   Administrator menu. Then...
-  - Click the *Options* button on the Toolbar.
+  - Select the *Options* button on the Toolbar.
 
 ## Screenshot
 
@@ -33,16 +33,15 @@ specific menu item or News Feed
 
 - **Choose a layout** Select a layout to use for articles.
 - **Enable Versions** Whether or not to save version history
-  for this component. If No, version history will not be saved for
+  for this component. If set to *No*, the version history will not be saved for
   component items or for this component's categories.
 - **Maximum Versions** The maximum number of versions to store for an
   item. If an item is saved and the maximum number of versions has been
   reached, the oldest version will be deleted automatically. If set to
   0, then versions will never be deleted automatically. Also, specific
-  versions may be flagged as "Keep Forever" and will not be deleted
+  versions may be flagged as *Keep Forever* and will not be deleted
   automatically. Note that versions may be deleted manually using the
-  Delete button in the Version History
-  screen.
+  Delete button in the Version History screen.
 - **Feed Image** Show or hide the feed image.
 - **Feed Description** Show or hide the feed description.
 - **Feed Content** Show or hide the feed content.
@@ -57,41 +56,32 @@ specific menu item or News Feed
 
 ![News feeds options category tab](../../../en/images/news-feeds/news-feeds-options-category-tab.png)
 
-- **Choose a layout** (Blog/List/user defined). This lets you select
-  the default layout to show when you click on a Category link. If you
-  create an alternative layout for a category layout, you may select
-  that as the default.
-- **Category Title** (Show/Hide). Show or hide the title of the
-  category.
-- **Category Description** (Show/Hide). Show or hide the description
-  for the category.
-- **Category Image** (Show/Hide). Show or hide the category image.
-- **Subcategory Levels** (None/All/1-5). Categories in Joomla can be
-  created in a hierarchy. This lets you control how many levels of
-  subcategories to show when showing a category view.
-- **Empty Categories** (Show/Hide). Show or hide categories that don't
-  contain any items or subcategories.
-- **Subcategories Descriptions** (Hide/Show). Show or hide the
-  descriptions for subcategories that are shown.
-- **\# Feeds in Category** (Show/Hide). Show or hide the number of news
-  feeds in category.
-- **Show Tags** (Show/Hide). Show or hide the tags for a single
-  category.
+- **Choose a layout** Select Blog, List or a user defined layout to show by 
+  default when a Category link is selected. 
+- **Category Title** Show or hide the title of the category.
+- **Category Description** Show or hide the description for the category.
+- **Category Image** Show or hide the category image.
+- **Subcategory Levels** Categories in Joomla can be created in a hierarchy. 
+  This option controls how many levels of subcategories to show when showing a 
+  category view, *None*, *All*, or a number from 1 to 5. 
+- **Empty Categories** Show or hide categories that do not contain any items 
+  or subcategories.
+- **Subcategories Descriptions** Show or hide the descriptions for displayed
+  subcategories.
+- **\# Feeds in Category** Show or hide the number of news feeds in category.
+- **Show Tags** Show or hide the tags for a single category.
 
 ### Categories Tab
 
 ![News feeds options categories tab](../../../en/images/news-feeds/news-feeds-options-categories-tab.png)
 
-- **Top Level Category Description** (Show/Hide). Show or hide the
-  description of the top-level category.
-- **Subcategory Levels** (All/1-5). How many levels in the hierarchy to
-  show.
-- **Empty Categories** (Show/Hide). Show or hide categories that
-  contain no items and no subcategories.
-- **Subcategories Descriptions** (Hide/Show). Show or hide the
-  description of each subcategory.
-- **\# Feeds in Category** (Show/Hide). Show or hide the number of news
-  feeds in category.
+- **Top Level Category Description** Show or hide the description of the 
+  top-level category.
+- **Subcategory Levels** How many levels in the hierarchy to show.
+- **Empty Categories** Show or hide categories that contain no items and no 
+  subcategories.
+- **Subcategories Descriptions** Show or hide the description of each subcategory.
+- **\# Feeds in Category** Show or hide the number of news feeds in category.
 
 ### List Layouts Tab
 
@@ -99,38 +89,21 @@ specific menu item or News Feed
 
 - **Filter Field** The Filter Field creates a text field where a user
   can enter a field to be used to filter the articles shown in the list.
-    - *Hide:* Don't show a filter field.
-    - *Title:* Filter on article title.
-    - *Author:* Filter on the author's name.
-    - *Hits:* Filter on the number of article hits.
-- **Display Select** (Show/Hide) Whether to show or hide the Display \#
-  control that allows the user to select the number of items to show in
-  the list.
-    If there are more items than this number, you can use the page
-    navigation buttons (Start, Prev, Next, End, and page numbers) to
-    navigate between pages. Note that if you have a large number of items,
-    it may be helpful to use the Filter options, located above the column
-    headings, to limit which items display.
-- **Table Headings** (Hide/Show) Table Headings show a heading above
-  the article list.
-    If set to *Show*, this heading will show about the list. Otherwise the
-    list will show with no headings.
-- **\# Articles** (Show/Hide). Whether to show or hide the number or
-  articles in each feed.
-- **Feed Links** (Show/Hide). Whether to show or hide the feed links
-  URL.
+    - *Hide* Don't show a filter field.
+    - *Title* Filter on article title.
+    - *Author* Filter on the author's name.
+    - *Hits* Filter on the number of article hits.
+- **Display Select** Show or hide the Display \# control that allows the user 
+  to select the number of items to show in the list.
+- **Table Headings** Show or hide headings above the articles list.
+- **\# Articles** Show or hide the number or articles in each feed.
+- **Feed Links** Show or hide the feed links URL.
 - **Pagination** Hide or Show Pagination support. Pagination provides
   page links at the bottom of the page that allow the User to navigate
-  to additional pages. These are needed if the listed items will not fit
-  on one page.
-    - *Use Global:* Use the default value from the component options screen.
-    - *Auto:* Pagination links shown if needed.
-    - *Show:* Pagination links shown if needed.
-    - *Hide:* Pagination links not shown. Note: In this case, Users will not
-      be able to navigate to additional pages.
-- **Pagination Results** Hide or Show the current page number and total
-  pages (e.g., "Page 1 of 2") at the bottom of each page. Use Global
-  will use the default value from the component options.
+  to additional pages.
+- **Pagination Results** Show or hide the current page number and total
+  number of pages (for example, *Page 1 of 2*) at the bottom of each page. 
+  Use Global will use the default value from the component options.
 
 ### Integration Tab
 
@@ -141,9 +114,9 @@ specific menu item or News Feed
 
 ## Tips
 
-- If you are a beginning user, you can just keep the default values here
+- If you are a novice user, you can keep the default values here
   until you learn more about using global options.
-- If you are an advanced user, you can save time by creating good
+- If you are an advanced user, you can save time by creating appropriate
   default values here. When you set up menu items and create news feed
   menu items, you will be able to accept the default values for most
   options.

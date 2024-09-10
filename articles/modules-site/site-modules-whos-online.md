@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Who's Online** module type displays the number of Anonymous and
+The *Who's Online* module type displays the number of Anonymous and
 Registered Users who are currently accessing the Web site.
 
 ### Common Elements
@@ -44,8 +44,8 @@ Some elements of this page are covered in separate Help articles:
 
 ## Tips
 
-- Most people prefer not to use the "Who's Online" module when they have
+- Most people prefer not to use the *Who's Online* module when they have
   few visitors.
 - If you set the cache time for this module too long, the number of
-  visitors shown will be incorrect as the module takes users into
-  account that visited your site x minutes ago.
+  visitors shown will be incorrect as the module includes users who visited 
+  your site within the cache time period but have since gone away.

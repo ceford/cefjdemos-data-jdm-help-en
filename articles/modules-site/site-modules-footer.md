@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Footer** module type typically displays the web site copyright and
+The *Footer* module type typically displays the web site copyright and
 Joomla! license information.
 
 ### Common Elements
@@ -19,8 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the

@@ -2,9 +2,8 @@
 
 ## Description
 
-The **Articles - Archived** module type shows a list of the calendar
-months containing archived articles. After you have changed the status
-of an article to archived, this list will be generated automatically.
+The *Articles - Archived* module type shows a list of the calendar
+months containing archived articles. The list is generated automatically.
 
 ### Common Elements
 
@@ -20,8 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **System → Manage Panel → Site Modules** from the
   Administrator menu. Then...
-  - To create a new module: select the **New** button from the Toolbar.
-    Then...
+  - To create a new module: select the **New** button from the Toolbar. Then...
     - Select the required module type.
   - To edit an existing module:
     - Find the module in the list of installed modules and select the

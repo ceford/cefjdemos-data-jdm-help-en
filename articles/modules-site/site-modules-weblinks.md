@@ -2,8 +2,7 @@
 
 ## Description
 
-The Weblinks module will display weblinks from within the Weblinks
-component.
+The *Weblinks* module display links from the Weblinks component.
 
 ### Common Elements
 
@@ -24,7 +23,7 @@ From the Administrator menu:
 
 ## Screenshot
 
-![weblinks module data entry form](../../../en/images/modules-site/modules-site-weblinks.png)
+![weblinks module data entry form](../../../en/images/modules-site/modules-weblinks-module-tab.png)
 
 ## Form Fields
 

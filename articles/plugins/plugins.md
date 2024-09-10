@@ -2,9 +2,8 @@
 
 ## Description
 
-The Plugin list allows you to enable and disable Joomla! plugins and
-to edit a plugin's details and options. It is also useful for quickly
-enabling/disabling multiple plugins at once.
+The *Plugins* list page allows selected plugins to be enabled or disabled,
+edited and checked in if left open whilst editing. 
 
 ### Common Elements
 
@@ -28,6 +27,4 @@ Some elements of this page are covered in separate Help articles:
 ## Tips
 
 - To enable or disable a group of Plugins, check the check box for each
-  desired Plugin and then click the Enable or Disable toolbar button.
-- You may see the terms 'options' and 'parameters' used interchangeably in
-  help documentation and tutorials you encounter.
+  desired Plugin and then select the Enable or Disable toolbar button.
