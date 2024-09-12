@@ -2,7 +2,7 @@
 
 ## Description
 
-Smart Search Options configuration allows setting of parameters used
+The * Smart Search: Options* page allows setting of parameters used
 globally for Smart Search.
 
 ### Common Elements
@@ -30,7 +30,7 @@ Some elements of this page are covered in separate Help articles:
 - **Result Taxonomy** Show or hide ...
 - **Result Description** Show or hide the description with search results.
 - **Description Length** Number of characters of the description in
-  search results, default is 255.
+  search results. The default is 255.
 - **Result Date** Show or hide the start and end date filters in
   the advanced search.
 - **Result URL** Show or hide the result item's URL in search
@@ -63,8 +63,8 @@ Some elements of this page are covered in separate Help articles:
 
 ![Smart search options index tab](../../../en/images/smart-search/smart-search-options-index-tab.png)
 
-- **Search for Phrases** (Disabled/Enabled) Performance versus quality
-  of results.
+- **Search for Phrases** Disabled to improve performance or enable to
+  improve quality of results.
 - **Indexer Batch Size** The batch size controls how many items are
   processed per batch. Large batch sizes require lots of memory whereas
   small batch sizes require less memory but execute more requests which

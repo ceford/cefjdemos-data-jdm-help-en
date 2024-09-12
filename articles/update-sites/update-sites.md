@@ -2,7 +2,8 @@
 
 ## Description
 
-A list of sites from which Joomla! Extensions can be updated on-line.
+The *Update Sites* page shows a list of sites from which Joomla! Extensions 
+can be updated on-line.
 
 ### Common Elements
 

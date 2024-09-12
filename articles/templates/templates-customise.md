@@ -2,8 +2,10 @@
 
 ## Description
 
-This is where you edit a template's source code. You can edit the
-template's master files and stylesheets from this screen.
+The *Templates: Customise* page is used to edit a template's source code. You 
+can create overrides for php files and create user.css and user.js files to add
+to the system versions. You may create child templates to allow editing 
+of the overrides template's master files.
 
 ## How to Access
 
@@ -11,7 +13,7 @@ template's master files and stylesheets from this screen.
   Administrator menu. Or...
 - Select **System → Templates Panel → Administrator Templates**
   from the Administrator menu. Then...
-  - Select a template name from the **Templates** column.
+  - Select a template name from the **Template** column.
 
 ## Screenshot
 
@@ -36,7 +38,7 @@ Site Template screen is illustrated here.
   icons create an override immediately with no prompt for confirmation. The
   override is placed in the appropriate location. There is a confirmation
   message, for example:
-  Override created in /templates/cassiopeia/html/mod_whosonline
+  *Override created in /templates/cassiopeia/html/mod_whosonline*.
 
 ### Updated Files Tab
 
@@ -109,5 +111,4 @@ Screenshot above. The functions are:
 
 - Before editing the HTML and the CSS file of the template, it is a good
   idea to make a backup of the file you are editing. Also, you can edit
-  these files outside of Joomla! using the HTML or CSS editor of your
-  choice.
+  these files outside of Joomla! using the HTML or CSS editor of your choice.

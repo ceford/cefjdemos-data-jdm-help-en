@@ -2,7 +2,9 @@
 
 ## Description
 
-This page is used to create a new information request.
+The *Privacy: New Information Request* page is used by an administrator to 
+create a new information request which may not have been submitted through
+the site..
 
 ### Common Elements
 

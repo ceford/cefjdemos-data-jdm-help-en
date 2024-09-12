@@ -2,7 +2,7 @@
 
 ## Description
 
-The Users list is used to find, add, and edit users.
+The *Users* page lists currently registered users.
 
 ### Common Elements
 
@@ -59,6 +59,6 @@ To edit a User:
 
 ## Tips
 
-- Click on the name of a user to edit the user's properties.
-- Click on the icon in the Enabled column to toggle between Enabled and
+- Select the name of a user to open the *Users: Edit* form for that user.
+- Select the icon in the Enabled column to toggle between Enabled and
   Disabled status.

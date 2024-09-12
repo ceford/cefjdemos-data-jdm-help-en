@@ -2,8 +2,8 @@
 
 ## Description
 
-The User Actions Log provides a global overview of selected
-Administrator activities on your site. From this screen you may Select,
+The *User Actions Log* page provides a global overview of selected
+Administrator activities on your site. From this page you may Select,
 Export, Delete or Purge entries. The Events to log are set via the
 Options button in the Toolbar.
 

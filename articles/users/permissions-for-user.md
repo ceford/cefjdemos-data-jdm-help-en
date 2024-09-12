@@ -2,8 +2,9 @@
 
 ## Description
 
-The User Permissions report shows a map of the exact permissions for any
-given user across all extensions on your Joomla installation.
+The *Permissions for User* page shows a permissions report showing the exact 
+permissions for any given user across all site assets. It is useful for 
+debugging user access problems.
 
 ### Common Elements
 
@@ -23,40 +24,37 @@ Some elements of this page are covered in separate Help articles:
 
 ![users permissions for user](../../../en/images/users/users-permissions-for-user.png)
 
+Above the Permissions table are selected items showing access permissions
+using icons for *Allowed*, *Not Allowed* and *Forbidden*. The icon key is below
+the table. 
+
+- **Site Login** Can the user login to the site Frontend.
+- **Administrator Login** Can the user login to the site Backend.
+- **Web Services Login** Can the user access the Joomla Web Services
+  API via a Super User API Token.
+- **Offline Access** Can the user access the site Frontend when it
+  is offline.
+
 ### Column Headers
 
-- **Asset Title** The asset as we know it.
-- **Asset Name** The asset as known internally.
-- **Site Login** Allows users in the group to login to the Frontend
-  site.
-- **Administrator Login** Allows users in the group to login to the
-  Backend Administrator site.
-- **Offline Access** Allows users in the group to access the Frontend
-  site when site is offline.
-- **Super User** Allows users in the group to perform any action over
-  the whole site regardless of any other perrmission settings.
-- **Configure Options Only** Allows users in the group to edit the
-  options (except permissions) of any extension.
-- **Access Administration Interface** Allows users in the group to
-  access all of the administration interface except Global
-  Configuration.
-- **Create** Allows users in the group to create any content in any
-  extension.
-- **Delete** Allows users in the group to delete any content in any
-  extension.
-- **Edit** Allows users in the group to edit any content in any
-  extension.
-- **Edit State** Allows users in the group to edit the state of any
-  content in any extension.
-- **Edit Own** Allows users in the group to edit any content they own
-  in any extension.
-- **Edit Custom Field Value** Allows users in the group to edit any
-  value of custom fields submitted in any extension.
-- **LFT** The left and right values in the hierarchy. See Using nested
-  sets
-  in English.
+In the table containing the site assets shows permission for the selected user.
+
+- **Asset Title** The asset name in plain language.
+- **Asset Name** The internal asset name.
+- **Super User** Can the user perform Super User actions for the asset 
+  regardless of any other permission settings.
+- **Configure Options** Can the user edit the asset options (except permissions).
+- **Access Administration Interface** Can the user access the administration 
+  interface of the asset.
+- **Create** Can the user create content in the asset.
+- **Delete** Can the user delete content in the asset.
+- **Edit** Can the user edit content in the asset.
+- **Edit State** Can the user edit the state of the asset.
+- **Edit Own** Can the user edit any user owned content in the asset.
+- **Edit Custom Field Value** Can the user edit any
+  custom field value in the asset.
+- **LFT** The left and right values in the nesting hierarchy. This is used
+  for asset nesting and ordering.
 - **ID** This is a unique identification number for this item assigned
   automatically by Joomla. It is used to identify the item internally,
-  and you cannot change this number. When creating a new item, this
-  field displays "0" until you save the new entry, at which point a new
-  ID is assigned to it.
+  and cannot be changed. 

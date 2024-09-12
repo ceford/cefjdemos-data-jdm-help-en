@@ -2,11 +2,11 @@
 
 ## Description
 
-Used to set global defaults for menu items that display tags. These
-default values will be used when "Use Global" is selected for an option
-in a Tags menu item. For example, to show the 'Tag Name' for a Tagged
-Items List in your Tags menu items, then set that option to "Show" here
-and it will be the default value. You do not need to set any of these
+The *Tags: Options* page is used to set global defaults for menu items that 
+display tags. These default values will be used when *Use Global* is selected 
+for an option in a Tags menu item. For example, to show the *Tag Name* for a 
+*Tagged Items List* in your *Tags* menu items, then set that option to *Show* 
+here and it will be the default value. You do not need to set any of these
 options. Your Joomla site will work with the default settings.
 
 ### Common Elements
@@ -30,26 +30,24 @@ articles:
 
 ### Tagged Items Tab
 
-- **Default Tagged Items Layout** Choose a default layout to for tagged
-  items. This layout will be used when a user clicks on a tag that
+- **Default Tagged Items Layout** Choose a default layout for tagged
+  items. This layout will be used when a user selects a tag that
   doesn't have a menu item defined.
-- **Enable Versions** (Yes/No). Whether or not to save version history
-  for this component. If No, version history will not be saved for
-  component items or for this component's categories.
+- **Enable Versions** Whether or not to save version history
+  for this component. 
 - **Maximum Versions** The maximum number of versions to store for an
   item. If an item is saved and the maximum number of versions has been
   reached, the oldest version will be deleted automatically. If set to
   0, then versions will never be deleted automatically. Also, specific
-  versions may be flagged as "Keep Forever" and will not be deleted
+  versions may be flagged as *Keep Forever* and will not be deleted
   automatically. Note that versions may be deleted manually using the
-  Delete button in the Version History
-  screen.
+  Delete button in the Version History screen.
 - **Show Tag Name** For a layout with one tag, show the tag name.
 - **Tag Image** For a layout with one tag, show the image for the tag.
 - **Tag Description** Show or hide a description for the tag (only used
   when a single tag is selected).
 - **Image** Show the tag image (full image).
-- **Order** Order items will be displayed in.
+- **Order** Order the items will be displayed in.
 - **Direction** Sort order. Descending is highest to lowest. Ascending
   is lowest to highest.
 - **Table Headings** Show or hide the headings in list layouts.
@@ -105,7 +103,7 @@ articles:
   to additional pages. These are needed if the Information will not fit
   on the page.
 - **Pagination Results** Show or hide pagination results information,
-  for example, "Page 1 of 4".
+  for example, *Page 1 of 4*.
 
 ### Data Entry Tab
 
@@ -124,8 +122,8 @@ articles:
 
 ## Tips
 
-- If you are a beginning user, you can just keep the default values here
+- If you are a novice user, keep the default values here
   until you learn more about using global options.
-- If you are an advanced user, you can save time by creating good
+- If you are an advanced user, save time by creating good
   default values here. When you set up menu items and create tags, you
   will be able to accept the default values for most options.

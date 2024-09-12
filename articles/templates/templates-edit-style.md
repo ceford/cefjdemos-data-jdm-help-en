@@ -2,12 +2,12 @@
 
 ## Description
 
-This page is used to edit template styles. When a template is first
-installed, a default style is created for it. The default style for the
-template will have the same name as the template with a *- Default*
-suffix. To make a different variation of the default template style,
-check the default style's checkbox and press the *Duplicate* icon in the
-toolbar. Then edit the duplicate.
+The *Templates: Edit Style* page is used to edit template styles. When a 
+template is first installed, a default style is created for it. The default 
+style for the template will have the same name as the template with a 
+*- Default* suffix. To make a different variation of the default template 
+style, check the default style's checkbox and press the *Duplicate* icon in 
+the toolbar. Then edit the duplicate.
 
 ### Common Elements
 

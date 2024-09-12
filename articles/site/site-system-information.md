@@ -2,19 +2,17 @@
 
 ## Description
 
-This page provides information about your host server environment,
-including operating system, database and PHP settings, and directory
-information. There are five different tab panels: System Information,
-PHP Settings, Configuration File, Folder Permissions, and PHP
-Information. Each panel provides detailed information about that aspect
-of your Joomla! website. This information is very helpful when you are
-troubleshooting setup problems.
+The *System Information* page provides information about the host server 
+environment. There are five different tab panels: System Information,
+PHP Settings, Configuration File, Folder Permissions, and PHP Information. 
+Each panel provides detailed information about that aspect of the site. 
+It is helpful when troubleshooting setup problems.
 
 - Note that none of these settings can be changed from these panels.
-  This must be done in different locations throughout your Joomla!
+  This must be done in different locations throughout the Joomla!
   installation, depending on the specific setting.
 - Some settings can be changed from the Global Configuration page. Others
-  depend on your host server configuration and cannot be changed from inside
+  depend on the host server configuration and cannot be changed from inside
   Joomla!.
 
 ### Common Elements
@@ -90,30 +88,29 @@ is highlighted as incorrect they should be corrected.
 
 ![home dashboard](../../../en/images/site/configuration-file-tab.png)
 
-This tab shows the contents of the current Joomla!
-*configuration.php* file which is stored under the main **\<path to
-joomla\>/joomla_root/** directory. This file is created for you
+This tab shows the contents of the current Joomla! *configuration.php* file 
+which is stored in the `path-to-joomla-root` directory. This file is created for you
 automatically when you first install Joomla! and where most changes of
 the Global Configuration section of Joomla! are recorded. Please note
 that none of the settings can be changed from this page. Use Global
-Configuration
-to see more information about these settings and to make changes.
+Configuration to see more information about these settings and to make changes.
 
 ### Folder Permissions Tab
 
 ![home dashboard](../../../en/images/site/folder-permissions-tab.png)
 
-This tab shows a list of the directories that the webserver should
+This tab shows a list of the directories that the web server should
 have write access to. Please note that all directories listed on this
 page should say **Writable**. If not, you may need to change the
-permissions to be able to install and use Joomla! successfully.
+permissions to be able to install and use Joomla! successfully. The 
+configuration.php file is included and shown as **Unwritable**.
 
 ### PHP Information Tab
 
 ![home dashboard](../../../en/images/site/php-information-tab.png)
 
-This tab displays the full configuration of the PHP server side
-scripting language that Joomla! runs on, together with all the
+This tab displays the configuration settings of the PHP server side
+scripting language that Joomla! uses, together with all of the
 associated system information that goes towards the creation of the web
 server. It is the output of an integrated php.info script built into
 Joomla!.
@@ -144,9 +141,12 @@ visit: [http://php.net/phpinfo](http://php.net/phpinfo).
 - If you are having problems installing extensions, uploading files, or
   changing configuration options, check the Directory Permissions tab
   to make sure you have permission to write to files on your web server.
-  The "Status" of the directories should be "Writable". If not, you may
+  The *Status* of the directories should be *Writable*. If not, you may
   be unable to upload or edit files in these directories.
 - When you are seeking help with setup problems, for example in a
   Joomla! web forum, it is very helpful to post specific information
   about your Joomla! installation. This page is an easy way to find
-  all of this information in one place.
+  all of this information in one place. Better still - use the 
+  **Forum Post Assistant** documented at the top of individual 
+  Joomla Forum pages, such as the 
+  [General Questions](https://forum.joomla.org/viewforum.php?f=834) forum.

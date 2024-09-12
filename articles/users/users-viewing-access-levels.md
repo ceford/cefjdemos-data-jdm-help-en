@@ -2,20 +2,20 @@
 
 ## Description
 
-Access levels control which users can view which objects on your site.
-Objects include menu items, modules, categories, and component items
+Access levels control which users can view which assets on a site.
+Assets include menu items, modules, categories, and component items
 (articles, contacts, and so on). Each object in the site is assigned to
 one access level. User groups are also assigned to each access level.
 
 If a user is a member of a group that in turn has permission for an
-access level, then that user can view all objects assigned to that
+access level, then that user can view all assets assigned to that
 access level. It is important to understand that user groups can be
 arranged in a parent-child hierarchy. If so, then a child group has
 access to all access levels that the parent group has access to. So you
 don't need to assign a child group access to levels that its parent
 group already has access to.
 
-This page shows a list of User Access Levels.
+The *Users: Viewing Access Levels* page shows a list of User Access Levels.
 
 ### Common Elements
 

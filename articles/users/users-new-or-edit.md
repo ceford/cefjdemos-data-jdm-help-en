@@ -2,7 +2,7 @@
 
 ## Description
 
-The User Edit screen is used to create a new user or edit an existing
+The *Users: New or Edit* page is used to create a new user or edit an existing
 user.
 
 ### Common Elements
@@ -59,28 +59,27 @@ To create a new user:
   have to reset their password the next time they log into the site.
 - **ID** Record number in the database.
 
-### Assigned User Groups
+### Assigned User Groups tab
 
 ![user edit assigned user groups tab](../../../en/images/users/users-edit-assigned-user-groups-tab.png)
+
+The default is *Registered* but can be changed in the *User: Options* page.
 
 ### Basic Settings
 
 ![user edit basic settings tab](../../../en/images/users/users-edit-basic-settings-tab.png)
 
-- **Backend Template Style** (*Use Default*/*Hathor - Default*/*isis -
-  Default*) Select the template style for the Administrator Backend
+- **Backend Template Style** Select an template style for the Administrator Backend
   interface. This will only affect this User.
-- **Backend Language** (*Use Default*/*English (United Kingdom)*)
-  Select the Language for the Administrator Backend interface. This will
-  only affect this User.
-- **Frontend Language** (*Use Default*/*English (United Kingdom)*)
-  Select the Language for the frontend interface. This will only affect
-  this User.
+- **Backend Language** Select the Language for the Administrator Backend 
+  interface. This will only affect this User.
+- **Frontend Language** Select the Language for the frontend interface. This 
+  will only affect this User.
 - **Editor** Select an Editor for this user. The default is TinyMCE unless 
-  changed in the Global Configurations. 
+  changed in the Global Configuration. 
 - **Time Zone** There is a long list of time zones to choose from organised by
   continent with Europe near the end. The site default time zone is set in the
-  Global Configurations.
+  Global Configuration.
 
 ### Accessibility Settings
 
@@ -95,7 +94,7 @@ To create a new user:
 
 This tab is available for Super Users only!
 
-- **Send notifications for User Actions Log** (*Yes/No*) If set to yes,
+- **Send notifications for User Actions Log** If set to yes,
   the User will receive user actions log notification by email
 - **Select events to be notified for** Select the user actions log
   notifications to be sent by email.
@@ -169,4 +168,4 @@ decide not to proceed.
 - Name, Login Name, and Email are required.
 - If you did not fill in a particular language, editor, help site and/or
   time zone, the default settings from the Global Configuration,
-  Language Manager and/or Template Manager are set.
+  Language Manager and/or Template Manager are used.

@@ -2,7 +2,7 @@
 
 ## Description
 
-This screen shows a list of user note categories.
+The *User Notes: Categories* page shows a list of user note categories.
 
 ### Common Elements
 

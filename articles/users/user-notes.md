@@ -3,10 +3,10 @@
 ## Description
 
 User notes are pieces of information which can be assigned to registered
-users on your Joomla! site. For example, user notes can contain comments
-about 'offending' or 'difficult' users, etc.
+users on a Joomla! site. For example, user notes can contain comments
+about 'offending' or 'difficult' users.
 
-The User Notes screen presents a list of existing notes.
+The *User Notes* page presents a list of existing notes.
 
 ### Common Elements
 
@@ -30,4 +30,4 @@ Some elements of this page are covered in separate Help articles:
 
 ## Tips
 
-- Click on a subject to edit that user note.
+- Select a subject to edit that user note.

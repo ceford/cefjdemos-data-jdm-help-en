@@ -2,7 +2,8 @@
 
 ## Description
 
-This page is used to create a new search filter or amend an existing filter.
+The *Smart Search: New or Edit Filter* page is used to create a new search filter or 
+amend an existing filter.
 
 ### Common Elements
 
@@ -13,7 +14,7 @@ Some elements of this page are covered in separate Help articles:
 ### Tutorial
 
 * If you are new to Smart Search then you should read the [Smart Search
-  quickstart guide](https://docs.joomla.org/Smart_Search_quickstart_guide "Smart Search quickstart guide").
+  quickstart guide](https://docs.joomla.org/Smart_Search_quickstart_guide).
 
 ## How to access
 

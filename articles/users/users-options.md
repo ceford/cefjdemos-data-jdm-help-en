@@ -2,7 +2,8 @@
 
 ## Description
 
-User Options set globally for all users include
+The *Users: Options* page is used to set set global options for all users, 
+including:
 
 - Captcha,
 - registration allowed and type of registration,
@@ -25,35 +26,32 @@ User Options set globally for all users include
 ### User Options tab
 
 - **Allow User Registration**
-  - Yes: Users can register from the Frontend of the site using the
-    'Create an Account' link provided in the Login form.
-  - No: The 'Create an Account' link will not show.
+  - *Yes* Users can register from the Frontend of the site using the
+    *Create an Account* link provided in the Login form.
+  - *No* The *Create an Account* link will not show.
 - **New User Registration Group** The group that users are assigned to by
-  default when they register on the site. Defaults to 'Registered'.
+  default when they register on the site. Defaults to *Registered*.
 - **Guest User Group** The group that guests are assigned to (Guests
   are visitors to the site who are not logged in). It is possible to
   create content on the site that is visible to guests but not visible
   to logged in users.
-- **Send Password** If set to 'Yes' the user's first password will be
+- **Send Password** If set to *Yes* the user's first password will be
   emailed to the user as part of the registration mail.
 - **New User Account Activation**
-  - None: User account will be active immediately with no action
-    required.
-  - Self: User will receive an email with an activation link. The
-    account will be activated when the user clicks the activation link.
-  - Administrator: User will receive an email with an activation link.
-    When the user clicks this link, the Site Admin will be notified via
-    email and the Site Admin needs to activate the user's account.
+  - *None* User account will be active immediately with no action required.
+  - *Self* User will receive an email with an activation link. The
+    account will be activated when the user selects the activation link.
+  - *Administrator* User will receive an email with an activation link.
+    When the user selects this link, the Site Administrator will be notified via
+    email and asked to activate the user's account.
 - **Send Mail to Administrators** Send email notification to
-  administrators with 'New User Account Activation' set to 'None' or
-  'Self'.
-- **Captcha** Use Captcha for User Account Registration, User Password reminder
-  and Username reminder.
+  administrators with *New User Account Activation* set to *None* or *Self*.
+- **Captcha** The Captcha plugin for User Account Registration, User Password 
+  reminder and Username reminder.
 - **Frontend User Parameters**
-  - Show: Users will be able to modify their Basic Settings
-    from the Frontend of the site.
-  - Hide: User will not be able to change these settings.
-  - Frontend Language. Default site language.
+  - *Show* Users will be able to modify Basic Settings from the site Frontend.
+  - *Hide* User will not be able to change these settings.
+- **Frontend Language** Show or Hide the site language. ...
 - **Change Username** Allow user to change Username.
 
 ### Email Domain Options tab
@@ -95,12 +93,12 @@ User Options set globally for all users include
 - **Show title in frontend** Display a title in the frontend
   Multi-factor Authentication verification page? Please note that the
   title is always displayed in the backend. If you need to change the
-  title please override the language key 'COM_USERS_HEADING_MFA' using
+  title please override the language key `COM_USERS_HEADING_MFA` using
   Languages: Overrides.
 - **Allowed backend module positions** When displaying the backend
   Multi-factor Authentication page all modules will be hidden except
   those in the positions selected here. Please note that modules in the
-  'title' position are always shown: this is required to show the
+  `title` position are always shown: this is required to show the
   backend page icon and title.
 - **Disable Multi-factor Authentication** Any user who belongs in *any*
   of the selected user groups will be exempt from Multi-factor
@@ -112,7 +110,7 @@ User Options set globally for all users include
   of the selected user groups will be required to enable Multi-factor
   Authentication before being able to use the site.
 - **Frontend template style** Choose the frontend template style to use
-  in the Multi-factor Authentication page. Select 'Use Default" to use
+  in the Multi-factor Authentication page. Select *Use Default* to use
   the default site template style.
 - **Multi-factor Authentication after silent login** Should the user
   have to go through Multi-factor Authentication after a silent user
@@ -120,8 +118,8 @@ User Options set globally for all users include
   password for example the Remember Me feature, WebAuthn etc.
 - **Silent login authentication response types (for experts)** For
   experts. A comma separated list of Joomla authentication response
-  types which are considered silent logins. The default is 'cookie' (the
-  Remember Me feature) and 'passwordless' (WebAuthn).
+  types which are considered silent logins. The default is `cookie` (the
+  Remember Me feature) and `passwordless` (WebAuthn).
 - **Onboard new users** If the user has not yet set up Multi-factor
   Authentication and this option is enabled they will be redirected to
   the Multi-factor Authentication setup page or the custom URL you set
@@ -159,5 +157,5 @@ User Options set globally for all users include
 
 ## Tips
 
-If you are a beginning user, you can just keep the default values here
+If you are a novice user, keep the default values here
 until you learn more about using global options.

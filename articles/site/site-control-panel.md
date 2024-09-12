@@ -2,7 +2,7 @@
 
 ## Description
 
-The Home Dashboard consists of configurable panels providing access to
+The *Home Dashboard* consists of configurable panels providing access to
 many Joomla functions and features.
 
 ## How to access
@@ -32,13 +32,13 @@ the Plus symbol, links to the form to create a new item.
 
 - **Users**
   Create/delete users, change passwords, modify language and time
-  preferences, and switch which WYSIWYG editor the user has access too.
+  preferences, and switch which WYSIWYG editor the user has access to.
   You can also assign users to User Groups, limiting to which aspects of
-  the site they have access.
+  the site they have access to.
 - **Articles**
   Manage all of your current articles.
 - **Article Categories**
-  Create new categories, and publish/unpublish existing ones.
+  Create new categories and publish or unpublish existing ones.
 - **Media**
   Manage files on your web server. You can delete existing files or
   upload different ones from your hard drive. You can also create new
@@ -52,16 +52,14 @@ the Plus symbol, links to the form to create a new item.
 #### System panel
 
 - **Global Checkin**
-  Check-in of all currently pending or locked items.
-- **Cache** Deletes all Cache files from the cache folders, including current
-  ones, from your web server.
+  Check in currently pending or locked items.
+- **Cache** Delete Cache files from the cache folders, including current ones.
 - **Global Configuration**
-  The global configuration has parameters that, when adjusted, will
-  effect your entire Joomla site. This makes the Global Configuration
-  perhaps one of the most important areas in your Joomla Backend. Here
-  you can change many options including, but certainly not limited to:
-  Time Zone, Language, Server Configurations, Session settings, and Meta
-  Data.
+  The global configuration page has parameters that affect the entire Joomla 
+  site. This makes the Global Configuration perhaps one of the most important 
+  areas in the Joomla Backend. Here many options can be changed, including, but 
+  not limited to Time Zone, Language, Server Configuration, Session settings 
+  and Meta Data.
 
 ## Tips
 

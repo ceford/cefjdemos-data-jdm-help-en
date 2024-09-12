@@ -4,8 +4,7 @@
 
 Categories are used to organize User Notes allowing display of related
 notes together on a page. All User Notes are assigned either to a
-Category that you create or to the special Category named
-'Uncategorised'.
+Category that you create or to the special Category named 'Uncategorised'.
 
 ### Common Elements
 
@@ -38,4 +37,4 @@ Some elements of this page are covered in separate Help articles:
 ### Category
 
 - **Description** Enter an optional category description in the text-area.
-The description may be used in custom layouts.
+  The description may be used in custom layouts.

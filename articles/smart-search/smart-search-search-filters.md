@@ -2,10 +2,10 @@
 
 ## Description
 
-This page shows the search filters currently available for use in
-Smart Search. For example, you could define a filter to list Articles by
-a specific Author. You can then select that filter in a Menu item or
-Module to search for words or phrases only in Articles by that Author.
+The *Smart Search: Search Filters* page shows the search filters currently 
+available for use in Smart Search. For example, you could define a filter to 
+list Articles by a specific Author. You can then select that filter in a Menu 
+item or Module to search for words or phrases only in Articles by that Author.
 
 ### Common Elements
 

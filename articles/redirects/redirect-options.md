@@ -2,7 +2,7 @@
 
 ## Description
 
-Redirect Options configuration allows setting of parameters used
+The *Redirect: Options* page is used to set parameters used
 globally for Redirects.
 
 ### Common Elements
@@ -37,7 +37,7 @@ dialog box.
 
 - **Activate Advanced Mode** Enable more advanced functionality for the 
   component. When enabled the Redirects Edit form has a required 
-  **Redirect Status Code** field that allows you to change the default value 
+  *Redirect Status Code* field that allows you to change the default value 
   from 301 to 302 or 303. Only enable Advanced Mode if you know how to use 
   Redirect Status codes.
 - **Bulk Import Separator** The separator used for bulk import, by

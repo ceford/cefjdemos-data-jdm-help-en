@@ -34,7 +34,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Column Headings
 
-Click on the column heading to sort the list by that column's value.
+Select a column heading to sort the list by that column's value.
 
 - **Name** The name of the workflow.
 - **Default** If there is more than one workflow. Select to set the default.

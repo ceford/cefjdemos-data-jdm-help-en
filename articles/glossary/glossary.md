@@ -1,6 +1,6 @@
 <!-- Filename: Help4.x:Glossary / Display title: Glossary -->
 
-The Joomla! Glossary is helpful for learning common terms used in
+The Joomla! Glossary is helpful for explaining common terms used in
 Joomla! tutorials, help screens and advanced documentation.
 
 ## Access Control List
@@ -9,12 +9,10 @@ Joomla! tutorials, help screens and advanced documentation.
 
 ## Anchor
 
-An anchor is created using the \<a\> tag in HTML. An anchor allows you
+An anchor is created using the `<a>` tag in HTML. An anchor allows you
 to place a bookmark inside an HTML page. In Joomla!, you can place an
-anchor inside an article (for example, using the
-TinyMCE
-editor). This lets you create a link that will go directly to that point
-in the article.
+anchor inside an article (for example, using the TinyMCE editor). This lets 
+you create a link that will go directly to that point in the article.
 
 The HTML source code for an anchor looks like the following:
 
@@ -24,8 +22,7 @@ You can link to an anchor from within the same page using the HTML code
 
     <a href="#my_anchor" ></a>
 
-Clicking that link will take you directly to the location of the anchor
-tag.
+Clicking that link will take you directly to the location of the anchor tag.
 
 You can link to an anchor in a different page by appending "#" plus the
 anchor name to the end of the URL. In the example above, if the URL for
@@ -44,11 +41,7 @@ appearance. CSS allows you to separate the content of an XHTML page from
 it's appearance. In Joomla!, CSS files (for example, template.css) are
 normally part of the template.
 
-**See also:** Template,
-Page Class
-Suffix,
-Module Class
-Suffix
+**See also:** Template, Page Class Suffix, Module Class Suffix
 
 ## Category
 
@@ -56,99 +49,63 @@ Every part of Joomla! powered web site or any CMS type of web site needs
 a method to display and store its content logically. The usual method is
 by categories and subcategories. Joomla! allows for multiple ways to
 display and use content controlled by categorisation. Some of the
-content types which have categorisation are
-Articles (Main content of
-web pages), banners, contacts and web links.
+content types which have categorisation are Articles (the main content of
+web pages), Banners and Contacts.
 
-Joomla! category named "Uncategorised" is the default category, assigned
-to any and all content types. The "Uncategorised" category is not
-descriptive and should be used on as needed basis for content types
-which do not fall under a specific category.
+A category named *Uncategorised* is the default category assigned to most 
+content types. The *Uncategorised* category is not descriptive and should be 
+used on as needed basis for content types which do not fall under a specific 
+category.
 
-When creating and assigning categories, you should have a planned
-structure. As an example, this is one way of how you would categorise
-several Joomla Articles on
-birds. Create two top article categories called "Animals" and "Plants".
-Under the "Animals" category, you might have sub categories called
-"Birds" and "Mammals". Under the "Birds" sub category, you might have 3
-articles named "Hawks," "Parrots" and "Sparrows".
+When creating and assigning categories, you should have a planned structure. 
+As an example, this is one way to categorise several articles on birds: 
 
+- Create two top level article categories named *Animals* and *Plants*.
+- Under the *Animals* category, create sub categories named *Birds* and 
+  *Mammals*. 
+- Under the *Birds sub category, create categories entitled *Hawks*, *Parrots* 
+  and *Sparrows. This is the resulting category structure
+
+```
 - Animals
   - Birds
     - Hawks
     - Parrots
     - Sparrows
   - Mammals
-
-The example above could be expanded even more with specific articles on
-different species of Hawks, Parrots and Sparrows. Start with using an
-"Animal" top Category, placing the sub categories "Birds" and "Mammals"
-are under the "Animal" category, and then a "Hawks," "Parrots" and
-"Sparrows" sub category under the "Birds" Sub Category as shown below.
+```
 
 Now you can create multiple articles in the Hawk, Parrot and Sparrow sub
 categories using the different genus or common names of the specific
-types of these 3 birds.
-
-Categories and their sub categories are maintained using the "Category
-Manager" which can be reached in the administrator back-end interface by
-clicking on the "Content" menu type, then the "Category Manager" menu
-item for the type.
-
-**See also**: Article
+types of these birds.
 
 ## Chrome
 
 The visible graphical interface features of an application are sometimes
-referred to as *chrome*. See Applying custom module
-chrome
-for information about how to modify the look of modules (in other words,
-the module "chrome").
+referred to as *chrome*.
 
 ## Component
 
 ## Core
 
-The word "core" in Joomla! pertains to the distributed files which are
-needed to create and administrate a Joomla CMS powered web site. These
-files can be downloaded from the Joomla website at
-<a href="http://www.joomla.org/download.html" class="external text"
-target="_blank"
-rel="noreferrer noopener">http://www.joomla.org/download.html</a>. The
-Joomla "core" also contains some basic functionality to get new Joomla
-installations working quickly and easily. Included are the user manager,
-article manager, weblink manager, category manager, contact manager, and
-menu manager. There is also a
-template manager with a
-few basic templates to power the front-end (website/user) view, a
-module manager with basic
-modules, plugin manager with
-basic plugins, and a few other "out of the box"
-extensions to extend
-the functionality of a basic Joomla installation. These core's
-extensions should not be confused with extensions which are available
-for downloading from the JED (Joomla! Extension Directory).
-
-#### See also:
-
-<a href="http://extensions.joomla.org/" rel="noreferrer noopener">Joomla Extension Directory</a>.
+The word *core* in Joomla! pertains to the distributed files which are
+needed to create and administrate a Joomla CMS powered web site. The
+Joomla core contains all of the necessary functionality to create and manage
+a new web site quickly and easily. 
 
 ## Database Table Prefix
 
 The database table prefix is a string (a few characters long) prepended
-to the name of Joomla!'s
-tables. Using a prefix
-enables you to run multiple installations of Joomla! using a single
-database.
+to the name of Joomla! tables. Using a prefix enables you to run multiple 
+installations of Joomla! using a single database.
 
 The database table prefix can be set during installation. Changing it
 later is possible, but requires access to the database through a
 non-Joomla medium or a Joomla Extension such as Akeeba Admin Tools and
 will cause some downtime.
 
-Extension developers
-need to use the string `#__` to represent the prefix. This will be
-replaced by the real prefix during runtime by Joomla.
+Extension developers need to use the string `#__` to represent the prefix.
+This will be replaced by the real prefix at runtime.
 
 ## Extension
 
@@ -156,37 +113,20 @@ replaced by the real prefix during runtime by Joomla.
 
 ## Language
 
-Languages are perhaps the most basic and critical
-<a href="https://docs.joomla.org/Extensions" class="mw-redirect"
-title="Extensions">extension</a> type. Languages are packaged as either
-a core language pack or an extension language pack. These packages
-consist of INI files which contain key/value pairs. These key/value
-pairs provide the translation of static text strings within Joomla!
-source code. This allows both the Joomla! core and third party
-components and modules to be internationalised. Core language packs also
-include an XML meta file describing the language and providing
-information about the fonts to use for PDF content generation.
+Languages are perhaps the most basic and critical extension type. Languages 
+are packaged as either a core language pack or an extension language pack. 
+These packages consist of INI files which contain key/value pairs to provide 
+the translation of static text strings within Joomla! source code. This 
+allows both the Joomla! core and third party components and modules to be 
+internationalised. Core language packs also include an XML meta file 
+describing the language and providing information about the fonts to use for 
+PDF content generation.
 
 ## Menu
 
-In Joomla!, a **Menu** is a set of **menu items** used for website
-navigation. Each menu item defines an URL to a page on your site, and
-holds settings that control the contents (articles, category(ies) lists,
-tagged items, etc) and style (module(s), layout) of that page.
-
-**Creating
-menus**
-is rather simple. From the Admin Menu, in the backend of your Joomla!
-site, you choose: **Menus \> Menu Manager \> Add New Menu**. On the
-opened to you **Menu Manager: Add Menu** page enter your menu title into
-the "Title \*" field (mandatory), your menu type into the "Menu type \*"
-field (mandatory) and, if you wish, your menu brief description into the
-"Description" field (optional). After that you can start **[adding new
-menu
-items](https://docs.joomla.org/Adding_a_new_menu_item "Special:MyLanguage/Adding a new menu item")**
-to this new menu.
-
-Any website can have more than one menu.
+In Joomla!, a **Menu** is a modules containing a set of **menu items** used for 
+navigation. Each menu item defines a URL to a page on the site. It holds 
+settings that control the display of page content and style.
 
 ## Model-View-Controller
 
@@ -248,39 +188,14 @@ the MVC design pattern.
 
 ## Module Class Suffix
 
-Module Class Suffix is a parameter in Joomla! modules. It is set Module:
-\[Edit\] screen under Advanced Parameters. Setting this parameter causes
-Joomla! to either add a new CSS class or modify the existing CSS class
-for the `div` element for this specific module.
+A Module Class Suffix is a parameter used in modules to add a new CSS 
+class to a module. It is used in conjunction with styles defined in a user.css
+file to change the standard appearance of a module.
 
-When Joomla! generates a module, it automatically create a CSS class
-called "moduletable" to allow styling of the module -- for example,
-
-    <div class="moduletable">
-
-To create a new class, enter the parameter with a leading space. For
-example, entering a space plus "myNewClass" will create a new CSS class
-called "myNewClass". The HTML will be changed to
-
-    <div class="moduletable myNewClass">
-
-To change the name of the existing class, enter in the parameter without
-a leading space. For example, entering "\_mySuffix" (no leading space)
-will cause the HTML to changed to
-
-    <div class="moduletable_mySuffix">
-
-Generally, it is recommended to use a leading space to create a new
-class. This way, CSS styling for this module that uses the standard
-class names will continue to work. You can use the new class name to add
-any desired styling to the module without needing to re-create all of
-the existing CSS code. Note that, if you create a new class name, make
-sure it has a unique name and doesn't conflict with any existing class
-names.
-
-See Using Class
-Suffixes
-for more information.
+The new class name may be used to add any desired styling to the module without 
+needing to re-create all of the existing CSS code. Note that, if you create a 
+new class name, make sure it has a unique name and doesn't conflict with any 
+existing class names.
 
 ## Module Position
 
@@ -290,52 +205,20 @@ for more information.
 
 PHP is a computer scripting language designed for creating dynamic web
 pages. PHP is widely-used for web development and can be embedded into
-<a href="https://docs.joomla.org/Where_can_you_learn_about_HTML%3F"
-class="mw-redirect" title="Where can you learn about HTML?">HTML</a>. It
-generally runs on a web server, taking PHP code as its input and
+HTML. It generally runs on a web server, taking PHP code as its input and
 creating web pages as output. Joomla! is primarily written using the PHP
-language. For more information, see Where can you learn about
-PHP?
+language.
 
 ## Page Class Suffix
 
-Page Class Suffix is a parameter in Joomla! content menu items. It is
-set in a particular menu item: \[Edit Menu Item\] page, under the "Page
-Display" tab. A new page class suffix will cause Joomla! to either add a
-new CSS class or modify the existing CSS class for elements in the
-assigned to this very menu item page layout.
+A Page Class Suffix is a parameter used in content menu items to add a new CSS 
+class to the page layout. It is used in conjunction with styles defined in a 
+user.css file to change the standard appearance of a module.
 
-When Joomla! generates a page, it automatically creates pre-defined CSS
-classes to allow styling of the page. For example, a page might have the
-element
-
-    <div class="componentheading">
-
-To create a new class, enter the parameter with a leading space. For
-example, entering a space plus "myNewClass" will create a new CSS class
-called "myNewClass" and it will be inserted as a class for elements in
-that Menu Item. In this case the example above will be changed to
-
-    <div class="componentheading myNewClass">
-
-To change the name of the existing class, enter in the parameter without
-a leading space. For example, entering "\_mySuffix" (no leading space)
-will cause the HTML to changed to
-
-    <div class="componentheading_mySuffix">
-
-Generally, it is recommended to use a leading space to create a new
-class. This way, CSS styling for this component that uses the standard
-class names will continue to work. You can use the new class name to add
-any desired styling to the component without needing to re-create all of
-the existing CSS code. Note that, if you create a new class name, make
-sure it has a unique name and doesn't conflict with any existing class
-names.
-
-**See also:** Using Class
-Suffixes,
-Using the Page Class Suffix in Template
-Code
+The new class name may be used to add any desired styling to the page without 
+needing to re-create all of the existing CSS code. Note that, if you create a 
+new class name, make sure it has a unique name and doesn't conflict with any 
+existing class names.
 
 ## Patch
 
@@ -353,17 +236,15 @@ this:
 
     http://www.yoursite.org/faq.html
 
-Since Joomla! 1.5, there are built-in options for generating SEF URLs.
-These are enabled by changing the "SEO Settings" (Search Engine
-Optimisation) in the Site tab in the Global Configuration screen in the
-Joomla! back end. There are also third-party extensions that create SEF
-URLs for Joomla!.
+There are built-in options for generating SEF URLs. These are enabled in the 
+*SEO Settings* (Search Engine Optimisation) in the Site tab of the 
+Global Configuration page. There are also third-party extensions that create 
+SEF URLs for Joomla!.
 
 ## Split menus
 
-A split menu is
-where different levels of a single menu are displayed in two or more
-locations on a single web page.
+A split menu is where different levels of a single menu are displayed in two 
+or more locations on a single web page.
 
 For example, a common requirement is for a menu of top-level items to
 appear at the top of the page. When one of the items is clicked the user
@@ -378,43 +259,22 @@ third-level items and beyond.
 This can be implemented in Joomla using a single multi-level menu then
 creating more than one menu module each referring to a different level.
 
-**See also**: Menu
-
 ## Template
 
-A template is a type of Joomla!
-extension that changes
-the way your site looks. There are two types of templates used by the
-Joomla! CMS: Front-end
-Templates
-and
-The Front-end Template controls the way your website is presented to the
-user viewing the website's content. The Back-end Template controls the
-way your website's administrative tasks are presented for controlling
-management functions by a Joomla! Administrator. These would include
-common tasks such as: user, menu, article, category, module, component,
-plugin and template management.
-
-**See also**:
-Component,
-Module,
-Plugin
+A template is a type of Joomla! extension that controls page appearance. 
+- A Site template controls the public appearance of the site content. 
+- An Administrator template controls the appearance of the site as for 
+  administrative tasks such as: user, menu, article, category, module, 
+  component, plugin and template management.
 
 ## Template style
 
 ## Upgrade Package
 
-An Upgrade Package in Joomla! is an archive of files that contain the
+An Upgrade Package in Joomla! is a package of files that contain the
 files that have changed between Joomla! versions. When this archive is
 unpacked, it replaces the old version of the modified files with the new
-version. For example, if fifty files were changed between version 3.x.1
-and 3.x.2, the upgrade package from 3.x.1 to 3.x.2 would contain these
-fifty files and, when unpacked, would replace these fifty files and
-upgrade the installed version from 3.x.1 to 3.x.2.
-
-Upgrade Packages are also sometimes referred to as  Before installing an
-Upgrade Package, read the release
-notes
-and the <a href="https://docs.joomla.org/Upgrade_Instructions"
-class="mw-redirect" title="Upgrade Instructions">Upgrade
-Instructions</a> relating to the Upgrade Package.
+version. For example, if fifty files were changed between version 5.1
+and 5.2, the upgrade package would contain these fifty files and instructions
+on how to execute the upgrade. Sometimes this includes database updates and
+removal of files no longer used.

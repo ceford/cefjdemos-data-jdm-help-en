@@ -2,10 +2,8 @@
 
 ## Description
 
-Default options to set up the number of days (from 1 to 29 days) to
-consider a request as urgent. It shows a notification in the Privacy
-Dashboard screen when there are requests older than the specified number
-of days. The default setting is 14 days.
+The *Privacy: Options* page is used to set the number of days to consider a
+request as urgent. 
 
 ### Common Elements
 

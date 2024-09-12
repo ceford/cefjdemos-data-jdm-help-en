@@ -2,7 +2,7 @@
 
 ## Description
 
-The Template Styles screen is used to manage both Site and Administrator
+The *Templates: Styles* page is used to manage both Site and Administrator
 templates. Use it to set the default template for all pages or assign a
 specific template to an individual page.
 

@@ -2,7 +2,7 @@
 
 ## Description
 
-The Edit Update Site screen shows some information about the update
+The *Edit Update Site* page shows some information about an update
 site. The Joomla! sources cannot be edited but other sources may allow
 editing.
 

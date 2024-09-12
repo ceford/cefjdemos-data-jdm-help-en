@@ -2,13 +2,13 @@
 
 ## Description
 
-Access levels control which users can view which objects on your site.
-Objects include menu items, modules, categories, and component items
-(articles, contacts, and so on). Each object in the site is assigned to
+Access levels control which users can view which assets on a site.
+Assets include menu items, modules, categories, and component items
+(articles, contacts, and so on). Each asset in the site is assigned to
 one access level. User groups are also assigned to each access level.
 
 If a user is a member of a group that in turn has permission for an
-access level, then that user can view all objects assigned to that
+access level, then that user can view all assets assigned to that
 access level. It is important to understand that user groups can be
 arranged in a parent-child hierarchy. If so, then a child group has
 access to all access levels that the parent group has access to. So you
@@ -25,8 +25,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **Users → Access Levels** from the Administrator menu.
   Then...
-  - Select a link from the **Level Name** column to edit an existing
-    level. Or...
+  - Select a link from the **Level Name** column to edit an existing level. Or...
   - Select the New button to create a new access level.
 
 ## Screenshot
@@ -35,7 +34,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Level Details tab
 
-- **Level Title:** Enter a Title for this Access level.
+- **Level Title** Enter a Title for this Access level.
 - **User Groups With Viewing Access** Check any Group to have this
   Access Level.
 

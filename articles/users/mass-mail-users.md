@@ -2,9 +2,9 @@
 
 ## Description
 
-The Mass Mail screen allows Users who are members of the "Super
-Administrator" group to send an email message to registered users for
-the site. Users can be selected based on groups.
+The *Mass Mail Users* page allows members of the *Super Users* group to send an
+email message to registered users of the site. Recipients can be selected based
+on user groups.
 
 ### Common Elements
 
@@ -24,8 +24,8 @@ Select **Users → Mass Mail Users** from the Administrator menu.
 
 - **Mail to Child Groups** Whether or not to send the Email to members
   of all child groups of the selected group. For example, if this box is
-  checked and the "Public" group is selected, the email would be sent to
-  all users, since all groups are child groups of "Public".
+  checked and the *Public* group is selected, the email would be sent to
+  almost all users, since most groups are child groups of *Public*.
 - **Send in HTML mode** Whether or not to send the Email with headers
   that identify it as an HTML document. Email clients that support this
   will render any HTML codes.

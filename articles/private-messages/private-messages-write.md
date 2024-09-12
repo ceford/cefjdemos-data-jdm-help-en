@@ -2,8 +2,8 @@
 
 ## Description
 
-This page lets you write and send private messages to others with the
-correct user group permissions.
+The *Private Messages: Write* page is used to send private messages to others 
+with the correct user group permissions.
 
 ### Common Elements
 
@@ -24,11 +24,9 @@ Some elements of this page are covered in separate Help articles:
 
 ## Form Fields
 
-- **Recipient** The recipient of the message. Click on the *Select
-  User* icon to open the pop-up, and then, from the list of names,
-  select the user to whom you wish to send the message.
+- **Recipient** The recipient of the message. Use the *Select User* icon to 
+  open a popup and then select the user to whom you wish to send a message.
 - **Subject** The subject of the message. Just like the subject of an
   email, it helps if this is a short description of the message body.
 - **Message** The body text of the message. Just like the body text of
-  an email, it helps if the message is meaningful and kept relatively
-  short.
+  an email, it helps if the message is meaningful and kept relatively short.

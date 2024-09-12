@@ -2,7 +2,7 @@
 
 ## Description
 
-The Messages: Options configuration page allows setting of parameters used
+The *Messages: Options* page allows setting of options used
 globally for Private Messages between Administrators.
 
 ### Common Elements

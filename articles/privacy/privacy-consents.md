@@ -2,7 +2,7 @@
 
 ## Description
 
-This page provides a sortable list of privacy policy consents.
+The *Privacy: Consents* page provides a sortable list of privacy policy consents.
 
 ### Common Elements
 
@@ -15,8 +15,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## How to access
 
-- Select **Users → Privacy → Consents** from the Administrator
-  menu.
+- Select **Users → Privacy → Consents** from the Administrator menu.
 
 ## Screenshot
 
@@ -24,13 +23,9 @@ Some elements of this page are covered in separate Help articles:
 
 ## Column Headers
 
-1.  **Username**
-2.  **User ID** The ID of the user who consented to the Privacy Policy
-3.  **Subject** Consent to the Privacy Policy
-4.  **Body** Displays information about the user information stored and
-    consented (User's IP, browser used ...)
-5.  **Created** Indicates when the consent was given by the user.
-6.  **ID** This is a unique identification number for the privacy
-    consent assigned automatically by Joomla. It is used to identify the
-    item internally and cannot be changed.
-
+*  **Username**
+*  **User ID** The ID of the user who consented to the Privacy Policy.
+*  **Subject** The Policy consented to.
+*  **Body** Displays information about the user information stored and
+    consented to (User's IP, browser used ...).
+*  **Created** Indicates when the consent was given by the user.

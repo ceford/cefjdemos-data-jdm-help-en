@@ -8,10 +8,10 @@ into tree-like structures like file systems. For example, category Pets
 may be a parent to category Dogs, category Cats and category Goldfish.
 Categories can be nested to any level. All Articles must be assigned
 either to a parent Category or a child Category or to the default
-Category named 'Uncategorised'.
+Category named *Uncategorised*.
 
-The edit form is used to create a new Category or to alter the properties of
-an existing Category.
+The *Articles: Edit Category* page is used to create a new Category or to 
+change the properties of an existing Category.
 
 ### Common Elements
 
@@ -28,12 +28,10 @@ Some elements of this page are covered in separate Help articles:
 
 To add a new category, starting from the Administrator menu:
 
-- Select **Home Dashboard → Site panel → Categories + button**.
-  Or...
+- Select **Home Dashboard → Site panel → Categories + button**. Or...
 - Select **Content → Categories + button**. Or...
 - Select **Content → Categories**. Then...
   - Select the **New** button in the Toolbar to create a new Category.
-    Or...
 
 To edit an existing Category:
 
@@ -48,7 +46,7 @@ To edit an existing Category:
 
 - **Title** The Title for this item. This may or may not display on the
   page, depending on the parameter values you choose.
-- **Alias**. The internal name of the item. Normally, you can leave this
+- **Alias** The internal name of the item. Normally, you can leave this
   blank and Joomla will fill in a default value Title in lower case and
   with dashes instead of spaces.
 
@@ -56,13 +54,9 @@ To edit an existing Category:
 
 #### Left Panel
 
-- **Description** The description for the item. Category, Subcategory
-  and Web Link descriptions may be shown on web pages, depending on the
-  parameter settings. These descriptions are entered using the same
-  editor that is used for Articles.
+- **Description** The description for the item. Category descriptions may be 
+  shown on web pages, depending on other parameter settings.
 
 ### Workflow tab
-
-![Edit category workflow tab](../../../en/images/articles/articles-edit-category-workflow-tab.png "Edit category workflow tab")
 
 - **Workflow** Select from the drop-down list.

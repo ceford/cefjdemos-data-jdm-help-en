@@ -2,7 +2,8 @@
 
 ## Description
 
-This page allows you to view and reply to a single private message only.
+The *Private Messages: View* page allows you to view and reply to a single 
+private message only.
 
 ### Common Elements
 
@@ -12,11 +13,10 @@ Some elements of this page are covered in separate Help articles:
 
 ## How to Access
 
-- Select **Users → Messaging → Private Messages** from the Administrator menu.
-- Or select the **Private Messages** button in the Status bar of Administrator 
-  pages. This button will be absent if there are no incoming private messages.
-- Next, click on a Message Subject link to open the **Private Messages:
-  View** screen.
+- Select **Users → Messaging → Private Messages** from the Administrator menu. Or...
+- Select the **Private Messages** button in the Status bar of Administrator 
+  pages. This button will be absent if there are no incoming private messages. Then...
+- Select a Message Subject link to open the *Private Messages: View* page.
 
 ## Screenshot
 
@@ -31,6 +31,6 @@ Some elements of this page are covered in separate Help articles:
 
 ## Tips
 
-- Only users who are members of the "Super Users" and "Administrator"
-  groups have access to this screen, unless User Group permissions have been
-  altered for this component via the Private Messages Options screen.
+- Only users who are members of the `Super Users` and `Administrator`
+  groups have access to this screen, unless other User Group permissions have 
+  been altered for this component via the Private Messages Options screen.

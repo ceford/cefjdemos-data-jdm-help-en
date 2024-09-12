@@ -2,7 +2,7 @@
 
 ## Description
 
-The Private Messages page allows you to send messages to other
+The *Private Messages* page allows you to send messages to other
 administrators on your site and read their replies.
 
 ### Common Elements
@@ -29,7 +29,7 @@ Some elements of this page are covered in separate Help articles:
   groups have access to this page, unless User Group permissions have
   been altered for this component via Options in the toolbar.
 - You are able to restore Messages previously sent to the Trash by
-  finding the Select State filter drop-down and selecting "Trash" from
+  finding the Select State filter drop-down and selecting *Trash* from
   the list. Finally, to restore the message, simply select the messages
   you want to restore using the checkbox next to the particular message
-  you require and click the "Mark As Unread" button in the toolbar.
+  you require and click the *Mark As Unread* button in the toolbar.

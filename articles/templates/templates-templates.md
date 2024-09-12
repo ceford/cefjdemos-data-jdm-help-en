@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Templates: Templates** scpagereen allows you to preview and edit
+The **Templates: Templates** page allows you to preview and edit
 templates which are installed in your Joomla! site.
 
 ### Common Elements

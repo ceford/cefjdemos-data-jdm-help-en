@@ -2,7 +2,8 @@
 
 ## Description
 
-Used to view a list of existing Tags, edit current and create new Tags.
+The *Tags* page is used to view a list of existing Tags, edit current and 
+create new Tags.
 
 ### Common Elements
 

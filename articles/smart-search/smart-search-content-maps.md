@@ -2,9 +2,9 @@
 
 ## Description
 
-This page shows the content maps currently in the Smart Search index.
-Content maps allow you to cross-reference your indexed content
-(articles, etc) to related meta information such as the category in
+The *Smart Search: Content Maps* page shows the content maps currently in the 
+Smart Search index. Content maps allow you to cross-reference your indexed 
+content (articles, etc) to related meta information such as the category in
 which it resides. Each content item that is indexed by Smart Search is
 added to one or more content maps that can be used as filters when
 searching the index.
@@ -12,8 +12,8 @@ searching the index.
 Content maps are split into two parts:
 
 - Map Group: These are super-containers for a particular type of
-  information. For example, a Map Group could be "Type", "Category",
-  "Event", "Language" or "Author".
+  information. For example, a Map Group could be *Type*, *Category*,
+  *Event*, *Language* or *Author*.
 - Content Map: Content maps are the actual values for the meta
   information in a particular Map Group. The Content Maps are, for
   example, the names of the categories or authors.
@@ -26,7 +26,7 @@ layouts and use multi-select lists or checkboxes instead.
 
 It's important to note that Map Groups and Content Maps from different
 content types are merged into the one list. A Joomla article in a
-category called "News" and a news feed or contact in a category named
+category called *News* and a news feed or contact in a category named
 the same are mapped to the same Content Map in the same Map Group. This
 is a little like tagging different types of content with the same label.
 The effect is that your site visitor does not have to know how your
@@ -53,7 +53,7 @@ Some elements of this page are covered in separate Help articles:
 ### Tutorial
 
 * If you are new to Smart Search then you should read the [Smart Search
-  quickstart guide](https://docs.joomla.org/Smart_Search_quickstart_guide "Smart Search quickstart guide").
+  quickstart guide](https://docs.joomla.org/Smart_Search_quickstart_guide).
 
 ## How to access
 

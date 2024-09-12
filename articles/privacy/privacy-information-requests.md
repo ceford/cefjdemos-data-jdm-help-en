@@ -2,8 +2,8 @@
 
 ## Description
 
-This screen lists Privacy Information Requests received, selectable for
-viewing. It can be used also to create new requests.
+The *Privacy: Information Requests* page lists requests received and selectable
+for viewing. It can be used to create new requests.
 
 ### Common Elements
 
@@ -47,13 +47,9 @@ Joomla! site, you will see different columns.
   - **Confirmed** The user has confirmed their information request
   - **Completed** The information request has been completed by a Super User
 - **Email** Email of the user who sent the information request
-- **Request Type** 2 types of information requests: asking for a Data
-  Export or to be removed
+- **Request Type** Information requests may be for *Export* or *Removal*.
 - **Requested** When the information was requested.
-- **ID** This is a unique identification number for the information
-  request assigned automatically by Joomla. It is used to identify the
-  item internally, and you cannot change this number.
 
 ## Tips
 
-- Click on the Email address to view the information request
+- Select a request Email address to manage the information request.

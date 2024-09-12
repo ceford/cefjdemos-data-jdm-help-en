@@ -2,7 +2,7 @@
 
 ## Description
 
-The User Actions Log Options screen allows setting of parameters used
+The *User Actions Log: Options* page allows setting of parameters used
 globally for the User Actions Log component.
 
 ### Common Elements

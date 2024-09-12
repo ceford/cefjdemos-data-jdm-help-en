@@ -2,7 +2,7 @@
 
 ## Description
 
-In this screen you have the ability to review an information request and
+The *Privacy: Review Information Request* page shows an information request and
 the related action log.
 
 ### Tutorials
@@ -23,8 +23,7 @@ Some elements of this page are covered in separate Help articles:
 
 - Select **Users → Privacy → Requests** from the Administrator
   menu. Then...
-  - Select the email address of the request you want to review to open
-    it.
+  - Select the email address of the request you want to review to open it.
 
 ## Screenshot
 
@@ -36,10 +35,10 @@ Some elements of this page are covered in separate Help articles:
 - **Email** The email address of the individual owning the information
     being requested
 - **Status** The status of the information request
-    - Invalid. The information request has been invalidated by a Super User.
-    - Pending. The user hasn't yet confirmed their information request.
-    - Confirmed. The user has confirmed their information request.
-    - Completed. The information request has been completed by a Super User.
+    - *Invalid* The information request has been invalidated by a Super User.
+    - *Pending* The user hasn't yet confirmed their information request.
+    - *Confirmed* The user has confirmed their information request.
+    - *Completed* The information request has been completed by a Super User.
 - **Request Type** Export or Remove.
 - **Date Requested** Date and time when the information request was created.
 

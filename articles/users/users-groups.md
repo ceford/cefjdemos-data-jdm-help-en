@@ -2,32 +2,29 @@
 
 ## Description
 
-User Groups control what actions a user can take on the site. Actions
-include things like creating a new article, changing options for a
-component, or logging in. The site administrator assigns permissions for
-various actions to each group. Permissions for actions can be assigned
-at different levels in the component hierarchy (Global Configuration,
-component options, categories, and articles). If a user does not have
-permission for a given action, the user cannot perform that action.
+User Groups control what actions a user can take on a site. Actions
+include things such as viewing an article, creating an article, changing 
+options for a component, or logging in. The site administrator assigns 
+permissions for various actions to each group. Permissions for actions can 
+be assigned at different locations in the component hierarchy, for example
+in Global Configuration, component options or module options. If a user 
+group does not have permission for a given action, the user in that group
+cannot perform that action.
 
-User groups also control which objects a user can view on the site.
-Objects include categories, articles, modules, menu items, and others.
-When you create an access level, one or more user groups are assigned to
-it. Then, when you create an object (such as a menu item or module), the
-object is assigned an access level. If a user is a member of a group
-that is assigned to an access level, this user can view any object
-assigned to that access level. If not, then that user cannot view that
-object.
+Viewing Access control is implemented through the use of **Access Levels**, 
+which have one or more user groups assigned to them. Assets such as articles,
+menu items or modules are assigned an access level. A user who is a member of 
+a group that is assigned to a specific access level can view any asset 
+assigned to that access level. 
 
-User groups can be arranged in a hierarchy. If so, then all child groups
+User groups can be arranged in a hierarchy in which all child groups
 inherit the action permissions and access levels of a parent group. If
-used wisely, this feature can save a lot of time setting up your
-security system, since it means that you don't have to enter duplicate
-setup information.
+used wisely, this feature can save a lot of time by avoiding duplication in
+setting up a site security system.
 
-User Groups control what actions a user may take on the site and which
-objects a user can view. This page allows you to view, create, edit or
-delete User Groups.
+The *Users: Groups* page lists the current User Groups in hierarchy. It can be
+used to create new user groups and delete groups that are no longer required.
+Do not delete any of the default user groups!
 
 ### Common Elements
 

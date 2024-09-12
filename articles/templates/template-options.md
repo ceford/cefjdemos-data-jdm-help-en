@@ -2,8 +2,8 @@
 
 ## Description
 
-Template Options configuration allows setting of parameters used
-globally for Templates.
+The *Template: Options* page allows setting of parameters used globally for 
+site and administrator Templates.
 
 ### Common Elements
 
@@ -35,11 +35,10 @@ Some aspects of this page are covered in separate Help articles:
 - **Preview Module Positions** Enable the preview of the module positions 
   in the template by appending tp=1 to the URL. Also enable the Preview 
   button in the list of templates.
-- **Upload Size (MB)** The maximum upload size for files inside Template 
-  Manager.
+- **Upload Size (MB)** The maximum upload size for files in the 
+  *Template: Customise* page.
 - **Valid Image Formats** These file types will be available for cropping 
-  and resizing.
-- **Valid Source Formats** These file types will be available for editing.
-- **Valid Font Formats** These file types will be available for font
-  preview.
+  and resizing when selected.
+- **Valid Source Formats** These file types will be available for upload.
+- **Valid Font Formats** These file types will be available for font preview.
 - **File Diff Display** Side-by-Side or Inline.

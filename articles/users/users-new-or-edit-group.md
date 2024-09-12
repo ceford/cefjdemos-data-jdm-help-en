@@ -7,6 +7,9 @@ standard sites. The default groups should not be edited! New groups can
 be created for special purposes. For example, you may wish to create a
 group allowed access to one component only.
 
+The *Users: New or Edit Group* page is used to create a new User Group or
+edit an existing group. 
+
 ## How to access
 
 - Select **Users → Groups** from the Administrator menu. Then...

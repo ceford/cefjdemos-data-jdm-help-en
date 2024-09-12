@@ -2,9 +2,10 @@
 
 ## Description
 
-Displays a list of phrases used by site visitors for site searching. The
-Smart Search component Option - **Gather Search Statistics** needs to be
-set to **Yes** to allow statistics to be collected.
+The *Smart Search: Search Term Analysis* page displays a list of phrases used 
+by site visitors for site searching. The Smart Search component Option
+**Gather Search Statistics** needs to be set to **Yes** to allow statistics to
+be collected.
 
 ## How to Access
 

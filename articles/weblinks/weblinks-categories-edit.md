@@ -2,7 +2,7 @@
 
 ## Description
 
-The Web Link Category form is used to create a new Category or or edit
+The *Web Links: Edit Category* page is used to create a new Category or edit
 an existing one. Note that you need to create at least one Web Link
 Category before you can create a Web Link. Also, Web Link Categories are
 separate from other types of Categories, such as those for Articles,
