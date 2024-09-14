@@ -34,44 +34,43 @@ Some elements of this page are covered in separate Help articles:
 
 There are two routes to the Articles list page:
 
-* Select **Site panel  → Articles** from the Home Dashboard.
+* Select **Site panel → Articles** from the Home Dashboard.
 * Select **Content → Articles** from the Administrator menu.
 
 ## Screenshot
 
-![Articles list](../../../en/images/articles/articles-list.png "Articles list")
+![Articles list](../../../en/images/articles/articles-list.png)
 
 ## Column Headers
 
-- **Checkbox**. Check this box to select articles. To select all
+- **Checkbox** Check this box to select articles. To select all
   articles, check the box in the column heading. After boxes are checked
-  the toolbar button 'Actions' becomes active.
-- **Ordering**. You can change the order of an article within a list as
-  follows:
+  the toolbar button *Actions* becomes active.
+- **Ordering** You can change the order of an article within a list as follows:
   - Select the ordering icon <i class="fa-solid fa-sort"></i> in the first
-  column heading to make it active.
+    column heading to make it active.
   - Select one of the vertical ellipsis icons <span class="icon-ellipsis-v"></span>
     and drag it up or down to change the position of that row in the list.
   - In the Filter Options you may limit the list to articles that are
     assigned for example to a Language.
-- **Featured**. Click the icon to toggle. The article will show on the
+- **Featured** Click the icon to toggle. The article will show on the
   Featured Articles page.
-- **Status**. Status of article. Hover over the icon or tab to it to see
+- **Status** Status of article. Hover over the icon or tab to it to see
   Status information or hear an audio equivalent.
-- **Title**. The title of the article, which may be selected to go to the
+- **Title** The title of the article, which may be selected to go to the
   *Article Edit* page.
-- **Access**. The viewing Access level for this article.
-- **Author**. The name of the User who created this article.
-- **Associations**. This shows associated articles in a multilingual site.
+- **Access** The viewing Access level for this article.
+- **Author** The name of the User who created this article.
+- **Associations** This shows associated articles in a multilingual site.
   Select the *Language Code* to open the article in that language.
-- **Language**. Articles language, default is 'All'.
-- **Date Created**. The date this article was created.
-- **Hits**. The number of times an article has been viewed.
-- **ID**. A unique identification number for this article. It cannot be changed.
+- **Language** Articles language, default is *All*.
+- **Date Created** The date this article was created.
+- **Hits** The number of times an article has been viewed.
+- **ID** A unique identification number for this article. It cannot be changed.
 
 ## Tips
 
-- One article category named 'Uncategorised' is created on Installation.
-- To see trashed and archived articles, set the Status filter to 'All'.
+- One article category named *Uncategorised* is created on Installation.
+- To see trashed and archived articles, set the Status filter to *All*.
 - To change the ordering of articles within a category: filter on the
   category and then select the Ordering column heading to sort by this column.

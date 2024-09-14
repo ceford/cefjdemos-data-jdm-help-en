@@ -30,7 +30,7 @@ There are two routes to the Categories list page:
 
 ## Screenshot
 
-![Articles: Categories list](../../../en/images/articles/articles-categories-list.png "Articles: Categories list")
+![Articles: Categories list](../../../en/images/articles/articles-categories-list.png)
 
 ## Column Headers
 
