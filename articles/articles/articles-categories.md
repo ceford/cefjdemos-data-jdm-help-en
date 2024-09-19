@@ -34,10 +34,10 @@ There are two routes to the Categories list page:
 
 ## Column Headers
 
-- **Checkbox**. Check this box to select categories. To select all
+- **Checkbox** Check this box to select categories. To select all
   categories, check the box in the column heading. After boxes are
   checked the toolbar button 'Actions' get active.
-- **Ordering**. You can change the order of an category within a list as
+- **Ordering** You can change the order of an category within a list as
   follows:
   - Select the Ordering icon <i class="fa-solid fa-sort"></i> in the first
     column heading to make it active.
@@ -45,19 +45,19 @@ There are two routes to the Categories list page:
     and drag it up or down to change the position of that row in the list.
   - In the Filter Options you may limit the list to categories that are
     assigned for example to a Language.
-- **Status**. Status of the category. Hover over the icon for information or
+- **Status** Status of the category. Hover over the icon for information or
     tab to it for an audio equivalent.
-- **Title**. The title of the category. Edit the category by clicking on
+- **Title** The title of the category. Edit the category by clicking on
   the Title.
-- **Status Columns**. Each button in a column shows the number of articles
+- **Status Columns** Each button in a column shows the number of articles
     with that status in that category. Select a button to go to the Articles
     list filtered for that category. The columns are **Published**,
     **Unpublished**, **Archived** and **Trashed**.
-- **Access**. The viewing Access level  for this category.
-- **Associations**. Shows the associated categories. Click on the
+- **Access** The viewing Access level  for this category.
+- **Associations** Shows the associated categories. Click on the
   Language Code to open the category. Multilingual only!
-- **Language**. Categories language, default is 'All'.
-- **ID**. A unique identification number for this category, you cannot
+- **Language** Categories language, default is 'All'.
+- **ID** A unique identification number for this category, you cannot
   change this number.
 
 ## Tips

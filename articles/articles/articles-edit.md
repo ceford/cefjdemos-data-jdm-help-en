@@ -225,7 +225,7 @@ will appear as a separate tab.
 
 ### Configure Edit Screen tab
 
-**Note**: This can be hidden by a user with Admin permissions in the
+**Note:** This can be hidden by a user with Admin permissions in the
 Article: Options.
 
 ![Configure edit screen tab](../../../en/images/articles/articles-edit-editor-tab.png)
@@ -245,8 +245,7 @@ Article: Options.
 
 ## Tips
 
-- There are 2 methods to insert an image into article using the TinyMCE
-  editor.
+- There are 2 methods to insert an image into article using the TinyMCE editor.
   1. The *CMS Content* dropdown list provides access to the Media screen.
   2. The *Insert* dropdown list is a simple form for which requires the image
     url. It is used for external images.
