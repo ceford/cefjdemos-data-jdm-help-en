@@ -16,6 +16,7 @@ Some aspects of this page are covered in separate Help articles:
 * [The Schema Tab](jdocmanual?article=help/common-elements/edit-schema).
 * [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing).
 * [The Associations Tab](jdocmanual?article=help/common-elements/edit-associations).
+* [The Version History Popup](jdocmanual?article=help/common-elements/edit-version-history).
 
 ## How to Access
 

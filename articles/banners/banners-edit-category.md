@@ -16,6 +16,7 @@ Some elements of this page are covered in separate Help articles:
 * [The Options Tab](jdocmanual?article=help/common-elements/edit-category-options).
 * [The Publishing Tab](jdocmanual?article=help/common-elements/edit-publishing).
 * [The Permissions Tab](jdocmanual?article=help/common-elements/edit-permissions).
+* [The Version History Popup](jdocmanual?article=help/common-elements/edit-version-history).
 
 ## How to Access
 

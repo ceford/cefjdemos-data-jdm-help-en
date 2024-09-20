@@ -36,6 +36,7 @@ help=common-elements=edit-category.md
 help=common-elements=edit-permissions.md
 help=common-elements=edit-publishing.md
 help=common-elements=edit-schema.md
+help=common-elements=edit-version-history.md
 help=common-elements=edit-category-options.md
 
 heading=contacts=Contacts

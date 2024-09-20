@@ -9,7 +9,7 @@ the page. One menu can have more than one module. For example, one
 module might show only the first level menu items and a second module
 might show the level 2 menu items.
 
-The Menus list provides an overview of the menus available on a Joomla
+The *Menus* page provides an overview of the menus available on a Joomla
 site. This includes the details of each individual menu's number of
 items published, unpublished and trashed, and the names of linked
 modules.
@@ -53,19 +53,19 @@ Some elements of this page are covered in separate Help articles:
 ## Tips
 - The numbered buttons lead to a filtered list of the menu items for that menu.
 - A menu should have a short descriptive title suitable for use in lists and
-  dropdown lists. 
+  dropdown lists.
 - The *Description* is a useful reminder of the purpose for which the menu
   was created.
-- If a menu has no associated modules the *Linked Modules* column button is 
+- If a menu has no associated modules the *Linked Modules* column button is
   a link to an *Add a module for this menu* modal dialogue.
 - If you delete an existing menu, do not forget that all the menu items
   of the respective menu will be also deleted. There is a warning message:
 
-  **Are you sure you want to delete these menus? Confirming will delete the 
+  **Are you sure you want to delete these menus? Confirming will delete the
   selected menu types, all their menu items and the associated menu modules.**
 - The Main Menu has the site default menu item. It **should not be
   deleted**! The default menu item defines the page that is displayed on
-  a visit to the site domain URL, such as `www.example.com`. The site will not 
-  function if it is deleted. It is usually the *Home* menu item but it can be 
-  set to any menu item including a menu item in a hidden menu. If the default 
-  menu item is changed, make sure that that menu item is not deleted either! 
+  a visit to the site domain URL, such as `www.example.com`. The site will not
+  function if it is deleted. It is usually the *Home* menu item but it can be
+  set to any menu item including a menu item in a hidden menu. If the default
+  menu item is changed, make sure that that menu item is not deleted either!

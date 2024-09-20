@@ -20,6 +20,7 @@ common-elements=edit-permissions.md=Help6.x:Edit_Permissions
 common-elements=edit-publishing.md=Help6.x:Edit_Publishing
 common-elements=edit-schema.md=Help6.x:Edit_Schema
 common-elements=edit-category-options.md=Help6.x:Edit_Category_Options
+common-elements=edit-version-history.md=Help4.x:Components_Version_History
 common-elements=list-batch-process.md=Help6.x:List_Batch_Process
 common-elements=list-filters.md=Help6.x:List_Filters
 common-elements=list-pagination.md=Help6.x:List_Pagination

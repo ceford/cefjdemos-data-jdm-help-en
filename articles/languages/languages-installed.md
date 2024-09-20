@@ -2,8 +2,8 @@
 
 ## Description
 
-In the *Languages: Installed* page you can set the default Languages
-independently for the Site and Administrator interfaces.
+the *Languages: Installed* page is used to list installed languages and set
+the default Languages independently for the Site and Administrator interfaces.
 
 ### Common Elements
 
@@ -35,7 +35,7 @@ Some elements of this page are covered in separate Help articles:
 ## Tips
 
 - Users can use any Language from the list of installed Languages,
-  either by having Backend and Frontend languages assigned in the 
+  either by having Backend and Frontend languages assigned in the
   *Basic Settings* tab of the Administrator *Users: Edit* form or the Frontend
   *Edit Your Profile* form. This will cause the Joomla! system prompts to be
   generated in this Language just for this User. For example, if a User
