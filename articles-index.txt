@@ -234,7 +234,7 @@ plugins=plugin-group-authentication.md=Chunk4x:Extensions_Plugin_Manager_Edit_Au
 plugins=plugin-group-behavior.md=Chunk4x:Extensions_Plugin_Manager_Edit_Behaviour_Group
 plugins=plugin-group-content.md=Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group
 plugins=plugin-group-editors-xtd.md=Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group
-plugins=plugin-group-editors.md=Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group
+plugins=plugin-group-editors-txt.md=Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group
 plugins=plugin-group-extensions.md=Chunk4x:Extensions_Plugin_Manager_Edit_Extension_Group
 plugins=plugin-group-fields.md=Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group
 plugins=plugin-group-file-system.md=Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group

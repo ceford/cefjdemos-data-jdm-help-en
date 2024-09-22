@@ -276,7 +276,7 @@ help=plugins=plugin-group-authentication.md
 help=plugins=plugin-group-behavior.md
 help=plugins=plugin-group-content.md
 help=plugins=plugin-group-editors-xtd.md
-help=plugins=plugin-group-editors.md
+help=plugins=plugin-group-editors-txt.md
 help=plugins=plugin-group-extensions.md
 help=plugins=plugin-group-fields.md
 help=plugins=plugin-group-file-system.md
