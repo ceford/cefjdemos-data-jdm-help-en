@@ -228,6 +228,26 @@ news-feed=news-feeds.md=https://docs.joomla.org/Help5.x:News_Feeds
 plugins=plugin-options.md=https://docs.joomla.org/Help5.x:Plugin:_Options
 plugins=plugins-name-of-plugin.md=https://docs.joomla.org/Help5.x:Plugins:_Name_of_Plugin
 plugins=plugins.md=https://docs.joomla.org/Help5.x:Plugins
+plugins=plugin-group-action-logs.md=Chunk4x:Extensions_Plugin_Manager_Edit_Action_Log_Group
+plugins=plugin-group-api-authentication.md=Chunk4x:Extensions_Plugin_Manager_Edit_API_Authentication_Group
+plugins=plugin-group-authentication.md=Chunk4x:Extensions_Plugin_Manager_Edit_Authentication_Group
+plugins=plugin-group-behavior.md=Chunk4x:Extensions_Plugin_Manager_Edit_Behaviour_Group
+plugins=plugin-group-content.md=Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group
+plugins=plugin-group-editors-xtd.md=Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group
+plugins=plugin-group-editors.md=Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group
+plugins=plugin-group-extensions.md=Chunk4x:Extensions_Plugin_Manager_Edit_Extension_Group
+plugins=plugin-group-fields.md=Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group
+plugins=plugin-group-file-system.md=Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group
+plugins=plugin-group-finder.md=Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group
+plugins=plugin-group-installer.md=Chunk4x:Extensions_Plugin_Manager_Edit_Installer_Group
+plugins=plugin-group-media-action.md=Chunk4x:Extensions_Plugin_Manager_Edit_Media_Action_Group
+plugins=plugin-group-privacy.md=nk4x:Extensions_Plugin_Manager_Edit_Privacy_Group
+plugins=plugin-group-quick-icon.md=Chunk4x:Extensions_Plugin_Manager_Edit_Quick_Icon_Group
+plugins=plugin-group-sample-data.md=Chunk4x:Extensions_Plugin_Manager_Edit_Sample_Data_Group
+plugins=plugin-group-system.md=Chunk4x:Extensions_Plugin_Manager_Edit_System_Group
+plugins=plugin-group-user.md=Chunk4x:Extensions_Plugin_Manager_Edit_User_Group
+plugins=plugin-group-web-services.md=Chunk4x:Extensions_Plugin_Manager_Edit_Web_Services_Group
+plugins=plugin-group-workflow.md=Chunk4x:Extensions_Plugin_Manager_Edit_Workflow_Group
 
 post-install-messages=post-installation-messages-options.md=https://docs.joomla.org/Help5.x:Post-installation_Messages:_Options
 post-install-messages=post-installation-messages-for-joomla-cms.md=https://docs.joomla.org/Help5.x:Post-installation_Messages_for_Joomla_CMS

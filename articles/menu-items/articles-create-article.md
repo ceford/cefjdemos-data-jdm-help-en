@@ -81,16 +81,11 @@ To edit a Menu Item:
 This Screenshot shows Joomla core Frontend Template **Cassiopeia** with all
 Editing Layout options set to 'Hide'.
 
-<img
-src="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/600px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/900px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png 1.5x, https://docs.joomla.org/images/thumb/0/0a/Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png/1200px-Help-4x-Menus-Item-Articles-Create-Article-frontend-content-en.png 2x"
-data-file-width="1728" data-file-height="1253" width="600" height="435"
-alt=" Item Articles Create Article frontend content" />
+[articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
 
 ## Tips
 
 An unauthorised user will normally get an error on selection of a
 *Create Article* menu item. For this reason, it is normal practice to give
-the menu item a viewing Access Level that can only be seen by users 
+the menu item a viewing Access Level that can only be seen by users
 authorised to add articles.

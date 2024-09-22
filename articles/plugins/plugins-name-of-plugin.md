@@ -4,59 +4,36 @@
 
 The *Plugin* page provides access to edit the details and options of a all
 plugins. Common options for all plugins are located in the right hand
-part of the *Plugin tab* described below. 
+part of the *Plugin tab* described below.
 
 ### Plugins Groups
 
-There are a large number of core plugins available. They are listed here by 
+There are a large number of core plugins available. They are listed here by
 group with links to separate documentation:
 
-* [Action Log Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Action_Log_Group)
- (1 Plugin)
-* [API Authentication Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_API_Authentication_Group)
- (2 Plugins)
-* [Authentication Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Authentication_Group)
- (3 Plugins)
-* [Behaviour Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Behaviour_Group)
- (3 Plugins)
-* [Content Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Content_Group)
- (10 Plugins)
-* [Editors Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Editor_Group)
- (3 Plugins)
-* [Editor Button Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Button_Group)
- (8 Plugins)
-* [Extensions Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Extension_Group)
- (3 Plugins)
-* [Fields Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Fields_Group)
- (16 Plugins)
-* [FileSystem Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_FileSystem_Group)
- (1 Plugins)
-* [Finder Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group)
- (5 Plugins)
-* [Installer Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Installer_Group)
- (5 Plugins)
-* [Media Action Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Media_Action_Group)
- (3 Plugins)
-* Multi-factor Authentication Group
- (5 Plugins)
-* [Privacy Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Privacy_Group)
- (6 Plugins)
-* [Quick Icon Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Quick_Icon_Group)
- (7 Plugins)
-* [Sample Data Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Sample_Data_Group)
- (2 Plugins, 3 Plugins for Development installations)
-* Schema.org Group
- (9 Plugins)
-* [System Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_System_Group)
- (24 Plugins)
-* Task Group
- (9 Plugins)
-* [User Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_User_Group)
- (5 Plugins)
-* [Web Services Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Web_Services_Group)
- (17 Plugins)
-* [Workflow Group.](https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Workflow_Group)
- (3 Plugins)
+* [Action Log Group.](jdocmanual?article=help/plugins/plugin-group-action-logs) (1 Plugin)
+* [API Authentication Group.](jdocmanual?article=help/plugins/plugin-group-api-authentication) (2 Plugins)
+* [Authentication Group.](jdocmanual?article=help/plugins/plugin-group-authentication) (3 Plugins)
+* [Behaviour Group.](jdocmanual?article=help/plugins/plugin-group-behavior) (3 Plugins)
+* [Content Group.](jdocmanual?article=help/plugins/plugin-group-content) (10 Plugins)
+* [Editors Group.](jdocmanual?article=help/plugins/plugin-group-editors) (3 Plugins)
+* [Editor Xtd Button Group.](jdocmanual?article=help/plugins/plugin-group-editors-xtd) (8 Plugins)
+* [Extensions Group.](jdocmanual?article=help/plugins/plugin-group-extensions) (3 Plugins)
+* [Fields Group.](jdocmanual?article=help/plugins/plugin-group-fields) (16 Plugins)
+* [FileSystem Group.](jdocmanual?article=help/plugins/plugin-group-file-system) (1 Plugins)
+* [Finder Group.](jdocmanual?article=help/plugins/plugin-group-finder) (5 Plugins)
+* [Installer Group.](jdocmanual?article=help/plugins/plugin-group-installer) (5 Plugins)
+* [Media Action Group.](jdocmanual?article=help/plugins/plugin-group-media-action) (3 Plugins)
+* Multi-factor Authentication Group (5 Plugins)
+* [Privacy Group.](jdocmanual?article=help/plugins/plugin-group-privacy) (6 Plugins)
+* [Quick Icon Group.](jdocmanual?article=help/plugins/plugin-group-quick-icon) (7 Plugins)
+* [Sample Data Group.](jdocmanual?article=help/plugins/plugin-group-sample-data) (2 Plugins, 3 Plugins for Development installations)
+* Schema.org Group (9 Plugins)
+* [System Group.](jdocmanual?article=help/plugins/plugin-group-system) (24 Plugins)
+* Task Group (9 Plugins)
+* [User Group.](jdocmanual?article=help/plugins/plugin-group-user) (5 Plugins)
+* [Web Services Group.](jdocmanual?article=help/plugins/plugin-group-web-services) (17 Plugins)
+* [Workflow Group.](jdocmanual?article=help/plugins/plugin-group-workflow) (3 Plugins)
 
 The complete list of plugins is available in a
 [single long list](https://docs.joomla.org/Chunk4x:List_of_Plugins).
@@ -89,8 +66,8 @@ Starting from the Administrator menu:
 
 **type/file** set as *badges* help to locate the plugin files in the source code.
 
-**Description** A brief description of what this Plugin does. It cannot be 
-changed as it is specified by the developer of the plugin. It may be blank if 
+**Description** A brief description of what this Plugin does. It cannot be
+changed as it is specified by the developer of the plugin. It may be blank if
 the developer did not specify a description for the plugin.
 
 If the plugin has configurable options they will appear here. Many plugins

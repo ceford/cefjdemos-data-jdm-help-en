@@ -2,11 +2,11 @@
 
 ## Description
 
-The *Component: Edit Field* page is similar for all components that implement 
-fields but the page title changes depending on context: *Articles: Edit Field*, 
-*Contacts: Edit Field* or *Users: Edit Field*. 
+The *Component: Edit Field* page is similar for all components that implement
+fields but the page title changes depending on context: *Articles: Edit Field*,
+*Contacts: Edit Field* or *Users: Edit Field*.
 
-The **General** tab changes to reflect the type of field being edited and once 
+The **General** tab changes to reflect the type of field being edited and once
 a field has been saved its field type cannot be changed. However it easy to
 delete fields and create new ones.
 
@@ -27,7 +27,7 @@ Some aspects of this page are covered in separate Help articles:
   * Select a **Title** from the list to edit an existing field.
 
 **Note:** There is a dropdown list that allows creation of Fields for a
-Category, and Mail in the Contact component. They require some coding 
+Category, and Mail in the Contact component. They require some coding
 experience to prepare suitable template overrides.
 
 ## Screenshot
@@ -148,6 +148,6 @@ field you are creating needs to be: `field36:value1[OR]field36:value2` where
 
 #### Smart Search
 
-- **Search Index**  Warning: When *Make searchable* is selected, content 
-  from the field is indexed with the viewing permissions of the content item. 
-  This might lead to unexpected information disclosure. 
+- **Search Index**  Warning: When *Make searchable* is selected, content
+  from the field is indexed with the viewing permissions of the content item.
+  This might lead to unexpected information disclosure.

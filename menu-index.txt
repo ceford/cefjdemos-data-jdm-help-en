@@ -270,6 +270,26 @@ heading=plugins=Plugins
 help=plugins=plugins.md
 help=plugins=plugins-name-of-plugin.md
 help=plugins=plugin-options.md
+help=plugins=plugin-group-action-logs.md
+help=plugins=plugin-group-api-authentication.md
+help=plugins=plugin-group-authentication.md
+help=plugins=plugin-group-behavior.md
+help=plugins=plugin-group-content.md
+help=plugins=plugin-group-editors-xtd.md
+help=plugins=plugin-group-editors.md
+help=plugins=plugin-group-extensions.md
+help=plugins=plugin-group-fields.md
+help=plugins=plugin-group-file-system.md
+help=plugins=plugin-group-finder.md
+help=plugins=plugin-group-installer.md
+help=plugins=plugin-group-media-action.md
+help=plugins=plugin-group-privacy.md
+help=plugins=plugin-group-quick-icon.md
+help=plugins=plugin-group-sample-data.md
+help=plugins=plugin-group-system.md
+help=plugins=plugin-group-user.md
+help=plugins=plugin-group-web-services.md
+help=plugins=plugin-group-workflow.md
 
 heading=post-install-messages=Post Installation Messages
 help=post-install-messages=post-installation-messages-for-joomla-cms.md
