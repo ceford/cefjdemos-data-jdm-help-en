@@ -62,5 +62,5 @@ There are two routes to the Categories list page:
 
 ## Tips
 
-- Click on an icon in the Status column to toggle between Published and
+- Select an icon in the Status column to toggle between Published and
   Unpublished.
