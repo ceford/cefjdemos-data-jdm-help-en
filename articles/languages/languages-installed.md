@@ -43,7 +43,7 @@ Some elements of this page are covered in separate Help articles:
   with prompts in Spanish.
 - Changing a User's Language or the Default Language does not affect the
   website's Articles and other content.
-- **Important**: Do not delete the default language files (for example,
+- **Important:** Do not delete the default language files (for example,
   with FTP). This will create errors on both the Frontend and Backend.
 - Additional Languages can be added using the Install Languages Screen.
 - If desired, you can show the Frontend site in one Language and show
