@@ -33,7 +33,7 @@ experience to prepare suitable template overrides.
 This example is an *Articles: Edit Field Group* page. *Contacts: Edit Field Group*
 and *Users: Edit Field Group* are similar.
 
-![articles edit field group](../../../de/images/fields/articles-edit-field-group.png)
+![articles edit field group](../../../en/images/fields/articles-edit-field-group.png)
 
 ## Form Fields
 

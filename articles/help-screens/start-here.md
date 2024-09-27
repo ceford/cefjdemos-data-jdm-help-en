@@ -6,7 +6,8 @@ For help with a specific administrator page, within the Joomla
 administrator interface you can select the **Help** toolbar button for
 further information about the page. It is located at the right of the
 Toolbar just beneath the Title bar. Example:
-![help toolbar](../../../en/images/help-screens/start-here-top-bars.png "Help Toolbar")
+
+![help toolbar](../../../en/images/help-screens/start-here-top-bars.png)
 
 A modal dialog will pop up in the middle of the screen containing Help
 information specific to that page.

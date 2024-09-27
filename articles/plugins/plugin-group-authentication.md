@@ -6,7 +6,7 @@ The plugins in this group are used for standard user login to the Site or Admini
 
 ## Authentication - Cookie
 
-![cookie authentication plugin](../../../en/images/plugins/plugin-authentication-group-cookie.png)
+![cookie authentication plugin](../../../en/images/plugins/plugin-group-authentication-cookie.png)
 
 - **Cookie Lifetime** The number of days until the authentication cookie will expire. Other factors may cause it to expire before this. Longer lengths are less secure.
 - **Key Length** The length of the key to use to encrypt the cookie. Longer lengths are more secure, but they will slow performance.
@@ -19,7 +19,7 @@ This plugin processes the default User Authentication method in Joomla. It has n
 
 This plugin processes User Authentication against an LDAP server.
 
-![ldap authentication plugin](../../../en/images/plugins/plugin-authentication-group-ldap.png)
+![ldap authentication plugin](../../../en/images/plugins/plugin-group-authentication-ldap.png)
 
 - **Host** The host URL. For example, `openldap.mycompany.org`.
 - **Port** The port number. The default is 389.
