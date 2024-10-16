@@ -228,6 +228,7 @@ help=modules-admin=admin-modules-user-menu.md
 
 heading=modules-site=Site Modules
 help=modules-site=site-modules-site.md
+help=modules-site=site-modules-articles.md
 help=modules-site=site-modules-articles-archived.md
 help=modules-site=site-modules-articles-categories.md
 help=modules-site=site-modules-articles-category.md

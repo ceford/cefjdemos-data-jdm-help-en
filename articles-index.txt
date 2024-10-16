@@ -189,6 +189,7 @@ modules-admin=admin-modules-guided-tours.md=https://docs.joomla.org/Help5.x:Admi
 modules-admin=admin-modules-user-menu.md=https://docs.joomla.org/Help5.x:Admin_Modules:_User_Menu
 
 modules-site=site-modules-site.md=https://docs.joomla.org/Help5.x:Extensions_Module_Manager_Edit
+modules-site=site-modules-articles.md=https://docs.joomla.org/Help5.x:Site_Modules:_Articles
 modules-site=site-modules-articles-archived.md=https://docs.joomla.org/Help5.x:Site_Modules:_Articles_-_Archived
 modules-site=site-modules-articles-categories.md=https://docs.joomla.org/Help5.x:Site_Modules:_Articles_-_Categories
 modules-site=site-modules-articles-category.md=https://docs.joomla.org/Help5.x:Site_Modules:_Articles_-_Category
