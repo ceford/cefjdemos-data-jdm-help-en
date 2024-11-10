@@ -114,7 +114,9 @@ help=menus=menus-items.md
 help=menus=menus-new-item.md
 help=menus=menus-options.md
 
-heading=menu-items-common=Menu Items Common
+heading=menu-items=Menu Items
+
+heading-1=menu-items-common=Menu Items Common
 help=menu-items-common=menu-item-details.md
 help=menu-items-common=menu-item-category.md
 help=menu-items-common=menu-item-blog-layout.md
@@ -127,10 +129,10 @@ help=menu-items-common=menu-item-metadata.md
 help=menu-items-common=menu-item-associations.md
 help=menu-items-common=menu-item-module-assignment.md
 
-heading=menu-items-administrator=Menu Items: Administrator
+heading-1=menu-items-administrator=Menu Items: Administrator
 help=menu-items=administrator-components-menu-container.md
 
-heading=menu-items-articles=Menu Items: Articles
+heading-1=menu-items-articles=Menu Items: Articles
 help=menu-items=articles-archived-articles.md
 help=menu-items=articles-category-blog.md
 help=menu-items=articles-category-list.md
@@ -139,42 +141,42 @@ help=menu-items=articles-featured-articles.md
 help=menu-items=articles-list-all-categories.md
 help=menu-items=articles-single-article.md
 
-heading=menu-items-configuration=Menu Items: Configuration
+heading-1=menu-items-configuration=Menu Items: Configuration
 help=menu-items=configuration-display-template-options.md
 help=menu-items=configuration-site-configuration-options.md
 
-heading=menu-items-contacts=Menu Items: Contacts
+heading-1=menu-items-contacts=Menu Items: Contacts
 help=menu-items=contacts-create-contact.md
 help=menu-items=contacts-featured-contacts.md
 help=menu-items=contacts-list-all-contact-categories.md
 help=menu-items=contacts-list-contacts-in-a-category.md
 help=menu-items=contacts-single-contact.md
 
-heading=menu-items-news-feeds=Menu Items: News Feeds
+heading-1=menu-items-news-feeds=Menu Items: News Feeds
 help=menu-items=news-feeds-list-all-news-feed-categories.md
 help=menu-items=news-feeds-list-news-feeds-in-a-category.md
 help=menu-items=news-feeds-single-news-feed.md
 
-heading=menu-items-privacy=Menu Items: Privacy
+heading-1=menu-items-privacy=Menu Items: Privacy
 help=menu-items=privacy-confirm-request.md
 help=menu-items=privacy-create-request.md
 help=menu-items=privacy-extend-consent.md
 
-heading=menu-items-smart-search=Menu Items: Smart Search
+heading-1=menu-items-smart-search=Menu Items: Smart Search
 help=menu-items=smart-search-search.md
 
-heading=menu-items-system-links=Menu Items: System Links
+heading-1=menu-items-system-links=Menu Items: System Links
 help=menu-items=system-links-menu-heading.md
 help=menu-items=system-links-menu-item-alias.md
 help=menu-items=system-links-separator.md
 help=menu-items=system-links-url.md
 
-heading=menu-items-tags=Menu Items: Tags
+heading-1=menu-items-tags=Menu Items: Tags
 help=menu-items=tags-compact-list-of-tagged-items.md
 help=menu-items=tags-list-all-tags.md
 help=menu-items=tags-tagged-items.md
 
-heading=menu-items-users=Menu Items: Users
+heading-1=menu-items-users=Menu Items: Users
 help=menu-items=users-edit-user-profile.md
 help=menu-items=users-login-form.md
 help=menu-items=users-logout.md
@@ -183,10 +185,10 @@ help=menu-items=users-registration-form.md
 help=menu-items=users-user-profile.md
 help=menu-items=users-username-reminder-request.md
 
-heading=menu-items-wrapper=Menu Items: Wrapper
+heading-1=menu-items-wrapper=Menu Items: Wrapper
 help=menu-items=wrapper-iframe-wrapper.md
 
-heading=menu-items-weblinks=Menu Items: Weblinks
+heading-1=menu-items-weblinks=Menu Items: Weblinks
 help=menu-items=weblinks-weblink-categories.md
 help=menu-items=weblinks-weblink-category.md
 help=menu-items=weblinks-single-weblink.md
