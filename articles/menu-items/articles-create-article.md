@@ -81,7 +81,7 @@ To edit a Menu Item:
 This Screenshot shows Joomla core Frontend Template **Cassiopeia** with all
 Editing Layout options set to 'Hide'.
 
-[articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
 
 ## Tips
 
