@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:Contacts:_New_or_Edit_Category / Display title: Contacts: Edit Category -->
+<!-- Filename: Help5.x:Contacts:_Edit_Category / Display title: Contacts: Edit Category -->
 
 ## Description
 

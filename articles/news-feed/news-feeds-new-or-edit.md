@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:News_Feeds:_New_or_Edit / Display title: News Feeds: Edit -->
+<!-- Filename: Help4.x:News_Feeds:_Edit / Display title: News Feeds: Edit -->
 
 ## Description
 
@@ -34,7 +34,7 @@ Some aspects of this page are covered in separate Help articles:
 - **Link** The link of this News Feed. This should normally begin with
   `https://`.
 - **Description** The description for the item. descriptions may be shown on
-  web pages, depending on the parameter settings. 
+  web pages, depending on the parameter settings.
 
 ### Options Tab
 
@@ -44,12 +44,12 @@ Some aspects of this page are covered in separate Help articles:
 
 - **First Image** Select or upload the first image of the News Feed.
 - **First Image Float** Controls placement of the image.
-- **Image Description (Alt Text)** Alternative text for screen readers. This 
+- **Image Description (Alt Text)** Alternative text for screen readers. This
   text is replaced with the caption text if caption text is available.
 - **Caption** The caption for the image.
 - **Second Image** Select or upload the second image of the News Feed.
 - **Second Image Float** Controls placement of the image.
-- **Image Description (Alt Text)** Alternative text to use for screen readers. 
+- **Image Description (Alt Text)** Alternative text to use for screen readers.
   This text is replaced with the caption text if caption text is available.
 - **Caption** The caption for the image.
 

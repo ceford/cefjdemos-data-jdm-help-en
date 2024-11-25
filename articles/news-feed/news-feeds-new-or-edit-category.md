@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:News_Feeds:_New_or_Edit_Category / Display title: News Feeds: Edit Category -->
+<!-- Filename: Help4.x:News_Feeds:_Edit_Category / Display title: News Feeds: Edit Category -->
 
 ## Description
 

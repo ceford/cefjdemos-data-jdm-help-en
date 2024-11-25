@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:Contacts:_New_or_Edit / Display title: Contacts: Edit -->
+<!-- Filename: Help5.x:Contacts:_Edit / Display title: Contacts: Edit -->
 
 ## Description
 
@@ -47,7 +47,7 @@ Here you enter the basic information about the contact.
 
 - **Linked User** If this Contact is linked to a user select the *Select User*
   icon to reveal a popup form from which to select one of the registered users.
-  A linked user may be removed with the *- No User -* button in the 
+  A linked user may be removed with the *- No User -* button in the
   Select User popup form.
 - **Image** Image to display for this Contact. Select an image file
   from the drop-down list box. This lists images in the 'images/stories'
@@ -66,7 +66,7 @@ Here you enter the basic information about the contact.
 - **Fax** The Contact's fax number.
 - **Website** The Contact's web site address.
 - **Sort Fields** To enable sort fields for Category lists go to the
-  **Contacts → Options** screen and set **List Layouts → Sort By** 
+  **Contacts → Options** screen and set **List Layouts → Sort By**
   to **Sort Name**. Then you need to use real words for sorting.
   For example, set First Sort Field to **Doe**, second field to **John**
   for the first contact; then First Sort Field to **Doe**, second field
@@ -143,7 +143,7 @@ Other information about this Contact can be entered using the editor.
 - **Contact Form** Show or hide the E-mail form. If Show is selected, a
   form is displayed that allows the user to send an e-mail to the
   Contact from the web site.
-- **Send Copy to Submitter** Show or hide the checkbox: 
+- **Send Copy to Submitter** Show or hide the checkbox:
   *E-mail a copy of this message to your own address.*
 - **Session Check** Check for the existence of session cookie. This
   means that users without cookies enabled will not be able to send

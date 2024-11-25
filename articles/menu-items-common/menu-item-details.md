@@ -1,10 +1,10 @@
-<!-- Filename: Help6.x:Menu_Item_Details / Display title: Menu Item Details-->
+<!-- Filename: Help6.x:Menu_Item_Details / Display title: Menu Item Details -->
 
 ## Description
 
 All menu items have a similar layout but some of the form fields and
-some of the tabs change from type to type. This page describes the initial 
-layout of the **Details** tab before a menu item type is selected. 
+some of the tabs change from type to type. This page describes the initial
+layout of the **Details** tab before a menu item type is selected.
 
 ## How to Access
 
@@ -44,7 +44,7 @@ this screenshot.
   determine whether a Menu Item is a top-level item or a submenu item.
   Select *- No Parent -* (the default value) if this is a top-level
   Menu Item. Otherwise, select the Menu Item that is this item's parent.
-- **Ordering** Select *- First -* or *- Last -* or the item that this item 
+- **Ordering** Select *- First -* or *- Last -* or the item that this item
   should follow.
 - **Status** The published status of the item.
 - **Start Publishing** Date and time to start publishing. Use this
@@ -54,7 +54,7 @@ this screenshot.
   field if you want to have content automatically changed to Unpublished
   state at a future time (for example, when it is no longer applicable).
 - **Default Page** If Yes, this menu item will be the default or home page
-  for the site. There must be exactly one menu item set as the default page. 
+  for the site. There must be exactly one menu item set as the default page.
 - **Access** The viewing Access  Level   for this item.
 - **Language** Item language.
 - **Note** This is normally for the site administrator's use (for

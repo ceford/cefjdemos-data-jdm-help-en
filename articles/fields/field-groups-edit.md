@@ -1,12 +1,12 @@
-<!-- Filename: Help4.x:Component:_New_or_Edit_Field_Group / Display title: Component: Edit Field Group -->
+<!-- Filename: Help4.x:Component:_Edit_Field_Group / Display title: Component: Edit Field Group -->
 
 ## Description
 
 Field Groups are used to collect related fields under a named Tab in a
-data entry form. The Component: Edit Field Group is similar for all components 
-that implement fields but the page title changes depending on context: 
+data entry form. The Component: Edit Field Group is similar for all components
+that implement fields but the page title changes depending on context:
 Articles: Edit Field Group, Contacts: Edit Field Group or Users: Edit Field
-Group. 
+Group.
 
 ### Common Elements
 
@@ -25,7 +25,7 @@ Some aspects of this page are covered in separate Help articles:
   * Select a **Title** from the list to edit an existing field.
 
 **Note:** There is a dropdown list that allows creation of Fields for a
-Category, and Mail in the Contact component. They require some coding 
+Category, and Mail in the Contact component. They require some coding
 experience to prepare suitable template overrides.
 
 ## Screenshot
@@ -43,7 +43,7 @@ and *Users: Edit Field Group* are similar.
 
 #### Left Panel
 
-- **Description** Text that will be displayed as a tool tip when on hover 
+- **Description** Text that will be displayed as a tool tip when on hover
   over the text box while creating an article or a contact or a
   third party component that supports custom fields. This text is not
   translatable. You do not see this description in the Frontend.
@@ -56,10 +56,10 @@ and *Users: Edit Field Group* are similar.
   - *Unpublished* The field group will not be visible to users while
     editing an article or a contact.
   - *Archived* The field group will no longer show on editing an article
-    or a contact. You can open it in Field Groups when you set the filter 
+    or a contact. You can open it in Field Groups when you set the filter
     to archived.
   - *Trashed* The field group is deleted but still in the database. It
-    can be permanently deleted from the database in Field Groups with the 
+    can be permanently deleted from the database in Field Groups with the
     Empty Trash function.
 - **Access** Select the viewing access level for this field group. The
   access levels depend on what has been set up in Users: Access Levels.

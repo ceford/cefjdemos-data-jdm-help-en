@@ -3,8 +3,8 @@
 ## Description
 
 The *Articles: Options* page is used to set global default values for articles.
-They are used when *Use Global* is selected for an option in an Articles menu 
-item. For example, to show the *Create Date* for an article in your Articles 
+They are used when *Use Global* is selected for an option in an Articles menu
+item. For example, to show the *Create Date* for an article in your Articles
 menu items, set that option to *Show* here and it will be the default value.
 
 ### Common Elements
@@ -161,6 +161,7 @@ by the individual category or menu settings.
 - **\# Articles in Category** Show a count of the total number of
   articles in each category.
 - **Tags** Show the tags for the category.
+
 
 ### Categories tab
 

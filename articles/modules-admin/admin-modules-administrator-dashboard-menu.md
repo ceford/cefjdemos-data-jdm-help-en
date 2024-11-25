@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:Admin_Modules:_Administrator_Dashboard_Menu/ Display title: Modules: Administrator Dashboard Menu -->
+<!-- Filename: Help4.x:Admin_Modules:_Administrator_Dashboard_Menu Display title: Modules: Administrator Dashboard Menu -->
 
 ## Description
 

@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:Articles:_New_or_Edit_Category / Display title: Articles: Edit Category -->
+<!-- Filename: Help5.x:Articles:_Edit_Category / Display title: Articles: Edit Category -->
 
 ## Description
 
@@ -10,7 +10,7 @@ Categories can be nested to any level. All Articles must be assigned
 either to a parent Category or a child Category or to the default
 Category named *Uncategorised*.
 
-The *Articles: Edit Category* page is used to create a new Category or to 
+The *Articles: Edit Category* page is used to create a new Category or to
 change the properties of an existing Category.
 
 ### Common Elements
@@ -55,7 +55,7 @@ To edit an existing Category:
 
 #### Left Panel
 
-- **Description** The description for the item. Category descriptions may be 
+- **Description** The description for the item. Category descriptions may be
   shown on web pages, depending on other parameter settings.
 
 ### Workflow tab
