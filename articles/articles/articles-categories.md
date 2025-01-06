@@ -1,5 +1,7 @@
 <!-- Filename: Help4.x:Articles:_Categories / Display title: Articles: Categories -->
 
+Something different. 
+
 ## Description
 
 Categories are are used to organise Articles for ease of management and
