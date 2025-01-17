@@ -20,7 +20,7 @@ screenshot shows the batch dialog for Articles:
 3.  Set one or more of the following values:
     - To change the **Language**, select the desired new language from
       the Set Language list box. This option is only present in multilingual
-	  sites.
+      sites.
     - To change the **Access Level**, select the desired new access
       level from the Set Access Level list box.
     - To change the **Category**, select a category. To leave the

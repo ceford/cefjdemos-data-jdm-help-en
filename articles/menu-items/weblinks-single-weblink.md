@@ -25,7 +25,7 @@ To create a new **Single webink** menu item:
   - Select the New button in the Toolbar. Then...
   - Select the Menu Item Type Select button.
   - In the modal dialogue select the Weblinks item to open a list and then
-	select the **Single Weblink** item.
+    select the **Single Weblink** item.
 
 To edit an existing **Single Weblink** menu item:
 
@@ -36,4 +36,3 @@ To edit an existing **Single Weblink** menu item:
 ![Menu item weblinks submit a web link](../../../en/images/menu-items/weblinks-single-weblink-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.
-

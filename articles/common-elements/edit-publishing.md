@@ -21,9 +21,9 @@ Most form fields have default values allow the item to be saved. You may wish
 to take appropriate action for the following fields:
 
 - **Meta Description:** It is in your own interests to describe the content of
-	this item in less tha 64 characters.
+    this item in less tha 64 characters.
 - **Keywords** A feature of web pages abandoned by search engines years ago.
-	Leave empty unless you have a specific application that uses them.
+    Leave empty unless you have a specific application that uses them.
 
 ### Publishing panel
 
@@ -63,4 +63,3 @@ to take appropriate action for the following fields:
 - **Author**. Entry for an Author name within the metadata.
 - **Content Rights**. Describe what rights others have to use this
   content.
-
