@@ -103,6 +103,8 @@ help=maintenance=maintenance-database.md
 help=maintenance=maintenance-global-check-in.md
 help=maintenance=check-in-options.md
 help=maintenance=scheduled-tasks.md
+help=maintenance=scheduled-tasks-edit-task.md
+help=maintenance=scheduled-tasks-configuration.md
 
 heading=media=Media
 help=media=media.md
