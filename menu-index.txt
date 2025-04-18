@@ -102,6 +102,7 @@ help=maintenance=cache-options.md
 help=maintenance=maintenance-database.md
 help=maintenance=maintenance-global-check-in.md
 help=maintenance=check-in-options.md
+help=maintenance=scheduled-tasks.md
 
 heading=media=Media
 help=media=media.md

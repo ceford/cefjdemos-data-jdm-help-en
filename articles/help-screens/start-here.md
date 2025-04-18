@@ -28,13 +28,13 @@ have experienced the pain of learning a new system. New terminology, new
 ways of doing things, perhaps even the web itself may be new to you.
 Then let this guide relieve some of that pain.
 
-- [Getting Started: Introduction to Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla "Introduction to Joomla!")
-- [Getting Started: Articles and Categories](jdocmanual?article=user/getting-started/articles-and-categories "Articles and Categories")
-- [Getting Started: Adding an Article](jdocmanual?article=user/getting-started/adding-an-article "Adding an Article")
-- [Getting Started: Adding a Category](jdocmanual?article=user/getting-started/adding-a-category "Adding a Category")
-- [Getting Started: Adding a Menu Item](jdocmanual?article=user/getting-started/adding-a-menu-item "Adding a Menu Item")
-- [Getting Started: Adding a Module](jdocmanual?article=user/getting-started/adding-a-module "Adding a Module")
+- [Getting Started: Introduction to Joomla!](jdocmanual?article=user/getting-started/introduction-to-joomla)
+- [Getting Started: Articles and Categories](jdocmanual?article=user/getting-started/articles-and-categories)
+- [Getting Started: Adding an Article](jdocmanual?article=user/getting-started/adding-an-article)
+- [Getting Started: Adding a Category](jdocmanual?article=user/getting-started/adding-a-category)
+- [Getting Started: Adding a Menu Item](jdocmanual?article=user/getting-started/adding-a-menu-item)
+- [Getting Started: Adding a Module](jdocmanual?article=user/getting-started/adding-a-module)
 
 ## Keeping your website secure
 
-- [Security: Best Practices](jdocmanual?article=user/security/best-practices "Security: Best Practices")
+- [Security: Best Practices](jdocmanual?article=user/security/best-practices)

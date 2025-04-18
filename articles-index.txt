@@ -81,6 +81,7 @@ maintenance=cache-options.md=https://docs.joomla.org/Help5.x:Cache:_Options
 maintenance=maintenance-database.md=https://docs.joomla.org/Help5.x:Information:_Database
 maintenance=maintenance-global-check-in.md=https://docs.joomla.org/Help5.x:Maintenance:_Global_Check-in
 maintenance=check-in-options.md=https://docs.joomla.org/Help5.x:Check-in:_Options
+maintenance=scheduled-tasks.md=https://docs.joomla.org/Help5.x:Scheduled_Tasks
 
 media=media-options.md=https://docs.joomla.org/Help5.x:Media:_Options
 media=media.md=https://docs.joomla.org/Help5.x:Media
