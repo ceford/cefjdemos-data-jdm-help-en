@@ -1,7 +1,7 @@
 articles=articles-categories.md=https://docs.joomla.org/Help5.x:Articles:_Categories
 articles=articles-edit.md=https://docs.joomla.org/Help5.x:Articles:_Edit
 articles=articles-featured.md=https://docs.joomla.org/Help5.x:Articles:_Featured
-articles=articles-edit-category.md=https://docs.joomla.org/Help5.x:Articles:_New_or_Edit_Category
+articles=articles-edit-category.md=https://docs.joomla.org/Help5.x:Articles:_Edit_Category
 articles=articles-options.md=https://docs.joomla.org/Help5.x:Articles:_Options
 articles=articles.md=https://docs.joomla.org/Help5.x:Articles
 
@@ -29,8 +29,8 @@ common-elements=list-column-headers.md=Help6.x:List_Column_Headers
 common-elements=toolbars.md=Help6.x:Toolbars
 
 contacts=contacts-categories.md=https://docs.joomla.org/Help5.x:Contacts:_Categories
-contacts=contacts-edit.md=https://docs.joomla.org/Help5.x:Contacts:_New_or_Edit
-contacts=contacts-edit-category.md=https://docs.joomla.org/Help5.x:Contacts:_New_or_Edit_Category
+contacts=contacts-edit.md=https://docs.joomla.org/Help5.x:Contacts:_Edit
+contacts=contacts-edit-category.md=https://docs.joomla.org/Help5.x:Contacts:_Edit_Category
 contacts=contacts-options.md=https://docs.joomla.org/Help5.x:Contacts:_Options
 contacts=contacts.md=https://docs.joomla.org/Help5.x:Contacts
 
@@ -53,9 +53,9 @@ guided-tours=guided-tours-edit-step.md=https://docs.joomla.org/Help5.x:Guided_To
 guided-tours=guided-tours-edit-tour.md=https://docs.joomla.org/Help5.x:Guided_Tours:_New_or_Edit_Tour
 guided-tours=guided-tours-options.md=https://docs.joomla.org/Help5.x:Guided_Tours:_Options
 guided-tours=guided-tours-steps.md=https://docs.joomla.org/Help5.x:Guided_Tours:_Steps
-guided-tours=guided-tours.md=https://docs.joomla.org/Help5.x:Guided_Tours:_Tours
+guided-tours=guided-tours.md=https://docs.joomla.org/Help5.x:Guided_Tours
 
-help-screens=help-screens-styleguide.md=https://docs.joomla.org/Help5.x:Help_screens_styleguide
+help-screens=help-screens-styleguide.md=https://docs.joomla.org/Help4.x:Help_screens_styleguide
 help-screens=start-here.md=https://docs.joomla.org/Help5.x:Start_Here
 
 information=information-warnings.md=https://docs.joomla.org/Help5.x:Information:_Warnings
@@ -154,10 +154,10 @@ menu-items=users-username-reminder-request.md=https://docs.joomla.org/Help5.x:Me
 
 menu-items=wrapper-iframe-wrapper.md=https://docs.joomla.org/Help5.x:Menu_Item:_Iframe_Wrapper
 
-menu-items=weblinks-weblink-categories.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Categories
-menu-items=weblinks-weblink-category.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Category
-menu-items=weblinks-single-weblink.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Single_Weblink
-menu-items=weblinks-weblink-submit.md=https://docs.joomla.org/Help5.x:Menus_Menu_Item_Weblink_Submit
+menu-items=weblinks-weblink-categories.md=https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Categories
+menu-items=weblinks-weblink-category.md=https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Category
+menu-items=weblinks-single-weblink.md=https://docs.joomla.org/Help6.x:Menus_Menu_Item_Single_Weblink
+menu-items=weblinks-weblink-submit.md=https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Submit
 
 modules=module-options.md=Help6.x:Module:_Options
 modules=modules-module-tab.md=Help6.x:Modules_Module_Tab
@@ -166,7 +166,7 @@ modules=modules-options-tab.md=Help6.x:Modules_Options_Tab
 modules=modules-advanced-tab.md=Help6.x:Modules_Advanced_Tab
 modules=modules.md=https://docs.joomla.org/Help5.x:Modules
 
-modules-admin=admin-modules-administrator.md=https://docs.joomla.org/Help5.x:Extensions_Modules_Administrator
+modules-admin=admin-modules-administrator.md=https://docs.joomla.org/Help4.x:Extensions_Modules_Administrator
 modules-admin=admin-modules-action-logs-latest.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Action_Logs_-_Latest
 modules-admin=admin-modules-administrator-dashboard-menu.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Administrator_Dashboard_Menu
 modules-admin=admin-modules-administrator-menu.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Administrator_Menu
@@ -188,10 +188,10 @@ modules-admin=admin-modules-quick-icons.md=https://docs.joomla.org/Help5.x:Admin
 modules-admin=admin-modules-sample-data.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Sample_Data
 modules-admin=admin-modules-title.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Title
 modules-admin=admin-modules-toolbar.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Toolbar
-modules-admin=admin-modules-guided-tours.md=https://docs.joomla.org/Help5.x:Admin_Modules:_Tours_Menu
+modules-admin=admin-modules-guided-tours.md=https://docs.joomla.org/Help4.x:Admin_Modules:_Tours_Menu
 modules-admin=admin-modules-user-menu.md=https://docs.joomla.org/Help5.x:Admin_Modules:_User_Menu
 
-modules-site=site-modules-site.md=https://docs.joomla.org/Help5.x:Extensions_Module_Manager_Edit
+modules-site=site-modules-site.md=https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Edit
 modules-site=site-modules-articles.md=https://docs.joomla.org/Help5.x:Site_Modules:_Articles
 modules-site=site-modules-articles-archived.md=https://docs.joomla.org/Help5.x:Site_Modules:_Articles_-_Archived
 modules-site=site-modules-articles-categories.md=https://docs.joomla.org/Help5.x:Site_Modules:_Articles_-_Categories
@@ -217,7 +217,7 @@ modules-site=site-modules-tags-popular.md=https://docs.joomla.org/Help5.x:Site_M
 modules-site=site-modules-tags-similar.md=https://docs.joomla.org/Help5.x:Site_Modules:_Tags_-_Similar
 modules-site=site-modules-whos-online.md=https://docs.joomla.org/Help5.x:Site_Modules:_Who's_Online
 modules-site=site-modules-wrapper.md=https://docs.joomla.org/Help5.x:Site_Modules:_Wrapper
-modules-site=site-modules-weblinks.md=https://docs.joomla.org/Help5.x:Extensions_Module_Manager_Weblinks
+modules-site=site-modules-weblinks.md=https://docs.joomla.org/Help4.x:Extensions_Module_Manager_Weblinks
 
 multilingual-associations=multilingual-associations-edit.md=https://docs.joomla.org/Help5.x:Multilingual_Associations:_Edit
 multilingual-associations=multilingual-associations-options.md=https://docs.joomla.org/Help5.x:Multilingual_Associations:_Options
@@ -225,8 +225,8 @@ multilingual-associations=multilingual-associations.md=https://docs.joomla.org/H
 
 news-feed=news-feed-options.md=https://docs.joomla.org/Help5.x:News_Feed:_Options
 news-feed=news-feeds-categories.md=https://docs.joomla.org/Help5.x:News_Feeds:_Categories
-news-feed=news-feeds-new-or-edit.md=https://docs.joomla.org/Help5.x:News_Feeds:_New_or_Edit
-news-feed=news-feeds-new-or-edit-category.md=https://docs.joomla.org/Help5.x:News_Feeds:_New_or_Edit_Category
+news-feed=news-feeds-new-or-edit.md=https://docs.joomla.org/Help5.x:News_Feeds:_Edit
+news-feed=news-feeds-new-or-edit-category.md=https://docs.joomla.org/Help5.x:News_Feeds:_Edit_Category
 news-feed=news-feeds.md=https://docs.joomla.org/Help5.x:News_Feeds
 
 plugins=plugin-options.md=https://docs.joomla.org/Help5.x:Plugin:_Options
@@ -245,7 +245,7 @@ plugins=plugin-group-file-system.md=Chunk4x:Extensions_Plugin_Manager_Edit_FileS
 plugins=plugin-group-finder.md=Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group
 plugins=plugin-group-installer.md=Chunk4x:Extensions_Plugin_Manager_Edit_Installer_Group
 plugins=plugin-group-media-action.md=Chunk4x:Extensions_Plugin_Manager_Edit_Media_Action_Group
-plugins=plugin-group-privacy.md=nk4x:Extensions_Plugin_Manager_Edit_Privacy_Group
+plugins=plugin-group-privacy.md=Chunk4x:Extensions_Plugin_Manager_Edit_Privacy_Group
 plugins=plugin-group-quick-icon.md=Chunk4x:Extensions_Plugin_Manager_Edit_Quick_Icon_Group
 plugins=plugin-group-sample-data.md=Chunk4x:Extensions_Plugin_Manager_Edit_Sample_Data_Group
 plugins=plugin-group-system.md=Chunk4x:Extensions_Plugin_Manager_Edit_System_Group
@@ -273,7 +273,7 @@ redirects=redirects-links.md=https://docs.joomla.org/Help5.x:Redirects:_Links
 redirects=redirects-new-or-edit.md=https://docs.joomla.org/Help5.x:Redirects:_New_or_Edit
 redirects=redirect-options.md=https://docs.joomla.org/Help5.x:Redirect:_Options
 
-site=site-control-panel.md=https://docs.joomla.org/Help5.x:Site_Control_Panel
+site=site-control-panel.md=https://docs.joomla.org/Help5.x:Home_Dashboard
 site=site-global-configuration.md=https://docs.joomla.org/Help5.x:Site_Global_Configuration
 site=site-system-information.md=https://docs.joomla.org/Help5.x:Site_System_Information
 

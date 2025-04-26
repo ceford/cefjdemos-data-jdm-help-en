@@ -172,8 +172,7 @@ menu.
 - **Shared Sessions** When enabled, a user's session is shared between
   the Frontend and Backend sections of the site. Note that changing this
   value will invalidate all existing sessions on the site.This is not
-  available when the [Force HTTPS](#forcehttps) option is set to
-  *Administrator Only*.
+  available when the *Force HTTPS* option is set to *Administrator Only*.
 - **Track Session Metadata**
   - *Yes* Additional metadata about a user's session (including their
     username, user ID, and which application they are logged into) will
