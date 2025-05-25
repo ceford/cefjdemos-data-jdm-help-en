@@ -46,8 +46,6 @@ alt="tinymce medium preset toolbar" />
 This option provides all of the same buttons as documented in the Set 2
 Toolbar above. In addition, the following options are available.
 
-#
-
 #### Medium: Top Row
 
 - CMS Content: The Dropdown list provides access to link to an Article,
@@ -101,9 +99,7 @@ alt="pagebreak button" />
   need to change a field in the pagebreak, click on the article just
   past the pagebreak, press Backspace until the pagebreak is deleted,
   then insert a new pagebreak with the desired information.
-- The configuration is set in the Content - Page
-  Break
-  plugin.
+- The configuration is set in the Content - Page Break plugin.
 
 Read More: This button inserts a Read more break in the article. This
 shows as a red dotted line across the article.
@@ -212,16 +208,16 @@ rel="nofollow noreferrer noopener">JAWS</a> and
 rel="nofollow noreferrer noopener">NVDA</a>. You can use
 it effectively even if you don't use the mouse.
 
+#### Keyboard shortcuts
+
 | Task                                     | PC                     | macOS                  |
 |------------------------------------------|------------------------|------------------------|
-| Focus/jump to menu bar                   | Alt+F9                 | âŒ¥+F9                 |
-| Focus/jump to toolbar                    | Alt+F10                | âŒ¥+F10                |
-| Focus/jump to element path               | Alt+F11                | âŒ¥+F11                |
+| Focus/jump to menu bar                   | Alt+F9                 | ⌥+F9                 |
+| Focus/jump to toolbar                    | Alt+F10                | ⌥+F10                |
+| Focus/jump to element path               | Alt+F11                | ⌥+F11                |
 | Close menu/submenu/dialog                | Esc                    | esc                    |
 | Return to the editor content area        | Esc                    | esc                    |
 | Navigate left/right through menu/toolbar | Tab and the Arrow Keys | Tab and the Arrow Keys |
-
-Keyboard shortcuts
 
 See for more information:
 
