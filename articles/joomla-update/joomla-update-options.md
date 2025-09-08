@@ -18,7 +18,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Joomla Update Options](../../../en/images/joomla-update/joomla-update-options.png)
+![Joomla Update Options Update Source](../../../en/images/joomla-update/joomla-update-options.png)
 
 ## Form Fields
 
@@ -30,7 +30,6 @@ Some aspects of this page are covered in separate Help articles:
   - **Joomla Next** This setting causes Joomla to display a notice when a 
   new stable major version is available and all existing minor versions and
   extensions are up to date.
-  - **Testing** For Joomla Testers. More fields will appear.
   - **Custom URL** For Joomla Developers. More fields will appear.
 - **Minimum Stability** The minimum stability of the extension updates
   you would like to see. Development is the least stable, Stable is
@@ -49,3 +48,13 @@ Some aspects of this page are covered in separate Help articles:
 - **Confirm Backup Checkbox** Shows the checkbox to confirm you have taken 
   a backup and you are ready to update in the final step before the update is 
   actually applied. 
+
+### Automated Updates tab
+
+![Joomla Update Options Update Source](../../../en/images/joomla-update/joomla-update-options-automated-updates.png)
+
+- **Automated Update** When set to *Yes* your site will be updated to the latest version whenever it is available. This parameter can be configured on installation of a new Joomla site.
+- **Update Token** This is a token that identifies this site. It is created by the remote Joomla update server and cannot be changed by the user.
+- **Last Checked** The last time your site communicated with the update server.
+
+Please use the *Toggle Inline Help* button for more details.

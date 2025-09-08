@@ -36,7 +36,7 @@ screenshot shows the batch dialog for Articles:
         new category and, if selected, be assigned the new language,
         access level, and tag.
     - To add **Tags**, select the desired Tags from the dropdown or
-      choose to keep the tags currently added to the original articles.
+      choose to keep the tags currently added to the original articles. From Joomla 6 this item becomes ***Add or Remove Tag***. When selected, there is an *Action to Perform* choice: *Add* or *Remove*.
 4.  When all of the settings are entered, click on Process to perform
     the changes. A message **Batch process completed successfully.**
     will show.

@@ -127,9 +127,7 @@ standardised layouts.
 
 #### Link A
 
-- **Link A** The URL for the first link to be displayed in a fixed
-  location in the article text. This must be a full URL, not relative.
-  For example, it normally would start with `https:`.
+- **Link A** The URL for the first link to be displayed in a fixed location in the article text. This may be a full URL to an external site or a link to a page on the same site.
 - **Link A Text** The text used for Link A. If blank, the URL will be
   displayed.
 - **URL Target Window** Sets the default value for the target for the
@@ -139,7 +137,14 @@ standardised layouts.
   - *Open in new window* Opens the link in a new browser window.
   - *Open in popup* Opens the link in a pop-up browser window (without
     full navigation controls).
-  - *Modal* Opens the link in a modal pop-up window.
+  - *Modal* Opens the link in a modal pop-up window. From Joomla 6 the link can be to an external source or to some hidden text in the current article. In the example below the local link target would be *#my-popup-target* and the link text whatever is appropriate:
+    ```html
+    <div class="hidden">
+        <div id="my-popup-target">
+            <p class="p-3">Lorem ipsum dolor sit amet, cu vis velit signiferumque, eos no possim mollis facilisi.</p>
+        </div>
+    </div>
+    ```
 
 #### Link B, Link C
 

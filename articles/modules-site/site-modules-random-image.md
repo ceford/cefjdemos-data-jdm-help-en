@@ -38,7 +38,7 @@ Some elements of this page are covered in separate Help articles:
 
 #### Left Panel
 
-- **Image Type** Type of image PNG\|GIF\|JPG etc. (the default is JPG).
+- **Image Type** One image type, such as `png`, `jpg` or `webp`. From Joomla 6: a comma separated list of image types to be included in the selection, for example `png, jpg, jpeg, webp`. If left blank the default is `jpg`.
 - **Image Folder** Path to the image folder relative to the site URL
   (e.g. images).
 - **Link** A URL to redirect to if the image is clicked upon.
