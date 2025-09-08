@@ -40,6 +40,7 @@ Some aspects of this page are covered in separate Help articles:
   - **Beta** For Beta testing sites.
   - **Release Candidate** For Release Candidate sites.
   - **Stable** For Production sites.
+- **Custom URL** If a Custom URL was selected in the Update Channel a field to enter the URL appears here.
 - **Potentially incompatible extensions checkbox** Shows the checkbox in the 
   pre–update check if any of the extensions installed on your site is 
   potentially incompatible with the version of Joomla you are upgrading to. 
@@ -51,10 +52,13 @@ Some aspects of this page are covered in separate Help articles:
 
 ### Automated Updates tab
 
+***Automated Updates are available from Joomla 5.4 onwards for sites that are publicly accessible on the internet. If your site is behind a firewall or not publicly accessible, such as a local test environment, you will need to update manually. ***
+
 ![Joomla Update Options Update Source](../../../en/images/joomla-update/joomla-update-options-automated-updates.png)
 
-- **Automated Update** When set to *Yes* your site will be updated to the latest version whenever it is available. This parameter can be configured on installation of a new Joomla site.
+- **Automated Update** When set to *Yes* your site will update automatically to the latest minor or patch release (including security patches) as soon as it becomes available. Major releases are not included.
 - **Update Token** This is a token that identifies this site. It is created by the remote Joomla update server and cannot be changed by the user.
-- **Last Checked** The last time your site communicated with the update server.
+- **Last Checked** The most recent date your site contacted the update server.
+- **Send Email to User Groups** All users in the selected groups will receive emails about successful or failed Automated Updates. If no users are found, the emails are sent to all Super Users. Recipients must have the Receive System Emails option enabled.
 
 Please use the *Toggle Inline Help* button for more details.
