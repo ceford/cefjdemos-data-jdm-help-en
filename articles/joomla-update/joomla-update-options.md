@@ -52,7 +52,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ### Automated Updates tab
 
-***Automated Updates are available from Joomla 5.4 onwards for sites that are publicly accessible on the internet. If your site is behind a firewall or not publicly accessible, such as a local test environment, you will need to update manually.***
+*Automated Updates are available from Joomla 5.4 onwards for sites that are publicly accessible on the internet. If your site is behind a firewall or not publicly accessible, such as a local test environment, you will need to update manually.*
 
 ![Joomla Update Options Update Source](../../../en/images/joomla-update/joomla-update-options-automated-updates.png)
 
