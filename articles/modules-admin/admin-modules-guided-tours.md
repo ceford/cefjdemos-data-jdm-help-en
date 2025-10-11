@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:Admin_Modules:_Tours_Menu / Display title: Modules: Guided Tours -->
+<!-- Filename: Help5.x:Admin_Modules:_Guided_Tours / Display title: Modules: Guided Tours -->
 
 ## Description
 

@@ -1,4 +1,4 @@
-<!-- Filename: Help4.x:Component:_Edit_Field_Group / Display title: Component: Edit Field Group -->
+<!-- Filename: Help5.x:Field_Groups:_Edit / Display title: Component: Edit Field Group -->
 
 ## Description
 
