@@ -5,11 +5,11 @@
 The **Articles** module displays a list of articles. It is intended to replace
 five other article modules: 
 
-* [Modules: Articles - Archived](jdocmanual?article=help/modules/site-modules-articles-archived).
-* [Modules: Articles - Category](jdocmanual?article=help/modules/site-modules-articles-category).
-* [Modules: Articles - Latest](jdocmanual?article=help/modules/site-modules-articles-latest).
-* [Modules: Articles - Most Read](jdocmanual?article=help/modules/site-modules-articles-most-read).
-* [Modules: Articles - Newsflash](jdocmanual?article=help/modules/site-modules-articles-newsflash).
+* [Modules: Articles - Archived](jdocmanual?article=help/modules-site/site-modules-articles-archived).
+* [Modules: Articles - Category](jdocmanual?article=help/modules-site/site-modules-articles-category).
+* [Modules: Articles - Latest](jdocmanual?article=help/modules-site/site-modules-articles-latest).
+* [Modules: Articles - Most Read](jdocmanual?article=help/modules-site/site-modules-articles-most-read).
+* [Modules: Articles - Newsflash](jdocmanual?article=help/modules-site/site-modules-articles-newsflash).
 
 The **Articles** module options are configured primarily via four tabs: 
 
