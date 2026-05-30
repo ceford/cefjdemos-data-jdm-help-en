@@ -19,7 +19,7 @@ Number of requests.
 
 ## Screenshot
 
-![privacy dashboard](../../../en/images/privacy/privacy-dashboard.png)
+![privacy dashboard](../../../en/images/privacy/privacy-dashboard/01-privacy-dashboard.png)
 
 ## Dashboard Panels
 

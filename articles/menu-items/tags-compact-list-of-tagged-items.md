@@ -36,13 +36,13 @@ To edit an existing *Compact List of Tagged Items* menu item:
 
 ## Screenshot
 
-![Compact List of Tagged Items details tab](../../../en/images/menu-items/tags-compact-list-of-tagged-items-details-tab.png)
+![Compact List of Tagged Items details tab](../../../en/images/menu-items/tags-compact-list-of-tagged-items/01-tags-compact-list-of-tagged-items-details-tab.png)
 
 ## Form Fields
 
 ### Tag Options Tab
 
-![Compact List of Tagged Items tag options tab](../../../en/images/menu-items/tags-compact-list-of-tagged-items-tag-options-tab.png)
+![Compact List of Tagged Items tag options tab](../../../en/images/menu-items/tags-compact-list-of-tagged-items/02-tags-compact-list-of-tagged-items-tag-options-tab.png)
 
 - **Show Tag Name** For a layout with one tag, show or hide the tag name.
 - **Tag Image** For a layout with one tag, show or hide the tag image.
@@ -57,7 +57,7 @@ To edit an existing *Compact List of Tagged Items* menu item:
 
 ### Item Selection Options Tab
 
-![Compact List of Tagged Items details tab](../../../en/images/menu-items/tags-compact-list-of-tagged-items-item-selection-options-tab.png)
+![Compact List of Tagged Items details tab](../../../en/images/menu-items/tags-compact-list-of-tagged-items/03-tags-compact-list-of-tagged-items-item-selection-options-tab.png)
 
 - **Match Type** Select items with any of the tags or all of the tags. Any 
   will return items that have at least one of the tags.

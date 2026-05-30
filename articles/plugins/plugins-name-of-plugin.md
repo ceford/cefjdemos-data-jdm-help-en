@@ -54,7 +54,7 @@ Starting from the Administrator menu:
 
 ## Screenshot
 
-![Plugins plugin tab](../../../en/images/plugins/plugins-plugin-tab.png)
+![Plugins plugin tab](../../../en/images/plugins/plugins-name-of-plugin/01-plugins-plugin-tab.png)
 
 ## Form Fields
 

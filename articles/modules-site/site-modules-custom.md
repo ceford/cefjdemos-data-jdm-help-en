@@ -31,7 +31,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![custom module tab](../../../en/images/modules-site/modules-custom-module-tab.png)
+![custom module tab](../../../en/images/modules-site/site-modules-custom/01-modules-custom-module-tab.png)
 
 ## Form Fields
 

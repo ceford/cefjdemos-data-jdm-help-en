@@ -14,7 +14,7 @@ layout of the **Module Assignment** tab.
 
 ## Screenshot
 
-![menu item module assignment tab](../../../en/images/menu-items-common/menu-item-module-assignment.png)
+![menu item module assignment tab](../../../en/images/menu-items-common/menu-item-module-assignment/01-menu-item-module-assignment.png)
 
 ## Form Fields
 

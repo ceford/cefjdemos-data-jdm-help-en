@@ -34,6 +34,6 @@ To edit an existing *Username Reminder Request* menu item:
 
 ## Screenshot
 
-![User profile details tab](../../../en/images/menu-items/users-username-reminder-request-details-tab.png)
+![User profile details tab](../../../en/images/menu-items/users-username-reminder-request/01-users-username-reminder-request-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.

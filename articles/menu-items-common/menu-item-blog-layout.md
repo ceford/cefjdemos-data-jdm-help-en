@@ -15,7 +15,7 @@ some of the tabs change from type to type. This page describes the
 
 ## Screenshot
 
-![Menu Item blog layout tab](../../../en/images/menu-items-common/articles-category-blog-blog-layout-tab.png)
+![Menu Item blog layout tab](../../../en/images/menu-items-common/menu-item-blog-layout/01-articles-category-blog-blog-layout-tab.png)
 
 ## Form Fields
 

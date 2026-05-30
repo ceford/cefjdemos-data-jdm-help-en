@@ -20,7 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![private messages write](../../../en/images/private-messages/private-messages-write.png)
+![private messages write](../../../en/images/private-messages/private-messages-write/01-private-messages-write.png)
 
 ## Form Fields
 

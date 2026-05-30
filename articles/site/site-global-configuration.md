@@ -21,7 +21,7 @@ menu.
 
 ## Screenshot
 
-![global configuration site tab](../../../en/images/site/global-configuration-site-tab.png)
+![global configuration site tab](../../../en/images/site/site-global-configuration/01-global-configuration-site-tab.png)
 
 ## Form Fields
 
@@ -107,7 +107,7 @@ menu.
 
 ### System tab
 
-![global configuration system tab](../../../en/images/site/global-configuration-system-tab.png)
+![global configuration system tab](../../../en/images/site/site-global-configuration/02-global-configuration-system-tab.png)
 
 #### Debug panel
 
@@ -181,7 +181,7 @@ menu.
 
 ### Server tab
 
-![global configuration server tab](../../../en/images/site/global-configuration-server-tab.png)
+![global configuration server tab](../../../en/images/site/site-global-configuration/03-global-configuration-server-tab.png)
 
 #### Server panel
 
@@ -303,7 +303,7 @@ menu.
 
 ### Logging tab
 
-![global configuration logging tab](../../../en/images/site/global-configuration-logging-tab.png)
+![global configuration logging tab](../../../en/images/site/site-global-configuration/04-global-configuration-logging-tab.png)
 
 #### Logging panel
 
@@ -328,7 +328,7 @@ menu.
 
 ### Text Filters tab
 
-![global configuration text filters tab](../../../en/images/site/global-configuration-text-filters-tab.png)
+![global configuration text filters tab](../../../en/images/site/site-global-configuration/05-global-configuration-text-filters-tab.png)
 
 These text filter settings will be applied to all text editor fields
 submitted by users in the selected groups.

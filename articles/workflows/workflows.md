@@ -30,7 +30,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![workflows list](../../../en/images/workflows/workflows-list.png)
+![workflows list](../../../en/images/workflows/workflows/01-workflows-list.png)
 
 ## Column Headings
 

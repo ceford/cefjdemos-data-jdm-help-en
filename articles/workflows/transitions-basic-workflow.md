@@ -33,4 +33,4 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![transitions basic workflow list](../../../en/images/workflows/transitions-basic-workflow-list.png)
+![transitions basic workflow list](../../../en/images/workflows/transitions-basic-workflow/01-transitions-basic-workflow-list.png)

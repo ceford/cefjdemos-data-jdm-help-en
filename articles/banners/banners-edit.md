@@ -28,7 +28,7 @@ A banner may be a clickable image or some custom code. The Image Type is
 shown in the screenshot below. The custom type has the image selection
 box replaced with a code text area.
 
-![Banners edit details tab](../../../en/images/banners/banners-edit-details-tab.png)
+![Banners edit details tab](../../../en/images/banners/banners-edit/01-banners-edit-details-tab.png)
 
 ## Form Fields
 
@@ -87,7 +87,7 @@ box replaced with a code text area.
 
 ### Banner Details tab
 
-![Banners edit banner details tab](../../../en/images/banners/banners-edit-banner-details-tab.png)
+![Banners edit banner details tab](../../../en/images/banners/banners-edit/02-banners-edit-banner-details-tab.png)
 
 - **Max. Impressions** The number of Impressions purchased for this
   Banner. Impressions are the number of times a Banner will be displayed

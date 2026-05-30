@@ -17,7 +17,7 @@ Select **Users → Privacy → Capabilities** from the Administrator menu.
 
 ## Screenshot
 
-![privacy extension capabilities](../../../en/images/privacy/privacy-capabilities.png)
+![privacy extension capabilities](../../../en/images/privacy/privacy-extension-capabilities/01-privacy-capabilities.png)
 
 There are no user actions on this page other than to expand and read the
 individual reports.

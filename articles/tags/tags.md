@@ -22,7 +22,7 @@ Select **Components → Tags** from the Administrator menu.
 
 ## Screenshot
 
-![tags list](../../../en/images/tags/tags-list.png)
+![tags list](../../../en/images/tags/tags/01-tags-list.png)
 
 ## Tips
 

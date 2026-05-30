@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![modules joomla version module tab](../../../en/images/modules-admin/modules-joomla-version-module-tab.png)
+![modules joomla version module tab](../../../en/images/modules-admin/admin-modules-joomla-version-information/01-modules-joomla-version-module-tab.png)
 
 ## Form Fields
 

@@ -23,7 +23,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![maintenance global check in](../../../en/images/maintenance/maintenance-global-check-in.png)
+![maintenance global check in](../../../en/images/maintenance/maintenance-global-check-in/01-maintenance-global-check-in.png)
 
 ## Tips
 

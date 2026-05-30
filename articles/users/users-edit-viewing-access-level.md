@@ -30,7 +30,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![users viewing access levels](../../../en/images/users/users-edit-viewing-access-level-details-tab.png)
+![users viewing access levels](../../../en/images/users/users-edit-viewing-access-level/01-users-edit-viewing-access-level-details-tab.png)
 
 ### Level Details tab
 
@@ -40,7 +40,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### User Groups With Viewing Access tab
 
-![users viewing access levels](../../../en/images/users/users-edit-viewing-access-level-ugwva-tab.png)
+![users viewing access levels](../../../en/images/users/users-edit-viewing-access-level/02-users-edit-viewing-access-level-ugwva-tab.png)
 
 Select a check box to add a user group to a viewing level. In the
 example shown all Groups are children of Public so it not necessary to

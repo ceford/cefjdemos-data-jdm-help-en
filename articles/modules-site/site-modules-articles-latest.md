@@ -27,7 +27,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![latest articles module tab](../../../en/images/modules-site/modules-articles-latest-module-tab.png)
+![latest articles module tab](../../../en/images/modules-site/site-modules-articles-latest/01-modules-articles-latest-module-tab.png)
 
 ## Form Fields
 

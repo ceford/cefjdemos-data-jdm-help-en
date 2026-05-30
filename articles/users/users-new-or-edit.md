@@ -33,7 +33,7 @@ To create a new user:
 
 ## Screenshot
 
-![user edit details tab](../../../en/images/users/users-edit-account-details-tab.png)
+![user edit details tab](../../../en/images/users/users-new-or-edit/01-users-edit-account-details-tab.png)
 
 ## Form Fields
 
@@ -61,13 +61,13 @@ To create a new user:
 
 ### Assigned User Groups tab
 
-![user edit assigned user groups tab](../../../en/images/users/users-edit-assigned-user-groups-tab.png)
+![user edit assigned user groups tab](../../../en/images/users/users-new-or-edit/02-users-edit-assigned-user-groups-tab.png)
 
 The default is *Registered* but can be changed in the *User: Options* page.
 
 ### Basic Settings
 
-![user edit basic settings tab](../../../en/images/users/users-edit-basic-settings-tab.png)
+![user edit basic settings tab](../../../en/images/users/users-new-or-edit/03-users-edit-basic-settings-tab.png)
 
 - **Backend Template Style** Select an template style for the Administrator Backend
   interface. This will only affect this User.
@@ -83,7 +83,7 @@ The default is *Registered* but can be changed in the *User: Options* page.
 
 ### Accessibility Settings
 
-![user edit accessibility settings tab](../../../en/images/users/users-edit-accessibility-settings-tab.png)
+![user edit accessibility settings tab](../../../en/images/users/users-new-or-edit/04-users-edit-accessibility-settings-tab.png)
 
 - **Monochrome** Yes/No
 - **High Contrast** Yes/No
@@ -124,7 +124,7 @@ The token is only visible for your own account.
 
 ### Multi-factor Authentication
 
-![user edit multi factor authentication tab](../../../en/images/users/users-edit-multi-factor-authentication-tab.png)
+![user edit multi factor authentication tab](../../../en/images/users/users-new-or-edit/05-users-edit-multi-factor-authentication-tab.png)
 
 This tab allows you to set one or more methods to allow access to your
 account after login with Username and Password. It is only present when

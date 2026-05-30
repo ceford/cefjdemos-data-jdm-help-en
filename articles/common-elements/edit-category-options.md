@@ -17,7 +17,7 @@ For example, the Articles: Category Options layout offers:
 ```
 [ToDo] Examples to show change in appearance with different options.
 
-![Articles edit category options tab](../../../en/images/common-elements/articles-edit-category-options-tab.png)
+![Articles edit category options tab](../../../en/images/common-elements/edit-category-options/01-articles-edit-category-options-tab.png)
 
 ## Options Tab
 

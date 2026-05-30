@@ -32,4 +32,4 @@ experience to prepare suitable template overrides.
 
 ## Screenshot
 
-![Articles field groups list](../../../en/images/fields/articles-field-groups-list.png)
+![Articles field groups list](../../../en/images/fields/field-groups/01-articles-field-groups-list.png)

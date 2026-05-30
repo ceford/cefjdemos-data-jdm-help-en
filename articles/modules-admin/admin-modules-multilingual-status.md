@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![modules multilingual status module tab](../../../en/images/modules-admin/modules-multilingual-status-module-tab.png)
+![modules multilingual status module tab](../../../en/images/modules-admin/admin-modules-multilingual-status/01-modules-multilingual-status-module-tab.png)
 
 ## Form Fields
 

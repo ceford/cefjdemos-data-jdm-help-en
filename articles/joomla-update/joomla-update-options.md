@@ -18,7 +18,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Joomla Update Options Update Source](../../../en/images/joomla-update/joomla-update-options.png)
+![Joomla Update Options Update Source](../../../en/images/joomla-update/joomla-update-options/01-joomla-update-options.png)
 
 ## Form Fields
 
@@ -54,7 +54,7 @@ Some aspects of this page are covered in separate Help articles:
 
 *Automated Updates are available from Joomla 5.4 onwards for sites that are publicly accessible on the internet. If your site is behind a firewall or not publicly accessible, such as a local test environment, you will need to update manually.*
 
-![Joomla Update Options Update Source](../../../en/images/joomla-update/joomla-update-options-automated-updates.png)
+![Joomla Update Options Update Source](../../../en/images/joomla-update/joomla-update-options/02-joomla-update-options-automated-updates.png)
 
 - **Automated Update** When set to *Yes* your site will update automatically to the latest minor or patch release (including security patches) as soon as it becomes available. Major releases are not included.
 - **Update Token** This is a token that identifies this site. It is created by the remote Joomla update server and cannot be changed by the user.

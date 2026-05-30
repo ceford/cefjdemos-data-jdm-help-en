@@ -34,4 +34,4 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![stages basic workflow list](../../../en/images/workflows/stages-basic-workflow-list.png)
+![stages basic workflow list](../../../en/images/workflows/stages-basic-workflow/01-stages-basic-workflow-list.png)

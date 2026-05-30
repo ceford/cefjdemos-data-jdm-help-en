@@ -19,7 +19,7 @@ edit an existing group.
 
 ## Screenshot
 
-![users new group details tab](../../../en/images/users/users-new-group-details-tab.png)
+![users new group details tab](../../../en/images/users/users-new-or-edit-group/01-users-new-group-details-tab.png)
 
 ## User Group Details
 

@@ -33,7 +33,7 @@ Home Dashboard.
 
 ## Screenshot
 
-![Articles edit screenshot](../../../en/images/articles/articles-edit-content-tab.png)
+![Articles edit screenshot](../../../en/images/articles/articles-edit/01-articles-edit-content-tab.png)
 
 ## Form Fields
 
@@ -89,7 +89,7 @@ Home Dashboard.
 Admin permissions. It allows display of images and links in articles using
 standardised layouts.
 
-![Articles edit images and links tab](../../../en/images/articles/articles-edit-images-tab.png)
+![Articles edit images and links tab](../../../en/images/articles/articles-edit/02-articles-edit-images-tab.png)
 
 #### Intro Image
 
@@ -156,7 +156,7 @@ standardised layouts.
 Article: Options. It is a set of options used to control how this
 article will show in the Frontend.
 
-![Options tab](../../../en/images/articles/articles-edit-options-tab.png)
+![Options tab](../../../en/images/articles/articles-edit/03-articles-edit-options-tab.png)
 
 #### Layout
 
@@ -226,7 +226,7 @@ This section shows the custom fields which are defined for this article. These
 are fields that are not assigned to a Field Group. Each Field Group, if defined,
 will appear as a separate tab.
 
-![Fields tab](../../../en/images/articles/articles-edit-fields-tab.png)
+![Fields tab](../../../en/images/articles/articles-edit/04-articles-edit-fields-tab.png)
 
 
 ### Configure Edit Screen tab
@@ -234,7 +234,7 @@ will appear as a separate tab.
 **Note:** This can be hidden by a user with Admin permissions in the
 Article: Options.
 
-![Configure edit screen tab](../../../en/images/articles/articles-edit-editor-tab.png)
+![Configure edit screen tab](../../../en/images/articles/articles-edit/05-articles-edit-configure-edit-screen-tab.png)
 
 - **Publishing Options** If Hide, the Publishing Options tab
   will not show in the Backend. This means that Backend users will not

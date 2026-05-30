@@ -19,7 +19,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Installer Options preferences tab](../../../en/images/extensions/installer-options-preferences-tab.png)
+![Installer Options preferences tab](../../../en/images/extensions/installer-options/01-installer-options-preferences-tab.png)
 
 ## Form Fields
 

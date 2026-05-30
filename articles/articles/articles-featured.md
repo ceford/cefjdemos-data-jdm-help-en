@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Featured articles list screenshot](../../../en/images/articles/articles-featured-list.png)
+![Featured articles list screenshot](../../../en/images/articles/articles-featured/01-articles-featured-list.png)
 
 ## Tips
 

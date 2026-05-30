@@ -40,7 +40,7 @@ To edit a Menu Item:
 
 ## Screenshot
 
-![Menu Item Category Blog](../../../en/images/menu-items/articles-category-blog-details-tab.png)
+![Menu Item Category Blog](../../../en/images/menu-items/articles-category-blog/01-articles-category-blog-details-tab.png)
 
 ## Form Fields
 

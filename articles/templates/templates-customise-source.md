@@ -24,7 +24,7 @@ template, for example *(Cassiopeia)*.
 
 ## Screenshot
 
-![Templates customise cassiopeia editor tab](../../../en/images/templates/templates-customise-cassiopeia-edit-component-editor-tab.png)
+![Templates customise cassiopeia editor tab](../../../en/images/templates/templates-customise-source/01-templates-customise-cassiopeia-edit-component-editor-tab.png)
 
 ## Form Fields
 

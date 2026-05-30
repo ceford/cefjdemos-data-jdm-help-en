@@ -16,7 +16,7 @@ that are covered in the relevant menu items.
 
 ## Screenshot
 
-![menu item details tab](../../../en/images/menu-items-common/articles-article-options.png)
+![menu item details tab](../../../en/images/menu-items-common/menu-item-article-options/01-articles-article-options.png)
 
 ## Form Fields
 

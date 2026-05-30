@@ -28,7 +28,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![articles categories module tab](../../../en/images/modules-site/modules-articles-categories-module-tab.png)
+![articles categories module tab](../../../en/images/modules-site/site-modules-articles-categories/01-modules-articles-categories-module-tab.png)
 
 ## Form Fields
 

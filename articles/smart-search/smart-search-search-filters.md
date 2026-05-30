@@ -29,5 +29,5 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![smart search content maps](../../../en/images/smart-search/smart-search-search-filters.png)
+![smart search content maps](../../../en/images/smart-search/smart-search-search-filters/01-smart-search-search-filters.png)
 

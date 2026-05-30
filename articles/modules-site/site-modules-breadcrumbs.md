@@ -27,7 +27,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![breadcrumbs module tab](../../../en/images/modules-site/modules-breadcrumbs-module-tab.png)
+![breadcrumbs module tab](../../../en/images/modules-site/site-modules-breadcrumbs/01-modules-breadcrumbs-module-tab.png)
 
 ## Form Fields
 

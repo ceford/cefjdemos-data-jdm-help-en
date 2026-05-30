@@ -15,7 +15,7 @@ some of the tabs change from type to type. This page describes the
 
 ## Screenshot
 
-![Menu Item category tab](../../../en/images/menu-items-common/articles-category-blog-category-tab.png)
+![Menu Item category tab](../../../en/images/menu-items-common/menu-item-category/01-articles-category-blog-category-tab.png)
 
 ## Form Fields
 

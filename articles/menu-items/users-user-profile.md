@@ -34,6 +34,6 @@ To edit an existing *User Profile* menu item:
 
 ## Screenshot
 
-![User profile details tab](../../../en/images/menu-items/users-user-profile-details-tab.png)
+![User profile details tab](../../../en/images/menu-items/users-user-profile/01-users-user-profile-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.

@@ -19,7 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![web links options](../../../en/images/weblinks/weblinks-options-web-link-tab.png)
+![web links options](../../../en/images/weblinks/weblinks-options/01-weblinks-options-web-link-tab.png)
 
 ### Web Link Tab
 

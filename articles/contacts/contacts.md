@@ -29,5 +29,5 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Contacts list](../../../en/images/contacts/contacts-list.png)
+![Contacts list](../../../en/images/contacts/contacts/01-contacts-list.png)
 

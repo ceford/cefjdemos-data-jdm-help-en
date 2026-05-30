@@ -35,13 +35,13 @@ To edit an existing List All Tags menu item:
 
 ## Screenshot
 
-![Compact List of Tagged Items details tab](../../../en/images/menu-items/tags-list-all-tags-details-tab.png)
+![Compact List of Tagged Items details tab](../../../en/images/menu-items/tags-list-all-tags/01-tags-list-all-tags-details-tab.png)
 
 ## Form Fields
 
 ### Options Tab
 
-![Compact List of Tagged Items details tab](../../../en/images/menu-items/tags-list-all-tags-options-tab.png)
+![Compact List of Tagged Items details tab](../../../en/images/menu-items/tags-list-all-tags/02-tags-list-all-tags-options-tab.png)
 
 - **Number of Columns** The number of columns to arrange the tags in.
   Note that this may not be the number displayed if 12 does not divide
@@ -63,7 +63,7 @@ To edit an existing List All Tags menu item:
 
 ### Selection Options Tab
 
-![Compact List of Tagged Items details tab](../../../en/images/menu-items/tags-list-all-tags-selection-options-tab.png)
+![Compact List of Tagged Items details tab](../../../en/images/menu-items/tags-list-all-tags/03-tags-list-all-tags-selection-options-tab.png)
 
 - **Maximum Items** The maximum number of results to return.
 - **Filter Field** Show or hide the Filter Field used to filter the articles 

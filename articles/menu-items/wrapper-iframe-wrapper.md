@@ -34,13 +34,13 @@ To edit an existing *IFrame Wrapper* menu item:
 
 ## Screenshot
 
-![Iframe wrapper details tab](../../../en/images/menu-items/wrapper-iframe-wrapper-details-tab.png)
+![Iframe wrapper details tab](../../../en/images/menu-items/wrapper-iframe-wrapper/01-wrapper-iframe-wrapper-details-tab.png)
 
 ## Form Fields
 
 ### Scroll Bar Parameters Tab
 
-![Iframe wrapper scroll bar parameters tab](../../../en/images/menu-items/wrapper-scroll-bar-parameters-tab.png)
+![Iframe wrapper scroll bar parameters tab](../../../en/images/menu-items/wrapper-iframe-wrapper/02-wrapper-scroll-bar-parameters-tab.png)
 
 - **Width** Width of the IFrame Window. Enter a number of pixels or a 
   percentage. For example, *550* means 550 pixels; *75%* means 75% of the 
@@ -51,7 +51,7 @@ To edit an existing *IFrame Wrapper* menu item:
 
 ### Advanced Tab
 
-![Iframe wrapper advanced tab](../../../en/images/menu-items/wrapper-advanced-tab.png)
+![Iframe wrapper advanced tab](../../../en/images/menu-items/wrapper-iframe-wrapper/03-wrapper-advanced-tab.png)
 
 - **Auto height** Automatically set height to the height of external page.
   *Note* - this will only work if the external page is on the **same

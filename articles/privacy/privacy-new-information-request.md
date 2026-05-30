@@ -19,7 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![privacy new information request](../../../en/images/privacy/privacy-new-information-request.png)
+![privacy new information request](../../../en/images/privacy/privacy-new-information-request/01-privacy-new-information-request.png)
 
 ## Form Fields
 

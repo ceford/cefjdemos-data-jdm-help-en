@@ -48,7 +48,7 @@ Help articles:
 
 ## Screenshot
 
-![Extensions discover list](../../../en/images/extensions/discover-list.png)
+![Extensions discover list](../../../en/images/extensions/extensions-discover/01-discover-list.png)
 
 ## Column Headers
 

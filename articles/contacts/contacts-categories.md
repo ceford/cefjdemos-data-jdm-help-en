@@ -23,4 +23,4 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![contacts categories list](../../../en/images/contacts/contacts-categories-list.png)
+![contacts categories list](../../../en/images/contacts/contacts-categories/01-contacts-categories-list.png)

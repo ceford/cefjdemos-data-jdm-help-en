@@ -21,7 +21,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Menus Options](../../../en/images/menus/menu-options-page-display-tab.png)
+![Menus Options](../../../en/images/menus/menus-options/01-menu-options-page-display-tab.png)
 
 ## Form Fields
 

@@ -4,7 +4,7 @@
 
 This group of plugins allow image crop, resize and rotate functions. In the Media page hover over a thumbnail, select the menu symbol (...) and then the edit symbol (pencil). That opens the *Media Edit* page:
 
-![Media edit page](../../../en/images/plugins/plugin-group-media-action-media-edit-page.png)
+![Media edit page](../../../en/images/plugins/plugin-group-media-action/01-plugin-group-media-action-media-edit-page.png)
 
 ### Media Action - Crop
 

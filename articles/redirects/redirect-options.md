@@ -29,7 +29,7 @@ dialog box.
 
 ## Screenshot
 
-![Redirect options advanced tab](../../../en/images/redirects/redirect-options-advanced-tab.png)
+![Redirect options advanced tab](../../../en/images/redirects/redirect-options/01-redirect-options-advanced-tab.png)
 
 ## Form Fields
 

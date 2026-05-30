@@ -29,7 +29,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Banners list](../../../en/images/banners/banners-list.png)
+![Banners list](../../../en/images/banners/banners/01-banners-list.png)
 
 ## Column Headers
 

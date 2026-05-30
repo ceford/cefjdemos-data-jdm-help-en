@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![modules frontend link module tab](../../../en/images/modules-admin/modules-frontend-link-module-tab.png)
+![modules frontend link module tab](../../../en/images/modules-admin/admin-modules-frontend-link/01-modules-frontend-link-module-tab.png)
 
 ## Form Fields
 

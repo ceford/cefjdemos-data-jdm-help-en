@@ -24,7 +24,7 @@ articles:
 
 ## Screenshot
 
-![tags options tagged items tab](../../../en/images/tags/tags-options-tagged-items-tab.png)
+![tags options tagged items tab](../../../en/images/tags/tags-options/01-tags-options-tagged-items-tab.png)
 
 ## Form Fields
 
@@ -62,7 +62,7 @@ articles:
 
 ### Item Selection Tab
 
-![tags options tagged items tab](../../../en/images/tags/tags-options-item-selection-tab.png)
+![tags options tagged items tab](../../../en/images/tags/tags-options/02-tags-options-item-selection-tab.png)
 
 - **Minimum Search Length** This setting controls the minimum character
   length for the search and adding tags using the tags field Ajax mode.
@@ -76,7 +76,7 @@ articles:
 
 ### List All Tags Tab
 
-![tags options list all tags tab](../../../en/images/tags/tags-options-list-all-tags-tab.png)
+![tags options list all tags tab](../../../en/images/tags/tags-options/03-tags-options-list-all-tags-tab.png)
 
 - **Default List All Tags Layout** Choose a default layout for List of
   all tags.
@@ -92,7 +92,7 @@ articles:
 
 ### Shared Layout Tab
 
-![tags options shared layout tab](../../../en/images/tags/tags-options-shared-layout-tab.png)
+![tags options shared layout tab](../../../en/images/tags/tags-options/04-tags-options-shared-layout-tab.png)
 
 - **Filter Field** Whether to show a Filter field for the list. Select
   Hide to hide the filter field.
@@ -107,7 +107,7 @@ articles:
 
 ### Data Entry Tab
 
-![tags options data entry tab](../../../en/images/tags/tags-options-data-entry-tab.png)
+![tags options data entry tab](../../../en/images/tags/tags-options/05-tags-options-data-entry-tab.png)
 
 - **Tag Entry Mode** Ajax mode searches tag while typing and allows you
   on the fly tag creation. Nested tags show you a nested view with all
@@ -115,7 +115,7 @@ articles:
 
 ### Integration Tab
 
-![tags options tagged items tab](../../../en/images/tags/tags-options-integration-tab.png)
+![tags options tagged items tab](../../../en/images/tags/tags-options/06-tags-options-integration-tab.png)
 
 - **Show Feed Link** Show or hide an RSS Feed Link. (A Feed Link will
   show up as a feed icon in the address bar of most modern browsers).

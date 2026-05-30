@@ -21,7 +21,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![private messages](../../../en/images/private-messages/private-messages.png)
+![private messages](../../../en/images/private-messages/private-messages/01-private-messages.png)
 
 ## Tips
 

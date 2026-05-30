@@ -29,7 +29,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![articles category module tab](../../../en/images/modules-site/modules-articles-category-module-tab.png)
+![articles category module tab](../../../en/images/modules-site/site-modules-articles-category/01-modules-articles-category-module-tab.png)
 
 ## Form Fields
 
@@ -55,7 +55,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Filtering Options Tab
 
-![articles category filtering options tab](../../../en/images/modules-site/modules-articles-category-filtering-options-tab.png)
+![articles category filtering options tab](../../../en/images/modules-site/site-modules-articles-category/02-modules-articles-category-filtering-options-tab.png)
 
 - **Featured Articles** Show or hide or select Only Featured Articles.
 - **Count** The number of items to display. The default value of 0 will
@@ -79,7 +79,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Ordering Options Tab
 
-![articles category ordering options tab](../../../en/images/modules-site/modules-articles-category-ordering-options-tab.png)
+![articles category ordering options tab](../../../en/images/modules-site/site-modules-articles-category/03-modules-articles-category-ordering-options-tab.png)
 
 - **Article Field to Order By** Select a field from the list. Featured
   Ordering should only be used when the Filtering Option for Featured
@@ -88,7 +88,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Grouping Options Tab
 
-![articles category grouping options tab](../../../en/images/modules-site/modules-articles-category-grouping-options-tab.png)
+![articles category grouping options tab](../../../en/images/modules-site/site-modules-articles-category/04-modules-articles-category-grouping-options-tab.png)
 
 - **Article Grouping** Select an article grouping method from the list.
 - **Grouping Direction** Select the ordering direction.
@@ -96,7 +96,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Display Options Tab
 
-![articles category display options tab](../../../en/images/modules-site/modules-articles-category-display-options-tab.png)
+![articles category display options tab](../../../en/images/modules-site/site-modules-articles-category/05-modules-articles-category-display-options-tab.png)
 
 - **Linked Titles** Show titles as links to articles.
 - **Date** Show* or hide the article date.

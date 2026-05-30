@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Guided tours list](../../../en/images/guided-tours/guided-tours-list.png)
+![Guided tours list](../../../en/images/guided-tours/guided-tours/01-guided-tours-list.png)
 
 ## Tips
 

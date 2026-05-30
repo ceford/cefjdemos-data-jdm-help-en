@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 The Administrator and Site Templates screens use the same layout. The
 Site Template screen is illustrated here.
 
-![Templates site templates list](../../../en/images/templates/templates-site-templates-list.png)
+![Templates site templates list](../../../en/images/templates/templates-templates/01-templates-site-templates-list.png)
 
 ## List Filters
 

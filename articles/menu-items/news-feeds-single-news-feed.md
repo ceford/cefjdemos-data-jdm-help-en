@@ -34,7 +34,7 @@ To edit an existing Single News Feeds menu item:
 
 ## Screenshot
 
-![Menu Item Single News Feed details tab](../../../en/images/menu-items/news-feeds-single-news-feed-details-tab.png)
+![Menu Item Single News Feed details tab](../../../en/images/menu-items/news-feeds-single-news-feed/01-news-feeds-single-news-feed-details-tab.png)
 
 ## Form Fields
 
@@ -45,7 +45,7 @@ To edit an existing Single News Feeds menu item:
 
 ### Feed Display Options Tab
 
-![Menu Item Single News Feed details tab](../../../en/images/menu-items/news-feeds-single-news-feed-feed-display-options-tab.png)
+![Menu Item Single News Feed details tab](../../../en/images/menu-items/news-feeds-single-news-feed/02-news-feeds-single-news-feed-feed-display-options-tab.png)
 
 In addition to Yes/No or Hide/Show, these options allow the "Use Global"
 setting. This uses the default value from the News Feeds Options

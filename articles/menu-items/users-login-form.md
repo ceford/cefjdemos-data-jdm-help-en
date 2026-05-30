@@ -34,13 +34,13 @@ To edit an existing Login Form menu item:
 
 ## Screenshot
 
-![Login form details tab](../../../en/images/menu-items/users-login-form-details-tab.png)
+![Login form details tab](../../../en/images/menu-items/users-login-form/01-users-login-form-details-tab.png)
 
 ## Form Fields
 
 ### Options Tab
 
-![Login form details tab](../../../en/images/menu-items/users-login-form-options-tab.png)
+![Login form details tab](../../../en/images/menu-items/users-login-form/02-users-login-form-options-tab.png)
 
 #### Login panel
 

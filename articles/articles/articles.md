@@ -39,7 +39,7 @@ There are two routes to the Articles list page:
 
 ## Screenshot
 
-![Articles list](../../../en/images/articles/articles-list.png)
+![Articles list](../../../en/images/articles/articles/01-articles-list.png)
 
 ## Column Headers
 

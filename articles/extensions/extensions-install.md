@@ -67,7 +67,7 @@ for installing a Joomla! Extension is as follows:
 
 ## Upload Package File Tab
 
-![Extension install upload package file tab](../../../en/images/extensions/install-upload-package-file.png)
+![Extension install upload package file tab](../../../en/images/extensions/extensions-install/01-install-upload-package-file.png)
 
 - Drag and drop or browse to the location where you downloaded the
   Extension's archive file.
@@ -78,7 +78,7 @@ defined for your installation. If you cannot increase this value you can use
 
 ## Install from Folder Tab
 
-![Extension install from folder tab](../../../en/images/extensions/install-from-folder.png)
+![Extension install from folder tab](../../../en/images/extensions/extensions-install/02-install-from-folder.png)
 
 1.  Create a temporary directory on your local hard drive and unpack the
     Extension's archive file in this temporary directory.
@@ -94,7 +94,7 @@ unpacked extension in the tmp folder of your Joomla site.
 
 ## Install from URL Tab
 
-![Extension install from url tab](../../../en/images/extensions/install-from-url.png)
+![Extension install from url tab](../../../en/images/extensions/extensions-install/03-install-from-url.png)
 
 Instead of downloading the archive file to your local computer, just
 specify the URL of the target archive file. Then click the "Check and
@@ -108,7 +108,7 @@ To install an extension direct from the Joomla Extension
 Directory (JED). You can select extensions to list by Category or you
 can search by partial name.
 
-![Extension install from web tab](../../../en/images/extensions/install-from-web.png)
+![Extension install from web tab](../../../en/images/extensions/extensions-install/04-install-from-web.png)
 
 ## Tips
 

@@ -14,7 +14,7 @@ layout of the **Page Display** tab.
 
 ## Screenshot
 
-![menu item page display tab](../../../en/images/menu-items-common/menu-item-page-display.png)
+![menu item page display tab](../../../en/images/menu-items-common/menu-item-page-display/01-menu-item-page-display.png)
 
 ## Form Fields
 

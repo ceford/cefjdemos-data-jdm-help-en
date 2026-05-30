@@ -18,7 +18,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Media Options](../../../en/images/media/media-options.png)
+![Media Options](../../../en/images/media/media-options/01-media-options.png)
 
 ## Form Fields
 

@@ -20,7 +20,7 @@ The *Guided Tours: Options* page is covered in separate Help articles:
 
 ## Screenshot
 
-![Guided tours options](../../../en/images/guided-tours/guided-tours-options.png)
+![Guided tours options](../../../en/images/guided-tours/guided-tours-options/01-guided-tours-options.png)
 
 The items in the Guided Tours tab are well explained in the Inline Help.
  

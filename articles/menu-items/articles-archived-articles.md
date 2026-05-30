@@ -38,7 +38,7 @@ To edit a Menu Item:
 
 ## Screenshot
 
-![Menu Item Alias](../../../en/images/menu-items/articles-archived-articles-details-tab.png)
+![Menu Item Alias](../../../en/images/menu-items/articles-archived-articles/01-articles-archived-articles-details-tab.png)
 
 ## Form Fields
 
@@ -49,7 +49,7 @@ To edit a Menu Item:
 
 ### Archive tab
 
-![Menus Archived articles](../../../en/images/menu-items/articles-archived-articles-archive-tab.png)
+![Menus Archived articles](../../../en/images/menu-items/articles-archived-articles/02-articles-archived-articles-archive-tab.png)
 
 * **Article Order**
   * **Oldest First** Articles are displayed starting with the oldest and

@@ -10,7 +10,7 @@ components that use Categories.
 
 This example screenshot uses the Articles: Edit Category form.
 
-![Edit category category tab](../../../en/images/common-elements/articles-edit-category-category-tab.png)
+![Edit category category tab](../../../en/images/common-elements/edit-category/01-articles-edit-category-category-tab.png)
 
 ## Form Fields
 

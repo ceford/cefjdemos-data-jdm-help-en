@@ -23,7 +23,7 @@ From the Administrator menu:
 
 ## Screenshot
 
-![weblinks module data entry form](../../../en/images/modules-site/modules-weblinks-module-tab.png)
+![weblinks module data entry form](../../../en/images/modules-site/site-modules-weblinks/01-modules-weblinks-module-tab.png)
 
 ## Form Fields
 

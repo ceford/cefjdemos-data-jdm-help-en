@@ -35,13 +35,13 @@ To edit an existing **List All Web Link Categories** menu item:
 
 ## Screenshot
 
-![Menu item type List All Web Link Categories](../../../en/images/menu-items/weblinks-list-all-web-link-categories-details-tab.png)
+![Menu item type List All Web Link Categories](../../../en/images/menu-items/weblinks-weblink-categories/01-weblinks-list-all-web-link-categories-details-tab.png)
 
 ## Form Fields
 
 ### Categories tab
 
-![Menu item type List All Web Link Categories](../../../en/images/menu-items/weblinks-list-all-web-link-categories-categories-tab.png)
+![Menu item type List All Web Link Categories](../../../en/images/menu-items/weblinks-weblink-categories/02-weblinks-list-all-web-link-categories-categories-tab.png)
 
 - **Top Level Category Description** Show or hide the description of the 
   top-level category. Note that this description can be overridden for this 

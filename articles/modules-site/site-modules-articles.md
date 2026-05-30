@@ -43,7 +43,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Articles module form module tab](../../../en/images/modules-site/modules-articles-module-tab.png)
+![Articles module form module tab](../../../en/images/modules-site/site-modules-articles/01-modules-articles-module-tab.png)
 
 ## Form Fields
 
@@ -68,7 +68,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Display Options Tab
 
-![Articles module form module tab](../../../en/images/modules-site/modules-articles-display-options-tab.png)
+![Articles module form module tab](../../../en/images/modules-site/site-modules-articles/02-modules-articles-display-options-tab.png)
 
 - **Title Only (lists)** (*Yes/No*). If *Yes* the list of articles consists of only the article titles, linked to the article. All other options are hidden.
 - **Layout**
@@ -104,7 +104,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Filtering Options Tab
 
-![Articles module form module tab](../../../en/images/modules-site/modules-articles-filtering-options-tab.png)
+![Articles module form module tab](../../../en/images/modules-site/site-modules-articles/03-modules-articles-filtering-options-tab.png)
 
 - **Featured Articles**
   - *Show* Allows featured articles to appear in the list.
@@ -134,7 +134,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Ordering Options Tab
 
-![Articles module form module tab](../../../en/images/modules-site/modules-articles-ordering-options-tab.png)
+![Articles module form module tab](../../../en/images/modules-site/site-modules-articles/04-modules-articles-ordering-options-tab.png)
 
 - **Article Field to Order By**
   - *Article Order* The order in which the articles are manually arranged in the administrator's *Content > Articles* screen.
@@ -148,7 +148,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Grouping Options Tab
 
-![Articles module form module tab](../../../en/images/modules-site/modules-articles-grouping-options-tab.png)
+![Articles module form module tab](../../../en/images/modules-site/site-modules-articles/05-modules-articles-grouping-options-tab.png)
 
 The *Date Grouping Field* and *Month and Year Display Format* are only visible when a date related grouping is selected.
 
@@ -169,19 +169,19 @@ The *Date Grouping Field* and *Month and Year Display Format* are only visible w
 
 Articles module in the right sidebar showing titles only.
 
-![Site screenshot of module with article titles only](../../../en/images/modules-site/modules-articles-site-titles.png)
+![Site screenshot of module with article titles only](../../../en/images/modules-site/site-modules-articles/06-modules-articles-site-titles.png)
 
 Articles module in the right sidebar showing title, author, and date.
 
-![Site screenshot of module with article titles author and date](../../../en/images/modules-site/modules-articles-site-title-author-date.png)
+![Site screenshot of module with article titles author and date](../../../en/images/modules-site/site-modules-articles/07-modules-articles-site-title-author-date.png)
 
 Articles module in the main top location showing introductory text and image, and a *Read More* button.
 
-![Site screenshot of module top location and read more](../../../en/images/modules-site/modules-articles-site-top-text-image-readmore.png)
+![Site screenshot of module top location and read more](../../../en/images/modules-site/site-modules-articles/08-modules-articles-site-top-text-image-readmore.png)
 
 Articles module in the main top location configured for a horizontal layout with introductory text and image, and a *Read More* button.
 
-![Site screenshot of module with article intro text, image and read more](../../../en/images/modules-site/modules-articles-site-text-image-readmore.png)
+![Site screenshot of module with article intro text, image and read more](../../../en/images/modules-site/site-modules-articles/09-modules-articles-site-text-image-readmore.png)
 
 ## Configuration Examples
 
@@ -201,7 +201,7 @@ The *Articles - Archived* module displays a list of month/year headings for mont
 | Grouping Options  | Month and Year Display Format | F, Y |
 
 
-![Comparison of archived articles using each method](../../../en/images/modules-site/modules-articles-config-archived.png)
+![Comparison of archived articles using each method](../../../en/images/modules-site/site-modules-articles/10-modules-articles-config-archived.png)
 
 <big>*Notes*</big>
 
@@ -218,7 +218,7 @@ The *Articles - Category* module displays a list of links to articles within a s
 | Module          | Category           | [specify the desired category and sub-categories]|
 | Display Options | Title Only (lists) | Yes |
 
-![Comparison of articles by category using each method](../../../en/images/modules-site/modules-articles-config-category.png)
+![Comparison of articles by category using each method](../../../en/images/modules-site/site-modules-articles/11-modules-articles-config-category.png)
 
 ## Articles - Latest
 
@@ -232,7 +232,7 @@ The *Articles - Latest* module displays a list of links to the most recent artic
 | Ordering Options | Article Field to Order By | Start Publishing Date|
 | Ordering Options | Ordering Direction | Descending |
 
-![Comparison of articles latest using each method](../../../en/images/modules-site/modules-articles-config-latest.png)
+![Comparison of articles latest using each method](../../../en/images/modules-site/site-modules-articles/12-modules-articles-config-latest.png)
 
 <big>*Notes*</big>
 
@@ -250,7 +250,7 @@ The *Articles - Most Read* module displays a list of links to articles with the 
 | Ordering Options | Article Field to Order By | Hits |
 | Ordering Options | Ordering Direction | Descending |
 
-![Comparison of articles most read using each method](../../../en/images/modules-site/modules-articles-config-most-read.png)
+![Comparison of articles most read using each method](../../../en/images/modules-site/site-modules-articles/13-modules-articles-config-most-read.png)
 
 ## Articles - Newsflash
 
@@ -267,4 +267,4 @@ The *Articles - Newsflash* module displays the text of one or more articles. By 
 | Display Options  | Introtext          | Show |
 | Display Options  | Introtext Limit (Characters) | 0 (for unlimited text) |
 
-![Comparison of articles newsflash using each method](../../../en/images/modules-site/modules-articles-config-news-flash.png)
+![Comparison of articles newsflash using each method](../../../en/images/modules-site/site-modules-articles/14-modules-articles-config-news-flash.png)

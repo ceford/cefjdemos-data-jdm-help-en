@@ -22,11 +22,11 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot - List of Installed Site Modules
 
-![administrator modules list](../../../en/images/modules-site/modules-site-list.png)
+![administrator modules list](../../../en/images/modules-site/site-modules-site/01-modules-site-list.png)
 
 ## Screenshot - List of Available Site Modules
 
-![administrator modules available](../../../en/images/modules-site/modules-site-available.png)
+![administrator modules available](../../../en/images/modules-site/site-modules-site/02-modules-site-available.png)
 
 ## Module Positions
 

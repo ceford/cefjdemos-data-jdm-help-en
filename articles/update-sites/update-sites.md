@@ -22,4 +22,4 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![update sites list](../../../en/images/update-sites/update-sites-list.png)
+![update sites list](../../../en/images/update-sites/update-sites/01-update-sites-list.png)

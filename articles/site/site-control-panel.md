@@ -13,7 +13,7 @@ location:
 
 ## Screenshot
 
-![home dashboard](../../../en/images/site/home-dashboard.png)
+![home dashboard](../../../en/images/site/site-control-panel/01-home-dashboard.png)
 
 ## Modules
 

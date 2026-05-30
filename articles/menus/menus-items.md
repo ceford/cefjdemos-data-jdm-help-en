@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![all menu items list](../../../en/images/menus/menus-all-menu-items-list.png)
+![all menu items list](../../../en/images/menus/menus-items/01-menus-all-menu-items-list.png)
 
 ## Tips
 

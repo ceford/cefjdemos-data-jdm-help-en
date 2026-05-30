@@ -27,7 +27,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![modules post installation messages module tab](../../../en/images/modules-admin/modules-post-installation-messages-module-tab.png)
+![modules post installation messages module tab](../../../en/images/modules-admin/admin-modules-post-installation-messages/01-modules-post-installation-messages-module-tab.png)
 
 ## Form Fields
 

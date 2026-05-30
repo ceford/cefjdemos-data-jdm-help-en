@@ -30,7 +30,7 @@ To edit a User:
 
 ## Screenshot
 
-![users list](../../../en/images/users/users-list.png)
+![users list](../../../en/images/users/users/01-users-list.png)
 
 ## Column Headers
 

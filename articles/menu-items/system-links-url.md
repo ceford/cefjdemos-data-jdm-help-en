@@ -31,7 +31,7 @@ To edit an existing External URL menu item:
 
 ## Screenshot
 
-![Menu Item Alias](../../../en/images/menu-items/system-links-url-details-tab.png)
+![Menu Item Alias](../../../en/images/menu-items/system-links-url/01-system-links-url-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.
 

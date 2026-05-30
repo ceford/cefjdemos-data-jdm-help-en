@@ -20,7 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Smart search options smart search tab](../../../en/images/smart-search/smart-search-options-smart-search-tab.png)
+![Smart search options smart search tab](../../../en/images/smart-search/smart-search-options/01-smart-search-options-smart-search-tab.png)
 
 ## Form Fields
 
@@ -61,7 +61,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Index Tab
 
-![Smart search options index tab](../../../en/images/smart-search/smart-search-options-index-tab.png)
+![Smart search options index tab](../../../en/images/smart-search/smart-search-options/02-smart-search-options-index-tab.png)
 
 - **Search for Phrases** Disabled to improve performance or enable to
   improve quality of results.

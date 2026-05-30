@@ -27,7 +27,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Extensions languages install](../../../en/images/extensions/languages-install.png)
+![Extensions languages install](../../../en/images/extensions/extensions-languages/01-languages-install.png)
 
 ## Column Headers
 

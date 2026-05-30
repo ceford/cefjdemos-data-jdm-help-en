@@ -34,7 +34,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Redirects links](../../../en/images/redirects/redirects-links.png)
+![Redirects links](../../../en/images/redirects/redirects-links/01-redirects-links.png)
 
 ## Column Headers
 

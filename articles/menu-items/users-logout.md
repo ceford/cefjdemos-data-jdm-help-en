@@ -33,13 +33,13 @@ To edit an existing Logout menu item:
 
 ## Screenshot
 
-![Logout details tab](../../../en/images/menu-items/users-logout-details-tab.png)
+![Logout details tab](../../../en/images/menu-items/users-logout/01-users-logout-details-tab.png)
 
 ## Form Fields
 
 ### Options Tab
 
-![Logout options tab](../../../en/images/menu-items/users-logout-options-tab.png)
+![Logout options tab](../../../en/images/menu-items/users-logout/02-users-logout-options-tab.png)
 
 - **Logout Redirection Page** Select or create the page the user will be 
   redirected to after ending their current session by logging out. The default 

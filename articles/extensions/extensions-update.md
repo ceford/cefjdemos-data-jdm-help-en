@@ -28,7 +28,7 @@ Help articles:
 
 ## Screenshot
 
-![Extensions update list](../../../en/images/extensions/update-list.png)
+![Extensions update list](../../../en/images/extensions/extensions-update/01-update-list.png)
 
 ## Tips
 

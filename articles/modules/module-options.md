@@ -20,7 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Module Options general tab](../../../en/images/modules/module-options-general-tab.png)
+![Module Options general tab](../../../en/images/modules/module-options/01-module-options-general-tab.png)
 
 ## Form Fields
 
@@ -48,7 +48,7 @@ Some elements of this page are covered in separate Help articles:
   module edit form and can be used to restrict visibility of an Administrator
   module to a single language.
 
-![Module Options general tab](../../../en/images/modules/module-options-administrator-modules-tab.png)
+![Module Options general tab](../../../en/images/modules/module-options/02-module-options-administrator-modules-tab.png)
 
 ## Tips
 

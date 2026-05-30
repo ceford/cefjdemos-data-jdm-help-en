@@ -7,7 +7,7 @@ module edit forms to control some display aspects of the selected module.
 
 ## Screenshot
 
-![Modules advanced tab](../../../en/images/modules/modules-custom-options-tab.png)
+![Modules advanced tab](../../../en/images/modules/modules-options-tab/01-modules-custom-options-tab.png)
 
 ## Form Fields
 

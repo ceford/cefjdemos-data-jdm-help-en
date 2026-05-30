@@ -265,12 +265,12 @@ help=multilingual-associations=multilingual-associations.md
 help=multilingual-associations=multilingual-associations-edit.md
 help=multilingual-associations=multilingual-associations-options.md
 
-heading=news-feed=News Feed
-help=news-feed=news-feeds.md
-help=news-feed=news-feeds-new-or-edit.md
-help=news-feed=news-feeds-categories.md
-help=news-feed=news-feeds-new-or-edit-category.md
-help=news-feed=news-feed-options.md
+heading=news-feeds=News Feeds
+help=news-feeds=news-feeds.md
+help=news-feeds=news-feeds-new-or-edit.md
+help=news-feeds=news-feeds-categories.md
+help=news-feeds=news-feeds-new-or-edit-category.md
+help=news-feeds=news-feed-options.md
 
 heading=plugins=Plugins
 help=plugins=plugins.md

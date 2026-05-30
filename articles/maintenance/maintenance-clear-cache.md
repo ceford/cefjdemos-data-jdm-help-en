@@ -23,7 +23,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Maintenance Clear Cache](../../../en/images/maintenance/maintenance-clear-cache.png)
+![Maintenance Clear Cache](../../../en/images/maintenance/maintenance-clear-cache/01-maintenance-clear-cache.png)
 
 ## Column Headers
 

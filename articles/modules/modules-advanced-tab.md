@@ -6,7 +6,7 @@ The Module: Advanced tab is used with minor variations in all module edit forms.
 
 ## Screenshot
 
-![Modules advanced tab](../../../en/images/modules/modules-custom-advanced-tab.png)
+![Modules advanced tab](../../../en/images/modules/modules-advanced-tab/01-modules-custom-advanced-tab.png)
 
 ## Form Fields
 

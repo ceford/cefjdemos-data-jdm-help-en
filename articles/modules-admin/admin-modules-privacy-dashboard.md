@@ -25,7 +25,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![modules privacy dashboard module tab](../../../en/images/modules-admin/modules-privacy-dashboard-module-tab.png)
+![modules privacy dashboard module tab](../../../en/images/modules-admin/admin-modules-privacy-dashboard/01-modules-privacy-dashboard-module-tab.png)
 
 ## Form Fields
 

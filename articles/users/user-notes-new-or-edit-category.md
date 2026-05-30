@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![users user notes list](../../../en/images/users/users-user-notes-edit-category.png)
+![users user notes list](../../../en/images/users/user-notes-new-or-edit-category/01-users-user-notes-edit-category.png)
 
 ## Form Fields
 

@@ -19,7 +19,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![privacy consents](../../../en/images/privacy/privacy-consents.png)
+![privacy consents](../../../en/images/privacy/privacy-consents/01-privacy-consents.png)
 
 ## Column Headers
 

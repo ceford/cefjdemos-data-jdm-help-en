@@ -25,7 +25,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Redirects links](../../../en/images/redirects/redirects-edit.png)
+![Redirects links](../../../en/images/redirects/redirects-new-or-edit/01-redirects-edit.png)
 
 ## Form Fields
 

@@ -31,7 +31,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![login module tab](../../../en/images/modules-site/modules-login-module-tab.png)
+![login module tab](../../../en/images/modules-site/site-modules-login/01-modules-login-module-tab.png)
 
 ## Form Fields
 

@@ -38,7 +38,7 @@ To edit an existing List Contacts in a Category menu item:
 
 ## Screenshot
 
-![Menu Item List Contacts in a Category details tab](../../../en/images/menu-items/contacts-list-contacts-in-a-category-details-tab.png)
+![Menu Item List Contacts in a Category details tab](../../../en/images/menu-items/contacts-list-contacts-in-a-category/01-contacts-list-contacts-in-a-category-details-tab.png)
 
 ## Form Fields
 
@@ -53,7 +53,7 @@ The Category Options control the way that category information is shown
 in the layout. The Category List Layout has the following Category
 Options, as shown below.
 
-![Menu Item List Contacts in a Category category tab](../../../en/images/menu-items/contacts-list-contacts-in-a-category-category-tab.png)
+![Menu Item List Contacts in a Category category tab](../../../en/images/menu-items/contacts-list-contacts-in-a-category/02-contacts-list-contacts-in-a-category-category-tab.png)
 
 - **Category Title** Show or hide the Category Title which
   will show as a subheading on the page. The subheading is usually
@@ -73,7 +73,7 @@ Options, as shown below.
 ### Contact Display Tab
 
 Contact Display fields control the appearance of the list layout.
-![Menu Item List Contacts in a Category contact display tab](../../../en/images/menu-items/contacts-featured-contacts-form-tab.png)
+![Menu Item List Contacts in a Category contact display tab](../../../en/images/menu-items/contacts-list-contacts-in-a-category/03-contacts-featured-contacts-form-tab.png)
 
 - **Choose a Layout** Select from the list of templates.
 - **Contact Category** Show or hide the Contact Category display view.
@@ -115,7 +115,7 @@ Contact Display fields control the appearance of the list layout.
 Contact Mail Options control the appearance of a Contact's → *Contact Form*
 if it is enabled.
 
-![Menu Item List Contacts in a Category mail options tab](../../../en/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
+![Menu Item List Contacts in a Category mail options tab](../../../en/images/menu-items/contacts-list-contacts-in-a-category/04-contacts-featured-contacts-mail-options-tab.png)
 
 - **Contact Form** Show or hide the contact's *contact form*.
 - **Send Copy to Submitter** Show or hide the a check

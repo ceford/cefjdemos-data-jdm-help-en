@@ -23,7 +23,7 @@ More Information: [A Dummies Guide to Joomla Bug Testing](https://brian.teeman.n
 
 ## Screenshot
 
-![Patchtester Options form](../../../en/images/joomla-patchtester/patchtester-options-github-repository-tab.png)
+![Patchtester Options form](../../../en/images/joomla-patchtester/patchtester-options/01-patchtester-options-github-repository-tab.png)
 
 ## Form Fields
 
@@ -36,7 +36,7 @@ More Information: [A Dummies Guide to Joomla Bug Testing](https://brian.teeman.n
 You need a Github account and a Github Token. All free - see the GitHub
 Authentication Tab for details.
 
-![Patchtester Options github authentication tab](../../../en/images/joomla-patchtester/patchtester-options-github-authentication-tab.png)
+![Patchtester Options github authentication tab](../../../en/images/joomla-patchtester/patchtester-options/02-patchtester-options-github-authentication-tab.png)
 
 - **GitHub Authentication Method** Choose the Token method. The
   Credentials method will not work from September 2020.
@@ -47,7 +47,7 @@ Authentication Tab for details.
 These settings are used for automated testing. Use the defaults for
 manual testing
 
-![Patchtester Options github ci server settings tab](../../../en/images/joomla-patchtester/patchtester-options-ci-server-settings-tab.png)
+![Patchtester Options github ci server settings tab](../../../en/images/joomla-patchtester/patchtester-options/03-patchtester-options-ci-server-settings-tab.png)
 
 - **CI Server Address** Default: `https://ci.joomla.org`
 - **Switch CI Integration** Default: Off

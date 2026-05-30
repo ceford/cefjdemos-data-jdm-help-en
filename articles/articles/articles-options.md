@@ -20,7 +20,7 @@ Select the **Options** button in the Toolbar of any *Articles* list page.
 
 ## Screenshot
 
-![Articles options screenshot](../../../en/images/articles/articles-options-articles-tab.png)
+![Articles options screenshot](../../../en/images/articles/articles-options/01-articles-options-articles-tab.png)
 
 ## Form Fields
 
@@ -90,7 +90,7 @@ menu item or article.
 
 These options control the layout of the article editing page.
 
-![Articles options editing layout tab](../../../en/images/articles/articles-options-editing-layout-tab.png)
+![Articles options editing layout tab](../../../en/images/articles/articles-options/02-articles-options-editing-layout-tab.png)
 
 - **Allow Captcha on submit** Select the captcha plugin
   that will be used in the article submit form. If *Use Global* is
@@ -141,7 +141,7 @@ These options control the layout of the article editing page.
 These settings apply for Articles Category Options unless they are changed
 by the individual category or menu settings.
 
-![Articles options category tab](../../../en/images/articles/articles-options-category-tab.png)
+![Articles options category tab](../../../en/images/articles/articles-options/03-articles-options-category-tab.png)
 
 - **Choose a Layout** Select the default layout to show when a Category link
   is selected.
@@ -168,7 +168,7 @@ by the individual category or menu settings.
 These settings apply for Articles Categories Options, unless they are changed
 by the individual category or menu settings.
 
-![Articles options categories tab](../../../en/images/articles/articles-options-categories-tab.png)
+![Articles options categories tab](../../../en/images/articles/articles-options/04-articles-options-categories-tab.png)
 
 - **Top Level Category Description** Show the description for the
   top-level category.
@@ -186,7 +186,7 @@ by the individual category or menu settings.
  These settings apply for blog or featured layouts unless they are changed for
  a specific menu item.
 
-![Articles options blog and featured layout tab](../../../en/images/articles/articles-options-blog-layouts-tab.png)
+![Articles options blog and featured layout tab](../../../en/images/articles/articles-options/05-articles-options-blog-layouts-tab.png)
 
 - **# Leading Articles** Number of Articles to show using the full
   width of the main display area. "0" means that no Articles will show
@@ -236,7 +236,7 @@ by the individual category or menu settings.
  These settings apply for List Layouts Options unless they are changed for a
  specific menu item or category.
 
-![Articles options list layouts tab](../../../en/images/articles/articles-options-list-layouts-tab.png)
+![Articles options list layouts tab](../../../en/images/articles/articles-options/06-articles-options-list-layouts-tab.png)
 
 - **Display Select** Show the Display \# control that allows the user
   to select the number of articles to show.
@@ -264,7 +264,7 @@ by the individual category or menu settings.
 These settings apply for Shared Options in List, Blog and Featured layouts
 unless they are changed by the menu settings.
 
-![Articles options shared tab](../../../en/images/articles/articles-options-shared-tab.png)
+![Articles options shared tab](../../../en/images/articles/articles-options/07-articles-options-shared-tab.png)
 
 - **Category Order**
   - *No Order* Articles are ordered only by the Article Order, without
@@ -321,7 +321,7 @@ unless they are changed by the menu settings.
 These settings determine how the Article Component will integrate with other
 extensions.
 
-![Articles options integration tab](../../../en/images/articles/articles-options-integration-tab.png)
+![Articles options integration tab](../../../en/images/articles/articles-options/08-articles-options-integration-tab.png)
 
 #### News Feeds panel
 

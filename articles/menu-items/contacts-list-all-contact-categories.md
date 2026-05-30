@@ -37,7 +37,7 @@ To edit an existing List All Contact Categories Menu Item:
 
 ## Screenshot
 
-![Menu Item Contacts List All Categories tree details tab](../../../en/images/menu-items/contacts-list-all-categories-tree-details-tab.png)
+![Menu Item Contacts List All Categories tree details tab](../../../en/images/menu-items/contacts-list-all-contact-categories/01-contacts-list-all-categories-tree-details-tab.png)
 
 ## Form Fields
 
@@ -46,7 +46,7 @@ To edit an existing List All Contact Categories Menu Item:
 The Categories Options control the way categories information is
 displayed in the layout. Things that you can modify are:
 
-![Menu Item Contacts List All Categories tree categories tab](../../../en/images/menu-items/contacts-list-all-categories-tree-categories-tab.png)
+![Menu Item Contacts List All Categories tree categories tab](../../../en/images/menu-items/contacts-list-all-contact-categories/02-contacts-list-all-categories-tree-categories-tab.png)
 
 - **Top Level Category Description** Show or hide the
   description of the top level category or optionally override with the
@@ -64,7 +64,7 @@ displayed in the layout. Things that you can modify are:
 
 Contact Display Options control the appearance of the list layout.
 
-![Menu Item Contacts List All Categories tree contact display options tab](../../../en/images/menu-items/contacts-list-all-categories-tree-contact-display-options.png)
+![Menu Item Contacts List All Categories tree contact display options tab](../../../en/images/menu-items/contacts-list-all-contact-categories/03-contacts-list-all-categories-tree-contact-display-options.png)
 
 - **Contact Category** Show or hide the Contacts Category display view.
     - *Use Global* Use the default value from the contacts options screen.
@@ -101,7 +101,7 @@ Contact Display Options control the appearance of the list layout.
 
 ### Mail Options Tab
 
-![Menu Item Contacts List All Categories tree mail options tab](../../../en/images/menu-items/contacts-list-all-categories-tree-mail-options-tab.png)
+![Menu Item Contacts List All Categories tree mail options tab](../../../en/images/menu-items/contacts-list-all-contact-categories/04-contacts-list-all-categories-tree-mail-options-tab.png)
 
 - **Contact Form** Show or hide the contact's *contact form*.
 - **Send Copy to Submitter** Show or hide the a check

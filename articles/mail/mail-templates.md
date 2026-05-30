@@ -25,7 +25,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Mail Templates list](../../../en/images/mail/mail-templates.png)
+![Mail Templates list](../../../en/images/mail/mail-templates/01-mail-templates.png)
 
 ## Column Headers
 

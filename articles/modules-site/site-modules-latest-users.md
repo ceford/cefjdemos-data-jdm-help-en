@@ -29,7 +29,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![latest users module tab](../../../en/images/modules-site/modules-latest-users-module-tab.png)
+![latest users module tab](../../../en/images/modules-site/site-modules-latest-users/01-modules-latest-users-module-tab.png)
 
 ## Form Fields
 

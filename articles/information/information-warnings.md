@@ -12,7 +12,7 @@ conflicts in your installation or dependency failures may appear here.
 
 ## Screenshot
 
-![Information Warnings](../../../en/images/information/warnings.png)
+![Information Warnings](../../../en/images/information/information-warnings/01-warnings.png)
 
 ## Toolbar
 

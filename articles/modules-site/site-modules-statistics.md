@@ -28,7 +28,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![statistics module tab](../../../en/images/modules-site/modules-statistics-module-tab.png)
+![statistics module tab](../../../en/images/modules-site/site-modules-statistics/01-modules-statistics-module-tab.png)
 
 ## Form Fields
 

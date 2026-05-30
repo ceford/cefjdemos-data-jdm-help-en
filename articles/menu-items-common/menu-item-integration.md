@@ -15,7 +15,7 @@ some of the tabs change from type to type. This page describes the
 
 ## Screenshot
 
-![menu item integration tab](../../../en/images/menu-items-common/menu-item-category-blog-integration.png)
+![menu item integration tab](../../../en/images/menu-items-common/menu-item-integration/01-menu-item-category-blog-integration.png)
 
 ## Form Fields
 

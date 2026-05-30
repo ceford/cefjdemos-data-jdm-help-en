@@ -20,7 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Extensions manage list](../../../en/images/extensions/manage-list.png)
+![Extensions manage list](../../../en/images/extensions/extensions-manage/01-manage-list.png)
 
 ## Tips
 

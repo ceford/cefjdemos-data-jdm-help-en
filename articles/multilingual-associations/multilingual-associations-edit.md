@@ -27,7 +27,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![TReference and Target items side by side](../../../en/images/multilingual-associations/multilingual-associations-edit.png)
+![TReference and Target items side by side](../../../en/images/multilingual-associations/multilingual-associations-edit/01-multilingual-associations-edit.png)
 
 In this example the items are Articles. Each is a scrollable window with
 the item options beneath the text edit area (not shown).

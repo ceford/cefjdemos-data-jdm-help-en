@@ -24,4 +24,4 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Templates site styles list](../../../en/images/templates/templates-site-styles-list.png)
+![Templates site styles list](../../../en/images/templates/templates-styles/01-templates-site-styles-list.png)

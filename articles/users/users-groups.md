@@ -41,7 +41,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![users groups](../../../en/images/users/users-groups-list.png)
+![users groups](../../../en/images/users/users-groups/01-users-groups-list.png)
 
 ## Tips
 

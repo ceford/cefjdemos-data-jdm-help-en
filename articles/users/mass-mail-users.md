@@ -18,7 +18,7 @@ Select **Users → Mass Mail Users** from the Administrator menu.
 
 ## Screenshot
 
-![mass mail users](../../../en/images/users/mass-mail-users.png)
+![mass mail users](../../../en/images/users/mass-mail-users/01-mass-mail-users.png)
 
 ## Details and Message
 

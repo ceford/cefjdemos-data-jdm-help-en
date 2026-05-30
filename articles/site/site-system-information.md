@@ -28,7 +28,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![home dashboard](../../../en/images/site/system-information-tab.png)
+![home dashboard](../../../en/images/site/site-system-information/01-system-information-tab.png)
 
 ## Form Tabs
 
@@ -61,7 +61,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ### PHP Settings Tab
 
-![home dashboard](../../../en/images/site/php-settings-tab.png)
+![home dashboard](../../../en/images/site/site-system-information/02-php-settings-tab.png)
 
 This screen shows PHP Settings information. If any of these
 is highlighted as incorrect they should be corrected.
@@ -86,7 +86,7 @@ is highlighted as incorrect they should be corrected.
 
 ### Configuration File Tab
 
-![home dashboard](../../../en/images/site/configuration-file-tab.png)
+![home dashboard](../../../en/images/site/site-system-information/03-configuration-file-tab.png)
 
 This tab shows the contents of the current Joomla! *configuration.php* file 
 which is stored in the `path-to-joomla-root` directory. This file is created for you
@@ -97,7 +97,7 @@ Configuration to see more information about these settings and to make changes.
 
 ### Folder Permissions Tab
 
-![home dashboard](../../../en/images/site/folder-permissions-tab.png)
+![home dashboard](../../../en/images/site/site-system-information/04-folder-permissions-tab.png)
 
 This tab shows a list of the directories that the web server should
 have write access to. Please note that all directories listed on this
@@ -107,7 +107,7 @@ configuration.php file is included and shown as **Unwritable**.
 
 ### PHP Information Tab
 
-![home dashboard](../../../en/images/site/php-information-tab.png)
+![home dashboard](../../../en/images/site/site-system-information/05-php-information-tab.png)
 
 This tab displays the configuration settings of the PHP server side
 scripting language that Joomla! uses, together with all of the

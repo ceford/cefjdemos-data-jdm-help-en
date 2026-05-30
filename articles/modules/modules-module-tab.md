@@ -7,7 +7,7 @@ unique to each module but the right panel is the same.
 
 ## Screenshot
 
-![action logs latest module tab](../../../en/images/modules/modules-custom-module-tab.png)
+![action logs latest module tab](../../../en/images/modules/modules-module-tab/01-modules-custom-module-tab.png)
 
 ## Form Fields
 

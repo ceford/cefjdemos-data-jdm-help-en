@@ -38,13 +38,13 @@ To edit an existing List All News Feeds Categories menu item:
 
 ## Screenshot
 
-![Menu Item list all News Feed Categories details tab](../../../en/images/menu-items/news-feeds-list-all-categories-details-tab.png)
+![Menu Item list all News Feed Categories details tab](../../../en/images/menu-items/news-feeds-list-all-news-feed-categories/01-news-feeds-list-all-categories-details-tab.png)
 
 ## Form Fields
 
 ### Categories Tab
 
-![Menu Item list all News Feed Categories categories tab](../../../en/images/menu-items/news-feeds-list-all-categories-tree-categories-tab.png)
+![Menu Item list all News Feed Categories categories tab](../../../en/images/menu-items/news-feeds-list-all-news-feed-categories/02-news-feeds-list-all-categories-tree-categories-tab.png)
 
 - **Top Level Category Description** Show or hide the description of the 
   top-level category. Note that this description can be overridden for this 
@@ -63,7 +63,7 @@ To edit an existing List All News Feeds Categories menu item:
 
 ### Feed Display Options Tab
 
-![Menu Item list all News Feed Categories categories tab](../../../en/images/menu-items/news-feeds-list-all-categories-tree-feed-display-options-tab.png)
+![Menu Item list all News Feed Categories categories tab](../../../en/images/menu-items/news-feeds-list-all-news-feed-categories/03-news-feeds-list-all-categories-tree-feed-display-options-tab.png)
 
 - **Feed Image** Show or hide the image of News Feeds.
 - **Feed Description** Show or hide the descriptions of the News Feeds.

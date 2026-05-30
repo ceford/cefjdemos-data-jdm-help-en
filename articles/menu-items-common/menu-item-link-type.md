@@ -14,7 +14,7 @@ layout of the **Link Type** tab.
 
 ## Screenshot
 
-![menu item link type tab](../../../en/images/menu-items-common/menu-item-link-type.png)
+![menu item link type tab](../../../en/images/menu-items-common/menu-item-link-type/01-menu-item-link-type.png)
 
 ## Form Fields
 

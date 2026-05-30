@@ -22,7 +22,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Plugins list](../../../en/images/plugins/plugins-list.png)
+![Plugins list](../../../en/images/plugins/plugins/01-plugins-list.png)
 
 ## Tips
 

@@ -35,6 +35,6 @@ To edit an existing Confirm Request menu item:
 
 ## Screenshot
 
-![Menu Item Privacy Confirm Request details tab](../../../en/images/menu-items/privacy-confirm-request-details-tab.png)
+![Menu Item Privacy Confirm Request details tab](../../../en/images/menu-items/privacy-confirm-request/01-privacy-confirm-request-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.

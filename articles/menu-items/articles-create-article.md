@@ -35,7 +35,7 @@ To edit a Menu Item:
 
 ## Screenshot
 
-![Menu Item Articles Create Article details tab](../../../en/images/menu-items/articles-create-article-details-tab.png)
+![Menu Item Articles Create Article details tab](../../../en/images/menu-items/articles-create-article/01-articles-create-article-details-tab.png)
 
 ## Form Fields
 
@@ -62,7 +62,7 @@ To edit a Menu Item:
 
 ### Options
 
-![Menu Item Articles Create Article details tab](../../../en/images/menu-items/articles-create-article-options-tab.png)
+![Menu Item Articles Create Article details tab](../../../en/images/menu-items/articles-create-article/02-articles-create-article-options-tab.png)
 
 - **Specific Category**
   - *Yes* Articles will be assigned to the specified category. The user
@@ -81,7 +81,7 @@ To edit a Menu Item:
 This Screenshot shows Joomla core Frontend Template **Cassiopeia** with all
 Editing Layout options set to 'Hide'.
 
-![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article-frontend.png)
+![articles-create-article-frontend.png](../../../en/images/menu-items/articles-create-article/03-articles-create-article-frontend.png)
 
 ## Tips
 

@@ -34,6 +34,6 @@ To edit an existing Create Reques menu item:
 
 ## Screenshot
 
-![Menu Item Privacy Create Request details tab](../../../en/images/menu-items/privacy-create-request-details-tab.png)
+![Menu Item Privacy Create Request details tab](../../../en/images/menu-items/privacy-create-request/01-privacy-create-request-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.

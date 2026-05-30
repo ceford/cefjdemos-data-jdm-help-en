@@ -25,7 +25,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![templates cassiopeia edit style editor tab](../../../en/images/templates/templates-site-edit-style-details-tab.png)
+![templates cassiopeia edit style editor tab](../../../en/images/templates/templates-edit-style/01-templates-site-edit-style-details-tab.png)
 
 ## Form Fields
 
@@ -39,7 +39,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Advanced Tab
 
-![templates cassiopeia edit style editor tab](../../../en/images/templates/templates-site-edit-style-advanced-tab.png)
+![templates cassiopeia edit style editor tab](../../../en/images/templates/templates-edit-style/02-templates-site-edit-style-advanced-tab.png)
 
 This section may not be present for all styles. If a template from which
 a style is derived from has configurable options they will be present
@@ -73,7 +73,7 @@ your image:
 
 ### Menu Assignment Tab
 
-![templates cassiopeia edit style editor tab](../../../en/images/templates/templates-site-edit-style-menu-assignment-tab.png)
+![templates cassiopeia edit style editor tab](../../../en/images/templates/templates-edit-style/03-templates-site-edit-style-menu-assignment-tab.png)
 
 This section contains all the menu items configured in your Joomla!
 website. To apply the current style to a menu item's corresponding web

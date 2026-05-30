@@ -20,7 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![update sites edit update site](../../../en/images/update-sites/update-sites-edit-update-site.png)
+![update sites edit update site](../../../en/images/update-sites/edit-update-site/01-update-sites-edit-update-site.png)
 
 ## Form Fields
 

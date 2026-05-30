@@ -23,7 +23,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Guided tours steps list](../../../en/images/guided-tours/guided-tours-steps-list.png)
+![Guided tours steps list](../../../en/images/guided-tours/guided-tours-steps/01-guided-tours-steps-list.png)
 
 ## Tips
 

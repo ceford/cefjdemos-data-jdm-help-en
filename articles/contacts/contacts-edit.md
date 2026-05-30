@@ -28,7 +28,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Contacts edit contact tab](../../../en/images/contacts/contacts-edit-contact-tab.png)
+![Contacts edit contact tab](../../../en/images/contacts/contacts-edit/01-contacts-edit-contact-tab.png)
 
 ## Form Fields
 
@@ -98,13 +98,13 @@ Here you enter the basic information about the contact.
 
 ### Miscellaneous Information tab
 
-![Contacts edit contact tab](../../../en/images/contacts/contacts-edit-miscellaneous-tab.png)
+![Contacts edit contact tab](../../../en/images/contacts/contacts-edit/02-contacts-edit-miscellaneous-tab.png)
 
 Other information about this Contact can be entered using the editor.
 
 ### Display tab
 
-![Contacts edit contact tab](../../../en/images/contacts/contacts-edit-display-tab.png)
+![Contacts edit contact tab](../../../en/images/contacts/contacts-edit/03-contacts-edit-display-tab.png)
 
 - **Show Category** Show or hide the Contact's category.
 - **Show Contact List** Show or hide the Contact list.
@@ -138,7 +138,7 @@ Other information about this Contact can be entered using the editor.
 
 ### Form tab
 
-![Contacts edit contact tab](../../../en/images/contacts/contacts-edit-form-tab.png)
+![Contacts edit contact tab](../../../en/images/contacts/contacts-edit/04-contacts-edit-form-tab.png)
 
 - **Contact Form** Show or hide the E-mail form. If Show is selected, a
   form is displayed that allows the user to send an e-mail to the

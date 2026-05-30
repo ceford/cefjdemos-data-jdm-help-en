@@ -38,7 +38,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![menus list](../../../en/images/menus/menus-list.png)
+![menus list](../../../en/images/menus/menus/01-menus-list.png)
 
 ## Column Headers
 

@@ -20,49 +20,49 @@ Some aspects of this page are covered in separate Help articles:
 
 This task periodically checks for the availability of new Joomla! versions. When one is found it will send you an email, reminding you to update. You can customise the email at System → Mail Templates.
 
-![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-types-joomla-update-notofication.png)
+![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/01-scheduled-tasks-types-joomla-update-notofication.png)
 
 ### Advanced Tab
 
-![joomla update notification advanced tab parameters](../../../en/images/maintenance/scheduled-tasks-types-advanced-tab.png)
+![joomla update notification advanced tab parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/02-scheduled-tasks-types-advanced-tab.png)
 
 ### Execution History Tab
 
-![joomla update notification execution history tab parameters](../../../en/images/maintenance/scheduled-tasks-types-exec-history-tab.png)
+![joomla update notification execution history tab parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/03-scheduled-tasks-types-exec-history-tab.png)
 
 ### Details Tab
 
-![joomla update notification details tab parameters](../../../en/images/maintenance/scheduled-tasks-types-details-tab.png)
+![joomla update notification details tab parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/04-scheduled-tasks-types-details-tab.png)
 
 ## Delete Action Logs
 
 Delete Action logs after specified days.
 
-![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-types-delete-action-logs.png)
+![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/05-scheduled-tasks-types-delete-action-logs.png)
 
 ## Expiration of Privacy Consents
 
 Manage the expiration of privacy consents.
 
-![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-types-privacy-consent.png)
+![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/06-scheduled-tasks-types-privacy-consent.png)
 
 ## GET Request
 
 Make GET requests to a server. Supports a custom timeout and authorization headers.
 
-![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-types-get-request.png)
+![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/07-scheduled-tasks-types-get-request.png)
 
 ## Global Checkin
 
 Check in checked out items.
 
-![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-types-global-check-in.png)
+![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/08-scheduled-tasks-types-global-check-in.png)
 
 ## Image Size Check
 
 Check images, resize if larger than allowed. Attention: The original file will be overwritten! 
 
-![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-types-image-size-check.png)
+![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/09-scheduled-tasks-types-image-size-check.png)
 
 - **Directory** The Directory of the image to check, perhaps sampledata, banners or headers.
 
@@ -72,29 +72,29 @@ Check images, resize if larger than allowed. Attention: The original file will b
 
 Periodically rotates log files.
 
-![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-types-rotate-logs.png)
+![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/10-scheduled-tasks-types-rotate-logs.png)
 
 ## Session Data Purge
 
 Task Plugin that purges expired data and metadata depending on the session handler set in Global Configuration.
 
-![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-types-session-data-purge.png)
+![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/11-scheduled-tasks-types-session-data-purge.png)
 
 ## Set Site Offline
 
 Sets site status to offline on each run.
 
-![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-types-set-site-offline.png)
+![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/12-scheduled-tasks-types-set-site-offline.png)
 
 ## Set Site Online
 
 Sets site status to online on each run.
 
-![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-types-set-site-online.png)
+![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/13-scheduled-tasks-types-set-site-online.png)
 
 ## Toggle Offline
 
 Toggles the site's status on each run.
 
-![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-types-toggle-offline.png)
+![joomla update notification parameters](../../../en/images/maintenance/scheduled-tasks-edit-task/14-scheduled-tasks-types-toggle-offline.png)
 

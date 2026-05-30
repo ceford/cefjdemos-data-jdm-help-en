@@ -32,7 +32,7 @@ Help articles:
 
 ## Screenshot
 
-![Banners categories list](../../../en/images/banners/banners-categories-list.png)
+![Banners categories list](../../../en/images/banners/banners-categories/01-banners-categories-list.png)
 
 ## Tips
 

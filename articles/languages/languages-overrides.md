@@ -30,7 +30,7 @@ Help articles:
 
 ## Screenshot
 
-![Languages Overrides list](../../../en/images/languages/languages-overrides-list.png)
+![Languages Overrides list](../../../en/images/languages/languages-overrides/01-languages-overrides-list.png)
 
 ## Column Headers
 

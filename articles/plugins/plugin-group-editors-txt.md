@@ -8,7 +8,7 @@ Editor plugins help users enter text with markup or layouts for special purposes
 
 The CodeMirror editor is a code editor which provides an editor more suited for source code. It has code syntax highlighting for many programming languages. It can show mismatched tags and also helps maintain consistent code indenting.
 
-![Code mirror options form](../../../en/images/plugins/plugin-group-editor-codemirror.png)
+![Code mirror options form](../../../en/images/plugins/plugin-group-editors-txt/01-plugin-group-editor-codemirror.png)
 
 - **List numbers** Display line numbers in the editor.
 - **Code Folding** Allow blocks of code to be folded.
@@ -23,7 +23,7 @@ The CodeMirror editor is a code editor which provides an editor more suited for 
 - **Toggle Fullscreen** Select the functon key to use to toggle fullscreen mode.
 - **Use Modifiers** Select any modifier keys to use with the fullscreen toggle key.
 
-![Code mirror advanced options form](../../../en/images/plugins/plugin-group-editor-codemirror-advanced.png)
+![Code mirror advanced options form](../../../en/images/plugins/plugin-group-editors-txt/02-plugin-group-editor-codemirror-advanced.png)
 
 - **Theme** Sets the colours for the editor.
 - **Active Line Colour** The colour to use for highlighting the active line. Will be displayed at 50% opacity.
@@ -42,7 +42,7 @@ This plugin loads a basic text editor. This option can be used when you are past
 
 The TinyMCE editor is a WYSIWYG editor and is the default editor for entry of HTML in Joomla!.
 
-![The TinyMCE plugin options form](../../../en/images/plugins/plugin-group-editor-tinymce.png)
+![The TinyMCE plugin options form](../../../en/images/plugins/plugin-group-editors-txt/03-plugin-group-editor-tinymce.png)
 
 - **Set selection tab** Select *Set 2*, *Set 1* or *Set 0* functionality. With *Set 2* selected, you see the editor for *Public* use. *Set 1* selected, is default for Managers and Registered, *Set 0* selected, is default for Administrators, Editors and Super Users.
 
@@ -77,7 +77,7 @@ Each Tab has a long list of options that are not illustrated here. The following
 
 #### TinyMCE Advanced tab
 
-![TinyMCE Advanced Options form](../../../en/images/plugins/plugin-group-editor-tinymce-advanced.png)
+![TinyMCE Advanced Options form](../../../en/images/plugins/plugin-group-editors-txt/04-plugin-group-editor-tinymce-advanced.png)
 
 - **Number of Sets** Number of sets that can be created. Minimum 3.
 - **HTML Height** The height, in pixels, of the HTML mode pop-up window.

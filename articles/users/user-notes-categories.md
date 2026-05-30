@@ -19,4 +19,4 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![users user notes list](../../../en/images/users/users-user-notes-categories-list.png)
+![users user notes list](../../../en/images/users/user-notes-categories/01-users-user-notes-categories-list.png)

@@ -34,7 +34,7 @@ To edit an existing User Profile Edit menu item:
 
 ## Screenshot
 
-![Edit User Profile details tab](../../../en/images/menu-items/users-edit-user-profile-details-tab.png)
+![Edit User Profile details tab](../../../en/images/menu-items/users-edit-user-profile/01-users-edit-user-profile-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.
 

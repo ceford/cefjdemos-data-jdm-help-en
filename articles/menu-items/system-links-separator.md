@@ -33,7 +33,7 @@ To edit an existing Separator menu item:
 
 ## Screenshot
 
-![Menu Item Alias](../../../en/images/menu-items/system-links-separator-details-tab.png)
+![Menu Item Alias](../../../en/images/menu-items/system-links-separator/01-system-links-separator-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.
 

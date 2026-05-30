@@ -62,7 +62,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![smart search content maps](../../../en/images/smart-search/smart-search-content-maps.png)
+![smart search content maps](../../../en/images/smart-search/smart-search-content-maps/01-smart-search-content-maps.png)
 
 ## Column Headers
 

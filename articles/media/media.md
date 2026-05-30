@@ -24,7 +24,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Media](../../../en/images/media/media.png)
+![Media](../../../en/images/media/media/01-media.png)
 
 ## Image Display Area
 

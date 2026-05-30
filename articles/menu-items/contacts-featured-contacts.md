@@ -35,13 +35,13 @@ To edit an existing Featured Contacts menu item:
 
 ## Screenshot
 
-![Menu Item Featured Contacts Details tab](../../../en/images/menu-items/contacts-featured-contacts-details-tab.png)
+![Menu Item Featured Contacts Details tab](../../../en/images/menu-items/contacts-featured-contacts/01-contacts-featured-contacts-details-tab.png)
 
 ## Form Fields
 
 ### Form Tab
 
-![Menu Item Featured Contacts form tab](../../../en/images/menu-items/contacts-featured-contacts-form-tab.png)
+![Menu Item Featured Contacts form tab](../../../en/images/menu-items/contacts-featured-contacts/02-contacts-featured-contacts-form-tab.png)
 
 - **Tags** Show or hide the contact's *Tags*.
 - **Contact Information** Show or hide the contact's *Contact Information*.
@@ -59,7 +59,7 @@ To edit an existing Featured Contacts menu item:
 Contact Mail Options control the appearance of a Contact's → *Contact Form* if
 it is enabled.
 
-![Menu Item Featured Contacts mail options tab](../../../en/images/menu-items/contacts-featured-contacts-mail-options-tab.png)
+![Menu Item Featured Contacts mail options tab](../../../en/images/menu-items/contacts-featured-contacts/03-contacts-featured-contacts-mail-options-tab.png)
 
 - **Contact Form** Show or hide the contact's *contact form*.
 - **Send Copy to Submitter** Show or hide the a check box to allow a

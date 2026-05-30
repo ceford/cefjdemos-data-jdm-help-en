@@ -24,9 +24,9 @@ the other options requires entry of appropriate data. Some examples:
 
 ### Example: Article Schema
 
-![Schema tab with article option selected](../../../en/images/common-elements/articles-edit-schema-tab-article.png)
+![Schema tab with article option selected](../../../en/images/common-elements/edit-schema/01-articles-edit-schema-tab-article.png)
 
 ### Example: Person Schema
 
-![Schema tab with person option selected](../../../en/images/common-elements/articles-edit-schema-tab-person.png)
+![Schema tab with person option selected](../../../en/images/common-elements/edit-schema/02-articles-edit-schema-tab-person.png)
 

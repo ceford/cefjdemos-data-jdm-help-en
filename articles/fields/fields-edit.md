@@ -32,7 +32,7 @@ experience to prepare suitable template overrides.
 
 ## Screenshot
 
-![Articles edit field](../../../en/images/fields/articles-edit-field.png)
+![Articles edit field](../../../en/images/fields/fields-edit/01-articles-edit-field.png)
 
 ## Form Fields
 
@@ -83,7 +83,7 @@ Parameters for all fields:
 
 ### Options tab
 
-![Articles edit field options tab](../../../en/images/fields/articles-edit-field-options-tab.png)
+![Articles edit field options tab](../../../en/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
 
 #### Form Options
 

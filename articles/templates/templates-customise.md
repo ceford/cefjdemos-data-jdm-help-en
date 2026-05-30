@@ -20,7 +20,7 @@ of the overrides template's master files.
 The Administrator and Site Templates screens use the same layout. The
 Site Template screen is illustrated here.
 
-![templates customise cassiopeia editor tab](../../../en/images/templates/templates-customise-cassiopeia-editor-tab.png)
+![templates customise cassiopeia editor tab](../../../en/images/templates/templates-customise/01-templates-customise-cassiopeia-editor-tab.png)
 
 ## Form Fields
 
@@ -31,7 +31,7 @@ Site Template screen is illustrated here.
 
 ### Create Overrides Tab
 
-![templates customise cassiopeia create overrides tab](../../../en/images/templates/templates-customise-cassiopeia-create-overrides-tab.png)
+![templates customise cassiopeia create overrides tab](../../../en/images/templates/templates-customise/02-templates-customise-cassiopeia-create-overrides-tab.png)
 
 - Select an item to override. Items marked with a solid file icon open to
   reveal a list of items. Items marked with superimposed open and filled page
@@ -42,7 +42,7 @@ Site Template screen is illustrated here.
 
 ### Updated Files Tab
 
-![templates customise cassiopeia updated tab](../../../en/images/templates/templates-customise-cassiopeia-updated-files-tab.png)
+![templates customise cassiopeia updated tab](../../../en/images/templates/templates-customise/03-templates-customise-cassiopeia-updated-files-tab.png)
 
 If there have been no updates to the template since overrides were
 created this tab will contain a simple message:
@@ -57,7 +57,7 @@ need to be reviewed.
 
 ### Template Description Tab
 
-![templates customise cassiopeia template description tab](../../../en/images/templates/templates-customise-cassiopeia-template-description-tab.png)
+![templates customise cassiopeia template description tab](../../../en/images/templates/templates-customise/04-templates-customise-cassiopeia-template-description-tab.png)
 
 - **Thumbnail and Description** Information on this template.
 

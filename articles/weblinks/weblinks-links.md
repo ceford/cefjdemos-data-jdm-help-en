@@ -26,4 +26,4 @@ menu.
 
 ## Screenshot
 
-![weblinks list](../../../en/images/weblinks/weblinks-list.png)
+![weblinks list](../../../en/images/weblinks/weblinks-links/01-weblinks-list.png)
