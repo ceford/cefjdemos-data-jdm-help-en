@@ -26,7 +26,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![templates options templates tab](../../../en/images/templates/template-options/01-templates-options-templates-tab.png)
+![templates options templates tab](../../../en/images/templates/template-options/01-templates-tab.png)
 
 ## Form Fields
 

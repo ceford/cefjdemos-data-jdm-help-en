@@ -35,7 +35,7 @@ To edit an existing Registration Form menu item:
 
 ## Screenshot
 
-![Registration form details tab](../../../en/images/menu-items/users-registration-form/01-users-registration-form-details-tab.png)
+![Registration form details tab](../../../en/images/menu-items/users-registration-form/01-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.
 

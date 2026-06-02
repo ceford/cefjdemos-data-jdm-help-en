@@ -21,5 +21,5 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![News feeds list](../../../en/images/news-feeds/news-feeds-categories/01-news-feeds-categories.png)
+![News feeds list](../../../en/images/news-feeds/news-feeds-categories/01-categories-list.png)
 

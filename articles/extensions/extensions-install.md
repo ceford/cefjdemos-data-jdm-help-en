@@ -67,7 +67,7 @@ for installing a Joomla! Extension is as follows:
 
 ## Upload Package File Tab
 
-![Extension install upload package file tab](../../../en/images/extensions/extensions-install/01-install-upload-package-file.png)
+![Extension install upload package file tab](../../../en/images/extensions/extensions-install/01-upload-package-file.png)
 
 - Drag and drop or browse to the location where you downloaded the
   Extension's archive file.

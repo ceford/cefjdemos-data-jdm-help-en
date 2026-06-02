@@ -33,6 +33,6 @@ To edit an existing **Single Weblink** menu item:
 
 ## Screenshot
 
-![Menu item weblinks submit a web link](../../../en/images/menu-items/weblinks-single-weblink/01-weblinks-single-weblink-details-tab.png)
+![Menu item weblinks submit a web link](../../../en/images/menu-items/weblinks-single-weblink/01-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.

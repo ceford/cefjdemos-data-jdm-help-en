@@ -37,7 +37,7 @@ To edit a Menu Item:
 
 ## Screenshot
 
-![Menu Item Category List](../../../en/images/menu-items/articles-category-list/01-articles-category-list-details-tab.png)
+![Menu Item Category List](../../../en/images/menu-items/articles-category-list/01-details-tab.png)
 
 ## Form Fields
 

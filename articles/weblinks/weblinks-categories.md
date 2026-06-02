@@ -22,4 +22,4 @@ Select **Components → Weblinks → Categories** from the Administrator men
 
 ## Screenshot
 
-![weblinks list](../../../en/images/weblinks/weblinks-categories/01-web-links-categories-list.png)
+![weblinks list](../../../en/images/weblinks/weblinks-categories/01-categories-list.png)

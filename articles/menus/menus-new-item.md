@@ -32,7 +32,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![menu item details tab](../../../en/images/menus/menus-new-item/01-menu-item-details.png)
+![menu item details tab](../../../en/images/menus/menus-new-item/01-details-tab.png)
 
 ## Form Fields
 

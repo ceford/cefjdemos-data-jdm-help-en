@@ -20,7 +20,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Guided tours edit step](../../../en/images/guided-tours/guided-tours-edit-step/01-guided-tours-edit-step.png)
+![Guided tours edit step](../../../en/images/guided-tours/guided-tours-edit-step/01-edit-step-tab.png)
 
 ## Form Fields
 
@@ -76,7 +76,7 @@ of that key for the user's locale.
 
 ### Options Tab
 
-![Guided tours edit step options tab](../../../en/images/guided-tours/guided-tours-edit-step/02-guided-tours-edit-step-options-tab.png)
+![Guided tours edit step options tab](../../../en/images/guided-tours/guided-tours-edit-step/02-options-tab.png)
 
 ## Tips
 

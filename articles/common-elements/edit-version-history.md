@@ -20,7 +20,7 @@ Select the **Versions** button in the Toolbar of an item edit page.
 
 ## Screenshot
 
-![Version history popup](../../../en/images/common-elements/edit-version-history/01-articles-edit-versions.png)
+![Version history popup](../../../en/images/common-elements/edit-version-history/01-versions-dialog.png)
 
 ## Column Headers
 

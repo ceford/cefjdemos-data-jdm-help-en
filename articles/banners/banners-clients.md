@@ -23,7 +23,7 @@ articles:
 
 ## Screenshot
 
-![Banners Clients](../../../en/images/banners/banners-clients/01-banners-clients-list.png)
+![Banners Clients](../../../en/images/banners/banners-clients/01-clients-list.png)
 
 ## Column Headers
 

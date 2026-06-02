@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![users user notes list](../../../en/images/users/user-notes/01-users-user-notes-list.png)
+![users user notes list](../../../en/images/users/user-notes/01-notes-list.png)
 
 ## Tips
 

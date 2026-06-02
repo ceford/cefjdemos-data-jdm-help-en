@@ -21,7 +21,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![post installation messages screen](../../../en/images/post-install-messages/post-installation-messages-for-joomla-cms/01-post-install-messages.png)
+![post installation messages screen](../../../en/images/post-install-messages/post-installation-messages-for-joomla-cms/01-message-groups.png)
 
 ## Messages
 

@@ -33,7 +33,7 @@ To edit an existing **Submit a Web Link** menu item:
 
 ## Screenshot
 
-![Menu item weblinks submit a web link](../../../en/images/menu-items/weblinks-weblink-submit/01-weblinks-submit-a-web-link-details-tab.png)
+![Menu item weblinks submit a web link](../../../en/images/menu-items/weblinks-weblink-submit/01-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.
 

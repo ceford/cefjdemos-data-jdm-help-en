@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![smart search indexed content](../../../en/images/smart-search/smart-search-indexed-content/01-smart-search-indexed-content.png)
+![smart search indexed content](../../../en/images/smart-search/smart-search-indexed-content/01-indexed-content.png)
 
 ## Create an Index
 

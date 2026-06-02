@@ -22,4 +22,4 @@ Select **Users → User Actions Log** from the Administrator menu.
 
 ## Screenshot
 
-![users user actions log list](../../../en/images/users/user-actions-log/01-user-actions-log-list.png)
+![users user actions log list](../../../en/images/users/user-actions-log/01-log-list.png)

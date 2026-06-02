@@ -19,7 +19,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Languages Edit content language details tab](../../../en/images/languages/languages-edit-content-language/01-languages-edit-content-language-details-tab.png)
+![Languages Edit content language details tab](../../../en/images/languages/languages-edit-content-language/01-details-tab.png)
 
 ## Form Fields
 
@@ -46,7 +46,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ### Options Tab
 
-![Languages Edit content language options tab](../../../en/images/languages/languages-edit-content-language/02-languages-edit-content-language-options-tab.png)
+![Languages Edit content language options tab](../../../en/images/languages/languages-edit-content-language/02-options-tab.png)
 
 * The **Site Custom Name** might be different in different languages!
 * The **Meta Description** should be different in different languages!

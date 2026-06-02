@@ -34,6 +34,6 @@ To edit an existing Extend Consent menu item:
 
 ## Screenshot
 
-![Menu Item Privacy Create Request details tab](../../../en/images/menu-items/privacy-extend-consent/01-privacy-extend-consent-details-tab.png)
+![Menu Item Privacy Create Request details tab](../../../en/images/menu-items/privacy-extend-consent/01-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.

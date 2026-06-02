@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![modules administrator dashboard menu module tab](../../../en/images/modules-admin/admin-modules-administrator-dashboard-menu/01-modules-administrator-dashboard-menu-module-tab.png)
+![modules administrator dashboard menu module tab](../../../en/images/modules-admin/admin-modules-administrator-dashboard-menu/01-module-tab.png)
 
 ## Form Fields
 

@@ -31,7 +31,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Languages Edit Override](../../../en/images/languages/languages-edit-override/01-languages-edit-override.png)
+![Languages Edit Override](../../../en/images/languages/languages-edit-override/01-override-form.png)
 
 ## Form Fields
 

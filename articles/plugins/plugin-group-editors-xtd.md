@@ -4,7 +4,7 @@
 
 The editors-xtd plugins add buttons to the CMS Content drop-down list in the TinyMCE editor.
 
-![Example rendering of buttons in TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-plugin-group-editors-extended.png)
+![Example rendering of buttons in TinyMCE](../../../en/images/plugins/plugin-group-editors-xtd/01-cms-content-buttons.png)
 
 ### Button - Article
 

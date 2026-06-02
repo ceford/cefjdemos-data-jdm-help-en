@@ -23,7 +23,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![users permissions for group](../../../en/images/users/permissions-for-group/01-users-permissions-for-group.png)
+![users permissions for group](../../../en/images/users/permissions-for-group/01-permissions-list.png)
 
 Above the Permissions table are selected items showing access permissions
 using icons for *Allowed*, *Not Allowed* and *Forbidden*. The icon key is below

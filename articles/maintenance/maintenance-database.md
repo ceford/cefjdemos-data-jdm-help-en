@@ -26,7 +26,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Maintenance database](../../../en/images/maintenance/maintenance-database/01-maintenance-database.png)
+![Maintenance database](../../../en/images/maintenance/maintenance-database/01-items-list.png)
 
 ## Column Headers
 

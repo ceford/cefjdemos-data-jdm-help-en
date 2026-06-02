@@ -56,7 +56,7 @@ experience to prepare suitable template overrides.
 
 ## Screenshot
 
-![Articles fields list](../../../en/images/fields/fields/01-articles-fields-list.png)
+![Articles fields list](../../../en/images/fields/fields/01-fields-list.png)
 
 There are 16 field types available, each implemented as a plugin. More are 
 likely to become available in the future.

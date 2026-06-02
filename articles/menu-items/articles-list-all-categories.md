@@ -41,7 +41,7 @@ To edit a Menu Item:
 
 ## Screenshot
 
-![Menu Item Articles List All Categories details tab](../../../en/images/menu-items/articles-list-all-categories/01-articles-list-all-categories-details-tab.png)
+![Menu Item Articles List All Categories details tab](../../../en/images/menu-items/articles-list-all-categories/01-details-tab.png)
 
 ## Form Fields
 
@@ -72,7 +72,7 @@ To edit a Menu Item:
 
 ### Categories tab
 
-![Menu Item Articles List All Categories  categories tab](../../../en/images/menu-items/articles-list-all-categories/02-articles-list-all-categories-categories-tab.png)
+![Menu Item Articles List All Categories  categories tab](../../../en/images/menu-items/articles-list-all-categories/02-categories-tab.png)
 
 - **Top Level Category Description** Show the description for the
   top-level category.
@@ -100,7 +100,7 @@ above but the fields are similar.
 The Shared Options apply for Shared Options in List, Blog and Featured
 unless they are changed by the menu settings.
 
-![Menu Item Articles List All Categories  categories tab](../../../en/images/menu-items/articles-list-all-categories/03-articles-list-all-categories-shared-tab.png)
+![Menu Item Articles List All Categories  categories tab](../../../en/images/menu-items/articles-list-all-categories/03-shared-tab.png)
 
 - **Pagination** Pagination provides page links at the bottom of the
   page that allow the User to navigate to additional pages. These are

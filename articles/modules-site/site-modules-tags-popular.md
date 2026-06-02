@@ -28,7 +28,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![tags popular module tab](../../../en/images/modules-site/site-modules-tags-popular/01-modules-tags-popular-module-tab.png)
+![tags popular module tab](../../../en/images/modules-site/site-modules-tags-popular/01-module-tab.png)
 
 ## Form Fields
 

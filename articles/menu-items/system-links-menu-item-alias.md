@@ -36,7 +36,7 @@ To edit an existing Menu Item:
 
 ## Screenshot
 
-![Menu Item Alias](../../../en/images/menu-items/system-links-menu-item-alias/01-system-links-menu-item-alias-details-tab.png)
+![Menu Item Alias](../../../en/images/menu-items/system-links-menu-item-alias/01-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.
 

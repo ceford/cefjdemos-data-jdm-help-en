@@ -37,7 +37,7 @@ To edit a Menu Item:
 
 ## Screenshot
 
-![Menu Item Articles Featured Articles details tab](../../../en/images/menu-items/articles-featured-articles/01-articles-featured-details-tab.png)
+![Menu Item Articles Featured Articles details tab](../../../en/images/menu-items/articles-featured-articles/01-details-tab.png)
 
 ## Tips
 

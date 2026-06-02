@@ -10,7 +10,7 @@ There is only one plugin in this group!
 
 The *Action Log - Joomla* plugin records the actions of users on the site for Joomla core extensions so they can be reviewed if required. If this plugin is enabled the latest actions appear in a module in the Home Dashboard:
 
-![Home dashboard latest actions panel](../../../en/images/plugins/plugin-group-action-logs/01-plugins-user-actions-log-latest-actions.png)
+![Home dashboard latest actions panel](../../../en/images/plugins/plugin-group-action-logs/01-latest-actions.png)
 
 If the plugin is disabled then the Home Dashboard module does not change. It displays the most recently logged actions.
 

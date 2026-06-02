@@ -20,7 +20,7 @@ item in the other installed languages.
 
 ## Screenshot
 
-![menu item associations tab](../../../en/images/menu-items-common/menu-item-associations/01-menu-item-associations.png)
+![menu item associations tab](../../../en/images/menu-items-common/menu-item-associations/01-associations-tab.png)
 
 ## Form Fields
 

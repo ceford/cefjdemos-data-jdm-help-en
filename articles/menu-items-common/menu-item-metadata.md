@@ -14,7 +14,7 @@ layout of the **Metadata** tab.
 
 ## Screenshot
 
-![menu item metadata tab](../../../en/images/menu-items-common/menu-item-metadata/01-menu-item-metadata.png)
+![menu item metadata tab](../../../en/images/menu-items-common/menu-item-metadata/01-metadata-tab.png)
 
 ## Form Fields
 

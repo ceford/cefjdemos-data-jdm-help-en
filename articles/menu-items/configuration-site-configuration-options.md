@@ -38,8 +38,8 @@ Title in the *Menus: Items* list.
 
 ## Screenshot
 
-![Menu item type Site Configuration options](../../../en/images/menu-items/configuration-site-configuration-options/01-configuration-site-configuration-options-details.png)
+![Menu item type Site Configuration options](../../../en/images/menu-items/configuration-site-configuration-options/01-details-tab.png)
 
 ## Front End Screenshot
 
-![Site configuration options front end form](../../../en/images/menu-items/configuration-site-configuration-options/02-configuration-site-configuration-options-frontend.png)
+![Site configuration options front end form](../../../en/images/menu-items/configuration-site-configuration-options/02-site-configuration-options-frontend.png)

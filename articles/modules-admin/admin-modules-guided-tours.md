@@ -27,7 +27,7 @@ Administrator menu. Then...
 
 ## Screenshot
 
-![modules guided tours module tab](../../../en/images/modules-admin/admin-modules-guided-tours/01-modules-guided-tours-module-tab.png)
+![modules guided tours module tab](../../../en/images/modules-admin/admin-modules-guided-tours/01-module-tab.png)
 
 ## Form Fields
 

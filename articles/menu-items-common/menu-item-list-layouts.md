@@ -130,7 +130,7 @@ illustrate what to expect
 
 ### News Feed List Layouts
 
-![Menu Item list all News Feed Categories list layouts tab](../../../en/images/menu-items-common/menu-item-list-layouts/03-news-feeds-list-all-categories-tree-list-layouts-tab.png)
+![Menu Item list all News Feed Categories list layouts tab](../../../en/images/menu-items-common/menu-item-list-layouts/03-news-feeds-list-layouts-tab.png)
 
 - **Filter Field** Show or hide a Filter field for the list.
 - **Display Select** Show or hide the Display \# control that allows the user
@@ -155,7 +155,7 @@ illustrate what to expect
 
 ### Tags List Layouts
 
-![Compact List of Tagged Items details tab](../../../en/images/menu-items-common/menu-item-list-layouts/04-tags-compact-list-of-tagged-items-list-layouts-tab.png)
+![Compact List of Tagged Items details tab](../../../en/images/menu-items-common/menu-item-list-layouts/04-tags-list-layouts-tab.png)
 
 - **Item Image** Show or hide the image for each item.
 - **Item Description** Show or hide the description for each item in the list.

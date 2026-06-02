@@ -22,7 +22,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![News feeds options news feed tab](../../../en/images/news-feeds/news-feed-options/01-news-feeds-options-news-feed-tab.png)
+![News feeds options news feed tab](../../../en/images/news-feeds/news-feed-options/01-news-feed-tab.png)
 
 ## Form Fields
 
@@ -54,7 +54,7 @@ specific menu item or News Feed
 
 ### Category Tab
 
-![News feeds options category tab](../../../en/images/news-feeds/news-feed-options/02-news-feeds-options-category-tab.png)
+![News feeds options category tab](../../../en/images/news-feeds/news-feed-options/02-category-tab.png)
 
 - **Choose a layout** Select Blog, List or a user defined layout to show by 
   default when a Category link is selected. 
@@ -73,7 +73,7 @@ specific menu item or News Feed
 
 ### Categories Tab
 
-![News feeds options categories tab](../../../en/images/news-feeds/news-feed-options/03-news-feeds-options-categories-tab.png)
+![News feeds options categories tab](../../../en/images/news-feeds/news-feed-options/03-categories-tab.png)
 
 - **Top Level Category Description** Show or hide the description of the 
   top-level category.
@@ -85,7 +85,7 @@ specific menu item or News Feed
 
 ### List Layouts Tab
 
-![News feeds options list layouts tab](../../../en/images/news-feeds/news-feed-options/04-news-feeds-options-list-layouts-tab.png)
+![News feeds options list layouts tab](../../../en/images/news-feeds/news-feed-options/04-list-layouts-tab.png)
 
 - **Filter Field** The Filter Field creates a text field where a user
   can enter a field to be used to filter the articles shown in the list.
@@ -107,7 +107,7 @@ specific menu item or News Feed
 
 ### Integration Tab
 
-![News feeds options integration tab](../../../en/images/news-feeds/news-feed-options/05-news-feeds-options-integration-tab.png)
+![News feeds options integration tab](../../../en/images/news-feeds/news-feed-options/05-integration-tab.png)
 
 - **Remove IDs from URLs** Whether or not to show the database id of a
   newsfeed in a link.

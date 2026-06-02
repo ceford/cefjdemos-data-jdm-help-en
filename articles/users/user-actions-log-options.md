@@ -21,7 +21,7 @@ To access this screen:
 
 ## Screenshot
 
-![user actions log options tab](../../../en/images/users/user-actions-log-options/01-user-actions-log-options-options-tab.png)
+![user actions log options tab](../../../en/images/users/user-actions-log-options/01-options-tab.png)
 
 ## Form Fields
 

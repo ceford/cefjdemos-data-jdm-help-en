@@ -13,7 +13,7 @@ layout of the **Details** tab before a menu item type is selected.
 
 ## Screenshot
 
-![menu item details tab](../../../en/images/menu-items-common/menu-item-details/01-menu-item-details.png)
+![menu item details tab](../../../en/images/menu-items-common/menu-item-details/01-details-tab.png)
 
 The screenshots in each of the item type Help pages differ in details from
 this screenshot.

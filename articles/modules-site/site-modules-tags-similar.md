@@ -27,7 +27,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![tags similar module tab](../../../en/images/modules-site/site-modules-tags-similar/01-modules-tags-similar-module-tab.png)
+![tags similar module tab](../../../en/images/modules-site/site-modules-tags-similar/01-module-tab.png)
 
 ## Form Fields
 

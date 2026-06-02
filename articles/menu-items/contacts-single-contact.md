@@ -35,7 +35,7 @@ To edit an existing Single Contact menu item:
 
 ## Screenshot
 
-![Menu Item Single contact details tab](../../../en/images/menu-items/contacts-single-contact/01-contacts-single-contact-details-tab.png)
+![Menu Item Single contact details tab](../../../en/images/menu-items/contacts-single-contact/01-details-tab.png)
 
 ## Form Fields
 
@@ -48,7 +48,7 @@ To edit an existing Single Contact menu item:
 
 Contact Display Options control the appearance of the list layout.
 
-![Menu Item Single contact contact display tab](../../../en/images/menu-items/contacts-single-contact/02-contacts-single-contact-contact-display-options-tab.png)
+![Menu Item Single contact contact display tab](../../../en/images/menu-items/contacts-single-contact/02-contact-display-options-tab.png)
 
 - **Contact Category** Show or hide the Contact Category display view.
     The following options are available.
@@ -86,7 +86,7 @@ Contact Display Options control the appearance of the list layout.
 
 ### Mail Options
 
-![Menu Item Single contact mail options tab](../../../en/images/menu-items/contacts-single-contact/03-contacts-single-contact-mail-options-tab.png)
+![Menu Item Single contact mail options tab](../../../en/images/menu-items/contacts-single-contact/03-mail-options-tab.png)
 
 - **Contact Form** Show or hide the contact's *contact form*.
 - **Send Copy to Submitter** Show or hide the a check

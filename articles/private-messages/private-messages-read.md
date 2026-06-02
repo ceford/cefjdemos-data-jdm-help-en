@@ -20,7 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![private messages view](../../../en/images/private-messages/private-messages-read/01-private-messages-view.png)
+![private messages view](../../../en/images/private-messages/private-messages-read/01-messages-view.png)
 
 ## Details
 

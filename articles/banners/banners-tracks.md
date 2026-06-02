@@ -20,7 +20,7 @@ Help articles:
 
 ## Screenshot
 
-![Banners tracks list](../../../en/images/banners/banners-tracks/01-banners-tracks-list.png)
+![Banners tracks list](../../../en/images/banners/banners-tracks/01-tracks-list.png)
 
 ## Column Headers
 

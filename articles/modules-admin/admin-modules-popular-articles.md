@@ -27,7 +27,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![modules multilingual status module tab](../../../en/images/modules-admin/admin-modules-popular-articles/01-modules-popular-articles-module-tab.png)
+![modules multilingual status module tab](../../../en/images/modules-admin/admin-modules-popular-articles/01-module-tab.png)
 
 ## Form Fields
 

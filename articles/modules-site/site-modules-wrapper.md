@@ -29,7 +29,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![wrapper module tab](../../../en/images/modules-site/site-modules-wrapper/01-modules-wrapper-module-tab.png)
+![wrapper module tab](../../../en/images/modules-site/site-modules-wrapper/01-module-tab.png)
 
 ## Form Fields
 

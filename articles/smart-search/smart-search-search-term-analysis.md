@@ -14,7 +14,7 @@ be collected.
 
 ## Screenshot
 
-![smart search search term analysis](../../../en/images/smart-search/smart-search-search-term-analysis/01-smart-search-search-term-analysis.png)
+![smart search search term analysis](../../../en/images/smart-search/smart-search-search-term-analysis/01-search-term-analysis.png)
 
 ## Columns
 

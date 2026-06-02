@@ -83,7 +83,7 @@ Parameters for all fields:
 
 ### Options tab
 
-![Articles edit field options tab](../../../en/images/fields/fields-edit/02-articles-edit-field-options-tab.png)
+![Articles edit field options tab](../../../en/images/fields/fields-edit/02-options-tab.png)
 
 #### Form Options
 

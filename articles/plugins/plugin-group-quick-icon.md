@@ -4,7 +4,7 @@
 
 Quick Icons appear in panels in the Home Dashboard to provide easy visual access to Joomla features as an alternative to using the Administrator Menus. Some of the Quick Icons obtain additional information after initial display. The plugins are used to obtain that additional information. For example, this is the Update Checks panel showing that two Extension updates are available.
 
-![Home dashboard upate checks panel](../../../en/images/plugins/plugin-group-quick-icon/01-plugin-group-quick-icon-update-checks.png)
+![Home dashboard upate checks panel](../../../en/images/plugins/plugin-group-quick-icon/01-update-checks.png)
 
 If you watch page load or reload carefully you will see the icons change colour from blue to green or red, signifying up to date or not up to date. If you disable a plugin it will not appear on the Home Dashboard.
 
@@ -12,7 +12,7 @@ If you watch page load or reload carefully you will see the icons change colour 
 
 Checks for updates of your installed third-party extensions and notifies you when you visit the Home Dashboard page.
 
-![Joomla extensions updates notification edit form](../../../en/images/plugins/plugin-group-quick-icon/02-plugin-group-quick-icon-extensions-updates-notification.png)
+![Joomla extensions updates notification edit form](../../../en/images/plugins/plugin-group-quick-icon/02-extensions-updates-notification.png)
 
 - **Group** The group of this plugin (this value is compared with the group used in Quick Icons modules to inject icons).
 
@@ -30,7 +30,7 @@ Checks for privacy requests that need to be handled and notifies you when you vi
 
 Checks for Joomla updates and notifies you when you visit the Home Dashboard page.
 
-![Joomla extensions updates notification edit form](../../../en/images/plugins/plugin-group-quick-icon/03-plugin-group-quick-icon-joomla-update-notification.png)
+![Joomla extensions updates notification edit form](../../../en/images/plugins/plugin-group-quick-icon/03-joomla-update-notification.png)
 
 - **Group** The group of this plugin (this value is compared with the group used in Quick Icons modules to inject icons).
 

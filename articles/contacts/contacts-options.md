@@ -19,7 +19,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Contacts options screenshot](../../../en/images/contacts/contacts-options/01-contacts-options-contact-tab.png)
+![Contacts options screenshot](../../../en/images/contacts/contacts-options/01-contact-tab.png)
 
 ## Form Fields
 
@@ -87,7 +87,7 @@ specific menu item or Contact
 
 ### Icons Tab
 
-![Contacts options icons tab](../../../en/images/contacts/contacts-options/02-contacts-options-icons-tab.png)
+![Contacts options icons tab](../../../en/images/contacts/contacts-options/02-icons-tab.png)
 
 These settings apply for single Contact unless they are changed for a
 specific menu item or Contact
@@ -112,7 +112,7 @@ specific menu item or Contact
 Category Options control how contacts will show when you drill down to a
 Category to view its contacts.
 
-![Contacts options category tab](../../../en/images/contacts/contacts-options/03-contacts-options-category-tab.png)
+![Contacts options category tab](../../../en/images/contacts/contacts-options/03-category-tab.png)
 
 - **Choose a Layout** (Blog/List/user defined). This lets you select
   the default layout to show when you click on a Category link. If you
@@ -137,14 +137,14 @@ Category to view its contacts.
 These settings apply for Contact Categories Options unless they are
 changed for a specific menu item.
 
-![Contacts options categories tab](../../../en/images/contacts/contacts-options/04-contacts-options-categories-tab.png)
+![Contacts options categories tab](../../../en/images/contacts/contacts-options/04-categories-tab.png)
 
 ### List Layouts Tab
 
 These settings apply for Contact List Options unless they are changed
 for a specific menu item.
 
-![Contacts options list layouts tab](../../../en/images/contacts/contacts-options/05-contacts-options-list-layouts-tab.png)
+![Contacts options list layouts tab](../../../en/images/contacts/contacts-options/05-list-layouts-tab.png)
 
 - **Filter Field** The Filter Field creates a text field where a user
   can enter a field to be used to filter the articles shown in the list.
@@ -192,7 +192,7 @@ for a specific menu item.
 These settings apply for single Contact unless they are changed for a
 specific menu item or Contact.
 
-![Contacts options form tab](../../../en/images/contacts/contacts-options/06-contacts-options-form-tab.png)
+![Contacts options form tab](../../../en/images/contacts/contacts-options/06-form-tab.png)
 
 - **Allow Captcha on Contact** Use Default or None Selected. Select the
   captcha plugin that will be used in the contact form. Captcha is the

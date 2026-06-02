@@ -20,7 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Languages Content list](../../../en/images/languages/languages-content/01-languages-content.png)
+![Languages Content list](../../../en/images/languages/languages-content/01-languages-list.png)
 
 ## Column Headers
 

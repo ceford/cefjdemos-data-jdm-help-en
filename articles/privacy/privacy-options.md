@@ -20,7 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![privacy options](../../../en/images/privacy/privacy-options/01-privacy-options.png)
+![privacy options](../../../en/images/privacy/privacy-options/01-options-tab.png)
 
 ## Form Fields
 

@@ -20,7 +20,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Mail Templates Options](../../../en/images/mail/mail-templates-options/01-mail-templates-options-mails-tab.png)
+![Mail Templates Options](../../../en/images/mail/mail-templates-options/01-mails-tab.png)
 
 ## Form Fields
 

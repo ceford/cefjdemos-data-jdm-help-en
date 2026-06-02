@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![smart search module tab](../../../en/images/modules-site/site-modules-smart-search/01-modules-smart-search-module-tab.png)
+![smart search module tab](../../../en/images/modules-site/site-modules-smart-search/01-module-tab.png)
 
 ## Form Fields
 

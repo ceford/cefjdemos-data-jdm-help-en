@@ -20,7 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Languages installed site list](../../../en/images/languages/languages-installed/01-languages-installed-site.png)
+![Languages installed site list](../../../en/images/languages/languages-installed/01-languages-installed-list.png)
 
 ## List Filters
 

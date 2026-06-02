@@ -28,7 +28,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![language switcher module tab](../../../en/images/modules-site/site-modules-language-switcher/01-modules-language-switcher-module-tab.png)
+![language switcher module tab](../../../en/images/modules-site/site-modules-language-switcher/01-module-tab.png)
 
 ## Form Fields
 

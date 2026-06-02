@@ -36,6 +36,6 @@ To edit an existing *Password Reset* menu item:
 
 ## Screenshot
 
-![Password reset details tab](../../../en/images/menu-items/users-password-reset/01-users-password-reset-details-tab.png)
+![Password reset details tab](../../../en/images/menu-items/users-password-reset/01-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.

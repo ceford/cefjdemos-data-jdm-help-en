@@ -23,7 +23,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![News feeds edit category category tab](../../../en/images/news-feeds/news-feeds-new-or-edit-category/01-news-feeds-edit-category-category-tab.png)
+![News feeds edit category category tab](../../../en/images/news-feeds/news-feeds-new-or-edit-category/01-category-tab.png)
 
 ## Form Fields
 
@@ -34,7 +34,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ### Options tab
 
-![News feeds edit category category tab](../../../en/images/news-feeds/news-feeds-new-or-edit-category/02-news-feeds-edit-category-options-tab.png)
+![News feeds edit category category tab](../../../en/images/news-feeds/news-feeds-new-or-edit-category/02-options-tab.png)
 
 - **Layout** Select a layout from the available choices.
 - **Image** Choose an image to be displayed with this category in the Frontend.

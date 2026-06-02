@@ -33,7 +33,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Multilingual associations lis](../../../en/images/multilingual-associations/multilingual-associations/01-multilingual-associations-list.png)
+![Multilingual associations lis](../../../en/images/multilingual-associations/multilingual-associations/01-associations-list.png)
 
 In this screenshot an article has been associated with an article in another 
 language. The list only contains items where the language has been set. Any 

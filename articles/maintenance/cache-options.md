@@ -18,7 +18,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Cache Options](../../../en/images/maintenance/cache-options/01-cache-options.png)
+![Cache Options](../../../en/images/maintenance/cache-options/01-permissions-tab.png)
 
 ## Tips
 

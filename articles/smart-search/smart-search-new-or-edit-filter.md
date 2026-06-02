@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![smart search edit filter](../../../en/images/smart-search/smart-search-new-or-edit-filter/01-smart-search-edit-filter.png)
+![smart search edit filter](../../../en/images/smart-search/smart-search-new-or-edit-filter/01-edit-filter.png)
 
 ## Form Fields
 
@@ -47,7 +47,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Options Tab
 
-![smart search edit filter options tab](../../../en/images/smart-search/smart-search-new-or-edit-filter/02-smart-search-edit-filter-options-tab.png)
+![smart search edit filter options tab](../../../en/images/smart-search/smart-search-new-or-edit-filter/02-options-tab.png)
 
 ### Publishing panel
 

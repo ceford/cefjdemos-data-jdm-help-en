@@ -32,7 +32,7 @@ Select **Users → Access Levels** from the Administrator menu.
 
 ## Screenshot
 
-![users viewing access levels](../../../en/images/users/users-viewing-access-levels/01-users-viewing-access-levels.png)
+![users viewing access levels](../../../en/images/users/users-viewing-access-levels/01-viewing-access-levels-list.png)
 
 ## Tips
 

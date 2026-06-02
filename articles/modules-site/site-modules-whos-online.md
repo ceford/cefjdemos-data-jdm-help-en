@@ -28,7 +28,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![who's online module tab](../../../en/images/modules-site/site-modules-whos-online/01-modules-whos-online-module-tab.png)
+![who's online module tab](../../../en/images/modules-site/site-modules-whos-online/01-module-tab.png)
 
 ## Form Fields
 

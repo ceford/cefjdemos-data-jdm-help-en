@@ -20,7 +20,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![tags edit tag details tab](../../../en/images/tags/tags-new-or-edit/01-tags-edit-tag-details-tab.png)
+![tags edit tag details tab](../../../en/images/tags/tags-new-or-edit/01-details-tab.png)
 
 ## Form Fields
 
@@ -51,7 +51,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ### Options Tab
 
-![tags edit tag options tab](../../../en/images/tags/tags-new-or-edit/02-tags-edit-options-tab.png)
+![tags edit tag options tab](../../../en/images/tags/tags-new-or-edit/02-options-tab.png)
 
 #### Options Panel
 
@@ -70,7 +70,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ### Publishing Tab
 
-![tags edit tag publishing tab](../../../en/images/tags/tags-new-or-edit/03-tags-edit-publishing-tab.png)
+![tags edit tag publishing tab](../../../en/images/tags/tags-new-or-edit/03-publishing-tab.png)
 
 #### Publishing panel
 

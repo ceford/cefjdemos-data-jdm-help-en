@@ -19,7 +19,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Checkin options](../../../en/images/maintenance/check-in-options/01-check-in-options.png)
+![Checkin options](../../../en/images/maintenance/check-in-options/01-permissions-tab.png)
 
 ## Tips
 

@@ -34,7 +34,7 @@ To edit an existing Create Contact menu item:
 
 ## Screenshot
 
-![Menu Item Create Contact](../../../en/images/menu-items/contacts-create-contact/01-contacts-create-contact-details-tab.png)
+![Menu Item Create Contact](../../../en/images/menu-items/contacts-create-contact/01-details-tab.png)
 
 ## Form Fields
 

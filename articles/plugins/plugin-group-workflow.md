@@ -8,7 +8,7 @@ For more information see the [Workflow Tutorial](https://docs.joomla.org/J4.x:Wo
 
 Add featuring actions to the workflow transitions for your items.
 
-![Workflow featuring form](../../../en/images/plugins/plugin-group-workflow/01-plugin-group-workflow-featuring.png)
+![Workflow featuring form](../../../en/images/plugins/plugin-group-workflow/01-workflow-featuring.png)
 
 - **Extension Whitelist**
 - **Extension Blacklist**

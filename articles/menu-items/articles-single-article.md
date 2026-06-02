@@ -36,7 +36,7 @@ To edit a Menu Item:
 
 ## Screenshot
 
-![Menu Item Articles - Single Article details tab](../../../en/images/menu-items/articles-single-article/01-articles-single-article-details-tab.png)
+![Menu Item Articles - Single Article details tab](../../../en/images/menu-items/articles-single-article/01-details-tab.png)
 
 ## Form Fields
 

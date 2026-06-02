@@ -34,7 +34,7 @@ To edit an existing Menu Heading item type:
 
 ## Screenshot
 
-![Menu Item Heading details tab](../../../en/images/menu-items/system-links-menu-heading/01-system-links-menu-heading-details-tab.png)
+![Menu Item Heading details tab](../../../en/images/menu-items/system-links-menu-heading/01-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.
 

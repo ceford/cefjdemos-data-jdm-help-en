@@ -22,7 +22,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![web link edit web link tab](../../../en/images/weblinks/weblinks-links-edit/01-web-link-edit-web-link-tab.png)
+![web link edit web link tab](../../../en/images/weblinks/weblinks-links-edit/01-edit-web-link-tab.png)
 
 ## Form Fields
 
@@ -36,7 +36,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Images tab
 
-![web link edit images tab](../../../en/images/weblinks/weblinks-links-edit/02-web-link-edit-web-link-images-tab.png)
+![web link edit images tab](../../../en/images/weblinks/weblinks-links-edit/02-images-tab.png)
 
 - **First Image** Click on Select to select an image to display with
   this item in the front end.
@@ -57,7 +57,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Publishing tab
 
-![web link edit publishing tab](../../../en/images/weblinks/weblinks-links-edit/03-web-link-edit-web-link-publishing-tab.png)
+![web link edit publishing tab](../../../en/images/weblinks/weblinks-links-edit/03-publishing-tab.png)
 
 - **Start Publishing** Date and time to start publishing. Use this
   field if you want to enter content ahead of time and then have it
@@ -118,7 +118,7 @@ Some elements of this page are covered in separate Help articles:
 
 ### Options tab
 
-![web link edit options tab](../../../en/images/weblinks/weblinks-links-edit/04-web-link-edit-web-link-options-tab.png)
+![web link edit options tab](../../../en/images/weblinks/weblinks-links-edit/04-options-tab.png)
 
 - **Target** How to open the link. Options are:
   - Open in parent window. Open the link in the current browser window,

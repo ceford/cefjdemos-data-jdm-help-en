@@ -26,7 +26,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![modules login support information module tab](../../../en/images/modules-admin/admin-modules-login-support-information/01-modules-login-support-information-module-tab.png)
+![modules login support information module tab](../../../en/images/modules-admin/admin-modules-login-support-information/01-module-tab.png)
 
 ## Form Fields
 

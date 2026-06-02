@@ -70,7 +70,7 @@ the Menu Items list.
 
 ## Screenshot
 
-![Menu Item Components Menu Container](../../../en/images/menu-items/administrator-components-menu-container/01-administrator-components-menu-container.png)
+![Menu Item Components Menu Container](../../../en/images/menu-items/administrator-components-menu-container/01-details-tab.png)
 
 ## Form Fields
 

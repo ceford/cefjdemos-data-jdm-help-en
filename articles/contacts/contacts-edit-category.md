@@ -28,7 +28,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Contacts edit category tab](../../../en/images/contacts/contacts-edit-category/01-contacts-edit-category-category-tab.png)
+![Contacts edit category tab](../../../en/images/contacts/contacts-edit-category/01-category-tab.png)
 
 ## Form Fields
 

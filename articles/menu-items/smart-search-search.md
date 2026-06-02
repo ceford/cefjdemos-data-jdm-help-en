@@ -36,7 +36,7 @@ To edit an existing Search menu item:
 
 ## Screenshot
 
-![Menu Item Smart Search details tab](../../../en/images/menu-items/smart-search-search/01-smart-search-search-details-tab.png)
+![Menu Item Smart Search details tab](../../../en/images/menu-items/smart-search-search/01-details-tab.png)
 
 ## Form Fields
 
@@ -45,7 +45,7 @@ If *Use Global* is selected for any option the default value from the
 
 ### Options Tab
 
-![Menu Item Smart Search options tab](../../../en/images/menu-items/smart-search-search/02-smart-search-search-options-tab.png)
+![Menu Item Smart Search options tab](../../../en/images/menu-items/smart-search-search/02-search-options-tab.png)
 
 - **Date Filters** Show or hide the start and end date filters in Advanced Search.
 - **Advanced Search** Shor ot hide the Advanced Search for element.
@@ -60,7 +60,7 @@ If *Use Global* is selected for any option the default value from the
 
 ### Advanced Tab
 
-![Menu Item Smart Search advanced tab](../../../en/images/menu-items/smart-search-search/03-smart-search-search-advanced-tab.png)
+![Menu Item Smart Search advanced tab](../../../en/images/menu-items/smart-search-search/03-advanced-tab.png)
 
 - **Display Select** Show or hide the Display \# control that allows the user 
   to select the number of items to show in the list.

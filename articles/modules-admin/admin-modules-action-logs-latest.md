@@ -27,7 +27,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![action logs latest module tab](../../../en/images/modules-admin/admin-modules-action-logs-latest/01-modules-action-logs-latest-module-tab.png)
+![action logs latest module tab](../../../en/images/modules-admin/admin-modules-action-logs-latest/01-module-tab.png)
 
 ## Form Fields
 

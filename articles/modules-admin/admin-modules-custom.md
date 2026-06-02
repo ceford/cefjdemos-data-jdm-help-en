@@ -32,7 +32,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![modules articles latest tab](../../../en/images/modules-admin/admin-modules-custom/01-modules-custom-module-tab.png)
+![modules articles latest tab](../../../en/images/modules-admin/admin-modules-custom/01-module-tab.png)
 
 ## Form Fields
 

@@ -22,7 +22,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Guided Tours Edit Tour](../../../en/images/guided-tours/guided-tours-edit-tour/01-guided-tours-edit-tour.png)
+![Guided Tours Edit Tour](../../../en/images/guided-tours/guided-tours-edit-tour/01-edit-tour-tab.png)
 
 ## Form Fields
 

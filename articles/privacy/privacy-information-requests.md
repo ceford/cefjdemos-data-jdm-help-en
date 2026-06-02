@@ -28,7 +28,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![privacy information requests](../../../en/images/privacy/privacy-information-requests/01-privacy-information-requests.png)
+![privacy information requests](../../../en/images/privacy/privacy-information-requests/01-requests-list.png)
 
 ## Column Headers
 

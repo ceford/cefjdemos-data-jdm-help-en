@@ -22,13 +22,13 @@ To edit an existing Tagged Items menu item:
 
 ## Screenshot
 
-![Tagged Items details tab](../../../en/images/menu-items/tags-tagged-items/01-tags-tagged-items-details-tab.png)
+![Tagged Items details tab](../../../en/images/menu-items/tags-tagged-items/01-details-tab.png)
 
 ## Form Fields
 
 ### Tag Options Tab
 
-![Tagged items details tab](../../../en/images/menu-items/tags-tagged-items/02-tags-tagged-items-tag-options-tab.png)
+![Tagged items details tab](../../../en/images/menu-items/tags-tagged-items/02-tag-options-tab.png)
 
 - **Tag Name** Show or hide the tag name for a layout with one tag.
 - **Tag Image** Show or hide the tag image for a layout with one tag.
@@ -46,7 +46,7 @@ To edit an existing Tagged Items menu item:
 
 ### Item Options Tab
 
-![Tagged items details tab](../../../en/images/menu-items/tags-tagged-items/03-tags-tagged-items-item-options-tab.png)
+![Tagged items details tab](../../../en/images/menu-items/tags-tagged-items/03-item-options-tab.png)
 
 - **Item Image** Show or hide the image for each item.
 - **Item Description** Show or hide the description for each item in the list. 
@@ -56,7 +56,7 @@ To edit an existing Tagged Items menu item:
 
 ### Pagination Options Tab
 
-![Tagged items details tab](../../../en/images/menu-items/tags-tagged-items/04-tags-tagged-items-pagination-options-tab.png)
+![Tagged items details tab](../../../en/images/menu-items/tags-tagged-items/04-pagination-options-tab.png)
 
 - **Display Select** Show or hide the \# control that allows the user to 
   select the number of items to show in the list. Note that if you have a 
@@ -70,7 +70,7 @@ To edit an existing Tagged Items menu item:
 
 ### Item Selection Options Tab
 
-![Tagged items details tab](../../../en/images/menu-items/tags-tagged-items/05-tags-tagged-items-item-selection-options-tab.png)
+![Tagged items details tab](../../../en/images/menu-items/tags-tagged-items/05-item-selection-options-tab.png)
 
 - **Match Type** All will return items that have all of the tags. Any
   will return items that have at least one of the tags.

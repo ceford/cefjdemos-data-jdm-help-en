@@ -23,7 +23,7 @@ The initial Scheduled Tasks list has three items.
 
 ## Screenshot
 
-![scheduled tasks list](../../../en/images/maintenance/scheduled-tasks/01-scheduled-tasks-list.png)
+![scheduled tasks list](../../../en/images/maintenance/scheduled-tasks/01-tasks-list.png)
 
 ## Column Headers
 
@@ -39,12 +39,12 @@ Columns unique to Scheduled tasks:
 
 Select the button in the Toolbar to see a list of individual task executions. 
 
-![task execution history list](../../../en/images/maintenance/scheduled-tasks/02-scheduled-tasks-logs.png)
+![task execution history list](../../../en/images/maintenance/scheduled-tasks/02-execution-history.png)
 
 ## Available Tasks
 
 The following screenshot shows a list of available tasks. Some are demonstrations, some are useful.
 
-![Scheduled Tasks Available](../../../en/images/maintenance/scheduled-tasks/03-scheduled-tasks-types.png)
+![Scheduled Tasks Available](../../../en/images/maintenance/scheduled-tasks/03-task-types.png)
 
 Each task has its own task related parameters that should be self-explanatory. For example, the **Site Offline** task only makes sense if the **Edit Task → Basic Fields → Execution Rule** is set to **Manual Execution**.

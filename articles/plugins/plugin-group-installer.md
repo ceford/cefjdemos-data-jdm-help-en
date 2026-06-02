@@ -18,7 +18,7 @@ This plugin allows you to install packages from your local computer.
 
 ### Installer - Install from Web
 
-![Set order of install from web tab](../../../en/images/plugins/plugin-group-installer/01-plugin-group-installer-install-from-web-order.png)
+![Set order of install from web tab](../../../en/images/plugins/plugin-group-installer/01-install-from-web-order.png)
 
 - **Tab Position** Place the *Install from Web* tab first or last.
 

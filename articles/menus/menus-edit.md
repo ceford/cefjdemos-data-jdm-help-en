@@ -19,7 +19,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![menus edit details tab](../../../en/images/menus/menus-edit/01-menus-edit-menu-details-tab.png)
+![menus edit details tab](../../../en/images/menus/menus-edit/01-menu-details-tab.png)
 
 ## Form Fields
 

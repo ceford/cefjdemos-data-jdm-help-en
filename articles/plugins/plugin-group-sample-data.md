@@ -4,7 +4,7 @@
 
 These plugins provide sample data for the Sample Data module that may be displayed on the Home Dashboard. If a plugin is disabled it will not appear there.
 
-![Sample data panel in the home dashboard](../../../en/images/plugins/plugin-group-sample-data/01-plugin-group-sample-data.png)
+![Sample data panel in the home dashboard](../../../en/images/plugins/plugin-group-sample-data/01-sample-data-module.png)
 
 ### Sample Data - Blog
 

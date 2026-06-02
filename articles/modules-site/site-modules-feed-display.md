@@ -29,7 +29,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![feed display module tab](../../../en/images/modules-site/site-modules-feed-display/01-modules-feed-display-module-tab.png)
+![feed display module tab](../../../en/images/modules-site/site-modules-feed-display/01-module-tab.png)
 
 ## Form Fields
 

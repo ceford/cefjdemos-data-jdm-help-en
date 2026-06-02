@@ -21,7 +21,7 @@ articles:
 
 ## Screenshot
 
-![Banners edit client](../../../en/images/banners/banners-edit-client/01-banners-edit-client-details-tab.png)
+![Banners edit client](../../../en/images/banners/banners-edit-client/01-details-tab.png)
 
 ## Form Fields
 
@@ -52,7 +52,7 @@ articles:
 
 ### Metadata Tab
 
-![Banners edit client metadata tab](../../../en/images/banners/banners-edit-client/02-banners-edit-client-metadata-tab.png)
+![Banners edit client metadata tab](../../../en/images/banners/banners-edit-client/02-metadata-tab.png)
 
 - **Keywords** Optional entry for keywords. Must be entered separated
   by commas (for example, "cats, dogs, pets") and may be entered in

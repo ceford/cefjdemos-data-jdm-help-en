@@ -20,7 +20,7 @@ One element of the this page is covered in a separate Help article:
 
 ## Screenshot
 
-![Edit Mail Template](../../../en/images/mail/mail-template-edit/01-edit-mail-template.png)
+![Edit Mail Template](../../../en/images/mail/mail-template-edit/01-mail-tab.png)
 
 The Mail Options allow sending Plain Text or HTML messages or both. If only 
 one method is selected the alternative will not be present in the message 

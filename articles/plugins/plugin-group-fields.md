@@ -10,7 +10,7 @@ This plugin lets you create new fields of type `calendar` in any extensions wher
 
 ### Fields - Checkboxes
 
-![Fields checkboxes plugin form](../../../en/images/plugins/plugin-group-fields/01-plugin-group-fields-checkboxes.png)
+![Fields checkboxes plugin form](../../../en/images/plugins/plugin-group-fields/01-checkboxes.png)
 
 - **Checkbox Values** The values of the checkboxes.
 
@@ -20,7 +20,7 @@ This plugin lets you create new fields of type `color` in any extensions where c
 
 ### Fields - Editor
 
-![Fields editor plugin form](../../../en/images/plugins/plugin-group-fields/02-plugin-group-fields-editor.png)
+![Fields editor plugin form](../../../en/images/plugins/plugin-group-fields/02-editor.png)
 
 - **Show Buttons** Should the editors-xtd plugin buttons be shown.
 - **Hide Buttons** Select some options.
@@ -30,7 +30,7 @@ This plugin lets you create new fields of type `color` in any extensions where c
 
 ### Fields - Imagelist
 
-![Fields imagelist plugin form](../../../en/images/plugins/plugin-group-fields/03-plugin-group-fields-imagelist.png)
+![Fields imagelist plugin form](../../../en/images/plugins/plugin-group-fields/03-imagelist.png)
 
 - **Directory** The directory with the images files to be listed relative to the default image folder (set in Media > Options).
 - **Multiple** Allow multiple values to be selected.
@@ -38,7 +38,7 @@ This plugin lets you create new fields of type `color` in any extensions where c
 
 ### Fields - Integer
 
-![Fields integer plugin form](../../../en/images/plugins/plugin-group-fields/04-plugin-group-fields-integer.png)
+![Fields integer plugin form](../../../en/images/plugins/plugin-group-fields/04-integer.png)
 
 - **Multiple** Allow multiple values to be selected.
 - **First** This value is the lowest on the list.
@@ -47,14 +47,14 @@ This plugin lets you create new fields of type `color` in any extensions where c
 
 ### Fields - List
 
-![Fields list plugin form](../../../en/images/plugins/plugin-group-fields/05-plugin-group-fields-list.png)
+![Fields list plugin form](../../../en/images/plugins/plugin-group-fields/05-list.png)
 
 - **Multiple** Allow multiple values to be selected.
 - **List Values** The values of the list.
 
 ### Fields - Media
 
-![Fields media plugin form](../../../en/images/plugins/plugin-group-fields/06-plugin-group-fields-media.png)
+![Fields media plugin form](../../../en/images/plugins/plugin-group-fields/06-media.png)
 
 - **Directory** The directory with the images files to be listed relative to the default image folder (set in Media > Options).
 - **Preview** Shows or hides the preview of the selected image.
@@ -62,7 +62,7 @@ This plugin lets you create new fields of type `color` in any extensions where c
 
 ### Fields - Radio
 
-![Fields radio plugin form](../../../en/images/plugins/plugin-group-fields/07-plugin-group-fields-radio.png)
+![Fields radio plugin form](../../../en/images/plugins/plugin-group-fields/07-radio.png)
 
 - **Radio Values** The values of the radio list.
 
@@ -72,21 +72,21 @@ Plugin to create a repeatable form with customizable fields
 
 ### Fields - SQL
 
-![Fields SQL plugin form](../../../en/images/plugins/plugin-group-fields/08-plugin-group-fields-sql.png)
+![Fields SQL plugin form](../../../en/images/plugins/plugin-group-fields/08-sql.png)
 
 - **Query** The SQL query which will provide the data for the dropdown list. The query must return two columns; one named `value` which will hold the values of the list items; the other named `text` with the text in the dropdown list.
 - **Multiple** Allow multiple values to be selected.
 
 ### Fields - Text
 
-![Fields text plugin form](../../../en/images/plugins/plugin-group-fields/09-plugin-group-fields-text.png)
+![Fields text plugin form](../../../en/images/plugins/plugin-group-fields/09-text.png)
 
 - **Filter** Allow the system to save certain html tags or raw data.
 - **Maximum Length** The maximum number of characters that can be entered.
 
 ### Fields - Textarea
 
-![Fields textarea plugin form](../../../en/images/plugins/plugin-group-fields/10-plugin-group-fields-textarea.png)
+![Fields textarea plugin form](../../../en/images/plugins/plugin-group-fields/10-textarea.png)
 
 - **Rows** The height of the visible text area in lines. If omitted the height is determined by the browser. The value does not limit the number of lines that may be entered.
 - **Columns** The width of the visible text area in characters. If omitted the width is determined by the browser. The value does not limit the number of characters that may be entered.
@@ -95,7 +95,7 @@ Plugin to create a repeatable form with customizable fields
 
 ### Fields - URL
 
-![Fields url plugin form](../../../en/images/plugins/plugin-group-fields/11-plugin-group-fields-url.png)
+![Fields url plugin form](../../../en/images/plugins/plugin-group-fields/11-url.png)
 
 - **Schemes** The allowed schemes.
 - **Relative** Are relative URLs allowed.
@@ -106,6 +106,6 @@ This plugin lets you create new fields of type `user` in any extensions where cu
 
 ### Fields - Usergrouplist
 
-![Fields user group list plugin form](../../../en/images/plugins/plugin-group-fields/12-plugin-group-fields-usergrouplist.png)
+![Fields user group list plugin form](../../../en/images/plugins/plugin-group-fields/12-usergrouplist.png)
 
 - **Multiple** Allow multiple values to be selected.

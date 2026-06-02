@@ -7,7 +7,7 @@ module edit forms to control which pages display the selected module.
 
 ## Screenshot
 
-![Modules advanced tab](../../../en/images/modules/modules-menu-assignment-tab/01-modules-custom-menu-assignment-tab.png)
+![Modules advanced tab](../../../en/images/modules/modules-menu-assignment-tab/01-menu-assignment-tab.png)
 
 ## Form Fields
 

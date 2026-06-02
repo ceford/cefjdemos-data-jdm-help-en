@@ -36,7 +36,7 @@ To edit an existing **List Web Links in a Category** menu item:
 
 ## Screenshot
 
-![Menu item type List Web Links in a Category](../../../en/images/menu-items/weblinks-weblink-category/01-weblinks-list-web-links-in-a-category-details-tab.png)
+![Menu item type List Web Links in a Category](../../../en/images/menu-items/weblinks-weblink-category/01-details-tab.png)
 
 All of the form input fields are covered in the *Common Elements*.
 

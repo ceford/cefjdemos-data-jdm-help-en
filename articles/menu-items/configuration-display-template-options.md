@@ -36,8 +36,8 @@ To edit an existing Display Template Options menu item:
 
 ## Screenshot
 
-![Display Template Options details tab](../../../en/images/menu-items/configuration-display-template-options/01-configuration-display-template-options-details.png)
+![Display Template Options details tab](../../../en/images/menu-items/configuration-display-template-options/01-details-tab.png)
 
 ## Front End Screenshot
 
-![Display template options front end form](../../../en/images/menu-items/configuration-display-template-options/02-configuration-display-template-options-frontend.png)
+![Display template options front end form](../../../en/images/menu-items/configuration-display-template-options/02-frontend.png)

@@ -30,7 +30,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![users user notes new or edit](../../../en/images/users/user-notes-new-or-edit/01-users-user-notes-new-or-edit.png)
+![users user notes new or edit](../../../en/images/users/user-notes-new-or-edit/01-edit-form.png)
 
 ## Form Fields
 

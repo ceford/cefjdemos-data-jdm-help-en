@@ -28,6 +28,6 @@ Navigate to the Banner Categories list:
 
 ## Screenshot
 
-![Banners edit category](../../../en/images/banners/banners-edit-category/01-banners-edit-category-category-tab.png)
+![Banners edit category](../../../en/images/banners/banners-edit-category/01-category-tab.png)
 
 See the Common Elements for more information.

@@ -20,7 +20,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![Banners Options client tab](../../../en/images/banners/banners-options/01-banners-options-client-tab.png)
+![Banners Options client tab](../../../en/images/banners/banners-options/01-client-tab.png)
 
 ## Form Fields
 
@@ -42,7 +42,7 @@ Some elements of this page are covered in separate Help articles:
 This section allows you to set version history options for Banners,
 Banner Clients and Banner Categories.
 
-![Banners Options history tab](../../../en/images/banners/banners-options/02-banners-options-history-tab.png)
+![Banners Options history tab](../../../en/images/banners/banners-options/02-history-tab.png)
 
 - **Enable Versions** Whether or not to save version history
   for this component. If No, version history will not be saved for

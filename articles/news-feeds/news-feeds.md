@@ -23,4 +23,4 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![News feeds list](../../../en/images/news-feeds/news-feeds/01-news-feeds-list.png)
+![News feeds list](../../../en/images/news-feeds/news-feeds/01-feeds-list.png)

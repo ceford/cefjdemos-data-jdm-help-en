@@ -19,7 +19,7 @@ including:
 
 ## Screenshot
 
-![users options user options tab](../../../en/images/users/users-options/01-users-options-user-options-tab.png)
+![users options user options tab](../../../en/images/users/users-options/01-user-options-tab.png)
 
 ## Form Fields
 
@@ -56,7 +56,7 @@ including:
 
 ### Email Domain Options tab
 
-![users options email domains tab](../../../en/images/users/users-options/02-users-options-email-domain-options-tab.png)
+![users options email domains tab](../../../en/images/users/users-options/02-email-domain-options-tab.png)
 
 - **Domain Name** Enter a list of allowed and disallowed email domains.
   By default, all domains are allowed. Wildcards (\*) are supported. For
@@ -68,7 +68,7 @@ including:
 
 ### Password Options tab
 
-![users options password options tab](../../../en/images/users/users-options/03-users-options-password-options-tab.png)
+![users options password options tab](../../../en/images/users/users-options/03-password-options-tab.png)
 
 - **Maximum Reset Count** The maximum number of password resets allowed
   within the time period. Zero indicates no limit.
@@ -85,7 +85,7 @@ including:
 
 ### Multi-factor Authentication tab
 
-![users options multi factor authentication tab](../../../en/images/users/users-options/04-users-options-multi-factor-authentication-tab.png)
+![users options multi factor authentication tab](../../../en/images/users/users-options/04-multi-factor-authentication-tab.png)
 
 - **Allowed frontend module positions** When displaying the frontend
   Multi-factor Authentication page all modules will be hidden except
@@ -132,7 +132,7 @@ including:
 
 ### User Notes History tab
 
-![users options user notes history tab](../../../en/images/users/users-options/05-users-options-user-notes-history-tab.png)
+![users options user notes history tab](../../../en/images/users/users-options/05-user-notes-history-tab.png)
 
 - **Enable Versions** Save version history for User Notes.
 - **Maximum Versions** The maximum number of versions to store for a
@@ -142,7 +142,7 @@ including:
 
 ### Mass Mail Users tab
 
-![users options mass mail users tab](../../../en/images/users/users-options/06-users-options-mass-mail-users-tab.png)
+![users options mass mail users tab](../../../en/images/users/users-options/06-mass-mail-users-tab.png)
 
 - **Subject Prefix** Enter optional text to be inserted automatically
   before the subject of the mass email.
@@ -151,7 +151,7 @@ including:
 
 ### Integration tab
 
-![users options integration tab](../../../en/images/users/users-options/07-users-options-integration-tab.png)
+![users options integration tab](../../../en/images/users/users-options/07-integration-tab.png)
 
 - **Enable Custom Fields** Enable the creation of custom fields.
 

@@ -23,7 +23,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![News feeds edit tab](../../../en/images/news-feeds/news-feeds-new-or-edit/01-news-feeds-edit-tab.png)
+![News feeds edit tab](../../../en/images/news-feeds/news-feeds-new-or-edit/01-edit-tab.png)
 
 ## Form Fields
 
@@ -38,7 +38,7 @@ Some aspects of this page are covered in separate Help articles:
 
 ### Options Tab
 
-![News feeds options tab](../../../en/images/news-feeds/news-feeds-new-or-edit/02-news-feeds-options-tab.png)
+![News feeds options tab](../../../en/images/news-feeds/news-feeds-new-or-edit/02-options-tab.png)
 
 #### Images Panel
 

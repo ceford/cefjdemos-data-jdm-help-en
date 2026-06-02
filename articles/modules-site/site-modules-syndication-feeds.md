@@ -27,7 +27,7 @@ Some elements of this page are covered in separate Help articles:
 
 ## Screenshot
 
-![syndication feeds module tab](../../../en/images/modules-site/site-modules-syndication-feeds/01-modules-syndication-feeds-module-tab.png)
+![syndication feeds module tab](../../../en/images/modules-site/site-modules-syndication-feeds/01-module-tab.png)
 
 ## Form Fields
 
