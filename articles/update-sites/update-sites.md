@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Update_Sites / Display title: Update Sites -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Update_Sites",
+  "title": "Update Sites ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

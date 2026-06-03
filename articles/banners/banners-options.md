@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_Options / Display title: Banners: Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_Options",
+  "title": "Banners: Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

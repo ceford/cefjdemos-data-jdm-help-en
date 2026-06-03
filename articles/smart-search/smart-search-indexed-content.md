@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Indexed_Content / Display title: Smart Search: Indexed Content -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Indexed_Content",
+  "title": "Smart Search: Indexed Content ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

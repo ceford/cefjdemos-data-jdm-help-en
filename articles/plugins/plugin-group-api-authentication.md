@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_API_Authentication_Group / Display title: API Authentication Group -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_API_Authentication_Group",
+  "title": "API Authentication Group ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Group Description
 

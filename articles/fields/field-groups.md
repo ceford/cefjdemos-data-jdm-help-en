@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Field_Groups / Display title: Component: Field Groups -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Field_Groups",
+  "title": "Component: Field Groups ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

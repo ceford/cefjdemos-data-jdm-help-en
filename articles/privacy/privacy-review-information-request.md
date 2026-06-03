@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_Review_Information_Request / Display title: Privacy: Review Information Request -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_Review_Information_Request",
+  "title": "Privacy: Review Information Request ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

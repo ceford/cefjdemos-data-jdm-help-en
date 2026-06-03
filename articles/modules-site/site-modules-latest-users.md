@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Latest_Users / Display title: Modules: Latest Users -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Latest_Users",
+  "title": "Modules: Latest Users ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

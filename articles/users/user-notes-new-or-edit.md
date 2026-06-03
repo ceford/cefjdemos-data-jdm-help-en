@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Notes:_New_or_Edit / Display title: User Notes: New or Edit -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit",
+  "title": "User Notes: New or Edit ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Contacts:_Edit / Display title: Contacts: Edit -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Contacts:_Edit",
+  "title": "Contacts: Edit ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

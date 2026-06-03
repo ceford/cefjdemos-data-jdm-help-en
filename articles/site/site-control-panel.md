@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Home_Dashboard / Display title: Home Dashboard -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Home_Dashboard",
+  "title": "Home Dashboard ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

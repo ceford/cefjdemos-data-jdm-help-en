@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Fields:_Edit / Display title: Component: Edit Field -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Fields:_Edit",
+  "title": "Component: Edit Field ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Workflow_Group / Display title: Workflow Group -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Workflow_Group",
+  "title": "Workflow Group ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Group Description
 

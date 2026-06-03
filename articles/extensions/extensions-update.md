@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Update / Display title: Extensions: Update -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Update",
+  "title": "Extensions: Update ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

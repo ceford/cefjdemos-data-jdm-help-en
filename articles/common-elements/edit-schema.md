@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Schema / Display title: Edit Schema -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Schema",
+  "title": "Edit Schema ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Purpose
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Field_Groups:_Edit / Display title: Component: Edit Field Group -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Field_Groups:_Edit",
+  "title": "Component: Edit Field Group ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

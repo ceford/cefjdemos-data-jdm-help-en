@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Permissions_for_Group / Display title: Permissions for Group -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Permissions_for_Group",
+  "title": "Permissions for Group ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

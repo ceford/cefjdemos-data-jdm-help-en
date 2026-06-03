@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Module_Assignment / Display title: Menu Item Module Assignment -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Module_Assignment",
+  "title": "Menu Item Module Assignment ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

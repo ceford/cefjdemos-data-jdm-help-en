@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Actions_Log / Display title: User Actions Log -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Actions_Log",
+  "title": "User Actions Log ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

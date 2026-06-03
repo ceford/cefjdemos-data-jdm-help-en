@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Toolbars / Display title: Toolbars -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Toolbars",
+  "title": "Toolbars ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Purpose
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feeds:_Edit_Category / Display title: News Feeds: Edit Category -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feeds:_Edit_Category",
+  "title": "News Feeds: Edit Category ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

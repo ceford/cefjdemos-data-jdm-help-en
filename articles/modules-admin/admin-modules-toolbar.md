@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Toolbar / Display title: Modules: Toolbar -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Toolbar",
+  "title": "Modules: Toolbar ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

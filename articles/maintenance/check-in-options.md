@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Check-in:_Options / Display title: Check-in: Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Check-in:_Options",
+  "title": "Check-in: Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

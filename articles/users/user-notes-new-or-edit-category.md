@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Notes:_New_or_Edit_Category / Display title: User Notes: New or Edit Category -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Notes:_New_or_Edit_Category",
+  "title": "User Notes: New or Edit Category ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

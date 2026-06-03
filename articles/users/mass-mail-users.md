@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mass_Mail_Users / Display title: Mass Mail Users -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mass_Mail_Users",
+  "title": "Mass Mail Users ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

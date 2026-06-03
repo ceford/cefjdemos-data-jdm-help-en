@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Media:_Options / Display title: Media: Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Media:_Options",
+  "title": "Media: Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

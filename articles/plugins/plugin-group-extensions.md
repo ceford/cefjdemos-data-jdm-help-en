@@ -1,4 +1,11 @@
-<!-- Filename: Chunk4x:Extensions_Plugin_Manager_Edit_Extension_Group / Display title: Extensions Group -->
+<!--
+{
+  "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Extension_Group",
+  "title": "Extensions Group ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Group Description
 

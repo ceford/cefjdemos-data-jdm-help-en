@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Category / Display title: Menu Item Category -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Category",
+  "title": "Menu Item Category ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Mail_Templates:_Options / Display title: Mail Templates: Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Mail_Templates:_Options",
+  "title": "Mail Templates: Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

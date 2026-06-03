@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Articles_-_Categories / Display title: Modules: Articles - Categories -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Articles_-_Categories",
+  "title": "Modules: Articles - Categories ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

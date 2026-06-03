@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Admin_Modules:_Guided_Tours / Display title: Modules: Guided Tours -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Admin_Modules:_Guided_Tours",
+  "title": "Modules: Guided Tours ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

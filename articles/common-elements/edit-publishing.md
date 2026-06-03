@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Edit_Publishing / Display title: Edit Publishing -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Edit_Publishing",
+  "title": "Edit Publishing ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Purpose
 

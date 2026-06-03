@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Logout / Display title: Logout -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Logout",
+  "title": "Logout ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

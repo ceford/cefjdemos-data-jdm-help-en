@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Site_Modules:_Breadcrumbs / Display title: Modules: Breadcrumbs -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Breadcrumbs",
+  "title": "Modules: Breadcrumbs ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

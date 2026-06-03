@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Guided_Tours:_Steps / Display title: Guided Tours: Steps -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Guided_Tours:_Steps",
+  "title": "Guided Tours: Steps ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

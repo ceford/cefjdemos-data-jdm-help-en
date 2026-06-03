@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules_Options_Tab / Display title: Modules: Options Tab -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules_Options_Tab",
+  "title": "Modules: Options Tab ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

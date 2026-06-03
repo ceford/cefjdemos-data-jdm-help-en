@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Site_Modules:_Articles / Display title: Modules: Articles -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Site_Modules:_Articles",
+  "title": "Modules: Articles ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

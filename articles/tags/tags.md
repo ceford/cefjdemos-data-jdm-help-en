@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Tags / Display title: Tags -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Tags",
+  "title": "Tags ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

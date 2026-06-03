@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:List_Column_Headers / Display title: List Column Headers -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:List_Column_Headers",
+  "title": "List Column Headers ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Purpose
 

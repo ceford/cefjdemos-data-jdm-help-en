@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Modules / Display title: Modules -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Modules",
+  "title": "Modules ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

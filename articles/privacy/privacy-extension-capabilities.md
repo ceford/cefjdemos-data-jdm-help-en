@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Privacy:_Extension_Capabilities / Display title: Privacy: Extension Capabilities -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Privacy:_Extension_Capabilities",
+  "title": "Privacy: Extension Capabilities ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

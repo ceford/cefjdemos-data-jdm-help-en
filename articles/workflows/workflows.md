@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Workflows_List / Display title: Workflows -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Workflows_List",
+  "title": "Workflows ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

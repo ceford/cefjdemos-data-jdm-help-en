@@ -1,0 +1,357 @@
+{
+    "help-screens": {
+        "start-here.md": "Start Here",
+        "help-screens-styleguide.md": "Help Screens Styleguide"
+    },
+    "articles": {
+        "articles.md": "Articles",
+        "articles-featured.md": "Articles: Featured",
+        "articles-edit.md": "Articles: Edit",
+        "articles-categories.md": "Articles: Categories",
+        "articles-edit-category.md": "Articles: Edit Category",
+        "articles-options.md": "Articles: Options"
+    },
+    "banners": {
+        "banners.md": "Banners",
+        "banners-edit.md": "Banners: Edit",
+        "banners-categories.md": "Banners: Categories",
+        "banners-edit-category.md": "Banners: Edit Category",
+        "banners-clients.md": "Banners: Clients",
+        "banners-edit-client.md": "Banners: Edit Client",
+        "banners-tracks.md": "Banners: Tracks",
+        "banners-options.md": "Banners: Options"
+    },
+    "common-elements": {
+        "toolbars.md": "Toolbars",
+        "list-filters.md": "List Filters",
+        "list-column-headers.md": "List Column Headers",
+        "list-ordering.md": "List Ordering",
+        "list-pagination.md": "List Pagination",
+        "list-batch-process.md": "List Batch Process",
+        "edit-associations.md": "Edit Associations",
+        "edit-category.md": "Edit Category",
+        "edit-permissions.md": "Edit Permissions",
+        "edit-publishing.md": "Edit Publishing",
+        "edit-schema.md": "Edit Schema",
+        "edit-version-history.md": "Edit Version History",
+        "edit-category-options.md": "Edit Category Options"
+    },
+    "contacts": {
+        "contacts.md": "Contacts",
+        "contacts-edit.md": "Contacts: Edit",
+        "contacts-categories.md": "Contacts: Categories",
+        "contacts-edit-category.md": "Contacts: Edit Category",
+        "contacts-options.md": "Contacts: Options"
+    },
+    "editors": {
+        "editors.md": "Editors"
+    },
+    "extensions": {
+        "extensions-discover.md": "Extensions: Discover",
+        "extensions-install.md": "Extensions: Install",
+        "extensions-languages.md": "Extensions: Languages",
+        "extensions-manage.md": "Extensions: Manage",
+        "extensions-update.md": "Extensions: Update",
+        "installer-options.md": "Installer: Options"
+    },
+    "fields": {
+        "fields.md": "Component: Fields",
+        "fields-edit.md": "Component: Edit Field",
+        "field-groups.md": "Component: Field Groups",
+        "field-groups-edit.md": "Component: Edit Field Group"
+    },
+    "glossary": {
+        "glossary.md": "Glossary"
+    },
+    "guided-tours": {
+        "guided-tours.md": "Guided Tours",
+        "guided-tours-edit-tour.md": "Guided Tours: Edit Tour",
+        "guided-tours-steps.md": "Guided Tours: Steps",
+        "guided-tours-edit-step.md": "Guided Tours: Edit Step",
+        "guided-tours-options.md": "Guided Tours: Options"
+    },
+    "information": {
+        "information-warnings.md": "Information: Warnings"
+    },
+    "joomla-patchtester": {
+        "patchtester-options.md": "Patch Tester Options"
+    },
+    "joomla-update": {
+        "joomla-update.md": "Joomla Update",
+        "joomla-update-options.md": "Joomla Update: Options"
+    },
+    "languages": {
+        "languages-installed.md": "Languages: Installed",
+        "languages-content.md": "Languages: Content",
+        "languages-edit-content-language.md": "Languages: Edit Content Language",
+        "languages-overrides.md": "Languages: Overrides",
+        "languages-edit-override.md": "Languages: Edit Override",
+        "languages-options.md": "Languages: Options"
+    },
+    "mail": {
+        "mail-templates.md": "Mail Templates",
+        "mail-template-edit.md": "Edit Mail Template",
+        "mail-templates-options.md": "Mail Templates: Options"
+    },
+    "maintenance": {
+        "maintenance-clear-cache.md": "Maintenance: Clear Cache",
+        "cache-options.md": "Cache: Options",
+        "maintenance-database.md": "Maintenance: Database",
+        "maintenance-global-check-in.md": "Maintenance: Global Check-in",
+        "check-in-options.md": "Check-in: Options",
+        "scheduled-tasks.md": "Scheduled Tasks",
+        "scheduled-tasks-edit-task.md": "Edit Task",
+        "scheduled-tasks-configuration.md": "Scheduled Tasks Configuration"
+    },
+    "media": {
+        "media.md": "Media",
+        "media-options.md": "Media: Options"
+    },
+    "menus": {
+        "menus.md": "Menus",
+        "menus-edit.md": "Menus: Edit",
+        "menus-items.md": "Menus: Items",
+        "menus-new-item.md": "Menus: New Item",
+        "menus-options.md": "Menus: Options"
+    },
+    "menu-items-common": {
+        "menu-item-details.md": "Menu Item Details",
+        "menu-item-category.md": "Menu Item Category",
+        "menu-item-blog-layout.md": "Menu Item Blog Layout",
+        "menu-item-list-layouts.md": "Menu Item List Layouts",
+        "menu-item-article-options.md": "menu-item-article-options",
+        "menu-item-link-type.md": "Menu Item Link Type",
+        "menu-item-integration.md": "Menu Item Integration",
+        "menu-item-page-display.md": "Menu Item Page Display",
+        "menu-item-metadata.md": "Menu Item Metadata",
+        "menu-item-associations.md": "Menu Item Associations",
+        "menu-item-module-assignment.md": "Menu Item Module Assignment"
+    },
+    "menu-items": {
+            "administrator-components-menu-container.md": "Menu Item: Components Menu Container",
+            "articles-archived-articles.md": "Archived Articles",
+            "articles-category-blog.md": "Category Blog",
+            "articles-category-list.md": "Category List",
+            "articles-create-article.md": "Create Article",
+            "articles-featured-articles.md": "Featured Articles",
+            "articles-list-all-categories.md": "List All Categories",
+            "articles-single-article.md": "Single Article",
+            "configuration-display-template-options.md": "Display Template Options",
+            "configuration-site-configuration-options.md": "Site Configuration Options",
+            "contacts-create-contact.md": "Create Contact",
+            "contacts-featured-contacts.md": "Featured Contacts",
+            "contacts-list-all-contact-categories.md": "List All Contact Categories",
+            "contacts-list-contacts-in-a-category.md": "List Contacts in a Category",
+            "contacts-single-contact.md": "Single Contact",
+            "news-feeds-list-all-news-feed-categories.md": "List All News Feed Categories",
+            "news-feeds-list-news-feeds-in-a-category.md": "List News Feeds in a Category",
+            "news-feeds-single-news-feed.md": "Single News Feed",
+            "privacy-confirm-request.md": "Menu Item: Confirm Request",
+            "privacy-create-request.md": "Menu Item: Create Request",
+            "privacy-extend-consent.md": "Menu Item: Extend Consent",
+            "smart-search-search.md": "Search",
+            "system-links-menu-heading.md": "Menu Heading",
+            "system-links-menu-item-alias.md": "Menu Item Alias",
+            "system-links-separator.md": "Separator",
+            "system-links-url.md": "URL",
+            "tags-compact-list-of-tagged-items.md": "Compact List of Tagged Items",
+            "tags-list-all-tags.md": "List All Tags",
+            "tags-tagged-items.md": "Tagged Items",
+            "users-edit-user-profile.md": "Edit User Profile",
+            "users-login-form.md": "Login Form",
+            "users-logout.md": "Logout",
+            "users-password-reset.md": "Password Reset",
+            "users-registration-form.md": "Registration Form",
+            "users-user-profile.md": "User Profile",
+            "users-username-reminder-request.md": "Username Reminder Request",
+            "wrapper-iframe-wrapper.md": "Iframe Wrapper",
+            "weblinks-weblink-categories.md": "List All Web Link Categories",
+            "weblinks-weblink-category.md": "List Web Links in a Category",
+            "weblinks-single-weblink.md": "Single Weblink",
+            "weblinks-weblink-submit.md": "Submit a Web Link"
+    },
+    "modules": {
+        "modules.md": "Modules",
+        "modules-module-tab.md": "Modules: Module Tab",
+        "modules-menu-assignment-tab.md": "Modules: Menu Assignment Tab",
+        "modules-options-tab.md": "Modules: Options Tab",
+        "modules-advanced-tab.md": "Modules: Advanced Tab",
+        "module-options.md": "Module: Options"
+    },
+    "modules-admin": {
+        "admin-modules-administrator.md": "Modules (Administrator)",
+        "admin-modules-action-logs-latest.md": "Modules: Action Logs - Latest",
+        "admin-modules-administrator-dashboard-menu.md": "Modules: Administrator Dashboard Menu",
+        "admin-modules-administrator-menu.md": "Modules: Administrator Menu",
+        "admin-modules-articles-latest.md": "Modules: Articles - Latest",
+        "admin-modules-custom.md": "Modules: Custom",
+        "admin-modules-feed-display.md": "Modules: Feed Display",
+        "admin-modules-frontend-link.md": "Modules: Frontend Link",
+        "admin-modules-guided-tours.md": "Modules: Guided Tours",
+        "admin-modules-joomla-version-information.md": "Modules: Joomla Version Information",
+        "admin-modules-logged-in-users.md": "Modules: Logged-in Users",
+        "admin-modules-login-form.md": "Modules: Login Form",
+        "admin-modules-login-support-information.md": "Modules: Login Support Information",
+        "admin-modules-messages.md": "Modules: Messages",
+        "admin-modules-multilingual-status.md": "Modules: Multilingual Status",
+        "admin-modules-popular-articles.md": "Modules: Popular Articles",
+        "admin-modules-post-installation-messages.md": "Modules: Post Installation Messages",
+        "admin-modules-privacy-dashboard.md": "Modules: Privacy Dashboard",
+        "admin-modules-privacy-status-check.md": "Modules: Privacy Status Check",
+        "admin-modules-quick-icons.md": "Modules: Quick Icons",
+        "admin-modules-sample-data.md": "Modules: Sample Data",
+        "admin-modules-title.md": "Modules: Title",
+        "admin-modules-toolbar.md": "Modules: Toolbar",
+        "admin-modules-user-menu.md": "Modules: User Menu"
+    },
+    "modules-site": {
+        "site-modules-site.md": "Modules (Site)",
+        "site-modules-articles.md": "Modules: Articles",
+        "site-modules-articles-archived.md": "Modules: Articles - Archived",
+        "site-modules-articles-categories.md": "Modules: Articles - Categories",
+        "site-modules-articles-category.md": "Modules: Articles - Category",
+        "site-modules-articles-latest.md": "Modules: Articles - Latest",
+        "site-modules-articles-most-read.md": "Modules: Articles - Most Read",
+        "site-modules-articles-newsflash.md": "Modules: Articles - Newsflash",
+        "site-modules-articles-related.md": "Modules: Articles - Related",
+        "site-modules-banners.md": "Modules: Banners",
+        "site-modules-breadcrumbs.md": "Modules: Breadcrumbs",
+        "site-modules-custom.md": "Modules: Custom",
+        "site-modules-feed-display.md": "Modules: Feed Display",
+        "site-modules-footer.md": "Modules: Footer",
+        "site-modules-language-switcher.md": "Modules: Language Switcher",
+        "site-modules-latest-users.md": "Modules: Latest Users",
+        "site-modules-login.md": "Modules: Login",
+        "site-modules-menu.md": "Modules: Menu",
+        "site-modules-random-image.md": "Modules: Random Image",
+        "site-modules-smart-search.md": "Modules: Smart Search",
+        "site-modules-statistics.md": "Modules: Statistics",
+        "site-modules-syndication-feeds.md": "Modules: Syndication Feeds",
+        "site-modules-tags-popular.md": "Modules: Tags - Popular",
+        "site-modules-tags-similar.md": "Modules: Tags - Similar",
+        "site-modules-whos-online.md": "Modules: Who's Online",
+        "site-modules-wrapper.md": "Modules: Wrapper",
+        "site-modules-weblinks.md": "Modules: Weblinks"
+    },
+    "multilingual-associations": {
+        "multilingual-associations.md": "Multilingual Associations",
+        "multilingual-associations-edit.md": "Multilingual Associations: Edit",
+        "multilingual-associations-options.md": "Multilingual Associations: Options"
+    },
+    "news-feeds": {
+        "news-feeds.md": "News Feeds",
+        "news-feeds-new-or-edit.md": "News Feeds: Edit",
+        "news-feeds-categories.md": "News Feeds: Categories",
+        "news-feeds-new-or-edit-category.md": "News Feeds: Edit Category",
+        "news-feed-options.md": "News Feed: Options"
+    },
+    "plugins": {
+        "plugins.md": "Plugins",
+        "plugins-name-of-plugin.md": "Plugins: Name of Plugin",
+        "plugin-options.md": "Plugin: Options",
+        "plugin-group-action-logs.md": "Action Log Group",
+        "plugin-group-api-authentication.md": "API Authentication Group",
+        "plugin-group-authentication.md": "Authentication Group",
+        "plugin-group-behavior.md": "Behaviour Group",
+        "plugin-group-content.md": "Content Group",
+        "plugin-group-editors-xtd.md": "Editors Xtd Button Group",
+        "plugin-group-editors-txt.md": "Editors Group",
+        "plugin-group-extensions.md": "Extensions Group",
+        "plugin-group-fields.md": "Fields Group",
+        "plugin-group-file-system.md": "File System Group",
+        "plugin-group-finder.md": "Finder Group",
+        "plugin-group-installer.md": "Installer Group",
+        "plugin-group-media-action.md": "Media Action Group",
+        "plugin-group-privacy.md": "Privacy Group",
+        "plugin-group-quick-icon.md": "Quick Icon Group",
+        "plugin-group-sample-data.md": "Sample Data Group",
+        "plugin-group-system.md": "System Group",
+        "plugin-group-user.md": "User Group",
+        "plugin-group-web-services.md": "Web Services Group",
+        "plugin-group-workflow.md": "Workflow Group"
+    },
+    "post-install-messages": {
+        "post-installation-messages-for-joomla-cms.md": "Post-installation Messages for Joomla CMS",
+        "post-installation-messages-options.md": "Post-installation Messages: Options"
+    },
+    "privacy": {
+        "privacy-dashboard.md": "Privacy Dashboard",
+        "privacy-information-requests.md": "Privacy: Information Requests",
+        "privacy-extension-capabilities.md": "Privacy: Extension Capabilities",
+        "privacy-consents.md": "Privacy: Consents",
+        "privacy-new-information-request.md": "Privacy: New Information Request",
+        "privacy-review-information-request.md": "Privacy: Review Information Request",
+        "privacy-options.md": "Privacy: Options"
+    },
+    "private-messages": {
+        "private-messages.md": "Private Messages",
+        "private-messages-read.md": "Private Messages: View",
+        "private-messages-write.md": "Private Messages: Write",
+        "messages-options.md": "Messages: Options"
+    },
+    "redirects": {
+        "redirects-links.md": "Redirects: Links",
+        "redirects-new-or-edit.md": "Redirects: New or Edit",
+        "redirect-options.md": "Redirect: Options"
+    },
+    "site": {
+        "site-control-panel.md": "Home Dashboard",
+        "site-global-configuration.md": "Global Configuration",
+        "site-system-information.md": "System Information"
+    },
+    "smart-search": {
+        "smart-search-indexed-content.md": "Smart Search: Indexed Content",
+        "smart-search-content-maps.md": "Smart Search: Content Maps",
+        "smart-search-search-filters.md": "Smart Search: Search Filters",
+        "smart-search-new-or-edit-filter.md": "Smart Search: New or Edit Filter",
+        "smart-search-search-term-analysis.md": "Smart Search: Search Term Analysis",
+        "smart-search-options.md": "Smart Search: Options"
+    },
+    "tags": {
+        "tags.md": "Tags",
+        "tags-new-or-edit.md": "Tags: New or Edit",
+        "tags-options.md": "Tags: Options"
+    },
+    "templates": {
+        "templates-templates.md": "Templates: Templates",
+        "templates-customise.md": "Templates: Customise",
+        "templates-customise-source.md": "Templates: Customise Source",
+        "templates-styles.md": "Templates: Styles",
+        "templates-edit-style.md": "Templates: Edit Style",
+        "template-options.md": "Template: Options"
+    },
+    "update-sites": {
+        "update-sites.md": "Update Sites",
+        "edit-update-site.md": "Edit Update Site"
+    },
+    "users": {
+        "users.md": "Users",
+        "users-new-or-edit.md": "Users: New or Edit",
+        "users-groups.md": "Users: Groups",
+        "users-new-or-edit-group.md": "Users: New or Edit Group",
+        "permissions-for-group.md": "Permissions for Group",
+        "permissions-for-user.md": "Permissions for User",
+        "users-viewing-access-levels.md": "Users: Viewing Access Levels",
+        "users-edit-viewing-access-level.md": "Users: Edit Viewing Access Level",
+        "mass-mail-users.md": "Mass Mail Users",
+        "user-notes.md": "User Notes",
+        "user-notes-new-or-edit.md": "User Notes: New or Edit",
+        "user-notes-categories.md": "User Notes: Categories",
+        "user-notes-new-or-edit-category.md": "User Notes: New or Edit Category",
+        "user-actions-log.md": "User Actions Log",
+        "user-actions-log-options.md": "User Actions Log: Options",
+        "users-options.md": "Users: Options"
+    },
+    "weblinks": {
+        "weblinks-links.md": "Web Links",
+        "weblinks-links-edit.md": "Web Link: Edit",
+        "weblinks-categories.md": "Web Links: Categories",
+        "weblinks-categories-edit.md": "Web Links: Edit Category",
+        "weblinks-options.md": "Web Links Options"
+    },
+    "workflows": {
+        "workflows.md": "Workflows",
+        "stages-basic-workflow.md": "Stages: Basic Workflow",
+        "transitions-basic-workflow.md": "Transitions: Basic Workflow"
+    }
+}

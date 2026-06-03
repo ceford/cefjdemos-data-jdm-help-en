@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Compact_List_of_Tagged_Items / Display title: Compact List of Tagged Items -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Compact_List_of_Tagged_Items",
+  "title": "Compact List of Tagged Items ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

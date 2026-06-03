@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Page_Display / Display title: Menu Item Page Display -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Page_Display",
+  "title": "Menu Item Page Display ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

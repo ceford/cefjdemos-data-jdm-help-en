@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Confirm_Request / Display title: Menu Item: Confirm Request -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Confirm_Request",
+  "title": "Menu Item: Confirm Request ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

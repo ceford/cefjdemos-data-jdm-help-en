@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feeds:_Categories / Display title: News Feeds: Categories -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feeds:_Categories",
+  "title": "News Feeds: Categories ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

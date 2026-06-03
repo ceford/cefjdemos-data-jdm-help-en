@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:User_Notes:_Categories / Display title: User Notes: Categories -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:User_Notes:_Categories",
+  "title": "User Notes: Categories ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

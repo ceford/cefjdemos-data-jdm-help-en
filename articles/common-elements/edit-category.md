@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Edit_Category / Display title: Edit Category -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Edit_Category",
+  "title": "Edit Category ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Purpose
 

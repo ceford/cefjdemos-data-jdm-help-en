@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Single_Contact / Display title: Single Contact -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Single_Contact",
+  "title": "Single Contact ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

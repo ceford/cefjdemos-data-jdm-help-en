@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Banners:_Categories / Display title: Banners: Categories -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Banners:_Categories",
+  "title": "Banners: Categories ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

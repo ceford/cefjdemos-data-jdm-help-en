@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Customise_Source / Display title: Templates: Customise Source -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Customise_Source",
+  "title": "Templates: Customise Source ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 This page appears in the index of Help pages but is not used via a Help button.

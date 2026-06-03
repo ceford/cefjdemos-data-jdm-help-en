@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Tags:_New_or_Edit / Display title: Tags: New or Edit -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Tags:_New_or_Edit",
+  "title": "Tags: New or Edit ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

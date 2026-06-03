@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Logged-in_Users / Display title: Modules: Logged-in Users -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Logged-in_Users",
+  "title": "Modules: Logged-in Users ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

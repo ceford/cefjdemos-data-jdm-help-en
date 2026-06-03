@@ -1,0 +1,381 @@
+{
+    "help-screens": {
+        "start-here.md": "",
+        "help-screens-styleguide.md": ""
+    },
+    "articles": {
+        "articles.md": "",
+        "articles-featured.md": "",
+        "articles-edit.md": "",
+        "articles-categories.md": "",
+        "articles-edit-category.md": "",
+        "articles-options.md": ""
+    },
+    "banners": {
+        "banners.md": "",
+        "banners-edit.md": "",
+        "banners-categories.md": "",
+        "banners-edit-category.md": "",
+        "banners-clients.md": "",
+        "banners-edit-client.md": "",
+        "banners-tracks.md": "",
+        "banners-options.md": ""
+    },
+    "common-elements": {
+        "toolbars.md": "",
+        "list-filters.md": "",
+        "list-column-headers.md": "",
+        "list-ordering.md": "",
+        "list-pagination.md": "",
+        "list-batch-process.md": "",
+        "edit-associations.md": "",
+        "edit-category.md": "",
+        "edit-permissions.md": "",
+        "edit-publishing.md": "",
+        "edit-schema.md": "",
+        "edit-version-history.md": "",
+        "edit-category-options.md": ""
+    },
+    "contacts": {
+        "contacts.md": "",
+        "contacts-edit.md": "",
+        "contacts-categories.md": "",
+        "contacts-edit-category.md": "",
+        "contacts-options.md": ""
+    },
+    "editors": {
+        "editors.md": ""
+    },
+    "extensions": {
+        "extensions-discover.md": "",
+        "extensions-install.md": "",
+        "extensions-languages.md": "",
+        "extensions-manage.md": "",
+        "extensions-update.md": "",
+        "installer-options.md": ""
+    },
+    "fields": {
+        "fields.md": "",
+        "fields-edit.md": "",
+        "field-groups.md": "",
+        "field-groups-edit.md": ""
+    },
+    "glossary": {
+        "glossary.md": ""
+    },
+    "guided-tours": {
+        "guided-tours.md": "",
+        "guided-tours-edit-tour.md": "",
+        "guided-tours-steps.md": "",
+        "guided-tours-edit-step.md": "",
+        "guided-tours-options.md": ""
+    },
+    "information": {
+        "information-warnings.md": ""
+    },
+    "joomla-patchtester": {
+        "patchtester-options.md": ""
+    },
+    "joomla-update": {
+        "joomla-update.md": "",
+        "joomla-update-options.md": ""
+    },
+    "languages": {
+        "languages-installed.md": "",
+        "languages-content.md": "",
+        "languages-edit-content-language.md": "",
+        "languages-overrides.md": "",
+        "languages-edit-override.md": "",
+        "languages-options.md": ""
+    },
+    "mail": {
+        "mail-templates.md": "",
+        "mail-template-edit.md": "",
+        "mail-templates-options.md": ""
+    },
+    "maintenance": {
+        "maintenance-clear-cache.md": "",
+        "cache-options.md": "",
+        "maintenance-database.md": "",
+        "maintenance-global-check-in.md": "",
+        "check-in-options.md": "",
+        "scheduled-tasks.md": "",
+        "scheduled-tasks-edit-task.md": "",
+        "scheduled-tasks-configuration.md": ""
+    },
+    "media": {
+        "media.md": "",
+        "media-options.md": ""
+    },
+    "menus": {
+        "menus.md": "",
+        "menus-edit.md": "",
+        "menus-items.md": "",
+        "menus-new-item.md": "",
+        "menus-options.md": ""
+    },
+    "menu-items": {
+        "menu-items-common": {
+            "menu-item-details.md": "",
+            "menu-item-category.md": "",
+            "menu-item-blog-layout.md": "",
+            "menu-item-list-layouts.md": "",
+            "menu-item-article-options.md": "",
+            "menu-item-link-type.md": "",
+            "menu-item-integration.md": "",
+            "menu-item-page-display.md": "",
+            "menu-item-metadata.md": "",
+            "menu-item-associations.md": "",
+            "menu-item-module-assignment.md": ""
+        },
+        "menu-items-administrator": {
+            "administrator-components-menu-container.md": ""
+        },
+        "menu-items-articles": {
+            "articles-archived-articles.md": "",
+            "articles-category-blog.md": "",
+            "articles-category-list.md": "",
+            "articles-create-article.md": "",
+            "articles-featured-articles.md": "",
+            "articles-list-all-categories.md": "",
+            "articles-single-article.md": ""
+        },
+        "menu-items-configuration": {
+            "configuration-display-template-options.md": "",
+            "configuration-site-configuration-options.md": ""
+        },
+        "menu-items-contacts": {
+            "contacts-create-contact.md": "",
+            "contacts-featured-contacts.md": "",
+            "contacts-list-all-contact-categories.md": "",
+            "contacts-list-contacts-in-a-category.md": "",
+            "contacts-single-contact.md": ""
+        },
+        "menu-items-news-feeds": {
+            "news-feeds-list-all-news-feed-categories.md": "",
+            "news-feeds-list-news-feeds-in-a-category.md": "",
+            "news-feeds-single-news-feed.md": ""
+        },
+        "menu-items-privacy": {
+            "privacy-confirm-request.md": "",
+            "privacy-create-request.md": "",
+            "privacy-extend-consent.md": ""
+        },
+            "menu-items-smart-search": {
+            "smart-search-search.md": ""
+        },
+            "menu-items-system-links": {
+            "system-links-menu-heading.md": "",
+            "system-links-menu-item-alias.md": "",
+            "system-links-separator.md": "",
+            "system-links-url.md": ""
+        },
+        "menu-items-tags": {
+            "tags-compact-list-of-tagged-items.md": "",
+            "tags-list-all-tags.md": "",
+            "tags-tagged-items.md": ""
+        },
+        "menu-items-users": {
+            "users-edit-user-profile.md": "",
+            "users-login-form.md": "",
+            "users-logout.md": "",
+            "users-password-reset.md": "",
+            "users-registration-form.md": "",
+            "users-user-profile.md": "",
+            "users-username-reminder-request.md": ""
+        },
+        "menu-items-wrapper": {
+            "wrapper-iframe-wrapper.md": ""
+        },
+        "menu-items-weblinks": {
+            "weblinks-weblink-categories.md": "",
+            "weblinks-weblink-category.md": "",
+            "weblinks-single-weblink.md": "",
+            "weblinks-weblink-submit.md": ""
+        }
+    },
+    "modules": {
+        "modules.md": "",
+        "modules-module-tab.md": "",
+        "modules-menu-assignment-tab.md": "",
+        "modules-options-tab.md": "",
+        "modules-advanced-tab.md": "",
+        "module-options.md": ""
+    },
+    "modules-admin": {
+        "admin-modules-administrator.md": "",
+        "admin-modules-action-logs-latest.md": "",
+        "admin-modules-administrator-dashboard-menu.md": "",
+        "admin-modules-administrator-menu.md": "",
+        "admin-modules-articles-latest.md": "",
+        "admin-modules-custom.md": "",
+        "admin-modules-feed-display.md": "",
+        "admin-modules-frontend-link.md": "",
+        "admin-modules-guided-tours.md": "",
+        "admin-modules-joomla-version-information.md": "",
+        "admin-modules-logged-in-users.md": "",
+        "admin-modules-login-form.md": "",
+        "admin-modules-login-support-information.md": "",
+        "admin-modules-messages.md": "",
+        "admin-modules-multilingual-status.md": "",
+        "admin-modules-popular-articles.md": "",
+        "admin-modules-post-installation-messages.md": "",
+        "admin-modules-privacy-dashboard.md": "",
+        "admin-modules-privacy-status-check.md": "",
+        "admin-modules-quick-icons.md": "",
+        "admin-modules-sample-data.md": "",
+        "admin-modules-title.md": "",
+        "admin-modules-toolbar.md": "",
+        "admin-modules-user-menu.md": ""
+    },
+    "modules-site": {
+        "site-modules-site.md": "",
+        "site-modules-articles.md": "",
+        "site-modules-articles-archived.md": "",
+        "site-modules-articles-categories.md": "",
+        "site-modules-articles-category.md": "",
+        "site-modules-articles-latest.md": "",
+        "site-modules-articles-most-read.md": "",
+        "site-modules-articles-newsflash.md": "",
+        "site-modules-articles-related.md": "",
+        "site-modules-banners.md": "",
+        "site-modules-breadcrumbs.md": "",
+        "site-modules-custom.md": "",
+        "site-modules-feed-display.md": "",
+        "site-modules-footer.md": "",
+        "site-modules-language-switcher.md": "",
+        "site-modules-latest-users.md": "",
+        "site-modules-login.md": "",
+        "site-modules-menu.md": "",
+        "site-modules-random-image.md": "",
+        "site-modules-smart-search.md": "",
+        "site-modules-statistics.md": "",
+        "site-modules-syndication-feeds.md": "",
+        "site-modules-tags-popular.md": "",
+        "site-modules-tags-similar.md": "",
+        "site-modules-whos-online.md": "",
+        "site-modules-wrapper.md": "",
+        "site-modules-weblinks.md": ""
+    },
+    "multilingual-associations": {
+        "multilingual-associations.md": "",
+        "multilingual-associations-edit.md": "",
+        "multilingual-associations-options.md": ""
+    },
+    "news-feeds": {
+        "news-feeds.md": "",
+        "news-feeds-new-or-edit.md": "",
+        "news-feeds-categories.md": "",
+        "news-feeds-new-or-edit-category.md": "",
+        "news-feed-options.md": ""
+    },
+    "plugins": {
+        "plugins.md": "",
+        "plugins-name-of-plugin.md": "",
+        "plugin-options.md": "",
+        "plugin-group-action-logs.md": "",
+        "plugin-group-api-authentication.md": "",
+        "plugin-group-authentication.md": "",
+        "plugin-group-behavior.md": "",
+        "plugin-group-content.md": "",
+        "plugin-group-editors-xtd.md": "",
+        "plugin-group-editors-txt.md": "",
+        "plugin-group-extensions.md": "",
+        "plugin-group-fields.md": "",
+        "plugin-group-file-system.md": "",
+        "plugin-group-finder.md": "",
+        "plugin-group-installer.md": "",
+        "plugin-group-media-action.md": "",
+        "plugin-group-privacy.md": "",
+        "plugin-group-quick-icon.md": "",
+        "plugin-group-sample-data.md": "",
+        "plugin-group-system.md": "",
+        "plugin-group-user.md": "",
+        "plugin-group-web-services.md": "",
+        "plugin-group-workflow.md": ""
+    },
+    "post-install-messages": {
+        "post-installation-messages-for-joomla-cms.md": "",
+        "post-installation-messages-options.md": ""
+    },
+    "privacy": {
+        "privacy-dashboard.md": "",
+        "privacy-information-requests.md": "",
+        "privacy-extension-capabilities.md": "",
+        "privacy-consents.md": "",
+        "privacy-new-information-request.md": "",
+        "privacy-review-information-request.md": "",
+        "privacy-options.md": ""
+    },
+    "private-messages": {
+        "private-messages.md": "",
+        "private-messages-read.md": "",
+        "private-messages-write.md": "",
+        "messages-options.md": ""
+    },
+    "redirects": {
+        "redirects-links.md": "",
+        "redirects-new-or-edit.md": "",
+        "redirect-options.md": ""
+    },
+    "site": {
+        "site-control-panel.md": "",
+        "site-global-configuration.md": "",
+        "site-system-information.md": ""
+    },
+    "smart-search": {
+        "smart-search-indexed-content.md": "",
+        "smart-search-content-maps.md": "",
+        "smart-search-search-filters.md": "",
+        "smart-search-new-or-edit-filter.md": "",
+        "smart-search-search-term-analysis.md": "",
+        "smart-search-options.md": ""
+    },
+    "tags": {
+        "tags.md": "",
+        "tags-new-or-edit.md": "",
+        "tags-options.md": ""
+    },
+    "templates": {
+        "templates-templates.md": "",
+        "templates-customise.md": "",
+        "templates-customise-source.md": "",
+        "templates-styles.md": "",
+        "templates-edit-style.md": "",
+        "template-options.md": ""
+    },
+    "update-sites": {
+        "update-sites.md": "",
+        "edit-update-site.md": ""
+    },
+    "users": {
+        "users.md": "",
+        "users-new-or-edit.md": "",
+        "users-groups.md": "",
+        "users-new-or-edit-group.md": "",
+        "permissions-for-group.md": "",
+        "permissions-for-user.md": "",
+        "users-viewing-access-levels.md": "",
+        "users-edit-viewing-access-level.md": "",
+        "mass-mail-users.md": "",
+        "user-notes.md": "",
+        "user-notes-new-or-edit.md": "",
+        "user-notes-categories.md": "",
+        "user-notes-new-or-edit-category.md": "",
+        "user-actions-log.md": "",
+        "user-actions-log-options.md": "",
+        "users-options.md": ""
+    },
+    "weblinks": {
+        "weblinks-links.md": "",
+        "weblinks-links-edit.md": "",
+        "weblinks-categories.md": "",
+        "weblinks-categories-edit.md": "",
+        "weblinks-options.md": ""
+    },
+    "workflows": {
+        "workflows.md": "",
+        "stages-basic-workflow.md": "",
+        "transitions-basic-workflow.md": ""
+    }
+}

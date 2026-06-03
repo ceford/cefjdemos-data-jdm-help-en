@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Search_Term_Analysis / Display title: Smart Search: Search Term Analysis -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Search_Term_Analysis",
+  "title": "Smart Search: Search Term Analysis ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

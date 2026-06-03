@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Articles:_Edit_Category / Display title: Articles: Edit Category -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Articles:_Edit_Category",
+  "title": "Articles: Edit Category ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

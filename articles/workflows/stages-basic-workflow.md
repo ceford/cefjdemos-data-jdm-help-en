@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Stages_List:_Basic_Workflow / Display title: Stages: Basic Workflow -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Stages_List:_Basic_Workflow",
+  "title": "Stages: Basic Workflow ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

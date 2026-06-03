@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Multilingual_Associations:_Options / Display title: Multilingual Associations: Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Multilingual_Associations:_Options",
+  "title": "Multilingual Associations: Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

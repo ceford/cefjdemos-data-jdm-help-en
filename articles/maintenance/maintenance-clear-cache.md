@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Maintenance:_Clear_Cache / Display title: Maintenance: Clear Cache -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Maintenance:_Clear_Cache",
+  "title": "Maintenance: Clear Cache ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Admin_Modules:_Custom / Display title: Modules: Custom -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Custom",
+  "title": "Modules: Custom ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

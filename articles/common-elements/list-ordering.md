@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:List_Ordering / Display title: List Ordering -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:List_Ordering",
+  "title": "List Ordering ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Where Ordering Matters
 

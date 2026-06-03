@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_List_Contacts_in_a_Category / Display title: List Contacts in a Category -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_Contacts_in_a_Category",
+  "title": "List Contacts in a Category ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

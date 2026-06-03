@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Article_Archived / Display title: Archived Articles -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Article_Archived",
+  "title": "Archived Articles ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

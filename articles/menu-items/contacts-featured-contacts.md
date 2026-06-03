@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Featured_Contacts / Display title: Featured Contacts -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Featured_Contacts",
+  "title": "Featured Contacts ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

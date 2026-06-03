@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Information:_Warnings / Display title: Information: Warnings -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Information:_Warnings",
+  "title": "Information: Warnings ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

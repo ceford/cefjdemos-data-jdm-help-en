@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:News_Feeds:_Edit / Display title: News Feeds: Edit -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:News_Feeds:_Edit",
+  "title": "News Feeds: Edit ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

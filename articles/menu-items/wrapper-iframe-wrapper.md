@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_Iframe_Wrapper / Display title: Iframe Wrapper -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Iframe_Wrapper",
+  "title": "Iframe Wrapper ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

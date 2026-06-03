@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Menu_Item:_URL / Display title: URL -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Menu_Item:_URL",
+  "title": "URL ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

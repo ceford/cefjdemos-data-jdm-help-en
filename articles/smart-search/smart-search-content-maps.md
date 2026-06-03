@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_Content_Maps / Display title: Smart Search: Content Maps -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Content_Maps",
+  "title": "Smart Search: Content Maps ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

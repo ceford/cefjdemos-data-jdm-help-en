@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Languages / Display title: Extensions: Languages -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Languages",
+  "title": "Extensions: Languages ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

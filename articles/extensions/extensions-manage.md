@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Extensions:_Manage / Display title: Extensions: Manage -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Extensions:_Manage",
+  "title": "Extensions: Manage ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

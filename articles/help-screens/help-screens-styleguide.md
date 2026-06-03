@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Help_screens_styleguide / Display title: Help Screens Styleguide -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Help_screens_styleguide",
+  "title": "Help Screens Styleguide ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <div class="alert alert-warning">
 This style guide is for the Joomla MediaWiki installtion (docs.joomla.org).

@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Blog_Layout / Display title: Menu Item Blog Layout -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Blog_Layout",
+  "title": "Menu Item Blog Layout ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

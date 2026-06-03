@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:Menu_Item_Associations / Display title: Menu Item Associations -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:Menu_Item_Associations",
+  "title": "Menu Item Associations ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

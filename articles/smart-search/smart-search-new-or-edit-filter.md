@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Smart_Search:_New_or_Edit_Filter / Display title: Smart Search: New or Edit Filter -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Smart_Search:_New_or_Edit_Filter",
+  "title": "Smart Search: New or Edit Filter ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Scheduled_Tasks:_Options / Display title: Scheduled Tasks Configuration -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Options",
+  "title": "Scheduled Tasks Configuration ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Scheduled_Tasks / Display title: Scheduled Tasks -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks",
+  "title": "Scheduled Tasks ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

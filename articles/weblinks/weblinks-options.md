@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Weblinks:_Options / Display title: Web Links Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Weblinks:_Options",
+  "title": "Web Links Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

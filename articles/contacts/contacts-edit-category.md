@@ -1,4 +1,11 @@
-<!-- Filename: Help5.x:Contacts:_Edit_Category / Display title: Contacts: Edit Category -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help5.x:Contacts:_Edit_Category",
+  "title": "Contacts: Edit Category ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

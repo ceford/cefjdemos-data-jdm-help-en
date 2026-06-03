@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Templates:_Styles / Display title: Templates: Styles -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Templates:_Styles",
+  "title": "Templates: Styles ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 

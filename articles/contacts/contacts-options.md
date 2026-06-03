@@ -1,4 +1,11 @@
-<!-- Filename: Help4.x:Contacts:_Options / Display title: Contacts: Options -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Contacts:_Options",
+  "title": "Contacts: Options ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Description
 
