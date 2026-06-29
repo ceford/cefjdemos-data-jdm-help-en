@@ -128,47 +128,71 @@
         "menu-item-module-assignment.md": "Menu Item Module Assignment"
     },
     "menu-items": {
-            "administrator-components-menu-container.md": "Menu Item: Components Menu Container",
-            "articles-archived-articles.md": "Archived Articles",
-            "articles-category-blog.md": "Category Blog",
-            "articles-category-list.md": "Category List",
-            "articles-create-article.md": "Create Article",
-            "articles-featured-articles.md": "Featured Articles",
-            "articles-list-all-categories.md": "List All Categories",
-            "articles-single-article.md": "Single Article",
-            "configuration-display-template-options.md": "Display Template Options",
-            "configuration-site-configuration-options.md": "Site Configuration Options",
-            "contacts-create-contact.md": "Create Contact",
-            "contacts-featured-contacts.md": "Featured Contacts",
-            "contacts-list-all-contact-categories.md": "List All Contact Categories",
-            "contacts-list-contacts-in-a-category.md": "List Contacts in a Category",
-            "contacts-single-contact.md": "Single Contact",
-            "news-feeds-list-all-news-feed-categories.md": "List All News Feed Categories",
-            "news-feeds-list-news-feeds-in-a-category.md": "List News Feeds in a Category",
-            "news-feeds-single-news-feed.md": "Single News Feed",
-            "privacy-confirm-request.md": "Menu Item: Confirm Request",
-            "privacy-create-request.md": "Menu Item: Create Request",
-            "privacy-extend-consent.md": "Menu Item: Extend Consent",
-            "smart-search-search.md": "Search",
-            "system-links-menu-heading.md": "Menu Heading",
-            "system-links-menu-item-alias.md": "Menu Item Alias",
-            "system-links-separator.md": "Separator",
-            "system-links-url.md": "URL",
-            "tags-compact-list-of-tagged-items.md": "Compact List of Tagged Items",
-            "tags-list-all-tags.md": "List All Tags",
-            "tags-tagged-items.md": "Tagged Items",
-            "users-edit-user-profile.md": "Edit User Profile",
-            "users-login-form.md": "Login Form",
-            "users-logout.md": "Logout",
-            "users-password-reset.md": "Password Reset",
-            "users-registration-form.md": "Registration Form",
-            "users-user-profile.md": "User Profile",
-            "users-username-reminder-request.md": "Username Reminder Request",
-            "wrapper-iframe-wrapper.md": "Iframe Wrapper",
-            "weblinks-weblink-categories.md": "List All Web Link Categories",
-            "weblinks-weblink-category.md": "List Web Links in a Category",
-            "weblinks-single-weblink.md": "Single Weblink",
-            "weblinks-weblink-submit.md": "Submit a Web Link"
+        "administrator": {
+            "components-menu-container.md": "Menu Item: Components Menu Container"
+        },
+        "articles": {
+            "archived-articles.md": "Archived Articles",
+            "category-blog.md": "Category Blog",
+            "category-list.md": "Category List",
+            "create-article.md": "Create Article",
+            "featured-articles.md": "Featured Articles",
+            "list-all-categories.md": "List All Categories",
+            "single-article.md": "Single Article"
+        },
+        "configuration": {
+            "display-template-options.md": "Display Template Options",
+            "site-configuration-options.md": "Site Configuration Options"
+        },
+        "contacts": {
+            "create-contact.md": "Create Contact",
+            "featured-contacts.md": "Featured Contacts",
+            "list-all-contact-categories.md": "List All Contact Categories",
+            "list-contacts-in-a-category.md": "List Contacts in a Category",
+            "single-contact.md": "Single Contact"
+        },
+        "news-feeds": {
+            "list-all-news-feed-categories.md": "List All News Feed Categories",
+            "list-news-feeds-in-a-category.md": "List News Feeds in a Category",
+            "single-news-feed.md": "Single News Feed"
+        },
+        "privacy": {
+            "confirm-request.md": "Menu Item: Confirm Request",
+            "create-request.md": "Menu Item: Create Request",
+            "extend-consent.md": "Menu Item: Extend Consent"
+        },
+        "smart-search": {
+            "search.md": "Search"
+        },
+        "system-links": {
+            "menu-heading.md": "Menu Heading",
+            "menu-item-alias.md": "Menu Item Alias",
+            "separator.md": "Separator",
+            "url.md": "URL"
+        },
+        "tags": {
+            "compact-list-of-tagged-items.md": "Compact List of Tagged Items",
+            "list-all-tags.md": "List All Tags",
+            "tagged-items.md": "Tagged Items"
+        },
+        "users": {
+            "edit-user-profile.md": "Edit User Profile",
+            "login-form.md": "Login Form",
+            "logout.md": "Logout",
+            "password-reset.md": "Password Reset",
+            "registration-form.md": "Registration Form",
+            "user-profile.md": "User Profile",
+            "username-reminder-request.md": "Username Reminder Request"
+        },
+        "wrapper": {
+            "iframe-wrapper.md": "Iframe Wrapper"
+        },
+        "weblinks": {
+            "weblink-categories.md": "List All Web Link Categories",
+            "weblink-category.md": "List Web Links in a Category",
+            "single-weblink.md": "Single Weblink",
+            "weblink-submit.md": "Submit a Web Link"
+        }
     },
     "modules": {
         "modules.md": "Modules",
