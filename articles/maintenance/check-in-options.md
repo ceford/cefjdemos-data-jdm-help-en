@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Check-in:_Options",
-  "title": "Check-in: Options ",
+  "title": "Check-in: Options",
   "description": "", 
   "author": ""
 }

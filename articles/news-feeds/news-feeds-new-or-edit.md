@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:News_Feeds:_Edit",
-  "title": "News Feeds: Edit ",
+  "title": "News Feeds: Edit",
   "description": "", 
   "author": ""
 }

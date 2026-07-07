@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Post-installation_Messages_for_Joomla_CMS",
-  "title": "Post-installation Messages for Joomla CMS ",
+  "title": "Post-installation Messages for Joomla CMS",
   "description": "", 
   "author": ""
 }

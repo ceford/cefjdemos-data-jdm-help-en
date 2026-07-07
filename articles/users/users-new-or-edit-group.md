@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Users:_New_or_Edit_Group",
-  "title": "Users: New or Edit Group ",
+  "title": "Users: New or Edit Group",
   "description": "", 
   "author": ""
 }

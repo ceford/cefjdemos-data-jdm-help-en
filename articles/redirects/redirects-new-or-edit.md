@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Redirects:_New_or_Edit",
-  "title": "Redirects: New or Edit ",
+  "title": "Redirects: New or Edit",
   "description": "", 
   "author": ""
 }

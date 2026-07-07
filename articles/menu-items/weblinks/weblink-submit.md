@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Weblink_Submit",
-  "title": "Submit a Web Link ",
+  "title": "Submit a Web Link",
   "description": "", 
   "author": ""
 }

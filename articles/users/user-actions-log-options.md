@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:User_Actions_Log:_Options",
-  "title": "User Actions Log: Options ",
+  "title": "User Actions Log: Options",
   "description": "", 
   "author": ""
 }

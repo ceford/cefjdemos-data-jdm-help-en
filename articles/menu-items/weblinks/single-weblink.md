@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menus_Menu_Item_Single_Weblink",
-  "title": "Single Weblink ",
+  "title": "Single Weblink",
   "description": "", 
   "author": ""
 }

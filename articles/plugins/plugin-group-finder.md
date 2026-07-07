@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Smart_Search_Group",
-  "title": "Finder Group ",
+  "title": "Finder Group",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Languages:_Edit_Override",
-  "title": "Languages: Edit Override ",
+  "title": "Languages: Edit Override",
   "description": "", 
   "author": ""
 }

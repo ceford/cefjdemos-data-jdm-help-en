@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_List_All_News_Feed_Categories",
-  "title": "List All News Feed Categories ",
+  "title": "List All News Feed Categories",
   "description": "", 
   "author": ""
 }

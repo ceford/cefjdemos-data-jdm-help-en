@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Login_Form",
-  "title": "Modules: Login Form ",
+  "title": "Modules: Login Form",
   "description": "", 
   "author": ""
 }

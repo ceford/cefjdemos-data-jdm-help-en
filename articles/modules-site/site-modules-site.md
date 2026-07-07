@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules_Site",
-  "title": "Modules (Site) ",
+  "title": "Modules (Site)",
   "description": "", 
   "author": ""
 }

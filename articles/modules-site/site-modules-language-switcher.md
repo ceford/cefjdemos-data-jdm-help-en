@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Site_Modules:_Language_Switcher",
-  "title": "Modules: Language Switcher ",
+  "title": "Modules: Language Switcher",
   "description": "", 
   "author": ""
 }

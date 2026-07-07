@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Messages",
-  "title": "Modules: Messages ",
+  "title": "Modules: Messages",
   "description": "", 
   "author": ""
 }

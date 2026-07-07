@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Options",
-  "title": "Smart Search: Options ",
+  "title": "Smart Search: Options",
   "description": "", 
   "author": ""
 }

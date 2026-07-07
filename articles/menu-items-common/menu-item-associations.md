@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Associations",
-  "title": "Menu Item Associations ",
+  "title": "Menu Item Associations",
   "description": "", 
   "author": ""
 }

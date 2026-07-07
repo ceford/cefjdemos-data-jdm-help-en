@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Privacy_Dashboard",
-  "title": "Modules: Privacy Dashboard ",
+  "title": "Modules: Privacy Dashboard",
   "description": "", 
   "author": ""
 }

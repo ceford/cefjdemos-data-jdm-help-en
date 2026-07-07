@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Transitions_List:_Basic_Workflow",
-  "title": "Transitions: Basic Workflow ",
+  "title": "Transitions: Basic Workflow",
   "description": "", 
   "author": ""
 }

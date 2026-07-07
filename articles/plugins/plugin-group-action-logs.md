@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Action_Log_Group",
-  "title": "Action Log Group ",
+  "title": "Action Log Group",
   "description": "", 
   "author": ""
 }

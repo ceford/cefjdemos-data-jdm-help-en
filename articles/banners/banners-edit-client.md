@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Client",
-  "title": "Banners: Edit Client ",
+  "title": "Banners: Edit Client",
   "description": "", 
   "author": ""
 }

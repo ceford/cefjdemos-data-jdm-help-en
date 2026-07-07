@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Templates:_Templates",
-  "title": "Templates: Templates ",
+  "title": "Templates: Templates",
   "description": "", 
   "author": ""
 }

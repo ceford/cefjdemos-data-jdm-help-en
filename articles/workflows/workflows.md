@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Workflows_List",
-  "title": "Workflows ",
+  "title": "Workflows: Introduction",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menus",
-  "title": "Menus ",
+  "title": "Menus: Introduction",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Home_Dashboard",
-  "title": "Home Dashboard ",
+  "title": "Home Dashboard",
   "description": "", 
   "author": ""
 }

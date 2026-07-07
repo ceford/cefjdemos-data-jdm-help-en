@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Search",
-  "title": "Search ",
+  "title": "Search",
   "description": "", 
   "author": ""
 }

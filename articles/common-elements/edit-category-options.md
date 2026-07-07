@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Edit_Category_Options",
-  "title": "Edit Category Options ",
+  "title": "Edit Category Options",
   "description": "", 
   "author": ""
 }

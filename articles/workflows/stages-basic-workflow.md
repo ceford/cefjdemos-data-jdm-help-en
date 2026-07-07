@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Stages_List:_Basic_Workflow",
-  "title": "Stages: Basic Workflow ",
+  "title": "Stages: Basic Workflow",
   "description": "", 
   "author": ""
 }

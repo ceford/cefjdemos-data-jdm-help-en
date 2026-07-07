@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Registration_Form",
-  "title": "Registration Form ",
+  "title": "Registration Form",
   "description": "", 
   "author": ""
 }

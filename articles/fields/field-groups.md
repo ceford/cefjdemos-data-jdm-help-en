@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Field_Groups",
-  "title": "Component: Field Groups ",
+  "title": "Component: Field Groups",
   "description": "", 
   "author": ""
 }

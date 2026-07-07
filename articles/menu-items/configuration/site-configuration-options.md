@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_Site_Configuration_Options",
-  "title": "Site Configuration Options ",
+  "title": "Site Configuration Options",
   "description": "", 
   "author": ""
 }

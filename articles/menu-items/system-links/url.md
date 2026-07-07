@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Menu_Item:_URL",
-  "title": "URL ",
+  "title": "URL",
   "description": "", 
   "author": ""
 }

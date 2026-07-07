@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Field_Groups:_Edit",
-  "title": "Component: Edit Field Group ",
+  "title": "Component: Edit Field Group",
   "description": "", 
   "author": ""
 }

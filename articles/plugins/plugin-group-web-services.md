@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Web_Services_Group",
-  "title": "Web Services Group ",
+  "title": "Web Services Group",
   "description": "", 
   "author": ""
 }

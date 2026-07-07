@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Admin_Modules:_Guided_Tours",
-  "title": "Modules: Guided Tours ",
+  "title": "Modules: Guided Tours",
   "description": "", 
   "author": ""
 }

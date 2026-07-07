@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Help_screens_styleguide",
-  "title": "Help Screens Styleguide ",
+  "title": "Help Screens Styleguide",
   "description": "", 
   "author": ""
 }

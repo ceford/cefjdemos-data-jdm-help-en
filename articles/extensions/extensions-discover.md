@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Extensions:_Discover",
-  "title": "Extensions: Discover ",
+  "title": "Extensions: Discover",
   "description": "", 
   "author": ""
 }

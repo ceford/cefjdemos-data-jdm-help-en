@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Contacts:_Edit",
-  "title": "Contacts: Edit ",
+  "title": "Contacts: Edit",
   "description": "", 
   "author": ""
 }

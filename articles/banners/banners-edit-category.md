@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Banners:_New_or_Edit_Category",
-  "title": "Banners: Edit Category ",
+  "title": "Banners: Edit Category",
   "description": "", 
   "author": ""
 }

@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Smart_Search:_Indexed_Content",
-  "title": "Smart Search: Indexed Content ",
+  "title": "Smart Search: Indexed Content",
   "description": "", 
   "author": ""
 }

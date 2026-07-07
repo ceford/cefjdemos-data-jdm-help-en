@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Edit_Permissions",
-  "title": "Edit Permissions ",
+  "title": "Edit Permissions",
   "description": "", 
   "author": ""
 }

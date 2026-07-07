@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Articles",
-  "title": "Articles ",
+  "title": "Articles: Introduction",
   "description": "", 
   "author": ""
 }

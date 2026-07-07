@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks:_Options",
-  "title": "Scheduled Tasks Configuration ",
+  "title": "Scheduled Tasks Configuration",
   "description": "", 
   "author": ""
 }

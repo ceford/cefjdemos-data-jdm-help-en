@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Custom",
-  "title": "Modules: Custom ",
+  "title": "Modules: Custom",
   "description": "", 
   "author": ""
 }

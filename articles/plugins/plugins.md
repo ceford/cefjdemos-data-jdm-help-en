@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Plugins",
-  "title": "Plugins ",
+  "title": "Plugins: Introduction",
   "description": "", 
   "author": ""
 }

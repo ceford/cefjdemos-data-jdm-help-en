@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Mass_Mail_Users",
-  "title": "Mass Mail Users ",
+  "title": "Mass Mail Users",
   "description": "", 
   "author": ""
 }

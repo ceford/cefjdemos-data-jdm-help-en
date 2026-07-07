@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Maintenance:_Global_Check-in",
-  "title": "Maintenance: Global Check-in ",
+  "title": "Maintenance: Global Check-in",
   "description": "", 
   "author": ""
 }

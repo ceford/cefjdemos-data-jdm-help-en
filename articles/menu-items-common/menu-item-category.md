@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Category",
-  "title": "Menu Item Category ",
+  "title": "Menu Item Category",
   "description": "", 
   "author": ""
 }

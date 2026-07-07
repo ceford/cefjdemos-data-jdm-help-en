@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Chunk4x:Extensions_Plugin_Manager_Edit_Quick_Icon_Group",
-  "title": "Quick Icon Group ",
+  "title": "Quick Icon Group",
   "description": "", 
   "author": ""
 }

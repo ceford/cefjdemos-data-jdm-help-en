@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Modules_Advanced_Tab",
-  "title": "Modules: Advanced Tab ",
+  "title": "Modules: Advanced Tab",
   "description": "", 
   "author": ""
 }

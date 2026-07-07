@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_List_Layouts",
-  "title": "Menu Item List Layouts ",
+  "title": "Menu Item List Layouts",
   "description": "", 
   "author": ""
 }

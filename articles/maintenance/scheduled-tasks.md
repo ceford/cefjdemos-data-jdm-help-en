@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help5.x:Scheduled_Tasks",
-  "title": "Scheduled Tasks ",
+  "title": "Scheduled Tasks",
   "description": "", 
   "author": ""
 }

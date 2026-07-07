@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Banners:_Options",
-  "title": "Banners: Options ",
+  "title": "Banners: Options",
   "description": "", 
   "author": ""
 }

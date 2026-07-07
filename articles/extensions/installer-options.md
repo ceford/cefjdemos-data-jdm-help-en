@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Installer:_Options",
-  "title": "Installer: Options ",
+  "title": "Installer: Options",
   "description": "", 
   "author": ""
 }

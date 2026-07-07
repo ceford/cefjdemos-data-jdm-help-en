@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Tags",
-  "title": "Tags ",
+  "title": "Tags: Introduction",
   "description": "", 
   "author": ""
 }

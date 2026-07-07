@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help6.x:Menu_Item_Page_Display",
-  "title": "Menu Item Page Display ",
+  "title": "Menu Item Page Display",
   "description": "", 
   "author": ""
 }

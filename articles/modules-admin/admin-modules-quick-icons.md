@@ -1,7 +1,7 @@
 <!--
 {
   "source": "https://docs.joomla.org/Help4.x:Admin_Modules:_Quick_Icons",
-  "title": "Modules: Quick Icons ",
+  "title": "Modules: Quick Icons",
   "description": "", 
   "author": ""
 }
