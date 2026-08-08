@@ -62,6 +62,8 @@ Some elements of this page are covered in separate Help articles:
   the popup menu list.  If no menu item is selected, users will stay on the 
   same page after logout. 
 - **Registration Page** Select or create a page for registration.
+- **Reset Password Link** Show or Hide the link to reset the password (new in 6.2).
+- **Forgot Username Link** Show or Hide the link to retrieve the username (new in 6.2).
 - **Greeting** Show or hide the simple greeting text.
 - **Name/Username** Displays name or username after login.
 - **Profile link** Show or hide a link to the profile of the User.
