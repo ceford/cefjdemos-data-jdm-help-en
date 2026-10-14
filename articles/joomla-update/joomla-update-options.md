@@ -69,3 +69,4 @@ Some aspects of this page are covered in separate Help articles:
 - **Send Email to User Groups** All users in the selected groups will receive emails about successful or failed Automated Updates. If no users are found, the emails are sent to all Super Users. Recipients must have the Receive System Emails option enabled.
 
 Please use the *Toggle Inline Help* button for more details.
+

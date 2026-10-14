@@ -48,3 +48,4 @@ To edit an existing Display Template Options menu item:
 ## Front End Screenshot
 
 ![Display template options front end form](../../../../en/images/menu-items/configuration/display-template-options/02-frontend.png)
+

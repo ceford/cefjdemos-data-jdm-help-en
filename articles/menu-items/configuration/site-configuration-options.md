@@ -50,3 +50,4 @@ Title in the *Menus: Items* list.
 ## Front End Screenshot
 
 ![Site configuration options front end form](../../../../en/images/menu-items/configuration/site-configuration-options/02-site-configuration-options-frontend.png)
+

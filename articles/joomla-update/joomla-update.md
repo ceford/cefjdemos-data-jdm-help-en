@@ -71,4 +71,3 @@ The Toolbar Options button allows you to select the type of update:
 - **Joomla Next** This is used for sites that normally move to the next major
   version as soon as a stable version is released.
 - **Custom URL** For Developers to select an update source.
-

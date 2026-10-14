@@ -96,7 +96,7 @@ Home Dashboard.
 Admin permissions. It allows display of images and links in articles using
 standardised layouts.
 
-![Articles edit images and links tab](../../../en/images/articles/articles-edit/02-images-tab.png)
+![Articles edit images and links tab](../../../en/images/articles/articles-edit/02-images-and-links-tab.png)
 
 #### Intro Image
 
@@ -240,7 +240,7 @@ will appear as a separate tab.
 **Note:** This can be hidden by a user with Admin permissions in the
 Article: Options.
 
-![Configure edit screen tab](../../../en/images/articles/articles-edit/05-editor-tab.png)
+![Configure edit screen tab](../../../en/images/articles/articles-edit/05-configure-edit-screen-tab.png)
 
 - **Publishing Options** If Hide, the Publishing Options tab
   will not show in the Backend. This means that Backend users will not

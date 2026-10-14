@@ -23,12 +23,7 @@ is set in the Editor - TinyMCE plugin.
 The toolbar set 2 provides one row of buttons as shown below. The set is
 default assigned to the Public user group.
 
-<img
-src="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/600px-Help-4x-editor-tinymce-simple-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/900px-Help-4x-editor-tinymce-simple-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-editor-tinymce-simple-en.png/1200px-Help-4x-editor-tinymce-simple-en.png 2x"
-data-file-width="1451" data-file-height="80" width="600" height="33"
-alt="tinymce simple preset toolbar" />
+![TinyMCE toolbar set 2](../../../en/images/editors/editors/01-set-2.png)
 
 - Buttons allow you to make text: bold, underlined, or strikethrough.
 - Undo and Re-do.
@@ -43,12 +38,7 @@ alt="tinymce simple preset toolbar" />
 The toolbar set 1 provides two rows of buttons as shown below. The set
 is default assigned to the Manager and Registered user group.
 
-<img
-src="https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-en.png/800px-Help-4x-editor-tinymce-advanced-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-en.png/1200px-Help-4x-editor-tinymce-advanced-en.png 1.5x, https://docs.joomla.org/images/thumb/0/07/Help-4x-editor-tinymce-advanced-en.png/1600px-Help-4x-editor-tinymce-advanced-en.png 2x"
-data-file-width="1977" data-file-height="236" width="800" height="95"
-alt="tinymce medium preset toolbar" />
+![TinyMCE toolbar set 1](../../../en/images/editors/editors/02-set-1.png)
 
 This option provides all of the same buttons as documented in the Set 2
 Toolbar above. In addition, the following options are available.
@@ -61,12 +51,7 @@ Toolbar above. In addition, the following options are available.
 Article: The example show how to easily create a link to any article on
 the current site.
 
-<img
-src="https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button-en.png/600px-Help-4x-article-quick-link-button-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button-en.png/900px-Help-4x-article-quick-link-button-en.png 1.5x, https://docs.joomla.org/images/thumb/5/52/Help-4x-article-quick-link-button-en.png/1200px-Help-4x-article-quick-link-button-en.png 2x"
-data-file-width="2304" data-file-height="1321" width="600" height="344"
-alt="article selection dialog" />
+![TinyMCE link selector modal](../../../en/images/editors/editors/03-link-button.png)
 
 To create a link to the desired article:
 
@@ -86,12 +71,7 @@ article. A pagebreak allows for page navigation when the article is
 displayed on a layout. This is useful for long articles. When this
 button is pressed, a window is displayed as shown below:
 
-<img
-src="https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-en.png/600px-Help-4x-editor-pagebreak-button-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-en.png/900px-Help-4x-editor-pagebreak-button-en.png 1.5x, https://docs.joomla.org/images/thumb/6/66/Help-4x-editor-pagebreak-button-en.png/1200px-Help-4x-editor-pagebreak-button-en.png 2x"
-data-file-width="1542" data-file-height="862" width="600" height="335"
-alt="pagebreak button" />
+![TinyMCE page break form](../../../en/images/editors/editors/04-pagebreak-button.png)
 
 - **Page Title**. Enter the title to display for the new page (for
   example, 'Page 2').
@@ -159,12 +139,7 @@ The toolbar set 0 provides the most extensive editing options, as shown
 below. The set is default assigned to the Administrator, Editor, and
 Super Users user group.
 
-<img
-src="https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-en.png/800px-Help-4x-editor-tinymce-extended-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-en.png/1200px-Help-4x-editor-tinymce-extended-en.png 1.5x, https://docs.joomla.org/images/thumb/6/6a/Help-4x-editor-tinymce-extended-en.png/1600px-Help-4x-editor-tinymce-extended-en.png 2x"
-data-file-width="1977" data-file-height="393" width="800" height="159"
-alt="tinymce advanced preset toolbar" />
+![TinyMCE data set 0](../../../en/images/editors/editors/05-set-0.png)
 
 This option provides all of the same buttons as documented in the Set 1
 Toolbar above. In addition, the following options are available.
@@ -241,12 +216,7 @@ The 'Editor - CodeMirror' is designed to make it easy to enter HTML code
 in an article or description. CodeMirror supports syntax highlighting
 and auto-completion, as shown in this screenshot.
 
-<img
-src="https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemirror-example-en.png/800px-Help-4x-screenshot-editor-codemirror-example-en.png"
-decoding="async"
-srcset="https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemirror-example-en.png/1200px-Help-4x-screenshot-editor-codemirror-example-en.png 1.5x, https://docs.joomla.org/images/thumb/f/fa/Help-4x-screenshot-editor-codemirror-example-en.png/1600px-Help-4x-screenshot-editor-codemirror-example-en.png 2x"
-data-file-width="1977" data-file-height="905" width="800" height="366"
-alt="codemirror example" />
+![codemirror edit form](../../../en/images/editors/editors/06-codemirror.png)
 
 - Buttons shown below the edit window provides for access to link to any
   item of the site.
